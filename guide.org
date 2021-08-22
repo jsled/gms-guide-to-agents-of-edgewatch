@@ -1,0 +1,856 @@
+* citation waiver
+** template
+Hi [FIXME]
+
+I'm working on a "Community Guide to GMing Agents of Edgewatch".
+
+tl;dr: I would like your permission to blockquote your [comment/s HERE].
+
+Please: will you license your comment identified above as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial]], or other such compatible terms that you identify?
+
+
+----------
+
+This guide would be a collection of resources for running Agents of Edgewatch.
+
+Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular comments such as the one I'm referencing above.
+
+I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+
+But I'd like to start securing agreements from people before we move too far away from the authorship of their comments.
+
+I expect that this document will be:
+
+- provided non-commercially.
+
+- Specifically, be licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0]]
+
+- sources hosted on github for derivations/contributions
+
+- for consumption, hosted on my own web site https://asynchronous.org/.
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Since the same folks tend to comment on the same threads, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+…jsled
+
+** [[https://www.reddit.com/message/messages/159gozw][u/Naurgul, 2021-08-22]]
+
+Hi u/Naurgul,
+
+I'm working on a "Community Guide to GMing Agents of Edgewatch".
+
+tl;dr: I would like your permission to blockquote the following comments:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3
+- https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3
+
+Specifically, please: will you license your comment/s identified above as Creative Commons, By-Attribution, Share-Alike, Non-Commercial, or other such compatible terms that you identify?
+
+This guide would be a collection of resources for running Agents of Edgewatch.
+
+Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular comments such as the one I'm referencing above.
+
+I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+
+But I'd like to start securing agreements from people before we move too far away from the authorship of their comments.
+
+I expect that this document will be:
+
+- provided non-commercially; specifically, be licensed as Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0.
+
+- the sources hosted on github for contributions and derivations
+
+- the "published" artifact hosted on my own web site https://asynchronous.org/.
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Since the same folks tend to comment on the same threads, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+Cheers…
+…jsled
+
+*** response
+
+[–]from Naurgul sent 34 minutes ago
+
+Yes, feel free to take all my content from Reddit and the paizo forums and quote it, paraphrase it, whatever. That's why I'm putting it on the internet after all, to help other people running the campaign.
+
+In return please include attribution with links to the originals and send me a link to the final result when you're done. I'd love to read it!
+* plan
+
+- OGL?
+- source-structure
+  - citations
+- production
+  - basic rendering pipeline
+- hosting
+- later
+  - presentation/style
+
+* resources
+** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][A: com/paizo/threads/AoE/book1]]
+** B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+*** summary
+
+- B1C1: kill the Pratchett foreshadowing; it's very heavy-handed and not necessary
+- the KMM encounter is super tough, you probably need to rebalance it
+- Agents/Police policy is sketchy
+  - [this is probably a top-level item for the guide]
+  - options
+- NPC: Vancaskerkin: foreshadowing, through-line, plot and disposition
+- Graveraker: foreshadowing
+
+- B2C1: open-world section is cool!  plot visualization
+- B2C2: (robbery would be better if improved)
+- B2C3: (disappointing to us)
+- B2C4: dungeon crawl is maybe too long for many groups
+
+- B3: favorite book
+- B3C1: gang war, flavorful NPCs, open structure, moral choices
+- B3C2: mechanics are great!
+- B3C3: mediocre as written, but a great toolbox for expanding it on your own
+
+- B4C1: very fun dungeon crawl
+- B4C2: hunting lodge is fun!
+  - lesser death is a tough enemy, take care
+- B4C3:
+  - harrowland and the harrow itself is not interesting to my group
+  - Vancaskerkin framing the party depends on:
+    - heavily on the Graveraker; foreshadow it more!
+    - the party liking Vancaskerkin
+
+- B5: agents without badges! good RP moments
+- B5C1: Black Whale, Miogimo, RP opportunities
+- B5C2: jailbreak, find evidence of Vancaskerkin
+- B5C3: Vancaskerkin clockwork dungeon
+- Consider ending the AP here.
+
+*** content
+Book 1- The Devil in the Dreaming Palace
+
+This very solid start to the AP. It has a mostly self-contained story and
+gives plenty of roleplay opportunities as a city guard, A good end villain
+to face against and some interesting encounters. Others in this sub have
+pointed out already three problematic parts in this book, but they are
+relatively minor in my opinion:
+
+- The chance encounter with the book villain in the very start is a bit too
+  obviously foreshadowing- seeing the owner of the dreaming palace in an
+  adventure named this way does not give much room to doubt. I found it not
+  really disrupting, as the players could make some disconnect, but for
+  another GM I would advise to just change the name of Pratchett's hotel.
+
+ - the deadly zoo encounter- which includes two different monsters with the
+   ability to petrify the party as well as a buffed rust monster, against
+   which the party has to pace without a real chance to take 10 minutes of
+   rest- is too much for most level 1 parties, including mine.
+
+I gave my players the option to just tie up the monsters with rope after a
+successful grapple check, and this gave a much easier win condition to the
+combats while still being hard enough considering they had to go all over
+the zoo with no rests.
+
+- The agents, as policemen, being able to confiscate property freely feels
+  weird in this part of the adventure, when they are mostly dealing with
+  ordinary citizens. My group didn’t really care that much, but it was a good
+  topic to raise in session zero and clear out our preferences on anyway. It's
+  very easy in any case to just give the characters a salary.In my experience,
+  later on in the AP, when the agents are dealing with criminals and cults, it
+  feels much more justified to use what they can take, or to give it back for
+  a bounty.
+
+I would like to add another issue to this part as someone who finished running
+the AP: The foreshadowing is a bit lacking in the following ways:
+
+- Reginald Vancaskerkin is described in the book as someone who is "oily,
+  nosy, and of questionable moral fiber", while the later books seem to think
+  he has become a fan and friend of the party, at least until he backstabs
+  them. I would advice playing him as someone who your players would like, and
+  not a walking red flag as my reading of the first book alone implied to me.
+
+- The Graveraker becomes an important plot point in the 4th and 6th books, Yet
+  after it disappears somewhere in the start of this book, no mention of it
+  exists in the AP for three whole books- at least not in a way major enough
+  to remind the players it exists. My group totally forgot about it by the
+  point the twists happened. I would advice all GMs running the AP to find
+  ways to bring the Graveraker up a few times. Also, no art of the Graveraker
+  exists in the AP at all. I would have really liked to see what it is like!
+
+
+Book 2: Sixty Feet Under
+
+This book is relatively straight-forward. The party follows a lead of trails
+that leads them to stop a bank robbery, a thieves guild, and eventually a
+serial killer.
+
+Chapter 1
+
+is a very strong point in this book- a less structured investigation sequence
+gave an almost "open world" feeling while playing, with the party able to
+choose the pace and theorize on where the robbery will take place. Running
+this section was a lot of fun for me!
+
+Chapter 2-
+
+The robbery itself is okey - The robber's plan is kinda silly and they are
+bound to fail, but it felt good having the party stop them and save the day
+anyway. I feel that a GM taking the time to improve this scene could make it
+into a much better moment than I had.
+
+Chapter 3
+
+felt a bit disappointing in my group, because there was an expectation that
+another investigative part would follow the format of chapter 1. But the
+infiltration into the copper hands hideout was still an enjoyable dungeon. Our
+unlucky elf rouge got a minor case of lycanthropy from this part though-
+nothing a visit to a temple could not fix, but this could have messed with
+some plans.
+
+Chapter 4
+
+as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour
+sessions to get through it. And even with plenty of side quests happening in
+there it was still a too long section of mostly combat in an otherwise more RP
+balanced adventure. I would advise any GM's who feel the combat becomes
+repetitive in their groups to shorten this part- there are enough simple
+encounters to cut out of it without losing anything important
+
+
+Book 3: All or nothing
+
+This is probably my favorite book in the AP! It was the best at not only
+giving varied scenarios to play in, but also providing GM tools to expand and
+enhance those parts to their liking.
+
+Chapter 1-
+
+which involves resolving a gang war in the docks has some very flavorful NPCs
+with interesting personalities, one of which (Maurrisa) Became a recurring NPC
+in my game. This part is also relatively free in its structure and contains
+some moral choices to make.
+
+Chapter 2-
+
+The casino heist is a very interesting chapter as well. Somehow the casino
+games given did not translate well into our VTT experience, But the inclusion
+of so many mechanics and tools to make the heist interesting is just great! I
+am sure many GM's can make good use of this part- even as inspiration for home
+games.
+
+Chapter 3-
+
+Gives the characters the task of dealing with a bomb threat in the middle of a
+gladiator tournament. The scenarios given in the AP itself are quite
+basic. But the tools provided, the various arena game mechanics and the flavor
+text-gave me plenty of inspiration to expand this part into a mini tournament
+arc- which was probably the highlight of the campaign! I highly recommend
+customizing this part to your group's liking.
+
+I have made another post in the past about a stat problem with the final boss
+of this chapter- it has a mistake with its AC that makes fighting him a
+breeze, so you might want to check it out before you run it.
+
+
+Book 4: Assault on Hunting Lodge Seven
+
+Chapter 1-
+
+After a quick starting dungeon, this chapter including my favorite dungeon
+experience of the AP. The blackfinger temple- with the convention in it's
+upper floor, the puzzles, the interesting monsters, and the reasonable length
+of it- was a very fun dungeon crawl!
+
+Chapter 2-
+
+In which the agents hole up in a haunted safe house to keep a watch over their
+prisoner, is another interesting chapter. It is divided into parts which feel
+tower-defense-like (protecting the house from assassins) and a small dungeon
+crawl in the basement. After cleansing the haunted house and defending it for
+so long, my players grew attached to the hunting lodge, so I gave them the
+deed to the house as a gift from the city as thanks for their service. The
+fact that the hunting lodge does not cointain any toilet in it became somewhat
+of a joke in our group, and the players announced they are building one in the
+house after they acquired it.
+
+Small note about the final boss of this chapter- The lesser death is a tough
+monster- with its disadvantage aura and high attacks, definitely has a
+potential to kill a PC. My players have managed to exploit its teleporting
+reaction to trap it inside the house vault (which I stated to be teleport
+proof). That was a very proud GM moment for me, and I rewarded their creative
+thinking with a homebrew item that the lesser death bargained for its freedom.
+
+Chapter 3-
+
+the investigation of harrowland was not interesting for my group. I think that
+we are all missing the excitement about all the harrow lore in there- so it
+felt like we were missing half the fun in there. Still, I imagine that for a
+group with more golarion lore background this could be a nice theme dungeon.
+
+The end of the book features the twist of Reginald framing the party. This did
+not land that well in my group for a couple of reasons:- The framing plot
+depends heavily on the Graveraker. About which most of my party forgot by the
+time they got to this point. Foreshadow it more!- Reginald was obviously evil
+from the first time they met him. So the reaction was more of "Oh finally he
+shows he is evil and we an go kick his ass" and not the seemingly intended
+shock.
+
+
+Book 5: Belly of the Black Whale
+
+This book has a nice change of pace from the previous ones- The agents have to
+work now outside the law, as their badges have been taken from them after they
+were framed. This gave the players many opportunities to test the moral
+compass of the characters, and how much are they willing to do outside the law
+to get their goals. Good RP stuff!
+
+Chapter 1
+
+deals with gaining enough favor with a crime lord to get the secrets on how to
+break out the Starborn from the Black Whale prison. Miogimo the crime lord is
+a good folly to the agents, showing how taking justice into their own hands
+can make them end up. Overall, the chapter gives plenty of roleplay moments to
+shine.
+
+Chapter 2
+
+is about the jailbreak from the black whale prison. The dungeon itself in
+there is decent, but I needed to put extra work in to make it feel more like a
+prison. Things like patrol routes, and more details about the day to day
+management of the prison are lacking the way they are presented in the
+adventure, I think this section could benefit from some clearer details.
+
+After the prison break, the chapter goes again into a bit of an investigation-
+where the agents need to find the evidence to clear their names and catch
+Vancaskerkin, in my group at least we mostly glossed through this part,
+because some details and npc's presented in the chapter were not working well
+with the way things occurred in my game. This still seems like a nice
+scenario.
+
+Chapter 3
+
+is the clockwork dungeon of Vancaskerkin. The dungeon itself is quite cool to
+run. There are different difficulty levels for many encounters, some cool
+monsters and a few secrets to discover. Reginald himself was a bit
+underwhelming (At least to the power level of my party), My solution was
+giving him 2 clockwork abilities at once, instead of just one, to up the
+danger- worked quite well for me!
+
+Another great thing about the showdown with Vancaskerkin is the alternative
+win condition against him- instead of killing the villain, the players have an
+option of resolving the conflict by exchanging his mind using a machine he has
+build. My party went for this option, and Regi-mouse became a cannon part of
+our Golarion.
+
+In my opinion, the fight against Reginald felt like it should have been the
+final one of the AP. He was behind all the troubles the agents faced so far,
+and by defeating him, clearing their names and redeeming Starborn in the eyes
+of the public, the agents can feel satisfied with their victory. I'll explain
+my reasons for this below- but to keep a strong thematic sense, I would advise
+to finish the campaign here- and avoid part 6. It is a perfectly
+self-contained ending by this point.
+
+
+Book 6: Ruins of the Radiant Siege.
+
+Sadly, this last part of the AP is also the weakest in it. It has many
+interesting ideas, but I'm afraid that as written, it feels off from the rest
+of the AP, and does not contribute much to the story other than continuing it
+to level 20.
+
+Firstly, the big villain is someone who was basically invisible to the
+players! Olansa shows up one time before this book, and this is just to shake
+the characters hands and go away. At least the AP makes her presence clear
+enough to the GM before this point, so some foreshadowing can be added- but
+this is work the GM cannot be aware of unless they kept reading ahead, in
+detail, and realize Olansa is not properly foreshadowed anywhere. It feels
+especially hollow facing Olansa after defeating Reginald- who was there
+plotting since the start of the game, and the characters have a really good
+reason to hate.
+
+This could be a minor thing should Olansa have been an interesting villain,
+but as she stands in the book, she has no motivations. Her backstory seemed
+shallow, it is unclear what, if anything, she would do should the characters
+fail to dethrone her- the book gives no clue for us. It is unclear what her
+motivation to take the throne is other than to get more power. This came off
+to me very one dimensional and boring.
+
+Thanks to a suggestion I saw in the Paizo forums, I altered her in my home
+game to have the plan to steal the whole city of Absalom into a demiplane,
+where she can rule it with an iron fist forever. But if you run it as is from
+the book, she is stated to do next to nothing but sit in her tower and wait to
+be defeated, other than maybe messing up some beurocracy in the city.
+
+Secondly- This part of the adventure is a major change in tone from the rest
+of the AP.This is even said on page 3 of the book, where the writer explains
+the agents are now too strong for criminals to be a problem for them. So they
+should retrain their social skills and get ready for some extraplanar monsters
+popping in their way. I feel it's a bad note to finish a campaign focused on
+using diplomacy to solve problems by throwing hordes of daemons and crazed
+proteans at the party, and would have much preferred the adventure to stick to
+the spirit of the previous books.
+
+The chapters themselves are basically 3 big dungeon crawls, with no goals
+other than to clear them out and get the relevant plot cupon. To the
+adventure's credit, the design of the dungeons is interesting, but as someone
+who likes shorter- more concise dungeons, They felt like they are dragging on
+too much, with plenty of filler fights and encounters over the xp
+budget. Filler fights are a common thing in any AP, but a book comprised of
+mostely filler fights is dull to run in my opinion.
+
+
+Chapter 1
+
+has a dungeon happening inside a giant mech. This is a very cool idea, and one
+that was foreshadowed before with the Graveraker (Though, not too well). The
+most disappointing thing to me about this part, is that we never got any
+detail's on how the Graveraker even looks, not to speak about any
+illustration. Without those, it was hard to make sense of the situation, it
+felt undefined in a disappointing way.
+
+This dungeon also features the crazed proteans- who are stated to attack the
+characters on sight, and no alternative means of defusing the situation are
+given to the players, not even some reasonable solution like promising to free
+them. I chose to allow such a solution to my players. But without it there was
+next to no content in this dungeon as most of the rooms are fights with said
+proteans.
+
+Another thing happening in this chapter is the introduction of Il’setsya
+Wyrmtouched, who appears out of nowhere to give the party their next quest
+location, and escorts the party as a GMPC from then on. I chose to leave her
+out of my game, and tie the plot advancement to other things .GMPC is an idea
+I dislike, and it felt cheap to me to make the plot development of a story
+nearing its end happen by a random character appearing out of thin air.
+
+I also think that actually using her as written- where she has some "triggers"
+later on In the book which cause her to act in a rash way and probably against
+the interest of the party, and also possibly steal the show in the final
+bossfight weather the party took her in or not- would be frustrating to deal
+with as a player. I'm sure some GMs can pull this off well, but I am not one
+of them.
+
+
+Chapter 2-
+
+In this chapter, the party needs to delve into another dungeon- the ruins of
+an ancient fort constructed by an evil archmage bent on conquering Absalom
+with an army of mind controlled angels- in order to find the item that will
+allow them to face the final boss.
+
+Before entering the dungeon, there is a section involving the use of the
+research mechanics. Where the party needs to balance spending more days
+getting prepared to the dungeon and gaining advantages in it with the risk of
+getting caught by the deamonic agents of Olansa.The way my game played out;
+the agents had too much stress on them to be able to research calmly for days
+as the adventure assumes- so we largely ignored this mechanic. But this is a
+cool concept.
+
+The dungeon itself is nice. Though for some weird reason, the majority of
+creatures and hazards in it have access to some variation of the prismatic
+spray spell. So the dark tone of the location, at least in my group, was hurt
+a bit by having rainbows assault the characters every fight.Also, there seems
+to be an issue with the room size in the map- for example a room meant to
+house 3 gargantuan creatures is physically too small to contain them.
+
+The boss of this chapter- a fallen planetar- has a problem in his stats. He
+possesses regeneration that can only be deactivated by evil damage, something
+which the lawful good party, Which the players guide instructs to make, will
+have no access to, meaning the PCs are unable to kill him in most conceivable
+groups. I decided to ignore this fact and just treat it as fast healing, not
+sure if there was a good reason to have it there in the first place.
+
+Chapter 3
+
+Dungeon number 3 in this book is an assault on the tower where the main
+villain is sitting and… going slowly insane, waiting to be killed. Really this
+calls for a change from the GM.For me, I upped the stakes by having Olansa
+launch a daemon attack on the citizens of the city- and the players have to
+stop her before she kills everyone.
+
+The cool part about this dungeon, is the boss rush nature of it. To get to the
+final boss, the agents combat against the reincarnations of the 3 bosses from
+earlier in the campaign. (There are also many filler fights in this chapter,
+which serve no purpose in my opinion- the players are level 20, they don’t
+need to grind anymore.)
+
+As written the boss rushs are cool fights, with enough to challenge the 20th
+level characters, the only thing I would change in there is to enlarge a bit
+the rooms they are found in, because they are too small for a dynamic fight to
+take place in them.
+
+The problem is, these fights are not going to run as written, unless your
+players specifically avoid it there is an easy way to steamroll this entire
+dungeon-The artifact the players gained in the end of chapter 2 allows them to
+indefinitely mind control all the daemons present in there. I let my players
+have some fun with the pokemon-esqe gameplay of capturing all the demons
+(actually demon capturing sounds more like SMT but I digress) , until I had to
+ask them by the end to not use the artifact they were given- or the game would
+not be fun.
+
+Olansa as a final boss is also quite unimpressive. Her ability to turn
+invisible even to see invisibility feels cheap, and the poison on her weapon-
+Teats of death- Is irrelevant to the combat because of its 1-minute onset
+time. Even with her artifact equipped she is just not a very interesting or
+challenging opponent as written. I heavily altered it for my session and would
+advise doing the same to any other GM to make sure the ending of the campaign
+is properly epic.
+
+That's all for my thoughts! Thank you for reading so far! And I hope some of
+my ramblings will be useful to GMs out there. Feel free to ask me anything in
+the comments!
+** [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][C cf. this big comment]]
+*** summary
+
+- Graveraker foreshadowing
+- Festival committee/grand council foreshadowing
+- Harlo Doleen emotional connection before betrayal/murder
+- Vancsakerkin connection/deception
+- Lavarsus NPC notes, arc
+- Irorium foreshadowing
+- Noxious Retort foreshadowing
+  - background by class
+  - timeline
+- House of Planes through-line
+- Lucky Nimbus casino
+- Radiant Festival
+  - broader scene-setting
+  - Beldrin's Tower, final confrontation
+- Black Whale
+- Starwatch foreshadowing/context
+*** content
+- The Graveraker will show up again in book 4. Show Bolera working on the
+  Graveraker case. In my game, she's slowly uncovering some clues like
+  mentioning that she thinks it was no coincidence that the zoo attack and the
+  Graveraker theft happened at the same time, interviewing the inventor and
+  making some vague references about a missing power source and the
+  involvement of the radiant festival committee
+  - No.  they'll have plenty of time with the Graveraker
+
+- Some members of the festival committee and the grand council will end up
+  playing major roles in the final books. So they should be introduced and
+  interacted with early. I had my PCs give a brief 5 minute presentation in
+  front of the radiant festival committee at the palace in Wise Quarter about
+  their discovery of a potential bank heist plot.
+  - why would the committee care about low-level police?
+
+- Harlo Doleen ends up getting murdered which is a major plot point and
+  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
+  slave and Harlo used to be his master. They have an awkward relationship now
+  after not seeing each other for more than 3 years.
+  - No.
+
+- Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
+  prominent, especially through his tabloid Eyes on Absalom. Don't forget to
+  tell the PCs about the frontpages of the paper (especially the ones that
+  they are featured on), invite them for interviews, make them trust him as a
+  partner they can go to ask for help. My players certainly have. For book 2
+  Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
+  his memoirs from prison to create a favourable impression to the public
+  before his upcoming trial.
+  - Yes. They already have a good reaction to Vancaskerkin, though making him
+    friendly/cooperative is probably a bridge too far.
+  - Can he come up throughout?
+    - Has he had the agents trailed out of the House of the Planes?
+    - He's another investigator! Of course he can be helpful.
+
+- Lavarsus ends up getting manipulated by the antagonists and arresting the
+  wrong person. Play up Lavarsus as full of pride and incompetent
+  - Takes credit for the agent's actions, for sure.
+  - Continues to insult them, of course.
+
+- The Irorium will be the setting of a big part of book 3. Make sure to
+  mention it a few times. I had Oggrum (one of the gladiators the PCs will
+  have to fight eventually) get a float in the radiant parade advertising his
+  exploits.
+  - Lucio probably knows of this.
+
+- The Noxious Retort is an annual alchemical conference taking place at the
+  Blackfingers temple. It will be showcased in book 4. Make sure your players
+  learn about it beforehand if they are into alchemy or if they try to learn
+  about Norgorber temples in the city.
+  - absolutely, for Jobi
+  - figure out Jobi's whole /deal/ w.r.t. Blackfingers
+
+- House of Planes will be revisited in one of the later books. So it should
+  probably be mentioned a few times. In book 2 I had my PCs track down one of
+  the smugglers there after a botched attempt to raid their base of
+  operations.
+  - Could come back up in Book 2 or 3, sure
+
+- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
+  exists. I had an elaborate float advertising it in the radiant parade.
+  - meh.
+
+- The story of how the radiant festival started gets explored in book 6. I had
+  a float featuring the half-angel in the parade
+  - meh.
+
+- The Harrow plays a role in book 4. You can introduce it earlier as a tarot
+  divination art kind of thing without too much fanfare. Or you can have
+  spooky card readings with your PCs.
+  - No.
+
+- Beldrin's tower in Precipice Quarter ends up being the place of the final
+  confrontation. It should at least be mentioned earlier, implant the idea of
+  visiting it for a tour while the festival is going on.
+  - No.
+
+- The Black Whale is a prison for important political prisoners that is
+  visited in book 5. Give it a brief mention maybe at some point when
+  appropriate.
+  - Noted.
+
+- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
+  where they'll get some offices of their own. Have them visit it early on if
+  they want or make sure they've heard it at least. Same goes for Fort
+  Tempest, make sure they've heard it exists.
+** [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][D r/Pathfinder2e "Catacombs are a death trap"]]
+** DONE E https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
+
+- E.a *** https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3
+  - u/larstr0n
+
+      - > My group dealt with this encounter pretty easily. The real trouble was
+    Ralso up on the second floor. If you’re concerned about Pratchett, there’s
+    a lot of room to run his ghost twins suboptimally and use them to ratchet
+    the tension up and down depending on what level of peril you’re looking
+    for.
+
+- E.b **** comment https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3
+  - > This combat made me think that either the people who made this system
+    really didn't understand the way poison interacts with death & dying
+
+  - > It's extremely dicey and pretty exemplary of the stuff I don't like
+    about Paizo's APs. The entire "difficulty" seems to be in high numbers and
+    a serious risk of a few bad rolls dooming a character or a party, despite
+    any of their best choices. I would seriously suggest any DM running this
+    consider putting Alchemical Antidotes or something of the sort somewhere
+    in the Inn, or I dunno, something. The fact that there's so little in this
+    system which actually does for certain, and only gives you more dice rolls
+    that you have to hope don't turn up against you, is sort of hamstringing
+    to the ability to mitigate this encounter.
+
+- E.c comment https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zvhy4/?utm_source=reddit&utm_medium=web2x&context=3
+  - > We were playing on the edge the whole battle with whole group wounded 1-3
+
+- E.d comment https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3
+  - > From my experience running him: Make sure he's spending actions to move around and using intimidate on the players. Essentially eat up his actions on thematic and interesting things that aren't attacks
+
+- E.e https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3
+  - > The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
+
+** DONE F https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+- comment https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3
+
+  > This is a general problem with this edition of pathfinder, if the PCs find
+  themselves in a situation even one level earlier than they are "supposed to"
+  any fight quickly turns into a possible TPK.
+- comment https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h53fc3u/?utm_source=reddit&utm_medium=web2x&context=3
+
+  > The pacing at the end is god awful. The party is supposed to gain their
+  fourth level as they get down to the basement, but when are they supposed to
+  rest to gain all the new benefits like spell slots and so on? They’re
+  investigating the murder mansion, finding all this evidence against
+  Pratchett, but then they go back mid-investigation to rest — and it’s
+  probably only around afternoon or so. So they can just leave and come back
+  in the morning? Wouldn’t the Edgewatch send help, considering the evidence?
+  But that would mess up the encounter balance. And what happens to the
+  half-orc if her escape plan was triggered? She’s just going to stay there
+  for, what, 12-14 hours, too afraid to confront the spirit?
+
+  > It’s a mess. One of the failings of the AP model that requires a certain
+  number of encounters in a single book. The hotel should be half the size to
+  avoid this issue, and there should not be a level up shortly before the
+  climax.
+** DONE G https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
+** u/Naurgul posts
+
+By the way, here's a few more posts of mine you might want to consider for your guide:
+
+From reddit:
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/][/r/Pathfinder2e/comments/ocdrxm/]]
+- [[https://www.reddit.com/r/Pathfinder2e/comments/o0y78z/][/r/Pathfinder2e/comments/o0y78z/]]
+- [[https://www.reddit.com/r/Pathfinder2e/comments/ngocjr/][/r/Pathfinder2e/comments/ngocjr/]]
+- [[https://www.reddit.com/r/Pathfinder2e/comments/lj6pc4/][/r/Pathfinder2e/comments/lj6pc4/]]
+
+From the Paizo forums:
+
+- [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389][Missing persons investigation]]
+- [[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Bank heist investigation]]
+- [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Pratchett chase]]
+- [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]
+- [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
+
+* ToC
+- Meta
+  - Spoiler Warning
+  - "So you've been sent here because we want to cite your comment…"
+- Overview
+- Overall Plot, Arcs, NPCs, &c.
+  - Police Factions
+    - Godless Graycloaks : explicitly and strictly atheist
+- Plot Map?
+- Enemy Makeup and Composition; Party Influence
+  - undead
+  - fey
+- Non-Player Characters
+  - Lavarsus: asshole
+  - Vancaskerkin: the party's best friend to heighten the betrayal
+- Timeline(s)
+  - Official
+  - Unofficial
+    - Disappearances
+- Unofficial Errata
+- Resources
+  - Expanded Collateral
+    - Ralso's Journal
+    - Copper Hand Note to Ralso
+    - Starborn's Note
+  - Maps
+    - u/narchy
+  - Art
+* Plot Notes
+** General/Meta
+*** "It's-a spicy meatball!"?
+
+Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine". [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
+
+*** Encounter Rebalancing
+In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
+
+- the PF2 math is too tight for even-stronger enemies
+- too hard to land hits, too high chances of crits (both directions)
+
+Thoughout this guide, we'll give notes on how others re-balanced.
+
+** B1: "The Devil in the Dreaming Palace"
+*** Title … spoilers, Paizo!
+
+Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
+
+Since you can't change the book name, there are a couple of options:
+
+1/ Rename the Dreaming Palace.  It's just a hotel, and the name is not particularly important; feel free to change it.
+
+2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely.
+
+I'd recommend the latter.
+
+The encounter serves two purposes:
+
+- Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
+
+- Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
+*** C1: "The Mean Streets of Absalom"
+**** "Guards Guards"
+**** "Panic at the Zoo" / Knight's Marvelous Menagerie
+*** C2: "Missing Persons" / The Dragonfly Pagoda
+*** C3: "Into the Undercity"
+**** The Back Door
+
+- [FIXME] Grolna relevance?
+- Treasure
+  - +1 rune
+
+**** The House of the Planes
+
+This section is intended to provide leads to Ralso and Pratchett, and to tie the missing stone masons to Ralso.
+
+As written, it is extremely heavy-handed. Literally every NPC knows something absurdly on-point about Pratchett.
+
+In terms of priority, the following things "must" happen here:
+
+- The party should meet Reginald Vancaskerkin, and ideally they should /like/ him.
+
+- The party should find out that Ralso fenced some Minkainan stone mason tools, and she works at the Dreaming Palace.
+
+- [Read The Alexandrian and invent two more clues, in case they don't find that one.]
+
+Everything else is gravy.
+
+- While Hoff will come back up later in the AP (Book 4), Hoff is not a plot-critical character.
+
+- Book 4 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
+
+*** C4: "The Murder Hotel"
+**** Content Warning
+
+This dungeon is no joke, either difficulty-wise or especially thematically.
+
+You should make sure your Players are comfortable with the content here. *It's more important to make sure of that than to prevent spoiling things.*
+
+Some people are going to have serious problems with – for example – mutated, deformed fetuses kept alive in jars! Some people might have real-life bad experiences with being spied on via peep holes.
+
+It's okay if they do, and it's your job to only challenge them as much as they are comfortable being challenged.
+
+Be kind.
+
+**** The Dreaming Palace
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/][There are some concerns with the pacing/leveling in the Dreaming Palace]], and [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some good advice on particular aspects of that]].
+
+- (FIXME) You should have plans for what you will do if the party is split because 1 or 2 of them fall through one of the traps into the basement.
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/][At least two groups have independently tamed the mimic into becoming a party "pet" or acquaintance. :)]]
+
+**** Hendrid Pratchett encounter
+
+Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with limited below-full health and limited resources remaining (specifically spells).
+
+(E.d) On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
+
+> From my experience running him: Make sure he's spending actions to move
+  around and using intimidate on the players. Essentially eat up his actions
+  on thematic and interesting things that aren't attacks. Especially if they
+  end up harassing the players or making the characters angry at him. He
+  shouldn't be taking the party seriously, and should be trying to taunt them
+  at least in the start of the fight.
+
+
+This goes both ways, too. As in PF2 generally, the party using actions to force /enemies/ to spend actions is of good utility.
+
+(E.e) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
+
+> The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
+
+----------
+
+The Binumir are also a challenge.
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3][As u/narchy notes]]:
+> The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
+
+(E.{tbd}) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
+> The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
+
+(E.{tbd}) And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
+
+> If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
+
+
+Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
+
+> This combat made me think that either the people who made this system really
+  didn't understand the way poison interacts with death & dying, or that I am
+  missing something about it. Because like, going to the ground with
+  persistent damage, that's death. And we certainly had three of our six party
+  members at high levels of Wounded.
+
+> It's extremely dicey and pretty exemplary of the stuff I don't like about
+  Paizo's APs. The entire "difficulty" seems to be in high numbers and a
+  serious risk of a few bad rolls dooming a character or a party, despite any
+  of their best choices. I would seriously suggest any DM running this
+  consider putting Alchemical Antidotes or something of the sort somewhere in
+  the Inn, or I dunno, something.
+
+
+[Rebalancing]
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
+
+> I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
