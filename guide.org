@@ -608,7 +608,7 @@ the comments!
   where they'll get some offices of their own. Have them visit it early on if
   they want or make sure they've heard it at least. Same goes for Fort
   Tempest, make sure they've heard it exists.
-** [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][D r/Pathfinder2e "Catacombs are a death trap"]]
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][D r/Pathfinder2e "Catacombs are a death trap"]]
 ** DONE E https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
 
 - E.a *** https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3
@@ -718,7 +718,11 @@ From the Paizo forums:
 ** General/Meta
 *** "It's-a spicy meatball!"?
 
-Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine". [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
+Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
+
+- The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
 *** Encounter Rebalancing
 In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
@@ -852,5 +856,37 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
 [Rebalancing]
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
+:uncleared:
 
 > I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
+
+** B2: "Sixty Feet Under"
+*** C4: "Descent into Death"
+**** The Catacombs
+
+Tyrrociese is a particular problem.
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59zt3p/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n]] strongly advises...
+:uncleared:
+> I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h5aswqa/?utm_source=reddit&utm_medium=web2x&context=3][u/valahan23]] has a number of recommendations...
+:uncleared:
+
+> I'm currently running AoE and we finished up the catacombs about a month ago. Overall, I'm not a fan of Book 2. I Think the author is the type who loves theory crafting monsters without really thinking about balance. I first noticed this with the copper hand illusionists in chapter 3 that are supposedly level 5, but are a full wizard/rogue. Their spell DC was higher than the party's optimized level 6 wizard. I'd be fine with that if they weren't also a full blown rogue.
+
+> I ended up making some changes to to the eldritch ooze TYRROICESE cause I personally think that monster was just poorly designed. This is pretty much entirely was because the ooze template was used without really looking at how oozes work.
+
+> - Not all oozes are immune to slashing/piercing (gelatinous cube), but those that are also have the split trait, basically cutting them in half with the HP split between the two. The benefit to splitting them is that you can then have your caster nuke them with AoE. The eldritch ooze got the benefit of immunities without being able to be split. (So I got rid of these immunities on the eldritch ooze)
+
+> - Oozes are usually immune to critical hits/precision damage because they are just a blob of ooze so they don't have specific spots to hit for more damage. The eldritch ooze is a large suit of armor basically being piloted by an ooze. (I removed it's immunity to precision damage with the reasoning that the rogue and investigator would be able to find weak points in the armor to attack)
+
+> - Lastly I made his pseudopod burst follow the standard MAP rule. As letting a solo encounter have 3 attacks at +23 when the party's AC is in the high 20s was just insane to me. His chance to crit was way above 50% with an average crit doing around 46 damage.
+
+> Even with these adjustments it was a super close fight with most of the party unconscious and the remaining members sitting around 10-20 HP when they defeated it.
+
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3][u/DocTam suggests pushing holy water to help with the crawl]]:
+:uncleared:
+> I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
+
