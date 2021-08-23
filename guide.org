@@ -807,6 +807,7 @@ Be kind.
 Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with limited below-full health and limited resources remaining (specifically spells).
 
 (E.d) On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
+:uncleared:
 
 > From my experience running him: Make sure he's spending actions to move
   around and using intimidate on the players. Essentially eat up his actions
@@ -819,6 +820,7 @@ Experiences with this encounter vary, but it is a Severe 4 encounter, and based 
 This goes both ways, too. As in PF2 generally, the party using actions to force /enemies/ to spend actions is of good utility.
 
 (E.e) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
+:uncleared:
 
 > The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
 
@@ -827,17 +829,21 @@ This goes both ways, too. As in PF2 generally, the party using actions to force 
 The Binumir are also a challenge.
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3][As u/narchy notes]]:
+:uncleared:
 > The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
 
 (E.{tbd}) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
+:cleared:
 > The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
 
 (E.{tbd}) And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
+:uncleared:
 
 > If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
 
 
 Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
+:uncleared:
 
 > This combat made me think that either the people who made this system really
   didn't understand the way poison interacts with death & dying, or that I am
