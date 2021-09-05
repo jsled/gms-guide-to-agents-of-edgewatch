@@ -1,5 +1,4 @@
 * ToC
-
 - Meta
   - Spoiler Warning
   - "So you've been sent here because we want to cite your comment…"
@@ -102,7 +101,6 @@ The Graveraker does not come up again, until Book X, but is an important plot po
   be dedicated to tracking down an established and well-known exhibit of the
   Festival, leaving our teams of rookie misfits to investigate a batch of
   people who may or may not actually be missing.
-
 
 *** C2: "Missing Persons" / The Dragonfly Pagoda
 *** C3: "Into the Undercity"
@@ -229,7 +227,6 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
 > - Pratchett throws down the shelves with the jars in E31 (Athletics to throw them out of the way, Acrobatics to squeeze through the gaps, maybe some spell)
 > - leftover monsters attack (acrobatics to tumble through, Athletics to shove away, recall knowledge or deception to distract them)
 
-
 ** B2: "Sixty Feet Under"
 *** C1:
 **** FIXME
@@ -240,7 +237,6 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
     - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
     - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
 
-    
 *** C4: "Descent into Death"
 **** The Catacombs
 
@@ -308,8 +304,6 @@ Instead of being given all the leads they are at the beginning of this book, the
     * Ask the other district watches if they've heard of the Copper Hand: That should yield an answer from the Stilt House. This is similar to the original story, except after they get the ledger at the smugglers' lair, they will not learn the exact location of the heist... but I'm not sure exactly what they should learn, probably something about what kind of supplies the thieves have purchased from the smugglers, e.g. sails and caltrops and stuff.
 
 The final clue is the new PC joining the ranks
-
-
 
 * resources
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
