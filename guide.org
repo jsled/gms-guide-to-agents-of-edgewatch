@@ -69,7 +69,7 @@ Just the name of this book is a spoiler combined with the fact that the Party me
 
 Since you can't change the book name, there are a couple of options:
 
-1/ Rename the Dreaming Palace.  It's just a hotel, and the name is not particularly important; feel free to change it.
+1/ Rename the Dreaming Palace. The name is not particularly important … feel free to change it.
 
 2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely.
 
@@ -89,12 +89,19 @@ The AP makes a point of the Graveraker going missing at this point.
 
 It is extremely easy for a/ you to miss this point here in the text and b/ for it to be lost on the Party. It's another piece of foreshadowing that can get a bit lost.
 
-The Graveraker does not come up again, until Book X, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
+The Graveraker does not come up again, until Book FIXME, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
 
 [FIXME: who, cite A or B] emphasizes making more of a point of it.
 
+@author{paizo-GreatGraySkwid}
+@misc{paizo-rzs4349b--447,
+  author = paizo-GreatGraySkwid,
+  url = {https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#447},
+  date = {2021-05-12T12:16Z},
+  cleared = false
+}
+
 [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#447][GreatGraySkwid has some good perspective about the Gravewalker going missing, here...]]
-:uncleared:
 
 > The whole point of Graveraker's disappearance happening off camera is so
   that the actually qualified Agents of Edgewatch (i.e., not "our" party) can
@@ -114,7 +121,7 @@ The Graveraker does not come up again, until Book X, but is an important plot po
 
 This section is intended to provide leads to Ralso and Pratchett, and to tie the missing stone masons to Ralso.
 
-As written, it is extremely heavy-handed. Literally every NPC knows something absurdly on-point about Pratchett.
+As written, it is extremely heavy-handed. Literally every NPC knows something absurdly relevant about Pratchett or Ralso.
 
 In terms of priority, the following things "must" happen here:
 
@@ -137,7 +144,7 @@ This dungeon is no joke, either difficulty-wise or especially thematically.
 
 You should make sure your Players are comfortable with the content here. *It's more important to make sure of that than to prevent spoiling things.*
 
-Some people are going to have serious problems with – for example – mutated, deformed fetuses kept alive in jars! Some people might have real-life bad experiences with being spied on via peep holes.
+Some people are going to have serious problems with – for example – mutated, deformed fetuses kept alive in jars! Some people might have real-life bad experiences with voeyurism!
 
 It's okay if they do, and it's your job to only challenge them as much as they are comfortable being challenged.
 
@@ -153,10 +160,18 @@ Be kind.
 
 **** Hendrid Pratchett encounter
 
-Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with limited below-full health and limited resources remaining (specifically spells).
+Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with below-full health and limited resources (consumables, spells) remaining.
 
-(E.d) On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
-:uncleared:
+@author{reddit-u-SanityIsOptional}
+@misc{reddit-otxspj-h70146j,
+  author = reddit-u-SanityIsOptional,
+  title = {Final fight of the first book of "Agents of Edgewatch"},
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-29T16:35Z},
+  cleared = false
+}
+
+On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
 
 > From my experience running him: Make sure he's spending actions to move
   around and using intimidate on the players. Essentially eat up his actions
@@ -166,10 +181,16 @@ Experiences with this encounter vary, but it is a Severe 4 encounter, and based 
   at least in the start of the fight.
 
 
-This goes both ways, too. As in PF2 generally, the party using actions to force /enemies/ to spend actions is of good utility.
+This goes both ways, too. As in PF2 generally: the party using actions to force /enemies/ to spend actions is of good utility.
 
-(E.e) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
-:uncleared:
+@author{reddit-u-mads838}
+@misc{reddit-otxspj-h71hhre,
+  author = reddit-u-mads838,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-29T15:23Z},
+  cleared = true
+}
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
 
 > The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
 
@@ -177,22 +198,46 @@ This goes both ways, too. As in PF2 generally, the party using actions to force 
 
 The Binumir are also a challenge.
 
+@author{reddit-u-narchy}
+@misc{reddit-otxspj-h7jg3rc,
+  author = reddit-u-narchy,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-08-03T11:11Z},
+  cleared = false
+}
+
 [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3][As u/narchy notes]]:
-:uncleared:
 > The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
 
-(E.{tbd}) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
-:cleared:
+@author{reddit-u-Naurgul}
+@misc{reddit-otxspj-h6yiyr8,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-29T14:19Z},
+  cleared = true
+}
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
+
 > The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
 
-(E.{tbd}) And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
-:uncleared:
+# raw:
+And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
+# experimental:
+And [[http:cite:reddit-larstr0n-otxspj-h6ygq77.url][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
 
-> If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
+    > If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
 
+— cite:reddit-larstr0n-otxspj-h6ygq77
+
+@author{reddit-u-Unconfidence}
+@misc{reddit-otxspj-h6zoyve,
+  author = reddit-u-Unconfidence,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = "2021-07-29T19:11Z",
+  cleared = false
+}
 
 Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
-:uncleared:
 
 > This combat made me think that either the people who made this system really
   didn't understand the way poison interacts with death & dying, or that I am
@@ -208,17 +253,32 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
   the Inn, or I dunno, something.
 
 
-[Rebalancing]
+[On Rebalancing]
+
+
+@author{reddit-u-SighJayAtWork}
+@misc{reddit-otxspj-h6z514n,
+  author = reddit-u-SighJayAtWork,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3}
+  date = {2021-07-29T16:55Z}
+  cleared = false
+}
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
-:uncleared:
 
 > I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
 
 **** Pratchett Chase
 
+@author{paizo-Naurgul}
+@misc{paizo-rzs4349b--441,
+  author = paizo-Naurgul,
+  url = {https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441},
+  date = {2021-05-01T17:23:13Z},
+  cleared = true
+}
+
 [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Naurgul]] has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem...
-:cleared:
 
 > Here's some potential obstacles for this chase scene along with some example checks that the characters could use to bypass them:
 
@@ -243,11 +303,17 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
 Tyrrociese is a particular problem.
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59zt3p/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n]] strongly advises...
-:cleared:
 > I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
 
+@author{reddit-u-valahan23}
+@misc{reddit-oknoo0-h5aswqa,
+  author = reddit-u-valahan23,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h5aswqa/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-15T15:43:17Z}
+  cleared = true
+}
+
 [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h5aswqa/?utm_source=reddit&utm_medium=web2x&context=3][u/valahan23]] has a number of recommendations...
-:uncleared:
 
 > I'm currently running AoE and we finished up the catacombs about a month ago. Overall, I'm not a fan of Book 2. I Think the author is the type who loves theory crafting monsters without really thinking about balance. I first noticed this with the copper hand illusionists in chapter 3 that are supposedly level 5, but are a full wizard/rogue. Their spell DC was higher than the party's optimized level 6 wizard. I'd be fine with that if they weren't also a full blown rogue.
 
@@ -262,37 +328,43 @@ Tyrrociese is a particular problem.
 > Even with these adjustments it was a super close fight with most of the party unconscious and the remaining members sitting around 10-20 HP when they defeated it.
 
 
+@author{reddit-u-doctam}
+@misc{reddit-oknoo0-h59vm90,
+  author = reddit-u-doctam,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-15T13:42:22Z}
+  cleared = false
+}
+
 [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3][u/DocTam suggests pushing holy water to help with the crawl]]:
-:uncleared:
 > I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
+
+
+@author{paizo-Deriven_Firelion}
+@misc{
+  FIXME
+}
 
 [[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Deriven Firelion says]]:
 :uncleared:
 > That elite ofalth was brutal. My players ran into it at lvl 7. I decided to reduce it to a regular Ofalth. It was still brutal.
 
-
 ***** TO FILE
 ****** "I noticed something weird about the Seamers"
-
 https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
 ****** do you feel like there's XP missing from B2C3?
-
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#54
 ****** war razors are constantly "typoed" as piercing
-
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#59
-******  how to GM the Dullahan's mount?
-
+****** how to GM the Dullahan's mount?
 https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
 - as a mount?
 - as a summon?
 - as a creature?
 ****** Naurgul's game took a different turn
-:cleared:
+
+2021-05-23T23:36:05Z
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
-
-
-
 
 Instead of being given all the leads they are at the beginning of this book, they instead only learn from Ralso that there's a group of thieves called the Copper Hand who are definitely planning to rob a bank using the radiant parade as a cover. From there I'm expecting the players come up with the following lines of investigation more or less on their own:
 
@@ -840,10 +912,11 @@ the comments!
       url = "https://www.reddit.com/user/larstr0n",
       additional = "GM, <a href=\"https://www.tabletopgold.com/\">Tabletop Gold podcast</a>"
     }
-    @misc{larstr0n-otxspj-h6ygq77,
+    @misc{reddit-larstr0n-otxspj-h6ygq77,
       author = "u/larstr0n", # reddit-u-larstr0n
       url = "https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3",
-      date = "2021-07-29 14:02",
+      date = "2021-07-29T14:02Z",
+      cleared = true
     )
 
 - E.b **** comment https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3
@@ -920,11 +993,19 @@ From the Paizo forums:
   - "heavy loan to resurrect the two fallen"
   - I feel the foes in this campaign are a bit too strong, and after revisiting the amount of treasure they have received this far, they are severely underequipped.
 
+
+@author{paizo-narchy}
+@misc{paizo.com/threads/rzs43ftq--2,
+  author = paizo-narchy,
+  url={https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned#2},
+  date =  {2021-08-06T14:12Z}
+  cleared = false
+}
 - narchy:
   - "I've spent the whole game ramping up treasure throughout. There's not enough that party consider legitimately theirs to take. They don't loot the bosses, the henchmen or general locations they go to because it makes them uncomfortable."
   - the AP IS hard if they aren't working together.
 
-- pauljathome 
+- pauljathome
   - Paizo seems to LIKE overtuning things in 2nd edition
 
 
