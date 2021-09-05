@@ -261,7 +261,7 @@ Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/fin
   author = reddit-u-SighJayAtWork,
   url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3}
   date = {2021-07-29T16:55Z}
-  cleared = false
+  cleared = true
 }
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
