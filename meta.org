@@ -172,7 +172,7 @@ Please let me know if you have any questions, of course.
 
 Cheers…
 …jsled
-** PROG [[https://www.reddit.com/message/messages/15mpsa6][u/DragoldC42, 2021-09-05]]
+** DONE [[https://www.reddit.com/message/messages/15mpsa6][u/DragoldC42, 2021-09-05]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
 Hi u/DragoldC42 :)

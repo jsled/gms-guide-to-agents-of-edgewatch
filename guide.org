@@ -380,7 +380,16 @@ The final clue is the new PC joining the ranks
 * resources
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
 ** TODO B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
-*** TODO rights: reached out to u/DragoldC42, 2021-09-05
+*** DONE rights: reached out to u/DragoldC42, 2021-09-05
+*** bibtex
+
+@author{reddit-u-DragoldC42}
+@misc(reddit-n39df5,
+  author = reddit-u-DragoldC42,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/},
+  date = {2021-05-02T16:58:51Z},
+  cleared = true
+}
 *** summary
 
 - B1C1: kill the Pratchett foreshadowing; it's very heavy-handed and not necessary
