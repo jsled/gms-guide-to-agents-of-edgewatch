@@ -234,7 +234,7 @@ And [[http:cite:reddit-larstr0n-otxspj-h6ygq77.url][u/larstr0n recommends using 
   author = reddit-u-Unconfidence,
   url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3},
   date = "2021-07-29T19:11Z",
-  cleared = false
+  cleared = true
 }
 
 Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:

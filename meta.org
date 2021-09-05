@@ -256,7 +256,9 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 
-** PROG [[https://www.reddit.com/message/messages/15ms9h3][u/Unconfidence, 2021-09-05]]
+** DONE [[https://www.reddit.com/message/messages/15ms9h3][u/Unconfidence, 2021-09-05]]
+
+*** message
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
 Hi u/Unconfidence :)
@@ -300,6 +302,9 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 
+*** response
+> Any comments I make on reddit can be considered creative commons for any use you see fit, all I ask is for username attribution for the sake of historical integrity. Go ham with anything I've ever posted. Good luck on your venture.
+— https://www.reddit.com/message/messages/15mx5bj
 ** DONE [[https://www.reddit.com/message/messages/15msl4k][u/mads838, 2021-09-05]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
