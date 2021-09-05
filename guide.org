@@ -1,100 +1,320 @@
-* citation waiver
-** template
-Hi [FIXME]
+* ToC
 
-I'm working on a "Community Guide to GMing Agents of Edgewatch".
+- Meta
+  - Spoiler Warning
+  - "So you've been sent here because we want to cite your comment…"
+  - Play Time?
+    - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#14
+      - > Just wondering - how much play time did you take to go through book 1? I'm working through this with my group right now, and I'm trying to get a sense of what to expect. I'm new to Pathfinder, so I don't have a great frame of reference.
+- Systems, Rules
+  - Policing
+  - Requisitioning and Civil Asset Forfeiture
+  - Non-Lethal Damage
+- Geography of the Precipice Quarter
+  - Precipice Quarter /
+  - Edgewatch Station
+    - "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
+      My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
+      - https://paizo.com/threads/rzs434ha?Community-Created-Content#3
+- Overall Plot, Arcs, NPCs, &c.
+  - Police Factions
+    - Godless Graycloaks : explicitly and strictly atheist
+- Plot Map?
+- Enemy Makeup and Composition
+  - table
+    | *Creature* | *Type* | *Book 123456* | *human* | *undead* | *fey* | ... |
+- Party Composition
+  - Alchemist
+    - Norgorber, Blackfingers
+    - Noxious Retort - Book 4
+  - Champion
+    - Undead?
+- Non-Player Characters
+  - Lavarsus: asshole
+  - Vancaskerkin: the party's best friend (to heighten the betrayal)
+- Timeline(s)
+  - Official
+  - Unofficial
+    - Disappearances
+- Unofficial Errata
+- Resources
+  - Expanded Collateral
+    - Ralso's Journal
+    - Copper Hand Note to Ralso
+    - Starborn's Note
+  - Maps
+    - u/narchy
+  - Art
+* Plot Notes
+** General/Meta
+*** "It's-a spicy meatball!"?
 
-tl;dr: I would like your permission to blockquote your [comment/s HERE].
+Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
 
-Please: will you license your comment identified above as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial]], or other such compatible terms that you identify?
+- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
 
+- The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
+
+*** Encounter Rebalancing
+In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
+
+- the PF2 math is too tight for even-stronger enemies
+- too hard to land hits, too high chances of crits (both directions)
+
+Thoughout this guide, we'll give notes on how others re-balanced.
+
+** B1: "The Devil in the Dreaming Palace"
+*** Title … spoilers, Paizo!
+
+Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
+
+Since you can't change the book name, there are a couple of options:
+
+1/ Rename the Dreaming Palace.  It's just a hotel, and the name is not particularly important; feel free to change it.
+
+2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely.
+
+I'd recommend the latter.
+
+The encounter serves two purposes:
+
+- Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
+
+- Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
+*** C1: "The Mean Streets of Absalom"
+**** "Guards Guards"
+**** "Panic at the Zoo" / Knight's Marvelous Menagerie
+**** Graveraker goes missing
+
+The AP makes a point of the Graveraker going missing at this point.
+
+It is extremely easy for a/ you to miss this point here in the text and b/ for it to be lost on the Party. It's another piece of foreshadowing that can get a bit lost.
+
+The Graveraker does not come up again, until Book X, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
+
+[FIXME: who, cite A or B] emphasizes making more of a point of it.
+
+[[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#447][GreatGraySkwid has some good perspective about the Gravewalker going missing, here...]]
+:uncleared:
+
+> The whole point of Graveraker's disappearance happening off camera is so
+  that the actually qualified Agents of Edgewatch (i.e., not "our" party) can
+  be dedicated to tracking down an established and well-known exhibit of the
+  Festival, leaving our teams of rookie misfits to investigate a batch of
+  people who may or may not actually be missing.
+
+
+*** C2: "Missing Persons" / The Dragonfly Pagoda
+*** C3: "Into the Undercity"
+**** The Back Door
+
+- [FIXME] Grolna relevance?
+- Treasure
+  - +1 rune
+
+**** The House of the Planes
+
+This section is intended to provide leads to Ralso and Pratchett, and to tie the missing stone masons to Ralso.
+
+As written, it is extremely heavy-handed. Literally every NPC knows something absurdly on-point about Pratchett.
+
+In terms of priority, the following things "must" happen here:
+
+- The party should meet Reginald Vancaskerkin, and ideally they should /like/ him.
+
+- The party should find out that Ralso fenced some Minkainan stone mason tools, and she works at the Dreaming Palace.
+
+- [Read The Alexandrian and invent two more clues, in case they don't find that one.]
+
+Everything else is gravy.
+
+- While Hoff will come back up later in the AP (Book 4), Hoff is not a plot-critical character.
+
+- Book 4 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
+
+*** C4: "The Murder Hotel"
+**** Content Warning
+
+This dungeon is no joke, either difficulty-wise or especially thematically.
+
+You should make sure your Players are comfortable with the content here. *It's more important to make sure of that than to prevent spoiling things.*
+
+Some people are going to have serious problems with – for example – mutated, deformed fetuses kept alive in jars! Some people might have real-life bad experiences with being spied on via peep holes.
+
+It's okay if they do, and it's your job to only challenge them as much as they are comfortable being challenged.
+
+Be kind.
+
+**** The Dreaming Palace
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/][There are some concerns with the pacing/leveling in the Dreaming Palace]], and [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some good advice on particular aspects of that]].
+
+- (FIXME) You should have plans for what you will do if the party is split because 1 or 2 of them fall through one of the traps into the basement.
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/][At least two groups have independently tamed the mimic into becoming a party "pet" or acquaintance. :)]]
+
+**** Hendrid Pratchett encounter
+
+Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with limited below-full health and limited resources remaining (specifically spells).
+
+(E.d) On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
+:uncleared:
+
+> From my experience running him: Make sure he's spending actions to move
+  around and using intimidate on the players. Essentially eat up his actions
+  on thematic and interesting things that aren't attacks. Especially if they
+  end up harassing the players or making the characters angry at him. He
+  shouldn't be taking the party seriously, and should be trying to taunt them
+  at least in the start of the fight.
+
+
+This goes both ways, too. As in PF2 generally, the party using actions to force /enemies/ to spend actions is of good utility.
+
+(E.e) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
+:uncleared:
+
+> The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
 
 ----------
 
-This guide would be a collection of resources for running Agents of Edgewatch.
+The Binumir are also a challenge.
 
-Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular comments such as the one I'm referencing above.
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3][As u/narchy notes]]:
+:uncleared:
+> The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
 
-I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+(E.{tbd}) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
+:cleared:
+> The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
 
-But I'd like to start securing agreements from people before we move too far away from the authorship of their comments.
+(E.{tbd}) And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
+:uncleared:
 
-I expect that this document will be:
+> If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
 
-- provided non-commercially.
 
-- Specifically, be licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0]]
+Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
+:uncleared:
 
-- sources hosted on github for derivations/contributions
+> This combat made me think that either the people who made this system really
+  didn't understand the way poison interacts with death & dying, or that I am
+  missing something about it. Because like, going to the ground with
+  persistent damage, that's death. And we certainly had three of our six party
+  members at high levels of Wounded.
 
-- for consumption, hosted on my own web site https://asynchronous.org/.
+> It's extremely dicey and pretty exemplary of the stuff I don't like about
+  Paizo's APs. The entire "difficulty" seems to be in high numbers and a
+  serious risk of a few bad rolls dooming a character or a party, despite any
+  of their best choices. I would seriously suggest any DM running this
+  consider putting Alchemical Antidotes or something of the sort somewhere in
+  the Inn, or I dunno, something.
 
-I don't mean to exploit your work, simply to re-share it with added value. :)
 
-Since the same folks tend to comment on the same threads, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+[Rebalancing]
 
-Please let me know if you have any questions, of course.
+[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
+:uncleared:
 
-Cheers…
-…jsled
+> I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
 
-** [[https://www.reddit.com/message/messages/159gozw][u/Naurgul, 2021-08-22]]
+**** Pratchett Chase
 
-Hi u/Naurgul,
+[[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Naurgul]] has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem...
+:cleared:
 
-I'm working on a "Community Guide to GMing Agents of Edgewatch".
+> Here's some potential obstacles for this chase scene along with some example checks that the characters could use to bypass them:
 
-tl;dr: I would like your permission to blockquote the following comments:
+> - secret door closes behind him (acrobatics to jump in before it closes, athletics to hold it open, thievery to re-open)
+> - flaming mass (acrobatics to jump through, athletics make a path, or they can just walk through it and take some damage)
+> - Pratchett throws down the shelves with the jars in E31 (Athletics to throw them out of the way, Acrobatics to squeeze through the gaps, maybe some spell)
+> - leftover monsters attack (acrobatics to tumble through, Athletics to shove away, recall knowledge or deception to distract them)
 
-- https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3
-- https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3
 
-Specifically, please: will you license your comment/s identified above as Creative Commons, By-Attribution, Share-Alike, Non-Commercial, or other such compatible terms that you identify?
+** B2: "Sixty Feet Under"
+*** C1:
+**** FIXME
 
-This guide would be a collection of resources for running Agents of Edgewatch.
+- https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#41
+  - > Is it explained why Chadraxa made a complaint against Orvington Moneychangers?
+  - [next post]
+    - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
+    - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
 
-Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular comments such as the one I'm referencing above.
+    
+*** C4: "Descent into Death"
+**** The Catacombs
 
-I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+Tyrrociese is a particular problem.
 
-But I'd like to start securing agreements from people before we move too far away from the authorship of their comments.
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59zt3p/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n]] strongly advises...
+:cleared:
+> I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
 
-I expect that this document will be:
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h5aswqa/?utm_source=reddit&utm_medium=web2x&context=3][u/valahan23]] has a number of recommendations...
+:uncleared:
 
-- provided non-commercially; specifically, be licensed as Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0.
+> I'm currently running AoE and we finished up the catacombs about a month ago. Overall, I'm not a fan of Book 2. I Think the author is the type who loves theory crafting monsters without really thinking about balance. I first noticed this with the copper hand illusionists in chapter 3 that are supposedly level 5, but are a full wizard/rogue. Their spell DC was higher than the party's optimized level 6 wizard. I'd be fine with that if they weren't also a full blown rogue.
 
-- the sources hosted on github for contributions and derivations
+> I ended up making some changes to to the eldritch ooze TYRROICESE cause I personally think that monster was just poorly designed. This is pretty much entirely was because the ooze template was used without really looking at how oozes work.
 
-- the "published" artifact hosted on my own web site https://asynchronous.org/.
+> - Not all oozes are immune to slashing/piercing (gelatinous cube), but those that are also have the split trait, basically cutting them in half with the HP split between the two. The benefit to splitting them is that you can then have your caster nuke them with AoE. The eldritch ooze got the benefit of immunities without being able to be split. (So I got rid of these immunities on the eldritch ooze)
 
-I don't mean to exploit your work, simply to re-share it with added value. :)
+> - Oozes are usually immune to critical hits/precision damage because they are just a blob of ooze so they don't have specific spots to hit for more damage. The eldritch ooze is a large suit of armor basically being piloted by an ooze. (I removed it's immunity to precision damage with the reasoning that the rogue and investigator would be able to find weak points in the armor to attack)
 
-Since the same folks tend to comment on the same threads, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+> - Lastly I made his pseudopod burst follow the standard MAP rule. As letting a solo encounter have 3 attacks at +23 when the party's AC is in the high 20s was just insane to me. His chance to crit was way above 50% with an average crit doing around 46 damage.
 
-Cheers…
-…jsled
+> Even with these adjustments it was a super close fight with most of the party unconscious and the remaining members sitting around 10-20 HP when they defeated it.
 
-*** response
 
-[–]from Naurgul sent 34 minutes ago
+[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3][u/DocTam suggests pushing holy water to help with the crawl]]:
+:uncleared:
+> I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
 
-Yes, feel free to take all my content from Reddit and the paizo forums and quote it, paraphrase it, whatever. That's why I'm putting it on the internet after all, to help other people running the campaign.
+[[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Deriven Firelion says]]:
+:uncleared:
+> That elite ofalth was brutal. My players ran into it at lvl 7. I decided to reduce it to a regular Ofalth. It was still brutal.
 
-In return please include attribution with links to the originals and send me a link to the final result when you're done. I'd love to read it!
-* plan
 
-- OGL?
-- source-structure
-  - citations
-- production
-  - basic rendering pipeline
-- hosting
-- later
-  - presentation/style
+***** TO FILE
+****** "I noticed something weird about the Seamers"
+
+https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
+****** do you feel like there's XP missing from B2C3?
+
+https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#54
+****** war razors are constantly "typoed" as piercing
+
+https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#59
+******  how to GM the Dullahan's mount?
+
+https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
+- as a mount?
+- as a summon?
+- as a creature?
+****** Naurgul's game took a different turn
+:cleared:
+https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
+
+
+
+
+Instead of being given all the leads they are at the beginning of this book, they instead only learn from Ralso that there's a group of thieves called the Copper Hand who are definitely planning to rob a bank using the radiant parade as a cover. From there I'm expecting the players come up with the following lines of investigation more or less on their own:
+
+
+    * Get the route of the parade and compare it with the addresses of known banks: This will yield them a number of banks that are possible targets. I'm planning to include the 3 possible targets mentioned in the original but I'm also adding "Chadraxa's cheap loans" and "Vault of Abadar" as banks that the parade will pass by, maybe even some more.
+    * Investigate the possible targets: This should be largely the same as the original except I'm gonna make a point of emphasising how big the Penny & Sphinx garden lawn is and how far away the main bank building is from the road.
+    * Figure out where security is weakest: That should yield the information that the Token Guard is the most easily corruptible and unscrupulous district guard. (And that the Vault of Abadar is extremely well-guarded and unlikely to be the target)
+    * Investigate the float makers: Some gathering of information in the Ivy District (where one of my PCs hails from) will yield the information that is available at the tannery in the original story, i.e. an apparatus has been stolen that was used in a play to make it look like Aroden was raising the Starstone out of the ocean.
+    * Ask the other district watches if they've heard of the Copper Hand: That should yield an answer from the Stilt House. This is similar to the original story, except after they get the ledger at the smugglers' lair, they will not learn the exact location of the heist... but I'm not sure exactly what they should learn, probably something about what kind of supplies the thieves have purchased from the smugglers, e.g. sails and caltrops and stuff.
+
+The final clue is the new PC joining the ranks
+
+
 
 * resources
-** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][A: com/paizo/threads/AoE/book1]]
-** B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
+** TODO B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+*** TODO rights: reached out to u/DragoldC42, 2021-09-05
 *** summary
 
 - B1C1: kill the Pratchett foreshadowing; it's very heavy-handed and not necessary
@@ -502,7 +722,8 @@ is properly epic.
 That's all for my thoughts! Thank you for reading so far! And I hope some of
 my ramblings will be useful to GMs out there. Feel free to ask me anything in
 the comments!
-** [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][C cf. this big comment]]
+** [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][TODO C cf. this big comment]]
+*** DONE rights: approved u/Naurgul, 2021-08-22
 *** summary
 
 - Graveraker foreshadowing
@@ -614,11 +835,22 @@ the comments!
 - E.a *** https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3
   - u/larstr0n
 
-      - > My group dealt with this encounter pretty easily. The real trouble was
+    - > My group dealt with this encounter pretty easily. The real trouble was
     Ralso up on the second floor. If you’re concerned about Pratchett, there’s
     a lot of room to run his ghost twins suboptimally and use them to ratchet
     the tension up and down depending on what level of peril you’re looking
     for.
+
+    @author{reddit-u-larstr0n,
+      name = "u/larst0n",
+      url = "https://www.reddit.com/user/larstr0n",
+      additional = "GM, <a href=\"https://www.tabletopgold.com/\">Tabletop Gold podcast</a>"
+    }
+    @misc{larstr0n-otxspj-h6ygq77,
+      author = "u/larstr0n", # reddit-u-larstr0n
+      url = "https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3",
+      date = "2021-07-29 14:02",
+    )
 
 - E.b **** comment https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3
   - > This combat made me think that either the people who made this system
@@ -667,7 +899,7 @@ the comments!
   avoid this issue, and there should not be a level up shortly before the
   climax.
 ** DONE G https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
-** u/Naurgul posts
+** TODO u/Naurgul posts
 
 By the way, here's a few more posts of mine you might want to consider for your guide:
 
@@ -686,213 +918,25 @@ From the Paizo forums:
 - [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]
 - [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
 
-* ToC
-- Meta
-  - Spoiler Warning
-  - "So you've been sent here because we want to cite your comment…"
-- Overview
-- Overall Plot, Arcs, NPCs, &c.
-  - Police Factions
-    - Godless Graycloaks : explicitly and strictly atheist
-- Plot Map?
-- Enemy Makeup and Composition; Party Influence
-  - undead
-  - fey
-- Non-Player Characters
-  - Lavarsus: asshole
-  - Vancaskerkin: the party's best friend to heighten the betrayal
-- Timeline(s)
-  - Official
-  - Unofficial
-    - Disappearances
-- Unofficial Errata
-- Resources
-  - Expanded Collateral
-    - Ralso's Journal
-    - Copper Hand Note to Ralso
-    - Starborn's Note
-  - Maps
-    - u/narchy
-  - Art
-* Plot Notes
-** General/Meta
-*** "It's-a spicy meatball!"?
+** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
+** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
+** TODO [[https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned][paizo.com … "Outmanned, outgunned, outnumbered, outplanned! (SPOILERS)"]]
 
-Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
+- Zandu the Devourer:
+  - "heavy loan to resurrect the two fallen"
+  - I feel the foes in this campaign are a bit too strong, and after revisiting the amount of treasure they have received this far, they are severely underequipped.
 
-- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
+- narchy:
+  - "I've spent the whole game ramping up treasure throughout. There's not enough that party consider legitimately theirs to take. They don't loot the bosses, the henchmen or general locations they go to because it makes them uncomfortable."
+  - the AP IS hard if they aren't working together.
 
-- The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
+- pauljathome 
+  - Paizo seems to LIKE overtuning things in 2nd edition
 
-*** Encounter Rebalancing
-In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
 
-- the PF2 math is too tight for even-stronger enemies
-- too hard to land hits, too high chances of crits (both directions)
+- KyoYagami068
+  - I'm DMing the last bit of book 5 right now.
+  - I would say our group is doing fine. We had a big problem with that creature inside the armor in book 2, and we had our first death in those catacombs too. We had our second death at the end of book 3, with the boss rolling maximum damage at a critical hit against the sorcerer.
+  - What I did to circunvent that awful process of cops looting people, the precint gave them gear according to table Party Treasure By Level.
 
-Thoughout this guide, we'll give notes on how others re-balanced.
-
-** B1: "The Devil in the Dreaming Palace"
-*** Title … spoilers, Paizo!
-
-Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
-
-Since you can't change the book name, there are a couple of options:
-
-1/ Rename the Dreaming Palace.  It's just a hotel, and the name is not particularly important; feel free to change it.
-
-2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely.
-
-I'd recommend the latter.
-
-The encounter serves two purposes:
-
-- Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
-
-- Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
-*** C1: "The Mean Streets of Absalom"
-**** "Guards Guards"
-**** "Panic at the Zoo" / Knight's Marvelous Menagerie
-*** C2: "Missing Persons" / The Dragonfly Pagoda
-*** C3: "Into the Undercity"
-**** The Back Door
-
-- [FIXME] Grolna relevance?
-- Treasure
-  - +1 rune
-
-**** The House of the Planes
-
-This section is intended to provide leads to Ralso and Pratchett, and to tie the missing stone masons to Ralso.
-
-As written, it is extremely heavy-handed. Literally every NPC knows something absurdly on-point about Pratchett.
-
-In terms of priority, the following things "must" happen here:
-
-- The party should meet Reginald Vancaskerkin, and ideally they should /like/ him.
-
-- The party should find out that Ralso fenced some Minkainan stone mason tools, and she works at the Dreaming Palace.
-
-- [Read The Alexandrian and invent two more clues, in case they don't find that one.]
-
-Everything else is gravy.
-
-- While Hoff will come back up later in the AP (Book 4), Hoff is not a plot-critical character.
-
-- Book 4 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
-
-*** C4: "The Murder Hotel"
-**** Content Warning
-
-This dungeon is no joke, either difficulty-wise or especially thematically.
-
-You should make sure your Players are comfortable with the content here. *It's more important to make sure of that than to prevent spoiling things.*
-
-Some people are going to have serious problems with – for example – mutated, deformed fetuses kept alive in jars! Some people might have real-life bad experiences with being spied on via peep holes.
-
-It's okay if they do, and it's your job to only challenge them as much as they are comfortable being challenged.
-
-Be kind.
-
-**** The Dreaming Palace
-
-- [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/][There are some concerns with the pacing/leveling in the Dreaming Palace]], and [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some good advice on particular aspects of that]].
-
-- (FIXME) You should have plans for what you will do if the party is split because 1 or 2 of them fall through one of the traps into the basement.
-
-- [[https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/][At least two groups have independently tamed the mimic into becoming a party "pet" or acquaintance. :)]]
-
-**** Hendrid Pratchett encounter
-
-Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with limited below-full health and limited resources remaining (specifically spells).
-
-(E.d) On reddit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3][u/SanityIsOptional suggests a varied action spend from Pratchett to help smooth the encounter for the PCs]]:
-:uncleared:
-
-> From my experience running him: Make sure he's spending actions to move
-  around and using intimidate on the players. Essentially eat up his actions
-  on thematic and interesting things that aren't attacks. Especially if they
-  end up harassing the players or making the characters angry at him. He
-  shouldn't be taking the party seriously, and should be trying to taunt them
-  at least in the start of the fight.
-
-
-This goes both ways, too. As in PF2 generally, the party using actions to force /enemies/ to spend actions is of good utility.
-
-(E.e) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h71hhre/?utm_source=reddit&utm_medium=web2x&context=3][u/mads838 agrees]]:
-:uncleared:
-
-> The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
-
-----------
-
-The Binumir are also a challenge.
-
-[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3][As u/narchy notes]]:
-:uncleared:
-> The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
-
-(E.{tbd}) [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6yiyr8/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some advice]]:
-:cleared:
-> The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
-
-(E.{tbd}) And [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6ygq77/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n recommends using the Binumir the scale the combat on the fly]]:
-:uncleared:
-
-> If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
-
-
-Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
-:uncleared:
-
-> This combat made me think that either the people who made this system really
-  didn't understand the way poison interacts with death & dying, or that I am
-  missing something about it. Because like, going to the ground with
-  persistent damage, that's death. And we certainly had three of our six party
-  members at high levels of Wounded.
-
-> It's extremely dicey and pretty exemplary of the stuff I don't like about
-  Paizo's APs. The entire "difficulty" seems to be in high numbers and a
-  serious risk of a few bad rolls dooming a character or a party, despite any
-  of their best choices. I would seriously suggest any DM running this
-  consider putting Alchemical Antidotes or something of the sort somewhere in
-  the Inn, or I dunno, something.
-
-
-[Rebalancing]
-
-[[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6z514n/?utm_source=reddit&utm_medium=web2x&context=3][u/SighJayAtWork]]:
-:uncleared:
-
-> I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
-
-** B2: "Sixty Feet Under"
-*** C4: "Descent into Death"
-**** The Catacombs
-
-Tyrrociese is a particular problem.
-
-[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59zt3p/?utm_source=reddit&utm_medium=web2x&context=3][u/larstr0n]] strongly advises...
-:uncleared:
-> I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
-
-[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h5aswqa/?utm_source=reddit&utm_medium=web2x&context=3][u/valahan23]] has a number of recommendations...
-:uncleared:
-
-> I'm currently running AoE and we finished up the catacombs about a month ago. Overall, I'm not a fan of Book 2. I Think the author is the type who loves theory crafting monsters without really thinking about balance. I first noticed this with the copper hand illusionists in chapter 3 that are supposedly level 5, but are a full wizard/rogue. Their spell DC was higher than the party's optimized level 6 wizard. I'd be fine with that if they weren't also a full blown rogue.
-
-> I ended up making some changes to to the eldritch ooze TYRROICESE cause I personally think that monster was just poorly designed. This is pretty much entirely was because the ooze template was used without really looking at how oozes work.
-
-> - Not all oozes are immune to slashing/piercing (gelatinous cube), but those that are also have the split trait, basically cutting them in half with the HP split between the two. The benefit to splitting them is that you can then have your caster nuke them with AoE. The eldritch ooze got the benefit of immunities without being able to be split. (So I got rid of these immunities on the eldritch ooze)
-
-> - Oozes are usually immune to critical hits/precision damage because they are just a blob of ooze so they don't have specific spots to hit for more damage. The eldritch ooze is a large suit of armor basically being piloted by an ooze. (I removed it's immunity to precision damage with the reasoning that the rogue and investigator would be able to find weak points in the armor to attack)
-
-> - Lastly I made his pseudopod burst follow the standard MAP rule. As letting a solo encounter have 3 attacks at +23 when the party's AC is in the high 20s was just insane to me. His chance to crit was way above 50% with an average crit doing around 46 damage.
-
-> Even with these adjustments it was a super close fight with most of the party unconscious and the remaining members sitting around 10-20 HP when they defeated it.
-
-
-[[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3][u/DocTam suggests pushing holy water to help with the crawl]]:
-:uncleared:
-> I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
 
