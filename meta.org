@@ -391,7 +391,8 @@ Hey, thanks for asking! As long as you never use my posts in a project design to
 
 -Cy
 
-** PROG [[https://www.reddit.com/message/messages/15msqjd][u/narchy, 2021-09-05]]
+** DONE [[https://www.reddit.com/message/messages/15msqjd][u/narchy, 2021-09-05]]
+*** message
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
 Hi u/narchy :)
@@ -435,6 +436,8 @@ Cheers…
 
 PS In addition, your quite excellent maps will anchor the "Resources" section, which links to non-official resources for running the AP. :)
 
+*** [[https://www.reddit.com/message/messages/15myjam][response]]
+> Hello there. Sounds good to me. The only thing I would ask is that if you are going to include the maps I made, please link to the Google Drive I use as a repository. I occasionally go back and make amendments to then.
 ** PROG [[https://www.reddit.com/message/messages/15mte1o][GreatGraySkwid @ paizo.com (via reddit), 2021-09-05]]
 
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch

@@ -218,7 +218,7 @@ The Binumir are also a challenge.
   author = reddit-u-narchy,
   url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h7jg3rc/?utm_source=reddit&utm_medium=web2x&context=3},
   date = {2021-08-03T11:11Z},
-  cleared = false
+  cleared = true
 }
 #+END_COMMENT
 
@@ -1069,7 +1069,7 @@ From the Paizo forums:
   author = paizo-narchy,
   url={https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned#2},
   date =  {2021-08-06T14:12Z}
-  cleared = false
+  cleared = true
 }
 #+END_COMMENT
 
