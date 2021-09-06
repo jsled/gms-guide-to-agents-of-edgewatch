@@ -173,7 +173,7 @@ Experiences with this encounter vary, but it is a Severe 4 encounter, and based 
   title = {Final fight of the first book of "Agents of Edgewatch"},
   url = {https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h70146j/?utm_source=reddit&utm_medium=web2x&context=3},
   date = {2021-07-29T16:35Z},
-  cleared = false
+  cleared = true
 }
 #+END_COMMENT
 
