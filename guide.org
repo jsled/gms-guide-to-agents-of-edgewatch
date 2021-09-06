@@ -376,7 +376,7 @@ Even with these adjustments it was a super close fight with most of the party un
   author = reddit-u-doctam,
   url = {https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59vm90/?utm_source=reddit&utm_medium=web2x&context=3},
   date = {2021-07-15T13:42:22Z}
-  cleared = false
+  cleared = true
 }
 #+END_COMMENT
 

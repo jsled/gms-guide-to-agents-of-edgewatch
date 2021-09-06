@@ -481,7 +481,8 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 
-** PROG [[https://www.reddit.com/message/messages/15mtioh][u/doctam, 2021-09-05]]
+** DONE [[https://www.reddit.com/message/messages/15mtioh][u/doctam, 2021-09-05]]
+*** message
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
 Hi u/DocTam :)
@@ -521,6 +522,9 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 
+*** [[https://www.reddit.com/message/messages/15n3s0x][response]]
+
+Totally fine, as i work through book 5 im willing to answer questions.
 * plan
 
 - OGL. CUP.
