@@ -2,7 +2,7 @@
 - Meta
   - Spoiler Warning
   - "So you've been sent here because we want to cite your comment…"
-  - Play Time?
+  - Play Time / How Long?
     - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#14
       - > Just wondering - how much play time did you take to go through book 1? I'm working through this with my group right now, and I'm trying to get a sense of what to expect. I'm new to Pathfinder, so I don't have a great frame of reference.
 - Systems, Rules
@@ -62,7 +62,7 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 Thoughout this guide, we'll give notes on how others re-balanced.
 
-** B1: "The Devil in the Dreaming Palace"
+** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
 
 Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
@@ -80,7 +80,7 @@ The encounter serves two purposes:
 - Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
 
 - Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
-*** C1: "The Mean Streets of Absalom"
+*** Book 1, Chapter 1: "The Mean Streets of Absalom"
 **** "Guards Guards"
 **** "Panic at the Zoo" / Knight's Marvelous Menagerie
 **** Graveraker goes missing
@@ -113,8 +113,8 @@ people who may or may not actually be missing.
 #+END_QUOTE
 — cite:paizo-rzs4349b--447
 
-*** C2: "Missing Persons" / The Dragonfly Pagoda
-*** C3: "Into the Undercity"
+*** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
+*** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
 
 - [FIXME] Grolna relevance?
@@ -141,7 +141,7 @@ Everything else is gravy.
 
 - Book 4 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
 
-*** C4: "The Murder Hotel"
+*** Book 1, Chapter 4: "The Murder Hotel" / The Dreaming Palace
 **** Content Warning
 
 This dungeon is no joke, either difficulty-wise or especially thematically.
@@ -330,8 +330,8 @@ Here's some potential obstacles for this chase scene along with some example che
 #+END_QUOTE
 — cite:paizo-rzs4349b--441
 
-** B2: "Sixty Feet Under"
-*** C1:
+** Book 2: "Sixty Feet Under"
+*** Book 2, Chapter 1: "The Unusual Suspects"
 **** FIXME
 
 - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#41
@@ -339,8 +339,9 @@ Here's some potential obstacles for this chase scene along with some example che
   - [next post]
     - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
     - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
-
-*** C4: "Descent into Death"
+*** Book 2, Chapter 2: "A Penny Saved"
+*** Book 2, Chapter 3: "Caught Copper-Handed"
+*** Book 2, Chapter 4: "Descent into Death"
 **** The Catacombs
 
 Tyrrociese is a particular problem.
@@ -1043,10 +1044,11 @@ From the Paizo forums:
 - pauljathome
   - Paizo seems to LIKE overtuning things in 2nd edition
 
-
 - KyoYagami068
   - I'm DMing the last bit of book 5 right now.
   - I would say our group is doing fine. We had a big problem with that creature inside the armor in book 2, and we had our first death in those catacombs too. We had our second death at the end of book 3, with the boss rolling maximum damage at a critical hit against the sorcerer.
   - What I did to circunvent that awful process of cops looting people, the precint gave them gear according to table Party Treasure By Level.
+
+
 
 
