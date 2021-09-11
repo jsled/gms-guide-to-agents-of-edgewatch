@@ -69,6 +69,111 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 #+END_QUOTE
 --- cite:reddit-n39df5
 
+*** Major NPCs/Locations/Events and Foreshadowing
+**** Reginald Vancaskerkin
+
+#+BEGIN_QUOTE
+- Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
+  prominent, especially through his tabloid Eyes on Absalom. Don't forget to
+  tell the PCs about the frontpages of the paper (especially the ones that
+  they are featured on), invite them for interviews, make them trust him as a
+  partner they can go to ask for help. My players certainly have. For book 2
+  Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
+  his memoirs from prison to create a favourable impression to the public
+  before his upcoming trial.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** Lavarsus
+
+#+BEGIN_QUOTE
+- Lavarsus ends up getting manipulated by the antagonists and arresting the
+  wrong person. Play up Lavarsus as full of pride and incompetent
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+
+**** Harlo Doleen
+
+#+BEGIN_QUOTE
+- Harlo Doleen ends up getting murdered which is a major plot point and
+  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
+  slave and Harlo used to be his master. They have an awkward relationship now
+  after not seeing each other for more than 3 years.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+
+**** Blood City Games / Irorium
+
+#+BEGIN_QUOTE
+- The Irorium will be the setting of a big part of book 3. Make sure to
+  mention it a few times. I had Oggrum (one of the gladiators the PCs will
+  have to fight eventually) get a float in the radiant parade advertising his
+  exploits.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+
+**** Noxious Retort / Temple of Norgorber
+#+BEGIN_QUOTE
+- The Noxious Retort is an annual alchemical conference taking place at the
+  Blackfingers temple. It will be showcased in book 4. Make sure your players
+  learn about it beforehand if they are into alchemy or if they try to learn
+  about Norgorber temples in the city.
+#+END_QUOTE
+—- cite:reddit-ocdrxm-h3uh21r
+
+**** House of the Planes
+
+#+BEGIN_QUOTE
+- House of Planes will be revisited in one of the later books. So it should
+  probably be mentioned a few times. In book 2 I had my PCs track down one of
+  the smugglers there after a botched attempt to raid their base of
+  operations.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+
+**** Lucky Nimbus Casino
+#+BEGIN_QUOTE
+- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
+  exists. I had an elaborate float advertising it in the radiant parade.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** Festival Committee / Grand Council
+
+#+BEGIN_QUOTE
+- Some members of the festival committee and the grand council will end up
+  playing major roles in the final books. So they should be introduced and
+  interacted with early. I had my PCs give a brief 5 minute presentation in
+  front of the radiant festival committee at the palace in Wise Quarter about
+  their discovery of a potential bank heist plot.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** Beldrin's Tower (Precipice Quarter)
+#+BEGIN_QUOTE
+- Beldrin's tower in Precipice Quarter ends up being the place of the final
+  confrontation. It should at least be mentioned earlier, implant the idea of
+  visiting it for a tour while the festival is going on.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** Radiant Festival
+#+BEGIN_QUOTE
+- The story of how the radiant festival started gets explored in book 6. I had
+  a float featuring the half-angel in the parade
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** The Black Whale
+#+BEGIN_QUOTE
+- The Black Whale is a prison for important political prisoners that is
+  visited in book 5. Give it a brief mention maybe at some point when
+  appropriate.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+**** Starwatch, Starwatch Keep
+#+BEGIN_QUOTE
+- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
+  where they'll get some offices of their own. Have them visit it early on if
+  they want or make sure they've heard it at least. Same goes for Fort
+  Tempest, make sure they've heard it exists.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
 ** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
 
@@ -121,7 +226,7 @@ I gave my players the option to just tie up the monsters with rope after a succe
 #+END_QUOTE
 --- cite:reddit-n39df5
 
-**** Graveraker goes missing
+**** The Graveraker goes missing
 
 The AP makes a point of the Graveraker going missing at this point.
 
@@ -155,6 +260,16 @@ Festival, leaving our teams of rookie misfits to investigate a batch of
 people who may or may not actually be missing.
 #+END_QUOTE
 — cite:paizo-rzs4349b--447
+
+#+BEGIN_QUOTE
+- The Graveraker will show up again in book 4. Show Bolera working on the
+  Graveraker case. In my game, she's slowly uncovering some clues like
+  mentioning that she thinks it was no coincidence that the zoo attack and the
+  Graveraker theft happened at the same time, interviewing the inventor and
+  making some vague references about a missing power source and the
+  involvement of the radiant festival committee
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
@@ -732,8 +847,17 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 - B5C3: Vancaskerkin clockwork dungeon
 - Consider ending the AP here.
 
-** [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][TODO C cf. this big comment]] from u/Naurgul
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][TODO C cf. this big comment]] from u/Naurgul
 *** DONE rights: approved u/Naurgul, 2021-08-22
+*** bibtex
+
+@misc{reddit-ocdrxm-h3uh21r,
+  author = reddit-u-Naurgul,
+  url = {https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3},
+  date = {2021-07-02T20:11:20Z},
+  cleared = true
+}
+
 *** summary
 
 - Graveraker foreshadowing
@@ -753,93 +877,6 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 - Black Whale
 - Starwatch foreshadowing/context
 *** content
-
-- The Graveraker will show up again in book 4. Show Bolera working on the
-  Graveraker case. In my game, she's slowly uncovering some clues like
-  mentioning that she thinks it was no coincidence that the zoo attack and the
-  Graveraker theft happened at the same time, interviewing the inventor and
-  making some vague references about a missing power source and the
-  involvement of the radiant festival committee
-  - No.  they'll have plenty of time with the Graveraker
-
-- Some members of the festival committee and the grand council will end up
-  playing major roles in the final books. So they should be introduced and
-  interacted with early. I had my PCs give a brief 5 minute presentation in
-  front of the radiant festival committee at the palace in Wise Quarter about
-  their discovery of a potential bank heist plot.
-  - why would the committee care about low-level police?
-
-- Harlo Doleen ends up getting murdered which is a major plot point and
-  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
-  slave and Harlo used to be his master. They have an awkward relationship now
-  after not seeing each other for more than 3 years.
-  - No.
-
-- Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
-  prominent, especially through his tabloid Eyes on Absalom. Don't forget to
-  tell the PCs about the frontpages of the paper (especially the ones that
-  they are featured on), invite them for interviews, make them trust him as a
-  partner they can go to ask for help. My players certainly have. For book 2
-  Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
-  his memoirs from prison to create a favourable impression to the public
-  before his upcoming trial.
-  - Yes. They already have a good reaction to Vancaskerkin, though making him
-    friendly/cooperative is probably a bridge too far.
-  - Can he come up throughout?
-    - Has he had the agents trailed out of the House of the Planes?
-    - He's another investigator! Of course he can be helpful.
-
-- Lavarsus ends up getting manipulated by the antagonists and arresting the
-  wrong person. Play up Lavarsus as full of pride and incompetent
-  - Takes credit for the agent's actions, for sure.
-  - Continues to insult them, of course.
-
-- The Irorium will be the setting of a big part of book 3. Make sure to
-  mention it a few times. I had Oggrum (one of the gladiators the PCs will
-  have to fight eventually) get a float in the radiant parade advertising his
-  exploits.
-  - Lucio probably knows of this.
-
-- The Noxious Retort is an annual alchemical conference taking place at the
-  Blackfingers temple. It will be showcased in book 4. Make sure your players
-  learn about it beforehand if they are into alchemy or if they try to learn
-  about Norgorber temples in the city.
-  - absolutely, for Jobi
-  - figure out Jobi's whole /deal/ w.r.t. Blackfingers
-
-- House of Planes will be revisited in one of the later books. So it should
-  probably be mentioned a few times. In book 2 I had my PCs track down one of
-  the smugglers there after a botched attempt to raid their base of
-  operations.
-  - Could come back up in Book 2 or 3, sure
-
-- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
-  exists. I had an elaborate float advertising it in the radiant parade.
-  - meh.
-
-- The story of how the radiant festival started gets explored in book 6. I had
-  a float featuring the half-angel in the parade
-  - meh.
-
-- The Harrow plays a role in book 4. You can introduce it earlier as a tarot
-  divination art kind of thing without too much fanfare. Or you can have
-  spooky card readings with your PCs.
-  - No.
-
-- Beldrin's tower in Precipice Quarter ends up being the place of the final
-  confrontation. It should at least be mentioned earlier, implant the idea of
-  visiting it for a tour while the festival is going on.
-  - No.
-
-- The Black Whale is a prison for important political prisoners that is
-  visited in book 5. Give it a brief mention maybe at some point when
-  appropriate.
-  - Noted.
-
-- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
-  where they'll get some offices of their own. Have them visit it early on if
-  they want or make sure they've heard it at least. Same goes for Fort
-  Tempest, make sure they've heard it exists.
 ** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][D r/Pathfinder2e "Catacombs are a death trap"]]
 ** DONE E https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
 ** DONE F https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
