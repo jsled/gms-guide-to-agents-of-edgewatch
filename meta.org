@@ -529,6 +529,44 @@ Cheers…
 *** [[https://www.reddit.com/message/messages/15n3s0x][response]]
 
 Totally fine, as i work through book 5 im willing to answer questions.
+** PROG u/faultypanda, 2021-09-11
+*** [[https://www.reddit.com/message/messages/15sklb9][message]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/faultapanda :)
+
+I'm working on a "Community Guide to GMing _Agents of Edgewatch_".
+
+I came across your post ["Landing page for my Agent of Edgewatch campaign"](https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/), and will link to it.
+
+I noticed in the comments you mention a higher-res version.
+
+Would it be possible for me to link directly to the Google Drive, from the guide?  "No", is a very reasonable answer, but I thought I would ask. :)
+
+----------
+
+This guide would be a collection of resources for running Agents of Edgewatch.
+
+Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments.
+
+But also links to resources like yours.
+
+I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share /just/ yet.
+
+I expect that this document will be:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+…jsled
 
 * plan
 
