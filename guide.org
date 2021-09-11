@@ -830,7 +830,7 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 
 * To Do: Resources to be included
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
-** DONE B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
    CLOSED: [2021-09-11 Sat 01:25]
 *** DONE rights: reached out to u/DragoldC42, 2021-09-05
 *** bibtex
@@ -879,7 +879,7 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 - B5C3: Vancaskerkin clockwork dungeon
 - Consider ending the AP here.
 
-** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][TODO C cf. this big comment]] from u/Naurgul
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul
 *** DONE rights: approved u/Naurgul, 2021-08-22
 *** bibtex
 
@@ -909,9 +909,9 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 - Black Whale
 - Starwatch foreshadowing/context
 *** content
-** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][D r/Pathfinder2e "Catacombs are a death trap"]]
-** DONE E https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
-** DONE F https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][r/Pathfinder2e "Catacombs are a death trap"]]
+** DONE https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
+** DONE https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
 - comment https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3
 
   > This is a general problem with this edition of pathfinder, if the PCs find
@@ -934,7 +934,7 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
   number of encounters in a single book. The hotel should be half the size to
   avoid this issue, and there should not be a level up shortly before the
   climax.
-** DONE G https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
+** DONE https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
 ** TODO other u/Naurgul posts
 
 By the way, here's a few more posts of mine you might want to consider for your guide:
