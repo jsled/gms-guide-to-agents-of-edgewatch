@@ -62,6 +62,13 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 Thoughout this guide, we'll give notes on how others re-balanced.
 
+*** Being Police
+
+#+BEGIN_QUOTE
+- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 ** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
 
@@ -69,29 +76,65 @@ Just the name of this book is a spoiler combined with the fact that the Party me
 
 Since you can't change the book name, there are a couple of options:
 
-1/ Rename the Dreaming Palace. The name is not particularly important … feel free to change it.
+1/ Rename the "Dreaming Palace" hotel. The name is not particularly important … feel free to change it.
 
-2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely.
+2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely (see [FIXME] link to below).
 
-I'd recommend the latter.
+*** Book 1, Chapter 1: "The Mean Streets of Absalom"
+**** Noise Complaint / Tipsy Tengu
+
+As mentioned earlier, the title of the book matches the name of the hotel that the primary atagonist tells the party in their very first encounter.
+
+It's a strange decision they made.
+
+Changing the name of the "Dreaming Palace" will preserve the suspense throughout the book, and is recommended.
+
+Also, just skip the encounter with Pratchett and Ralso in the Tipsy Tengu entirely.
 
 The encounter serves two purposes:
 
 - Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
 
+  [[http:cite:reddit-n39df5][u/DragoldC42 concurs...]]
+  #+BEGIN_QUOTE
+  The chance encounter with the book villain in the very start is a bit too
+  obviously foreshadowing- seeing the owner of the dreaming palace in an
+  adventure named this way does not give much room to doubt. I found it not
+  really disrupting, as the players could make some disconnect, but for another
+  GM I would advise to just change the name of Pratchett's hotel.
+  #+END_QUOTE
+  --- cite:reddit-n39df5
+
 - Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
-*** Book 1, Chapter 1: "The Mean Streets of Absalom"
-**** "Guards Guards"
+
+**** "Guards! Guards!"
 **** "Panic at the Zoo" / Knight's Marvelous Menagerie
+
+The Menagerie encounter has a bit of a reputation for being rough.
+
+You have some options.
+
+#+BEGIN_QUOTE
+- the deadly zoo encounter- which includes two different monsters with the ability to petrify the party as well as a buffed rust monster, against which the party has to pace without a real chance to take 10 minutes of rest- is too much for most level 1 parties, including mine.
+
+I gave my players the option to just tie up the monsters with rope after a successful grapple check, and this gave a much easier win condition to the combats while still being hard enough considering they had to go all over the zoo with no rests.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 **** Graveraker goes missing
 
 The AP makes a point of the Graveraker going missing at this point.
 
 It is extremely easy for a/ you to miss this point here in the text and b/ for it to be lost on the Party. It's another piece of foreshadowing that can get a bit lost.
 
-The Graveraker does not come up again, until Book FIXME, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
+The Graveraker does not come up again until Book 4, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
 
-[FIXME: who, cite A or B] emphasizes making more of a point of it.
+Many folks recommend making more of a point of it.
+
+#+BEGIN_QUOTE
+- The Graveraker becomes an important plot point in the 4th and 6th books, Yet after it disappears somewhere in the start of this book, no mention of it exists in the AP for three whole books- at least not in a way major enough to remind the players it exists. My group totally forgot about it by the point the twists happened. I would advice all GMs running the AP to find ways to bring the Graveraker up a few times. Also, no art of the Graveraker exists in the AP at all. I would have really liked to see what it is like!
+#+END_QUOTE
+--- cite:reddit-n39df5
 
 #+BEGIN_COMMENT
 @author{paizo-GreatGraySkwid}
@@ -130,6 +173,11 @@ As written, it is extremely heavy-handed. Literally every NPC knows something ab
 In terms of priority, the following things "must" happen here:
 
 - The party should meet Reginald Vancaskerkin, and ideally they should /like/ him.
+
+  #+BEGIN_QUOTE
+  -Reginald Vancaskerkin is described in the book as someone who is "oily, nosy, and of questionable moral fiber", while the later books seem to think he has become a fan and friend of the party, at least until he backstabs them. I would advice playing him as someone who your players would like, and not a walking red flag as my reading of the first book alone implied to me.
+  #+END_QUOTE
+  --- cite:reddit-n39df5
 
 - The party should find out that Ralso fenced some Minkainan stone mason tools, and she works at the Dreaming Palace.
 
@@ -332,6 +380,14 @@ Here's some potential obstacles for this chase scene along with some example che
 
 ** Book 2: "Sixty Feet Under"
 *** Book 2, Chapter 1: "The Unusual Suspects"
+
+While ultimately pretty linear, this chapter has a bit of an open-world / sandbox feel, putting choice into the party's hands.
+
+#+BEGIN_QUOTE
+is a very strong point in this book- a less structured investigation sequence gave an almost "open world" feeling while playing, with the party able to choose the pace and theorize on where the robbery will take place. Running this section was a lot of fun for me!
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 **** FIXME
 
 - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#41
@@ -340,9 +396,42 @@ Here's some potential obstacles for this chase scene along with some example che
     - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
     - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
 *** Book 2, Chapter 2: "A Penny Saved"
+
+#+BEGIN_QUOTE
+The robbery itself is okey - The robber's plan is kinda silly and they are bound to fail, but it felt good having the party stop them and save the day anyway. I feel that a GM taking the time to improve this scene could make it into a much better moment than I had.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 *** Book 2, Chapter 3: "Caught Copper-Handed"
+
+#+BEGIN_QUOTE
+felt a bit disappointing in my group, because there was an expectation that another investigative part would follow the format of chapter 1. But the infiltration into the copper hands hideout was still an enjoyable dungeon. Our unlucky elf rouge got a minor case of lycanthropy from this part though- nothing a visit to a temple could not fix, but this could have messed with some plans.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 *** Book 2, Chapter 4: "Descent into Death"
 **** The Catacombs
+
+You'll probably definitely want to get a read on your group's (dis)like of dungeon crawls for this one. The dungeon itself is large, and there are random-encounter tables. To give you a sense
+
+#+BEGIN_COMMENT
+@book{paizo-pco90158e-p31,
+  ... FIXME
+}
+
+#+END_COMMENT
+
+#+BEGIN_QUOTE
+As the agents explore the Catacombs, keep track of how long the party is
+spending in the dungeon.  For every 8 hours that passes in the game world,
+there is an 80% chance the agents run into a random encounter.
+#+END_QUOTE
+--- cite:paizo-pzo90158e-p31
+
+#+BEGIN_QUOTE
+as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour sessions to get through it. And even with plenty of side quests happening in there it was still a too long section of mostly combat in an otherwise more RP balanced adventure. I would advise any GM's who feel the combat becomes repetitive in their groups to shorten this part- there are enough simple encounters to cut out of it without losing anything important
+#+END_QUOTE
+--- cite:reddit-n39df5
 
 Tyrrociese is a particular problem.
 
@@ -444,9 +533,158 @@ Instead of being given all the leads they are at the beginning of this book, the
 The final clue is the new PC joining the ranks
 #+END_QUOTE
 
+** Book 3: "All or Nothing"
+
+#+BEGIN_QUOTE
+This is probably my favorite book in the AP! It was the best at not only giving varied scenarios to play in, but also providing GM tools to expand and enhance those parts to their liking.
+#+END_QUOTE
+---cite:reddit-n39df5
+
+*** Book 3, Chapter 1: "Street Justice"
+
+#+BEGIN_QUOTE
+which involves resolving a gang war in the docks has some very flavorful NPCs with interesting personalities, one of which (Maurrisa) Became a recurring NPC in my game. This part is also relatively free in its structure and contains some moral choices to make.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 3, Chapter 2: "The House Always Wins"
+
+#+BEGIN_QUOTE
+The casino heist is a very interesting chapter as well. Somehow the casino games given did not translate well into our VTT experience, But the inclusion of so many mechanics and tools to make the heist interesting is just great! I am sure many GM's can make good use of this part- even as inspiration for home games.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 3, Chapter 3: "Deadly Games"
+
+#+BEGIN_QUOTE
+Gives the characters the task of dealing with a bomb threat in the middle of a gladiator tournament. The scenarios given in the AP itself are quite basic. But the tools provided, the various arena game mechanics and the flavor text-gave me plenty of inspiration to expand this part into a mini tournament arc- which was probably the highlight of the campaign! I highly recommend customizing this part to your group's liking.
+
+I have made another post in the past about a stat problem with the final boss of this chapter- it has a mistake with its AC that makes fighting him a breeze, so you might want to check it out before you run it.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+** Book 4: "Assault on Hunting Lodge Seven"
+*** Book 4, Chapter 1: "The Noxious Retort"
+
+#+BEGIN_QUOTE
+After a quick starting dungeon, this chapter including my favorite dungeon experience of the AP. The blackfinger temple- with the convention in it's upper floor, the puzzles, the interesting monsters, and the reasonable length of it- was a very fun dungeon crawl!
+#+END_QUOTE
+-- cite:reddit-n39df5
+
+*** Book 4, Chapter 2: "The Gervin Legacy"
+
+#+BEGIN_QUOTE
+In which the agents hole up in a haunted safe house to keep a watch over their prisoner, is another interesting chapter. It is divided into parts which feel tower-defense-like (protecting the house from assassins) and a small dungeon crawl in the basement. After cleansing the haunted house and defending it for so long, my players grew attached to the hunting lodge, so I gave them the deed to the house as a gift from the city as thanks for their service. The fact that the hunting lodge does not cointain any toilet in it became somewhat of a joke in our group, and the players announced they are building one in the house after they acquired it.
+
+Small note about the final boss of this chapter- The lesser death is a tough monster- with its disadvantage aura and high attacks, definitely has a potential to kill a PC. My players have managed to exploit its teleporting reaction to trap it inside the house vault (which I stated to be teleport proof). That was a very proud GM moment for me, and I rewarded their creative thinking with a homebrew item that the lesser death bargained for its freedom.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 4, Chapter 3: "A Wonderful Time in Harrowland"
+
+#+BEGIN_QUOTE
+the investigation of harrowland was not interesting for my group. I think that we are all missing the excitement about all the harrow lore in there- so it felt like we were missing half the fun in there. Still, I imagine that for a group with more golarion lore background this could be a nice theme dungeon.
+
+The end of the book features the twist of Reginald framing the party. This did not land that well in my group for a couple of reasons:- The framing plot depends heavily on the Graveraker. About which most of my party forgot by the time they got to this point. Foreshadow it more!- Reginald was obviously evil from the first time they met him. So the reaction was more of "Oh finally he shows he is evil and we an go kick his ass" and not the seemingly intended shock.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+** Book 5: "Belly of the Black Whale"
+
+#+BEGIN_QUOTE
+
+This book has a nice change of pace from the previous ones- The agents have to work now outside the law, as their badges have been taken from them after they were framed. This gave the players many opportunities to test the moral compass of the characters, and how much are they willing to do outside the law to get their goals. Good RP stuff!
+#+END_QUOTE
+--- cite:reddit-n39df5
+*** Book 5, Chapter 1: "Dishonorably Discharged"
+
+#+BEGIN_QUOTE
+deals with gaining enough favor with a crime lord to get the secrets on how to break out the Starborn from the Black Whale prison. Miogimo the crime lord is a good [foil] to the agents, showing how taking justice into their own hands can make them end up. Overall, the chapter gives plenty of roleplay moments to shine.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 5, Chapter 2: "Belly of the Black Whale"
+
+#+BEGIN_QUOTE
+is about the jailbreak from the black whale prison. The dungeon itself in there is decent, but I needed to put extra work in to make it feel more like a prison. Things like patrol routes, and more details about the day to day management of the prison are lacking the way they are presented in the adventure, I think this section could benefit from some clearer details.
+
+After the prison break, the chapter goes again into a bit of an investigation- where the agents need to find the evidence to clear their names and catch Vancaskerkin, in my group at least we mostly glossed through this part, because some details and npc's presented in the chapter were not working well with the way things occurred in my game. This still seems like a nice scenario.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 5, Chapter 3: "The Rumormonger’s Stronghold"
+
+#+BEGIN_QUOTE
+is the clockwork dungeon of Vancaskerkin. The dungeon itself is quite cool to run. There are different difficulty levels for many encounters, some cool monsters and a few secrets to discover. Reginald himself was a bit underwhelming (At least to the power level of my party), My solution was giving him 2 clockwork abilities at once, instead of just one, to up the danger- worked quite well for me!
+
+Another great thing about the showdown with Vancaskerkin is the alternative win condition against him- instead of killing the villain, the players have an option of resolving the conflict by exchanging his mind using a machine he has build. My party went for this option, and Regi-mouse became a cannon part of our Golarion.
+
+In my opinion, the fight against Reginald felt like it should have been the final one of the AP. He was behind all the troubles the agents faced so far, and by defeating him, clearing their names and redeeming Starborn in the eyes of the public, the agents can feel satisfied with their victory. I'll explain my reasons for this below- but to keep a strong thematic sense, I would advise to finish the campaign here- and avoid part 6. It is a perfectly self-contained ending by this point.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+** Book 6: "Ruins of the Radiant Siege"
+
+#+BEGIN_QUOTE
+Sadly, this last part of the AP is also the weakest in it. It has many interesting ideas, but I'm afraid that as written, it feels off from the rest of the AP, and does not contribute much to the story other than continuing it to level 20.
+
+Firstly, the big villain is someone who was basically invisible to the players! Olansa shows up one time before this book, and this is just to shake the characters hands and go away. At least the AP makes her presence clear enough to the GM before this point, so some foreshadowing can be added- but this is work the GM cannot be aware of unless they kept reading ahead, in detail, and realize Olansa is not properly foreshadowed anywhere. It feels especially hollow facing Olansa after defeating Reginald- who was there plotting since the start of the game, and the characters have a really good reason to hate.
+
+This could be a minor thing should Olansa have been an interesting villain, but as she stands in the book, she has no motivations. Her backstory seemed shallow, it is unclear what, if anything, she would do should the characters fail to dethrone her- the book gives no clue for us. It is unclear what her motivation to take the throne is other than to get more power. This came off to me very one dimensional and boring.
+
+Thanks to a suggestion I saw in the Paizo forums, I altered her in my home game to have the plan to steal the whole city of Absalom into a demiplane, where she can rule it with an iron fist forever. But if you run it as is from the book, she is stated to do next to nothing but sit in her tower and wait to be defeated, other than maybe messing up some beurocracy in the city.
+
+Secondly- This part of the adventure is a major change in tone from the rest of the AP.This is even said on page 3 of the book, where the writer explains the agents are now too strong for criminals to be a problem for them. So they should retrain their social skills and get ready for some extraplanar monsters popping in their way. I feel it's a bad note to finish a campaign focused on using diplomacy to solve problems by throwing hordes of daemons and crazed proteans at the party, and would have much preferred the adventure to stick to the spirit of the previous books.
+
+The chapters themselves are basically 3 big dungeon crawls, with no goals other than to clear them out and get the relevant plot cupon. To the adventure's credit, the design of the dungeons is interesting, but as someone who likes shorter- more concise dungeons, They felt like they are dragging on too much, with plenty of filler fights and encounters over the xp budget. Filler fights are a common thing in any AP, but a book comprised of mostely filler fights is dull to run in my opinion.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 6, Chapter 1: "Runaway Excavator"
+
+#+BEGIN_QUOTE
+has a dungeon happening inside a giant mech. This is a very cool idea, and one that was foreshadowed before with the Graveraker (Though, not too well). The most disappointing thing to me about this part, is that we never got any detail's on how the Graveraker even looks, not to speak about any illustration. Without those, it was hard to make sense of the situation, it felt undefined in a disappointing way.
+
+This dungeon also features the crazed proteans- who are stated to attack the characters on sight, and no alternative means of defusing the situation are given to the players, not even some reasonable solution like promising to free them. I chose to allow such a solution to my players. But without it there was next to no content in this dungeon as most of the rooms are fights with said proteans.
+
+Another thing happening in this chapter is the introduction of Il’setsya Wyrmtouched, who appears out of nowhere to give the party their next quest location, and escorts the party as a GMPC from then on. I chose to leave her out of my game, and tie the plot advancement to other things .GMPC is an idea I dislike, and it felt cheap to me to make the plot development of a story nearing its end happen by a random character appearing out of thin air.
+
+I also think that actually using her as written- where she has some "triggers" later on In the book which cause her to act in a rash way and probably against the interest of the party, and also possibly steal the show in the final bossfight weather the party took her in or not- would be frustrating to deal with as a player. I'm sure some GMs can pull this off well, but I am not one of them.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 6, Chapter 2: "The Radiant Spark"
+
+#+BEGIN_QUOTE
+In this chapter, the party needs to delve into another dungeon- the ruins of an ancient fort constructed by an evil archmage bent on conquering Absalom with an army of mind controlled angels- in order to find the item that will allow them to face the final boss.
+
+Before entering the dungeon, there is a section involving the use of the research mechanics. Where the party needs to balance spending more days getting prepared to the dungeon and gaining advantages in it with the risk of getting caught by the deamonic agents of Olansa.The way my game played out; the agents had too much stress on them to be able to research calmly for days as the adventure assumes- so we largely ignored this mechanic. But this is a cool concept.
+
+The dungeon itself is nice. Though for some weird reason, the majority of creatures and hazards in it have access to some variation of the prismatic spray spell. So the dark tone of the location, at least in my group, was hurt a bit by having rainbows assault the characters every fight.Also, there seems to be an issue with the room size in the map- for example a room meant to house 3 gargantuan creatures is physically too small to contain them.
+
+The boss of this chapter- a fallen planetar- has a problem in his stats. He possesses regeneration that can only be deactivated by evil damage, something which the lawful good party, Which the players guide instructs to make, will have no access to, meaning the PCs are unable to kill him in most conceivable groups. I decided to ignore this fact and just treat it as fast healing, not sure if there was a good reason to have it there in the first place.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
+*** Book 6, Chapter 3: "The Gray Queen's Tower"
+
+#+BEGIN_QUOTE
+Dungeon number 3 in this book is an assault on the tower where the main villain is sitting and… going slowly insane, waiting to be killed. Really this calls for a change from the GM.For me, I upped the stakes by having Olansa launch a daemon attack on the citizens of the city- and the players have to stop her before she kills everyone.
+
+The cool part about this dungeon, is the boss rush nature of it. To get to the final boss, the agents combat against the reincarnations of the 3 bosses from earlier in the campaign. (There are also many filler fights in this chapter, which serve no purpose in my opinion- the players are level 20, they don’t need to grind anymore.)
+
+As written the boss rushs are cool fights, with enough to challenge the 20th level characters, the only thing I would change in there is to enlarge a bit the rooms they are found in, because they are too small for a dynamic fight to take place in them.
+
+The problem is, these fights are not going to run as written, unless your players specifically avoid it there is an easy way to steamroll this entire dungeon-The artifact the players gained in the end of chapter 2 allows them to indefinitely mind control all the daemons present in there. I let my players have some fun with the pokemon-esqe gameplay of capturing all the demons (actually demon capturing sounds more like SMT but I digress) , until I had to ask them by the end to not use the artifact they were given- or the game would not be fun.
+
+Olansa as a final boss is also quite unimpressive. Her ability to turn invisible even to see invisibility feels cheap, and the poison on her weapon- Teats of death- Is irrelevant to the combat because of its 1-minute onset time. Even with her artifact equipped she is just not a very interesting or challenging opponent as written. I heavily altered it for my session and would advise doing the same to any other GM to make sure the ending of the campaign is properly epic.
+#+END_QUOTE
+--- cite:reddit-n39df5
+
 * resources
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
-** TODO B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+** DONE B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+   CLOSED: [2021-09-11 Sat 01:25]
 *** DONE rights: reached out to u/DragoldC42, 2021-09-05
 *** bibtex
 
@@ -494,378 +732,6 @@ The final clue is the new PC joining the ranks
 - B5C3: Vancaskerkin clockwork dungeon
 - Consider ending the AP here.
 
-*** content
-Book 1- The Devil in the Dreaming Palace
-
-This very solid start to the AP. It has a mostly self-contained story and
-gives plenty of roleplay opportunities as a city guard, A good end villain
-to face against and some interesting encounters. Others in this sub have
-pointed out already three problematic parts in this book, but they are
-relatively minor in my opinion:
-
-- The chance encounter with the book villain in the very start is a bit too
-  obviously foreshadowing- seeing the owner of the dreaming palace in an
-  adventure named this way does not give much room to doubt. I found it not
-  really disrupting, as the players could make some disconnect, but for
-  another GM I would advise to just change the name of Pratchett's hotel.
-
- - the deadly zoo encounter- which includes two different monsters with the
-   ability to petrify the party as well as a buffed rust monster, against
-   which the party has to pace without a real chance to take 10 minutes of
-   rest- is too much for most level 1 parties, including mine.
-
-I gave my players the option to just tie up the monsters with rope after a
-successful grapple check, and this gave a much easier win condition to the
-combats while still being hard enough considering they had to go all over
-the zoo with no rests.
-
-- The agents, as policemen, being able to confiscate property freely feels
-  weird in this part of the adventure, when they are mostly dealing with
-  ordinary citizens. My group didn’t really care that much, but it was a good
-  topic to raise in session zero and clear out our preferences on anyway. It's
-  very easy in any case to just give the characters a salary.In my experience,
-  later on in the AP, when the agents are dealing with criminals and cults, it
-  feels much more justified to use what they can take, or to give it back for
-  a bounty.
-
-I would like to add another issue to this part as someone who finished running
-the AP: The foreshadowing is a bit lacking in the following ways:
-
-- Reginald Vancaskerkin is described in the book as someone who is "oily,
-  nosy, and of questionable moral fiber", while the later books seem to think
-  he has become a fan and friend of the party, at least until he backstabs
-  them. I would advice playing him as someone who your players would like, and
-  not a walking red flag as my reading of the first book alone implied to me.
-
-- The Graveraker becomes an important plot point in the 4th and 6th books, Yet
-  after it disappears somewhere in the start of this book, no mention of it
-  exists in the AP for three whole books- at least not in a way major enough
-  to remind the players it exists. My group totally forgot about it by the
-  point the twists happened. I would advice all GMs running the AP to find
-  ways to bring the Graveraker up a few times. Also, no art of the Graveraker
-  exists in the AP at all. I would have really liked to see what it is like!
-
-
-Book 2: Sixty Feet Under
-
-This book is relatively straight-forward. The party follows a lead of trails
-that leads them to stop a bank robbery, a thieves guild, and eventually a
-serial killer.
-
-Chapter 1
-
-is a very strong point in this book- a less structured investigation sequence
-gave an almost "open world" feeling while playing, with the party able to
-choose the pace and theorize on where the robbery will take place. Running
-this section was a lot of fun for me!
-
-Chapter 2-
-
-The robbery itself is okey - The robber's plan is kinda silly and they are
-bound to fail, but it felt good having the party stop them and save the day
-anyway. I feel that a GM taking the time to improve this scene could make it
-into a much better moment than I had.
-
-Chapter 3
-
-felt a bit disappointing in my group, because there was an expectation that
-another investigative part would follow the format of chapter 1. But the
-infiltration into the copper hands hideout was still an enjoyable dungeon. Our
-unlucky elf rouge got a minor case of lycanthropy from this part though-
-nothing a visit to a temple could not fix, but this could have messed with
-some plans.
-
-Chapter 4
-
-as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour
-sessions to get through it. And even with plenty of side quests happening in
-there it was still a too long section of mostly combat in an otherwise more RP
-balanced adventure. I would advise any GM's who feel the combat becomes
-repetitive in their groups to shorten this part- there are enough simple
-encounters to cut out of it without losing anything important
-
-
-Book 3: All or nothing
-
-This is probably my favorite book in the AP! It was the best at not only
-giving varied scenarios to play in, but also providing GM tools to expand and
-enhance those parts to their liking.
-
-Chapter 1-
-
-which involves resolving a gang war in the docks has some very flavorful NPCs
-with interesting personalities, one of which (Maurrisa) Became a recurring NPC
-in my game. This part is also relatively free in its structure and contains
-some moral choices to make.
-
-Chapter 2-
-
-The casino heist is a very interesting chapter as well. Somehow the casino
-games given did not translate well into our VTT experience, But the inclusion
-of so many mechanics and tools to make the heist interesting is just great! I
-am sure many GM's can make good use of this part- even as inspiration for home
-games.
-
-Chapter 3-
-
-Gives the characters the task of dealing with a bomb threat in the middle of a
-gladiator tournament. The scenarios given in the AP itself are quite
-basic. But the tools provided, the various arena game mechanics and the flavor
-text-gave me plenty of inspiration to expand this part into a mini tournament
-arc- which was probably the highlight of the campaign! I highly recommend
-customizing this part to your group's liking.
-
-I have made another post in the past about a stat problem with the final boss
-of this chapter- it has a mistake with its AC that makes fighting him a
-breeze, so you might want to check it out before you run it.
-
-
-Book 4: Assault on Hunting Lodge Seven
-
-Chapter 1-
-
-After a quick starting dungeon, this chapter including my favorite dungeon
-experience of the AP. The blackfinger temple- with the convention in it's
-upper floor, the puzzles, the interesting monsters, and the reasonable length
-of it- was a very fun dungeon crawl!
-
-Chapter 2-
-
-In which the agents hole up in a haunted safe house to keep a watch over their
-prisoner, is another interesting chapter. It is divided into parts which feel
-tower-defense-like (protecting the house from assassins) and a small dungeon
-crawl in the basement. After cleansing the haunted house and defending it for
-so long, my players grew attached to the hunting lodge, so I gave them the
-deed to the house as a gift from the city as thanks for their service. The
-fact that the hunting lodge does not cointain any toilet in it became somewhat
-of a joke in our group, and the players announced they are building one in the
-house after they acquired it.
-
-Small note about the final boss of this chapter- The lesser death is a tough
-monster- with its disadvantage aura and high attacks, definitely has a
-potential to kill a PC. My players have managed to exploit its teleporting
-reaction to trap it inside the house vault (which I stated to be teleport
-proof). That was a very proud GM moment for me, and I rewarded their creative
-thinking with a homebrew item that the lesser death bargained for its freedom.
-
-Chapter 3-
-
-the investigation of harrowland was not interesting for my group. I think that
-we are all missing the excitement about all the harrow lore in there- so it
-felt like we were missing half the fun in there. Still, I imagine that for a
-group with more golarion lore background this could be a nice theme dungeon.
-
-The end of the book features the twist of Reginald framing the party. This did
-not land that well in my group for a couple of reasons:- The framing plot
-depends heavily on the Graveraker. About which most of my party forgot by the
-time they got to this point. Foreshadow it more!- Reginald was obviously evil
-from the first time they met him. So the reaction was more of "Oh finally he
-shows he is evil and we an go kick his ass" and not the seemingly intended
-shock.
-
-
-Book 5: Belly of the Black Whale
-
-This book has a nice change of pace from the previous ones- The agents have to
-work now outside the law, as their badges have been taken from them after they
-were framed. This gave the players many opportunities to test the moral
-compass of the characters, and how much are they willing to do outside the law
-to get their goals. Good RP stuff!
-
-Chapter 1
-
-deals with gaining enough favor with a crime lord to get the secrets on how to
-break out the Starborn from the Black Whale prison. Miogimo the crime lord is
-a good folly to the agents, showing how taking justice into their own hands
-can make them end up. Overall, the chapter gives plenty of roleplay moments to
-shine.
-
-Chapter 2
-
-is about the jailbreak from the black whale prison. The dungeon itself in
-there is decent, but I needed to put extra work in to make it feel more like a
-prison. Things like patrol routes, and more details about the day to day
-management of the prison are lacking the way they are presented in the
-adventure, I think this section could benefit from some clearer details.
-
-After the prison break, the chapter goes again into a bit of an investigation-
-where the agents need to find the evidence to clear their names and catch
-Vancaskerkin, in my group at least we mostly glossed through this part,
-because some details and npc's presented in the chapter were not working well
-with the way things occurred in my game. This still seems like a nice
-scenario.
-
-Chapter 3
-
-is the clockwork dungeon of Vancaskerkin. The dungeon itself is quite cool to
-run. There are different difficulty levels for many encounters, some cool
-monsters and a few secrets to discover. Reginald himself was a bit
-underwhelming (At least to the power level of my party), My solution was
-giving him 2 clockwork abilities at once, instead of just one, to up the
-danger- worked quite well for me!
-
-Another great thing about the showdown with Vancaskerkin is the alternative
-win condition against him- instead of killing the villain, the players have an
-option of resolving the conflict by exchanging his mind using a machine he has
-build. My party went for this option, and Regi-mouse became a cannon part of
-our Golarion.
-
-In my opinion, the fight against Reginald felt like it should have been the
-final one of the AP. He was behind all the troubles the agents faced so far,
-and by defeating him, clearing their names and redeeming Starborn in the eyes
-of the public, the agents can feel satisfied with their victory. I'll explain
-my reasons for this below- but to keep a strong thematic sense, I would advise
-to finish the campaign here- and avoid part 6. It is a perfectly
-self-contained ending by this point.
-
-
-Book 6: Ruins of the Radiant Siege.
-
-Sadly, this last part of the AP is also the weakest in it. It has many
-interesting ideas, but I'm afraid that as written, it feels off from the rest
-of the AP, and does not contribute much to the story other than continuing it
-to level 20.
-
-Firstly, the big villain is someone who was basically invisible to the
-players! Olansa shows up one time before this book, and this is just to shake
-the characters hands and go away. At least the AP makes her presence clear
-enough to the GM before this point, so some foreshadowing can be added- but
-this is work the GM cannot be aware of unless they kept reading ahead, in
-detail, and realize Olansa is not properly foreshadowed anywhere. It feels
-especially hollow facing Olansa after defeating Reginald- who was there
-plotting since the start of the game, and the characters have a really good
-reason to hate.
-
-This could be a minor thing should Olansa have been an interesting villain,
-but as she stands in the book, she has no motivations. Her backstory seemed
-shallow, it is unclear what, if anything, she would do should the characters
-fail to dethrone her- the book gives no clue for us. It is unclear what her
-motivation to take the throne is other than to get more power. This came off
-to me very one dimensional and boring.
-
-Thanks to a suggestion I saw in the Paizo forums, I altered her in my home
-game to have the plan to steal the whole city of Absalom into a demiplane,
-where she can rule it with an iron fist forever. But if you run it as is from
-the book, she is stated to do next to nothing but sit in her tower and wait to
-be defeated, other than maybe messing up some beurocracy in the city.
-
-Secondly- This part of the adventure is a major change in tone from the rest
-of the AP.This is even said on page 3 of the book, where the writer explains
-the agents are now too strong for criminals to be a problem for them. So they
-should retrain their social skills and get ready for some extraplanar monsters
-popping in their way. I feel it's a bad note to finish a campaign focused on
-using diplomacy to solve problems by throwing hordes of daemons and crazed
-proteans at the party, and would have much preferred the adventure to stick to
-the spirit of the previous books.
-
-The chapters themselves are basically 3 big dungeon crawls, with no goals
-other than to clear them out and get the relevant plot cupon. To the
-adventure's credit, the design of the dungeons is interesting, but as someone
-who likes shorter- more concise dungeons, They felt like they are dragging on
-too much, with plenty of filler fights and encounters over the xp
-budget. Filler fights are a common thing in any AP, but a book comprised of
-mostely filler fights is dull to run in my opinion.
-
-
-Chapter 1
-
-has a dungeon happening inside a giant mech. This is a very cool idea, and one
-that was foreshadowed before with the Graveraker (Though, not too well). The
-most disappointing thing to me about this part, is that we never got any
-detail's on how the Graveraker even looks, not to speak about any
-illustration. Without those, it was hard to make sense of the situation, it
-felt undefined in a disappointing way.
-
-This dungeon also features the crazed proteans- who are stated to attack the
-characters on sight, and no alternative means of defusing the situation are
-given to the players, not even some reasonable solution like promising to free
-them. I chose to allow such a solution to my players. But without it there was
-next to no content in this dungeon as most of the rooms are fights with said
-proteans.
-
-Another thing happening in this chapter is the introduction of Il’setsya
-Wyrmtouched, who appears out of nowhere to give the party their next quest
-location, and escorts the party as a GMPC from then on. I chose to leave her
-out of my game, and tie the plot advancement to other things .GMPC is an idea
-I dislike, and it felt cheap to me to make the plot development of a story
-nearing its end happen by a random character appearing out of thin air.
-
-I also think that actually using her as written- where she has some "triggers"
-later on In the book which cause her to act in a rash way and probably against
-the interest of the party, and also possibly steal the show in the final
-bossfight weather the party took her in or not- would be frustrating to deal
-with as a player. I'm sure some GMs can pull this off well, but I am not one
-of them.
-
-
-Chapter 2-
-
-In this chapter, the party needs to delve into another dungeon- the ruins of
-an ancient fort constructed by an evil archmage bent on conquering Absalom
-with an army of mind controlled angels- in order to find the item that will
-allow them to face the final boss.
-
-Before entering the dungeon, there is a section involving the use of the
-research mechanics. Where the party needs to balance spending more days
-getting prepared to the dungeon and gaining advantages in it with the risk of
-getting caught by the deamonic agents of Olansa.The way my game played out;
-the agents had too much stress on them to be able to research calmly for days
-as the adventure assumes- so we largely ignored this mechanic. But this is a
-cool concept.
-
-The dungeon itself is nice. Though for some weird reason, the majority of
-creatures and hazards in it have access to some variation of the prismatic
-spray spell. So the dark tone of the location, at least in my group, was hurt
-a bit by having rainbows assault the characters every fight.Also, there seems
-to be an issue with the room size in the map- for example a room meant to
-house 3 gargantuan creatures is physically too small to contain them.
-
-The boss of this chapter- a fallen planetar- has a problem in his stats. He
-possesses regeneration that can only be deactivated by evil damage, something
-which the lawful good party, Which the players guide instructs to make, will
-have no access to, meaning the PCs are unable to kill him in most conceivable
-groups. I decided to ignore this fact and just treat it as fast healing, not
-sure if there was a good reason to have it there in the first place.
-
-Chapter 3
-
-Dungeon number 3 in this book is an assault on the tower where the main
-villain is sitting and… going slowly insane, waiting to be killed. Really this
-calls for a change from the GM.For me, I upped the stakes by having Olansa
-launch a daemon attack on the citizens of the city- and the players have to
-stop her before she kills everyone.
-
-The cool part about this dungeon, is the boss rush nature of it. To get to the
-final boss, the agents combat against the reincarnations of the 3 bosses from
-earlier in the campaign. (There are also many filler fights in this chapter,
-which serve no purpose in my opinion- the players are level 20, they don’t
-need to grind anymore.)
-
-As written the boss rushs are cool fights, with enough to challenge the 20th
-level characters, the only thing I would change in there is to enlarge a bit
-the rooms they are found in, because they are too small for a dynamic fight to
-take place in them.
-
-The problem is, these fights are not going to run as written, unless your
-players specifically avoid it there is an easy way to steamroll this entire
-dungeon-The artifact the players gained in the end of chapter 2 allows them to
-indefinitely mind control all the daemons present in there. I let my players
-have some fun with the pokemon-esqe gameplay of capturing all the demons
-(actually demon capturing sounds more like SMT but I digress) , until I had to
-ask them by the end to not use the artifact they were given- or the game would
-not be fun.
-
-Olansa as a final boss is also quite unimpressive. Her ability to turn
-invisible even to see invisibility feels cheap, and the poison on her weapon-
-Teats of death- Is irrelevant to the combat because of its 1-minute onset
-time. Even with her artifact equipped she is just not a very interesting or
-challenging opponent as written. I heavily altered it for my session and would
-advise doing the same to any other GM to make sure the ending of the campaign
-is properly epic.
-
-That's all for my thoughts! Thank you for reading so far! And I hope some of
-my ramblings will be useful to GMs out there. Feel free to ask me anything in
-the comments!
 ** [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][TODO C cf. this big comment]] from u/Naurgul
 *** DONE rights: approved u/Naurgul, 2021-08-22
 *** summary
