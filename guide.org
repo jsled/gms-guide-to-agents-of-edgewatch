@@ -798,7 +798,35 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 #+END_QUOTE
 --- cite:reddit-n39df5
 
-* resources
+* Resources
+** Maps
+*** u/narchy's maps
+
+User narchy has provided a [[https://drive.google.com/drive/folders/1LZdj40ot34lfxoGbzu5aTgnAKQ1M8_eY?usp=sharing][full collection of all the maps, "remastered"]]. They're quite nice.
+
+#+BEGIN_COMMENT
+@misc{reddit-on03uu-h5oij50,
+  author = reddit-u-narchy,
+  url = { https://www.reddit.com/r/Pathfinder2e/comments/on03uu/maps_remake_agents_of_edgewatch_book_6_all_books/h5oij50/?utm_source=reddit&utm_medium=web2x&context=3 },
+  date = { 2021-07-18T21:47:25Z }
+}
+#+END_COMMENT
+
+#+BEGIN_QUOTE
+I have finished the final book of the awesome Agents of Edgewatch AP, which brings to an end 7 months of working on these maps! I may go back and tweak a few of the earlier ones, but uiltimately I am really happy with how these turned out.
+
+You can download them (books 1-6) from [[https://drive.google.com/drive/folders/1LZdj40ot34lfxoGbzu5aTgnAKQ1M8_eY?usp=sharing][Google Drive]] for you to use as you wish.
+
+The maps for all books are also available as [[https://foundryvtt.com/packages/aoe-maps-remake-by-narchy][Foundry VTT module]], containing all the scenes with walls/doors/windows etc.
+
+As always, feedback welcome! If you want to contribute to my Pathfinder book buying addiction, a coffee is always appreciated - [[https://www.ko-fi.com/narchymaps][www.ko-fi.com/narchymaps]] :)
+
+Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures.net]]
+#+END_QUOTE
+— cite:reddit-on03uu-h5oij50
+
+
+* To Do: Resources to be included
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
 ** DONE B [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
    CLOSED: [2021-09-11 Sat 01:25]
