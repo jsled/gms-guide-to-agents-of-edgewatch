@@ -8,7 +8,7 @@ I'm working on a "Community Guide to GMing _Agents of Edgewatch_".
 
 tl;dr: I would like your permission to quote the following posts/comments in that guide:
 
-- FIXME
+- [FIXME]
 
 *Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
 *Will you license your comment identified above as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial]], or other such compatible terms that you identify?*
@@ -27,8 +27,8 @@ But I'd like to start securing agreements from people before we move too far awa
 
 I expect that this document will be:
 
-- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0]].
 - Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0]].
 
 - For contribution, hosted on github.
 
@@ -568,6 +568,90 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 
+** PROG u/Aktim, 2021-09-12
+*** [[https://www.reddit.com/message/messages/15tj9wi][message]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi  :)
+
+I'm working on a "Community Guide to GMing _Agents of Edgewatch_".
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h53fc3u/?utm_source=reddit&utm_medium=web2x&context=3
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide would be a collection of resources for running Agents of Edgewatch.
+
+Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+
+But I'd like to start securing agreements from people before we move too far away from the authorship of those comments.
+
+I expect that this document will be:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+…jsled
+
+** DONE u/Excaliburrover, 2021-09-12
+*** [[https://www.reddit.com/message/messages/15tjk5i][message]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/Excaliburrover :)
+
+I'm working on a "Community Guide to GMing _Agents of Edgewatch_".
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide would be a collection of resources for running Agents of Edgewatch.
+
+Primarily, links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+I'm still in a sort of "does this even make sense" phase of the project, so I have nothing public to share yet.
+
+But I'd like to start securing agreements from people before we move too far away from the authorship of those comments.
+
+I expect that this document will be:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+…jsled
+
+*** [[https://www.reddit.com/message/messages/15tjmik][response]]
+Yeah, dude, it was a random thread. You do do you and make an awesome guide/resource
 * plan
 
 - OGL. CUP.
