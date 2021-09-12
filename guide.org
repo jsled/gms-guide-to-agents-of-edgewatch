@@ -139,6 +139,12 @@ Thoughout this guide, we'll give notes on how others re-balanced.
   exists. I had an elaborate float advertising it in the radiant parade.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+**** Radiant Festival
+#+BEGIN_QUOTE
+- The story of how the radiant festival started gets explored in book 6. I had
+  a float featuring the half-angel in the parade
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
 **** Festival Committee / Grand Council
 
 #+BEGIN_QUOTE
@@ -154,12 +160,6 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 - Beldrin's tower in Precipice Quarter ends up being the place of the final
   confrontation. It should at least be mentioned earlier, implant the idea of
   visiting it for a tour while the festival is going on.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-**** Radiant Festival
-#+BEGIN_QUOTE
-- The story of how the radiant festival started gets explored in book 6. I had
-  a float featuring the half-angel in the parade
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
 **** The Black Whale
