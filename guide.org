@@ -1,3 +1,5 @@
+#+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
+
 * ToC
 - Meta
   - Spoiler Warning

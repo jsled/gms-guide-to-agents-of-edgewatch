@@ -579,7 +579,7 @@ Cheers…
 - later
   - presentation/style
 * technology selection
-
+** sketch
 - key requirements
   - citations
   - formatting consistency
@@ -603,6 +603,10 @@ Cheers…
   - transformation of citation -> canonical format
     - eg. "cite:reddit-2021-jsled-comment-narchy-7" -> «— reddit.com/r/Pathfinder2e/"On Agents of Edgewatch", comment at 2021-09-05 08:06UTC, by u/narchy [link to rights attestation]»
 
+** org html export css inclusion
 
+(Also a nice-looking style on its own)
+
+- https://gongzhitaao.org/orgcss/
 
 * resources added
