@@ -15,8 +15,6 @@ FIXME: link to meta, license attestations
 - link directly to github
 #+END_COMMENT
 
------
-
 This work – "The GM's Guide to /Agents of Edgewatch/" – uses trademarks and/or
 copyrights owned by Paizo Inc., used under [[https://paizo.com/community/communityuse][Paizo's Community Use Policy (paizo.com/communityuse)]]. We are expressly prohibited from charging you to use
 or access this content. "The GM's Guide to /Agents of Edgewatch/" is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [[https://paizo.com/][paizo.com]].
@@ -35,14 +33,7 @@ You're viewing a community-sourced GM's Guide to running the /Agents of Edgewatc
 
 ** Sources and Contributing
 
-The source repository of this Guide is [TBD].
-
-#+BEGIN_COMMENT
-FIXME:
-- push to github
-  - https://github.com/jsled/gms-guide-to-agents-of-edgewatch.
-#+END_COMMENT
-
+The source repository of this Guide is https://github.com/jsled/gms-guide-to-agents-of-edgewatch.
 Contributions as pull requests are welcome. Contributions in other forms will be considered.
 
 The primary hosting of this Guide is https://asynchronous.org/gms-guide-to-agents-of-edgewatch.
@@ -76,6 +67,12 @@ Last Friday I have finished running a 9-month long campaign in agents of edgewat
 * On Role-Playing Police
 *** Policing
 *** Requisitioning and Civil Asset Forfeiture
+
+#+BEGIN_QUOTE
+- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+#+END_QUOTE
+— cite:reddit-n39df5
+
 *** Non-Lethal Damage
 * Geography
 ** Absalom
@@ -121,25 +118,7 @@ resisting enemies in this campaign)
 #+END_QUOTE
 — cite:reddit-n39df5
 
-* NPCS
-** Primary
-*** Reginald Vancaskerkin
-*** Grospek Lavarsus
-** Secondary
-*** Godless Graycloaks
-
-It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
-
-*** (Godless Graycloak's) Captain Runewulf (N male human barbarian 13)
-
-#+BEGIN_QUOTE
-"as he is more colloquially known, Runewulf the Unbeliever."
-#+END_QUOTE
-— cite:paizo-book2#page=28
-
-* Plot Notes
-** General/Meta
-*** AP Difficulty
+* Difficulty
 
 Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
 
@@ -147,7 +126,7 @@ Like many APs, the Agents of Edgewatch is considered by some to be … "tuned ho
 
 - The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
-*** Encounter Rebalancing
+** Encounter Rebalancing
 In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
 
 - the PF2 math is too tight for even-stronger enemies
@@ -155,16 +134,9 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 Thoughout this guide, we'll give notes on how others re-balanced.
 
-*** Being Police
-
-#+BEGIN_QUOTE
-- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
-#+END_QUOTE
-— cite:reddit-n39df5
-
-*** Major NPCs/Locations/Events and Foreshadowing
-**** Reginald Vancaskerkin
-
+* NPCS
+** Primary / Major
+*** Reginald Vancaskerkin
 #+BEGIN_QUOTE
 - Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
   prominent, especially through his tabloid Eyes on Absalom. Don't forget to
@@ -176,66 +148,19 @@ Thoughout this guide, we'll give notes on how others re-balanced.
   before his upcoming trial.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
-**** Lavarsus
-
+*** Grospek Lavarsus
 #+BEGIN_QUOTE
 - Lavarsus ends up getting manipulated by the antagonists and arresting the
   wrong person. Play up Lavarsus as full of pride and incompetent
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
-
-**** Harlo Doleen
-
-#+BEGIN_QUOTE
-- Harlo Doleen ends up getting murdered which is a major plot point and
-  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
-  slave and Harlo used to be his master. They have an awkward relationship now
-  after not seeing each other for more than 3 years.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-
-**** Blood City Games / Irorium
-
-#+BEGIN_QUOTE
-- The Irorium will be the setting of a big part of book 3. Make sure to
-  mention it a few times. I had Oggrum (one of the gladiators the PCs will
-  have to fight eventually) get a float in the radiant parade advertising his
-  exploits.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-
-**** Noxious Retort / Temple of Norgorber
-#+BEGIN_QUOTE
-- The Noxious Retort is an annual alchemical conference taking place at the
-  Blackfingers temple. It will be showcased in book 4. Make sure your players
-  learn about it beforehand if they are into alchemy or if they try to learn
-  about Norgorber temples in the city.
-#+END_QUOTE
-—- cite:reddit-ocdrxm-h3uh21r
-
-**** House of the Planes
-
-#+BEGIN_QUOTE
-- House of Planes will be revisited in one of the later books. So it should
-  probably be mentioned a few times. In book 2 I had my PCs track down one of
-  the smugglers there after a botched attempt to raid their base of
-  operations.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-
-**** Lucky Nimbus Casino
-#+BEGIN_QUOTE
-- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
-  exists. I had an elaborate float advertising it in the radiant parade.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-**** Radiant Festival
+*** Radiant Festival
 #+BEGIN_QUOTE
 - The story of how the radiant festival started gets explored in book 6. I had
   a float featuring the half-angel in the parade
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
-**** Festival Committee / Grand Council
+*** Festival Committee / Grand Council
 
 #+BEGIN_QUOTE
 - Some members of the festival committee and the grand council will end up
@@ -245,21 +170,14 @@ Thoughout this guide, we'll give notes on how others re-balanced.
   their discovery of a potential bank heist plot.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
-**** Beldrin's Tower (Precipice Quarter)
-#+BEGIN_QUOTE
-- Beldrin's tower in Precipice Quarter ends up being the place of the final
-  confrontation. It should at least be mentioned earlier, implant the idea of
-  visiting it for a tour while the festival is going on.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-**** The Black Whale
+*** The Black Whale
 #+BEGIN_QUOTE
 - The Black Whale is a prison for important political prisoners that is
   visited in book 5. Give it a brief mention maybe at some point when
   appropriate.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
-**** Starwatch, Starwatch Keep
+*** Starwatch, Starwatch Keep
 #+BEGIN_QUOTE
 - Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
   where they'll get some offices of their own. Have them visit it early on if
@@ -267,6 +185,68 @@ Thoughout this guide, we'll give notes on how others re-balanced.
   Tempest, make sure they've heard it exists.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+
+** Secondary / Minor
+*** Harlo Doleen
+
+#+BEGIN_QUOTE
+- Harlo Doleen ends up getting murdered which is a major plot point and
+  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
+  slave and Harlo used to be his master. They have an awkward relationship now
+  after not seeing each other for more than 3 years.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+*** Blood City Games / Irorium
+
+#+BEGIN_QUOTE
+- The Irorium will be the setting of a big part of book 3. Make sure to
+  mention it a few times. I had Oggrum (one of the gladiators the PCs will
+  have to fight eventually) get a float in the radiant parade advertising his
+  exploits.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+*** Noxious Retort / Temple of Norgorber
+#+BEGIN_QUOTE
+- The Noxious Retort is an annual alchemical conference taking place at the
+  Blackfingers temple. It will be showcased in book 4. Make sure your players
+  learn about it beforehand if they are into alchemy or if they try to learn
+  about Norgorber temples in the city.
+#+END_QUOTE
+—- cite:reddit-ocdrxm-h3uh21r
+*** House of the Planes
+
+#+BEGIN_QUOTE
+- House of Planes will be revisited in one of the later books. So it should
+  probably be mentioned a few times. In book 2 I had my PCs track down one of
+  the smugglers there after a botched attempt to raid their base of
+  operations.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+*** Lucky Nimbus Casino
+#+BEGIN_QUOTE
+- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
+  exists. I had an elaborate float advertising it in the radiant parade.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+*** Godless Graycloaks
+
+It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
+
+*** (Godless Graycloak's) Captain Runewulf (N male human barbarian 13)
+
+#+BEGIN_QUOTE
+"as he is more colloquially known, Runewulf the Unbeliever."
+#+END_QUOTE
+— cite:paizo-book2#page=28
+
+*** Beldrin's Tower (Precipice Quarter)
+#+BEGIN_QUOTE
+- Beldrin's tower in Precipice Quarter ends up being the place of the final
+  confrontation. It should at least be mentioned earlier, implant the idea of
+  visiting it for a tour while the festival is going on.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+* Plot Notes
 ** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
 
