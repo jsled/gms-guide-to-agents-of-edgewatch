@@ -1,57 +1,136 @@
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
-* ToC
-- Meta
-  - Spoiler Warning
-  - "So you've been sent here because we want to cite your comment…"
-  - Play Time / How Long?
-    - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#14
-      - > Just wondering - how much play time did you take to go through book 1? I'm working through this with my group right now, and I'm trying to get a sense of what to expect. I'm new to Pathfinder, so I don't have a great frame of reference.
-- Systems, Rules
-  - Policing
-  - Requisitioning and Civil Asset Forfeiture
-  - Non-Lethal Damage
-- Geography of the Precipice Quarter
-  - Precipice Quarter /
-  - Edgewatch Station
-    - "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
-      My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
-      - https://paizo.com/threads/rzs434ha?Community-Created-Content#3
-- Overall Plot, Arcs, NPCs, &c.
-  - Police Factions
-    - Godless Graycloaks : explicitly and strictly atheist
-- Plot Map?
-- Enemy Makeup and Composition
+* Meta
+** Licensing
+
+This work is generally licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons By-Attribution Non-Commercial Share-Alike, International, Version 4.0]].
+
+This works is a collection of quotes, links and original content regarding running the Paizo Adventure Path /Agents of Edgewatch/.
+
+Copyright of the quoted forum posts and comments is held by the respective original authors.
+
+Block quotes appearing herein have been licensed by the authors, generally in terms "compatible with Creative Commons By-Attribution, Share-Alike, Non-Commerical, version 4.0". See "meta" for more details.
+
+#+BEGIN_COMMENT
+FIXME: link to meta, license attestations
+- link directly to github
+#+END_COMMENT
+
+-----
+
+This work – "The GM's Guide to /Agents of Edgewatch/" – uses trademarks and/or
+copyrights owned by Paizo Inc., used under [[https://paizo.com/community/communityuse][Paizo's Community Use Policy (paizo.com/communityuse)]]. We are expressly prohibited from charging you to use
+or access this content. "The GM's Guide to /Agents of Edgewatch/" is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [[https://paizo.com/][paizo.com]].
+
+#+BEGIN_COMMENT
+FIXME:
+> You agree to create an account on paizo.com and add an entry describing your material on our Community Use Registry at paizo.com/community/communityuse/registry, with links where appropriate. 
+
+#+END_COMMENT
+
+** Spoiler Warning
+
+You're viewing a community-sourced GM's Guide to running the /Agents of Edgewatch/ Adventure Path from Paizo.
+
+**This is entirely spoilers, by definition.**
+
+** Sources and Contributing
+
+The source repository of this Guide is [TBD].
+
+#+BEGIN_COMMENT
+FIXME:
+- push to github
+  - https://github.com/jsled/gms-guide-to-agents-of-edgewatch.
+#+END_COMMENT
+
+Contributions as pull requests are welcome. Contributions in other forms will be considered.
+
+The primary hosting of this Guide is https://asynchronous.org/gms-guide-to-agents-of-edgewatch.
+
+** Editor
+
+The editor of this Guide is [[http://asynchronous.org/jsled][jsled]].
+
+* Adventure Path Length
+
+This – of course – is going to vary dramatically based on the table at which the game is being run, how many side-quests and how much character-service is done, &c.
+
+Based naïvely on the idea that characters should advance in level every 3 gaming sessions, a Level 1 - 20 Adventure should take about 57 sessions, or a bit over a year at 1 session/week.
+
+#+BEGIN_COMMENT
+- https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#14
+  - > Just wondering - how much play time did you take to go through book 1? I'm working through this with my group right now, and I'm trying to get a sense of what to expect. I'm new to Pathfinder, so I don't have a great frame of reference.
+
+- https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#18
+  > We ended up playing about 7 sessions that ranged from 3-6 hours each.
+#+END_COMMENT
+
+[[http:cite:paizo-forums-rzs4349c_18][On the Paizo Forums, Kazimir_980 reports taking 7 3-hour sessions to get through book 1.]]
+
+On Reddit, u/DragoldC42's group took 9 months…
+#+BEGIN_QUOTE
+Last Friday I have finished running a 9-month long campaign in agents of edgewatch.
+#+END_QUOTE
+— cite:reddit-n39df5
+
+* On Role-Playing Police
+*** Policing
+*** Requisitioning and Civil Asset Forfeiture
+*** Non-Lethal Damage
+* Geography
+** Absalom
+** Precipice Quarter
+*** Edgewatch Station / Headsquarters
+
+#+BEGIN_COMMENT
+- "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
+  My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
+- https://paizo.com/threads/rzs434ha?Community-Created-Content#3
+#+END_COMMENT
+
+* Timeline
+** Official
+** Unofficial
+* Enemy Makeup and Composition
+
+#+BEGIN_COMMENT
+(FIXME: present this tabularly
   - table
     | *Creature* | *Type* | *Book 123456* | *human* | *undead* | *fey* | ... |
-- Party Composition
-  - Alchemist
-    - Norgorber, Blackfingers
-    - Noxious Retort - Book 4
-  - Alchemist; Poisoner Archetype
-    - "(Bad choice for the AP in retrospect, there are a metric ton of poison resisting enemies in this campaign)" — cite:reddit-n39df5
-  - Champion
-    - Undead?
-- Non-Player Characters
-  - Lavarsus: asshole
-  - Vancaskerkin: the party's best friend (to heighten the betrayal)
-- Timeline(s)
-  - Official
-  - Unofficial
-    - Disappearances
-- Unofficial Errata
-- Resources
-  - Expanded Collateral
-    - Ralso's Journal
-    - Copper Hand Note to Ralso
-    - Starborn's Note
-  - Maps
-    - u/narchy
-  - Art
+#+END_COMMENT
+* Party Makeup and Composition
+
+#+BEGIN_COMMENT
+- Alchemist
+  - Norgorber, Blackfingers
+  - Noxious Retort - Book 4
+- Alchemist; Poisoner Archetype
+- Champion
+  - Undead?
+#+END_COMMENT
+
+** Alchemists, Poisoners, and followers of Norgorber
+
+Due to significant plot elements involving Norgorber, poisons and Alchemy, Alchemist characters and followers of Norgorber can be weaved into the story nicely.
+
+On the other hand, it does lead to lots of enemies with poison resistance…
+
+#+BEGIN_QUOTE
+([Poisoner-archetype was] Bad choice for the AP in retrospect, there are a metric ton of poison
+resisting enemies in this campaign)
+#+END_QUOTE
+— cite:reddit-n39df5
+
 * NPCS
 ** Primary
 *** Reginald Vancaskerkin
+*** Grospek Lavarsus
 ** Secondary
-*** Captain Runewulf (N male human barbarian 13)
+*** Godless Graycloaks
+
+It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
+
+*** (Godless Graycloak's) Captain Runewulf (N male human barbarian 13)
 
 #+BEGIN_QUOTE
 "as he is more colloquially known, Runewulf the Unbeliever."
@@ -705,6 +784,11 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 — cite:reddit-n39df5
 
 * Resources
+** Missing Persons Casefiles
+** Journal Entries / Notes / Handouts
+*** Ralso's Journal
+*** Copper Hand note to Ralso
+*** Starborn's note to the party
 ** Maps
 *** u/narchy's maps
 
@@ -725,7 +809,11 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 ** Landing Pages
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
-
+** Art
+#+BEGIN_COMMENT
+AoE Renders…
+#+END_COMMENT
+* Errata
 * To Do: Resources to be included
 ** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
 ** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
