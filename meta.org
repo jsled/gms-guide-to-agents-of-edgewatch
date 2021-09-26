@@ -760,6 +760,31 @@ Cheers…
 **** responsive stylesheet
 ** resources to be included
 *** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][com/paizo/threads/AoE/book1]]
+**** "I noticed something weird about the Seamers"
+https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
+**** do you feel like there's XP missing from B2C3?
+https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#54
+**** how to GM the Dullahan's mount?
+https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
+- as a mount?
+- as a summon?
+- as a creature?
+**** Naurgul's game took a different turn
+2021-05-23T23:36:05Z
+https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
+#+BEGIN_QUOTE
+Instead of being given all the leads they are at the beginning of this book, they instead only learn from Ralso that there's a group of thieves called the Copper Hand who are definitely planning to rob a bank using the radiant parade as a cover. From there I'm expecting the players come up with the following lines of investigation more or less on their own:
+
+    * Get the route of the parade and compare it with the addresses of known banks: This will yield them a number of banks that are possible targets. I'm planning to include the 3 possible targets mentioned in the original but I'm also adding "Chadraxa's cheap loans" and "Vault of Abadar" as banks that the parade will pass by, maybe even some more.
+    * Investigate the possible targets: This should be largely the same as the original except I'm gonna make a point of emphasising how big the Penny & Sphinx garden lawn is and how far away the main bank building is from the road.
+    * Figure out where security is weakest: That should yield the information that the Token Guard is the most easily corruptible and unscrupulous district guard. (And that the Vault of Abadar is extremely well-guarded and unlikely to be the target)
+    * Investigate the float makers: Some gathering of information in the Ivy District (where one of my PCs hails from) will yield the information that is available at the tannery in the original story, i.e. an apparatus has been stolen that was used in a play to make it look like Aroden was raising the Starstone out of the ocean.
+    * Ask the other district watches if they've heard of the Copper Hand: That should yield an answer from the Stilt House. This is similar to the original story, except after they get the ledger at the smugglers' lair, they will not learn the exact location of the heist... but I'm not sure exactly what they should learn, probably something about what kind of supplies the thieves have purchased from the smugglers, e.g. sails and caltrops and stuff.
+
+The final clue is the new PC joining the ranks
+#+END_QUOTE
+
+
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
     CLOSED: [2021-09-11 Sat 01:25]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul

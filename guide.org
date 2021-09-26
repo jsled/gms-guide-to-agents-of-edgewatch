@@ -586,37 +586,6 @@ I think providing/encouraging the party to get Holy Water is the best way to mak
 #+END_QUOTE
 — cite:reddit-oknoo0-h59vm90
 
-
-***** TO FILE
-****** "I noticed something weird about the Seamers"
-https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
-****** do you feel like there's XP missing from B2C3?
-https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#54
-****** war razors are constantly "typoed" as piercing
-https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#59
-****** how to GM the Dullahan's mount?
-https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
-- as a mount?
-- as a summon?
-- as a creature?
-****** Naurgul's game took a different turn
-
-2021-05-23T23:36:05Z
-https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
-
-#+BEGIN_QUOTE
-Instead of being given all the leads they are at the beginning of this book, they instead only learn from Ralso that there's a group of thieves called the Copper Hand who are definitely planning to rob a bank using the radiant parade as a cover. From there I'm expecting the players come up with the following lines of investigation more or less on their own:
-
-
-    * Get the route of the parade and compare it with the addresses of known banks: This will yield them a number of banks that are possible targets. I'm planning to include the 3 possible targets mentioned in the original but I'm also adding "Chadraxa's cheap loans" and "Vault of Abadar" as banks that the parade will pass by, maybe even some more.
-    * Investigate the possible targets: This should be largely the same as the original except I'm gonna make a point of emphasising how big the Penny & Sphinx garden lawn is and how far away the main bank building is from the road.
-    * Figure out where security is weakest: That should yield the information that the Token Guard is the most easily corruptible and unscrupulous district guard. (And that the Vault of Abadar is extremely well-guarded and unlikely to be the target)
-    * Investigate the float makers: Some gathering of information in the Ivy District (where one of my PCs hails from) will yield the information that is available at the tannery in the original story, i.e. an apparatus has been stolen that was used in a play to make it look like Aroden was raising the Starstone out of the ocean.
-    * Ask the other district watches if they've heard of the Copper Hand: That should yield an answer from the Stilt House. This is similar to the original story, except after they get the ledger at the smugglers' lair, they will not learn the exact location of the heist... but I'm not sure exactly what they should learn, probably something about what kind of supplies the thieves have purchased from the smugglers, e.g. sails and caltrops and stuff.
-
-The final clue is the new PC joining the ranks
-#+END_QUOTE
-
 ** Book 3: "All or Nothing"
 
 #+BEGIN_QUOTE
@@ -771,6 +740,14 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 
 On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]" in July 2020, a letter discovered under a table in the Tipsy Tengu, a piece of evidence regarding one of the missing persons that form the basis of the mystery in Book 1.
 
+
+#+BEGIN_COMMENT
+-Naurgul's Casefiles
+ - https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389
+- jsled's casefiles
+ - https://paizo.com/threads/rzs4349b&page=10?1-Devil-at-the-Dreaming-Palace#482
+#+END_COMMENT
+
 ** Journal Entries / Notes / Handouts
 *** Ralso's Journal
 *** Copper Hand note to Ralso
@@ -805,3 +782,16 @@ AoE Renders…
 On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fiction detailing the crimes of Wrent Dicaspiron]], set in the interstitial between Books 2 and 3.
 
 * Unofficial Errata
+** Book 1
+*** Book 1, Chapter 1
+
+- The name of the pub in the first encounter is listed as "The Arcadian" on page [FIXME], but it is the Tipsy Tengu elsewhere.
+
+** Book 2
+*** Book 2, Chapter 4
+
+- War Razors are listed in stat blocks as doing "piercing" damage; it should be "slashing".
+  #+BEGIN_QUOTE
+  OK, I thought I was losing my mind reading through the Sanctum, last night, but War Razors are typoed consistently in this book as being Piercing weapons. AoN has them as Slashing, as is, of course, the only reasonable option.
+  #+END_QUOTE
+  — cite:paizo-forums-rzs4349c-59
