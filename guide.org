@@ -798,6 +798,10 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 AoE Renders…
 #+END_COMMENT
 ** Fiction
+*** "Wrent's Confession", Book 2/3 Transition by u/zombkat
+
+On reddit, [[http:cite:reddit-pq90e5][u/zombkat posted a bit of fiction detailing the crimes of Wrent Dicaspiron]], set in the interstitial between Books 2 and 3.
+
 * Unofficial Errata
 * To Do: Resources to be included
 ** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][com/paizo/threads/AoE/book1]]
