@@ -652,7 +652,7 @@ Cheers…
 
 *** [[https://www.reddit.com/message/messages/15tjmik][response]]
 Yeah, dude, it was a random thread. You do do you and make an awesome guide/resource
-** PROG u/zombkat, 2021-09-26
+** DONE u/zombkat, 2021-09-26
 *** [[https://www.reddit.com/message/messages/166vo70][message]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -693,7 +693,9 @@ Please let me know if you have any questions, of course.
 
 Cheers…
 …jsled
+*** [[https://www.reddit.com/message/messages/166wlr2][response]]
 
+> Please! Just make sure to give the credit to KM Kovalcik (my real name). I actually do some game writing, so it'd be nice for that to be found.
 * plan
 
 - OGL. CUP.
