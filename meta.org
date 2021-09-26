@@ -172,7 +172,8 @@ Please let me know if you have any questions, of course.
 
 Cheers…
 …jsled
-** DONE [[https://www.reddit.com/message/messages/15mpsa6][u/DragoldC42, 2021-09-05]]
+** DONE u/DragoldC42, 2021-09-05
+*** [[https://www.reddit.com/message/messages/15mpsa6][message]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
 Hi u/DragoldC42 :)
@@ -211,6 +212,7 @@ Please let me know if you have any questions, of course.
 
 Cheers…
 …jsled
+*** [[https://www.reddit.com/message/messages/15mw2og][response]]
 ** DONE [[https://www.reddit.com/message/messages/15ms7pj][u/SanityIsOptional, 2021-09-05]]
 *** message
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
@@ -259,7 +261,6 @@ Cheers…
 *** [[https://www.reddit.com/message/messages/15n5ni7][response]]
 Sounds quite useful, go for it, feel free to use my comments or ideas. Free exchange of ideas and all that.
 ** DONE [[https://www.reddit.com/message/messages/15ms9h3][u/Unconfidence, 2021-09-05]]
-
 *** message
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -737,4 +738,104 @@ Cheers…
 
 - https://gongzhitaao.org/orgcss/
 
-* resources added
+* To Do
+** tasks
+*** generation
+**** proper author citations (larstr0n, zombkat)
+
+- u/larstr0n:
+  - If you just add "GM, Tabletop Gold podcast” that’s fine. If you want to add a URL, www.tabletopgold.com works. But either way is fine with me. Thanks! Seems like a great project, and I’m glad my comments might be useful.
+- u/zombkat:
+  - "KM Kovalcik"
+
+
+
+- templated "— cite:" form
+
+- in-line form…
+  - On reddit, ${@author:reddit-u-larstr0n} <a href="http:cite:[…]">strongly advises…</a>
+
+
+*** presentation
+**** responsive stylesheet
+** resources to be included
+*** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][com/paizo/threads/AoE/book1]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
+    CLOSED: [2021-09-11 Sat 01:25]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][r/Pathfinder2e "Catacombs are a death trap"]]
+*** DONE https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
+*** TODO https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+ - post https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+   - My issue is with the fact that the players are supposed to get from lvl 3
+     to lvl 4 mid dungeon but there are 2 occasions in which they might skip
+     right trough. It would be climactic for sure to meet the final boss right
+     away but it would spell the end of them as well.
+
+ - comment https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3
+
+   > This is a general problem with this edition of pathfinder, if the PCs find
+   themselves in a situation even one level earlier than they are "supposed to"
+   any fight quickly turns into a possible TPK.
+
+ - comment https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h53fc3u/?utm_source=reddit&utm_medium=web2x&context=3
+
+   > The pacing at the end is god awful. The party is supposed to gain their
+   fourth level as they get down to the basement, but when are they supposed to
+   rest to gain all the new benefits like spell slots and so on? They’re
+   investigating the murder mansion, finding all this evidence against
+   Pratchett, but then they go back mid-investigation to rest — and it’s
+   probably only around afternoon or so. So they can just leave and come back
+   in the morning? Wouldn’t the Edgewatch send help, considering the evidence?
+   But that would mess up the encounter balance. And what happens to the
+   half-orc if her escape plan was triggered? She’s just going to stay there
+   for, what, 12-14 hours, too afraid to confront the spirit?
+
+   > It’s a mess. One of the failings of the AP model that requires a certain
+   number of encounters in a single book. The hotel should be half the size to
+   avoid this issue, and there should not be a level up shortly before the
+   climax.
+*** DONE https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
+*** TODO other u/Naurgul posts
+
+ By the way, here's a few more posts of mine you might want to consider for your guide:
+
+ From reddit:
+
+ - [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/][/r/Pathfinder2e/comments/ocdrxm/]]
+ - [[https://www.reddit.com/r/Pathfinder2e/comments/o0y78z/][/r/Pathfinder2e/comments/o0y78z/]] - "Law abiding players"
+ - [[https://www.reddit.com/r/Pathfinder2e/comments/ngocjr/][/r/Pathfinder2e/comments/ngocjr/]] - "Recommendations for a GM new to PF2e running non-Law Enforcement Agents of Edgewatch?"
+ - [[https://www.reddit.com/r/Pathfinder2e/comments/lj6pc4/][/r/Pathfinder2e/comments/lj6pc4/]] - "Agents of Edgewatch locations"
+
+ From the Paizo forums:
+
+ - [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389][Missing persons investigation]]
+ - [[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Bank heist investigation]]
+ - [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Pratchett chase]]
+ - [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]
+ - [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
+
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
+*** TODO [[https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned][paizo.com … "Outmanned, outgunned, outnumbered, outplanned! (SPOILERS)"]]
+
+ - Zandu the Devourer:
+   - "heavy loan to resurrect the two fallen"
+   - I feel the foes in this campaign are a bit too strong, and after revisiting the amount of treasure they have received this far, they are severely underequipped.
+
+ - narchy:
+   - "I've spent the whole game ramping up treasure throughout. There's not enough that party consider legitimately theirs to take. They don't loot the bosses, the henchmen or general locations they go to because it makes them uncomfortable."
+   - the AP IS hard if they aren't working together.
+   — cite:paizo.com/threads/rzs43ftq_2
+
+ - pauljathome
+   - Paizo seems to LIKE overtuning things in 2nd edition
+
+ - KyoYagami068
+   - I'm DMing the last bit of book 5 right now.
+   - I would say our group is doing fine. We had a big problem with that creature inside the armor in book 2, and we had our first death in those catacombs too. We had our second death at the end of book 3, with the boss rolling maximum damage at a critical hit against the sorcerer.
+   - What I did to circunvent that awful process of cops looting people, the precint gave them gear according to table Party Treasure By Level.
+
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ph7txq/welcome_to_absaloms_4720ar_radiant_festival_aoe/][r/Pathfinder2e/Welcome to Absalom's 4720AR Radiant Festival (AoE Spoilers!), u/narchy]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
+*** DONE [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
