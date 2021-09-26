@@ -765,6 +765,10 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 
 * Resources
 ** Missing Persons Casefiles
+*** "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]"
+
+On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]" in July 2020, a letter discovered under a table in the Tipsy Tengu, a piece of evidence regarding one of the missing persons that form the basis of the mystery in Book 1.
+
 ** Journal Entries / Notes / Handouts
 *** Ralso's Journal
 *** Copper Hand note to Ralso
@@ -793,69 +797,13 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 #+BEGIN_COMMENT
 AoE Renders…
 #+END_COMMENT
-* Errata
+** Fiction
+* Unofficial Errata
 * To Do: Resources to be included
-** [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][TODO A: com/paizo/threads/AoE/book1]]
+** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][com/paizo/threads/AoE/book1]]
 ** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
    CLOSED: [2021-09-11 Sat 01:25]
-*** DONE rights: reached out to u/DragoldC42, 2021-09-05
-*** bibtex
-*** summary
-
-- B1C1: kill the Pratchett foreshadowing; it's very heavy-handed and not necessary
-- the KMM encounter is super tough, you probably need to rebalance it
-- Agents/Police policy is sketchy
-  - [this is probably a top-level item for the guide]
-  - options
-- NPC: Vancaskerkin: foreshadowing, through-line, plot and disposition
-- Graveraker: foreshadowing
-
-- B2C1: open-world section is cool!  plot visualization
-- B2C2: (robbery would be better if improved)
-- B2C3: (disappointing to us)
-- B2C4: dungeon crawl is maybe too long for many groups
-
-- B3: favorite book
-- B3C1: gang war, flavorful NPCs, open structure, moral choices
-- B3C2: mechanics are great!
-- B3C3: mediocre as written, but a great toolbox for expanding it on your own
-
-- B4C1: very fun dungeon crawl
-- B4C2: hunting lodge is fun!
-  - lesser death is a tough enemy, take care
-- B4C3:
-  - harrowland and the harrow itself is not interesting to my group
-  - Vancaskerkin framing the party depends on:
-    - heavily on the Graveraker; foreshadow it more!
-    - the party liking Vancaskerkin
-
-- B5: agents without badges! good RP moments
-- B5C1: Black Whale, Miogimo, RP opportunities
-- B5C2: jailbreak, find evidence of Vancaskerkin
-- B5C3: Vancaskerkin clockwork dungeon
-- Consider ending the AP here.
-
 ** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul
-*** DONE rights: approved u/Naurgul, 2021-08-22
-*** summary
-
-- Graveraker foreshadowing
-- Festival committee/grand council foreshadowing
-- Harlo Doleen emotional connection before betrayal/murder
-- Vancaskerkin connection/deception
-- Lavarsus NPC notes, arc
-- Irorium foreshadowing
-- Noxious Retort foreshadowing
-  - background by class
-  - timeline
-- House of Planes through-line
-- Lucky Nimbus casino
-- Radiant Festival
-  - broader scene-setting
-  - Beldrin's Tower, final confrontation
-- Black Whale
-- Starwatch foreshadowing/context
-*** content
 ** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][r/Pathfinder2e "Catacombs are a death trap"]]
 ** DONE https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/
 ** TODO https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
@@ -908,7 +856,7 @@ From the Paizo forums:
 - [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]
 - [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
 
-** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
+** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
 ** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
 ** TODO [[https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned][paizo.com … "Outmanned, outgunned, outnumbered, outplanned! (SPOILERS)"]]
 
@@ -930,7 +878,6 @@ From the Paizo forums:
   - What I did to circunvent that awful process of cops looting people, the precint gave them gear according to table Party Treasure By Level.
 
 
-
 ** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ph7txq/welcome_to_absaloms_4720ar_radiant_festival_aoe/][r/Pathfinder2e/Welcome to Absalom's 4720AR Radiant Festival (AoE Spoilers!), u/narchy]]
-** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][/rPathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
-** TODO [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
+** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
+** DONE [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
