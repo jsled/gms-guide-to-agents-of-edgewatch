@@ -47,6 +47,17 @@
   - Maps
     - u/narchy
   - Art
+* NPCS
+** Primary
+*** Reginald Vancaskerkin
+** Secondary
+*** Captain Runewulf (N male human barbarian 13)
+
+#+BEGIN_QUOTE
+"as he is more colloquially known, Runewulf the Unbeliever."
+#+END_QUOTE
+— cite:paizo-book2#page=28
+
 * Plot Notes
 ** General/Meta
 *** AP Difficulty
@@ -432,31 +443,65 @@ felt a bit disappointing in my group, because there was an expectation that anot
 #+END_QUOTE
 — cite:reddit-n39df5
 
+It's here at the very end of Book 2, Chapter 3 that we learn some pertinent backstory…
+
+#+BEGIN_QUOTE
+For the past few months, she explains, the Copper Hand has worked with a murderer named the Skinner and her cultists under threat of violence.
+#+END_QUOTE
+— cite:paizo-book2#page=27
+
 *** Book 2, Chapter 4: "Descent into Death"
 **** The Catacombs
 
-You'll probably definitely want to get a read on your group's (dis)like of dungeon crawls for this one. The dungeon itself is large, and there are random-encounter tables. To give you a sense
+You'll probably definitely want to get a read on your group's (dis)like of dungeon crawls for this one. The dungeon itself is large, and there are random-encounter tables. To give you a sense…
 
 #+BEGIN_QUOTE
 As the agents explore the Catacombs, keep track of how long the party is
 spending in the dungeon.  For every 8 hours that passes in the game world,
 there is an 80% chance the agents run into a random encounter.
 #+END_QUOTE
-— cite:paizo-pzo90158e-p31
+— cite:paizo-book2#page=31
+
+
+At the same time, in the AP's narrative, the missing Graycloaks contingent has been down here since "less than a week ago" [cite:paizo-book2#p28]…
+
+#+BEGIN_QUOTE
+"It’s been several days since my team of Graycloaks descended into the Catacombs […]"
+#+END_QUOTE
+— cite:paizo-book2#page=29
+
+…so being down at least a 1-3 days would not be unreasonable.
 
 #+BEGIN_QUOTE
 as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour sessions to get through it. And even with plenty of side quests happening in there it was still a too long section of mostly combat in an otherwise more RP balanced adventure. I would advise any GM's who feel the combat becomes repetitive in their groups to shorten this part- there are enough simple encounters to cut out of it without losing anything important
 #+END_QUOTE
 — cite:reddit-n39df5
 
-Tyrrociese is a particular problem.
 
+----------
+
+Tyrrociese is a particular problem.
 
 [[http:cite:reddit-oknoo0-h59zt3p][u/larstr0n]] strongly advises…
 #+BEGIN_QUOTE
 I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
 #+END_QUOTE
 — cite:reddit-oknoo0-h59zt3p
+
+#+BEGIN_COMMENT
+
+OTOH…
+
+@author{paizo-Deriven_Firelion}
+@misc{
+  FIXME
+  cleared = "false"
+}
+[[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Deriven Firelion says]]:
+#+BEGIN_QUOTE
+#+END_QUOTE
+That elite ofalth was brutal. My players ran into it at lvl 7. I decided to reduce it to a regular Ofalth. It was still brutal.
+#+END_COMMENT
 
 [[http:cite:reddit-u-valahan23][u/valahan23]] has a number of recommendations…
 #+BEGIN_QUOTE
@@ -474,23 +519,12 @@ Even with these adjustments it was a super close fight with most of the party un
 #+END_QUOTE
 — cite:reddit-u-valahan23
 
-
 [[http:cite:reddit-oknoo0-h59vm90][u/DocTam suggests pushing holy water to help with the crawl]]:
 #+BEGIN_QUOTE
 I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
 #+END_QUOTE
 — cite:reddit-oknoo0-h59vm90
 
-#+BEGIN_COMMENT
-@author{paizo-Deriven_Firelion}
-@misc{
-  FIXME
-}
-
-[[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Deriven Firelion says]]:
-:uncleared:
-That elite ofalth was brutal. My players ran into it at lvl 7. I decided to reduce it to a regular Ofalth. It was still brutal.
-#+END_COMMENT
 
 ***** TO FILE
 ****** "I noticed something weird about the Seamers"
@@ -794,9 +828,9 @@ By the way, here's a few more posts of mine you might want to consider for your 
 From reddit:
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/][/r/Pathfinder2e/comments/ocdrxm/]]
-- [[https://www.reddit.com/r/Pathfinder2e/comments/o0y78z/][/r/Pathfinder2e/comments/o0y78z/]]
-- [[https://www.reddit.com/r/Pathfinder2e/comments/ngocjr/][/r/Pathfinder2e/comments/ngocjr/]]
-- [[https://www.reddit.com/r/Pathfinder2e/comments/lj6pc4/][/r/Pathfinder2e/comments/lj6pc4/]]
+- [[https://www.reddit.com/r/Pathfinder2e/comments/o0y78z/][/r/Pathfinder2e/comments/o0y78z/]] - "Law abiding players"
+- [[https://www.reddit.com/r/Pathfinder2e/comments/ngocjr/][/r/Pathfinder2e/comments/ngocjr/]] - "Recommendations for a GM new to PF2e running non-Law Enforcement Agents of Edgewatch?"
+- [[https://www.reddit.com/r/Pathfinder2e/comments/lj6pc4/][/r/Pathfinder2e/comments/lj6pc4/]] - "Agents of Edgewatch locations"
 
 From the Paizo forums:
 
