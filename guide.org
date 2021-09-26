@@ -1,4 +1,6 @@
+#+OPTIONS: ^:{} ^:nil _:nil
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
+#+TITLE: The GM's Guide to "Agents of Edgewatch"
 * Meta
 ** Licensing
 
