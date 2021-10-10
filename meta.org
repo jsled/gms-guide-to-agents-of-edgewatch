@@ -755,9 +755,13 @@ Cheers…
 - in-line form…
   - On reddit, ${@author:reddit-u-larstr0n} <a href="http:cite:[…]">strongly advises…</a>
 
-
 *** presentation
 **** responsive stylesheet
+*** organization
+**** TODO create an index across all the APs
+
+- eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
+
 ** resources to be included
 *** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][com/paizo/threads/AoE/book1]]
 **** "I noticed something weird about the Seamers"
@@ -783,7 +787,6 @@ Instead of being given all the leads they are at the beginning of this book, the
 
 The final clue is the new PC joining the ranks
 #+END_QUOTE
-
 
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
     CLOSED: [2021-09-11 Sat 01:25]
