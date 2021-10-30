@@ -138,18 +138,6 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 
 * NPCS
 ** Primary / Major
-*** Reginald Vancaskerkin
-#+BEGIN_QUOTE
-- Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
-  prominent, especially through his tabloid Eyes on Absalom. Don't forget to
-  tell the PCs about the frontpages of the paper (especially the ones that
-  they are featured on), invite them for interviews, make them trust him as a
-  partner they can go to ask for help. My players certainly have. For book 2
-  Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
-  his memoirs from prison to create a favourable impression to the public
-  before his upcoming trial.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
 *** Grospek Lavarsus
 #+BEGIN_QUOTE
 - Lavarsus ends up getting manipulated by the antagonists and arresting the
@@ -179,6 +167,7 @@ Thoughout this guide, we'll give notes on how others re-balanced.
   appropriate.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+*** Jonas Flakfatter ("The Infector" / "Father Infector")
 *** Starwatch, Starwatch Keep
 #+BEGIN_QUOTE
 - Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
@@ -188,7 +177,75 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 #+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
 
+*** Olansa Terimor ("The Gray Queen") — L20 NE female human city planner, master thief
+*** Reginald Vancaskerkin ("The Rumormonger")
+#+BEGIN_QUOTE
+- Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
+  prominent, especially through his tabloid Eyes on Absalom. Don't forget to
+  tell the PCs about the frontpages of the paper (especially the ones that
+  they are featured on), invite them for interviews, make them trust him as a
+  partner they can go to ask for help. My players certainly have. For book 2
+  Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
+  his memoirs from prison to create a favourable impression to the public
+  before his upcoming trial.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
 ** Secondary / Minor
+*** Captain Asilia of Gyr, Starwatch — N female human ranger 12
+
+#+BEGIN_QUOTE
+A stern-looking human woman with a shock of white hair and an impressive
+tricorn sits behind a broad, imposing desk.  She stands and introduces herself
+as Captain Asilia of Gyr (N female human ranger 12), leader of Starwatch and
+commander of the warship Hurricane Wings, and gestures for the agents to sit
+down, gesturing to the room’s comfortable chairs.
+#+END_QUOTE
+— cite:paizo-aoe-book3#page=6
+
+#+BEGIN_COMMENT
+
+- Captain of Starwatch
+- Will be "commanding officer" in Book 3, 4?
+  - Book 3 page 6: picture, narrative introduction
+- Nautical dress
+
+
+
+#+END_COMMENT
+*** Blackfinger Blight
+
+#+BEGIN_COMMENT
+- Introduced in Book 1, Chapter 1
+- Plays a key role in Book 3 Chapter 3
+- Doesn't really show up between.
+
+If your party has an Alchemist or Investigator, they might get curious to follow up on this clue…
+
+- index
+  - Book 1, pg 13:
+    - "The zoo creatures themselves are acting unusually aggressive, with a
+      starting attitude of hostile. This is the result of a rage-inducing
+      serum called blackfinger blight. An agent of Jonis Flakfatter, one of
+      the city’s high priests of Norgorber (and an important antagonist later
+      in this campaign), tested his latest formulation by introducing the
+      contagion into the animals’ water supply. An agent who succeeds at a DC
+      15 Nature check realizes that this sudden hostility seems abnormal, as
+      does the black froth around some of the creatures’ mouths, yet the
+      Edgewatch agents aren’t intended to discover much about the contagion
+      itself at this time. Rather, this is foreshadowing for the much larger
+      role blackfinger blight will play later on in the Adventure Path, (see
+      the campaign summary on page 76).
+
+      The poison’s current formulation has a short half-life.  If knocked
+      unconscious or restrained, creatures affected by the virus recover in a
+      day or two.  None of the escaped creatures are currently capable of
+      spreading the blight.
+
+  - Book 3, pg 5: Heading, "The Blackfinger Blight Bomb"
+
+
+#+END_COMMENT
+*** Wrent Dicaspiron ("The Skinner")
 *** Harlo Doleen
 
 #+BEGIN_QUOTE
@@ -234,7 +291,7 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 
 It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
 
-*** (Godless Graycloak's) Captain Runewulf (N male human barbarian 13)
+*** (Godless Graycloak's) Captain Runewulf — N male human barbarian 13
 
 #+BEGIN_QUOTE
 "as he is more colloquially known, Runewulf the Unbeliever."
