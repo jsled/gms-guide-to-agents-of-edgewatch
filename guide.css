@@ -1,10 +1,14 @@
 BODY {
-    margin-left: 20%;
-    margin-right: 20%;
-    font-family: sans-serif;
+    // margin-left: 20%;
+    // margin-right: 20%;
+    // font-family: sans-serif;
 }
 
 BLOCKQUOTE {
-    border-left: solid 3px darkgreen;
-    padding-left: 2em;
+    // border-left: solid 3px darkgreen;
+    // padding-left: 2em;
+}
+
+BLOCKQUOTE {
+    font-style: normal;
 }

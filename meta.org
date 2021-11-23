@@ -756,7 +756,23 @@ Cheers…
   - On reddit, ${@author:reddit-u-larstr0n} <a href="http:cite:[…]">strongly advises…</a>
 
 *** presentation
-**** responsive stylesheet
+**** stylesheet
+- properties
+  - simple
+  - robust
+  - "tweakable"
+
+- candidates
+  - https://simplecss.org/
+**** left-hand nav menu
+
+- properties
+  - built dynamically from headings
+  - controllable via heading attributes
+
+- examples
+  - (current) CSS specs
+
 *** organization
 **** TODO create an index across all the APs
 
