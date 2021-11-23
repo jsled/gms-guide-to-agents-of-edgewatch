@@ -841,10 +841,17 @@ On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fi
 ** Book 1
 *** Book 1, Chapter 1
 
-- The name of the pub in the first encounter is listed as "The Arcadian" on page [FIXME], but it is the Tipsy Tengu elsewhere.
+- The name of the pub in the first encounter is [[http:cite:paizo-aoe-book1#page=89][referred to as "the Arcadian" in the description of Pratchett on page 89 of Book 1]], but it is the Tipsy Tengu elsewhere.
+
+*** Book 1, Chapter 2
+
+- The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
 ** Book 2
 *** Book 2, Chapter 4
+
+- In D15 (Sanctuary), one of the cadets is listed as "Kirsta Malopedes" but referred to later in the text as "Cadet Pennington".
+  — cite:paizo-aoe-book2#page=41
 
 - War Razors are listed in stat blocks as doing "piercing" damage; it should be "slashing".
   #+BEGIN_QUOTE
