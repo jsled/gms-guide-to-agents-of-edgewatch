@@ -2,48 +2,15 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
 #+TITLE: The GM's Guide to "Agents of Edgewatch"
-* Meta
-** Licensing
-
-This work is generally licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons By-Attribution Non-Commercial Share-Alike, International, Version 4.0]].
-
-This works is a collection of quotes, links and original content regarding running the Paizo Adventure Path /Agents of Edgewatch/.
-
-Copyright of the quoted forum posts and comments is held by the respective original authors.
-
-Block quotes appearing herein have been licensed by the authors, generally in terms "compatible with Creative Commons By-Attribution, Share-Alike, Non-Commerical, version 4.0". See "meta" for more details.
-
-#+BEGIN_COMMENT
-FIXME: link to meta, license attestations
-- link directly to github
-#+END_COMMENT
-
-This work – "The GM's Guide to /Agents of Edgewatch/" – uses trademarks and/or copyrights owned by Paizo Inc., used under [[https://paizo.com/community/communityuse][Paizo's Community Use Policy (paizo.com/communityuse)]]. We are expressly prohibited from charging you to use
-or access this content. "The GM's Guide to /Agents of Edgewatch/" is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [[https://paizo.com/][paizo.com]].
-
-#+BEGIN_COMMENT
-FIXME:
-> You agree to create an account on paizo.com and add an entry describing your material on our Community Use Registry at paizo.com/community/communityuse/registry, with links where appropriate.
-#+END_COMMENT
-
+* Introduction
 ** Spoiler Warning
 
 You're viewing a community-sourced Gamemaster's Guide to running the /Agents of Edgewatch/ Adventure Path from Paizo.
 
 **This is entirely spoilers, by definition.**
 
-** Sources and Contributing
-
-The source repository of this Guide is https://github.com/jsled/gms-guide-to-agents-of-edgewatch.
-Contributions as pull requests are welcome. Contributions in other forms will be considered.
-
-The primary hosting of this Guide is https://asynchronous.org/gms-guide-to-agents-of-edgewatch.
-
-** Editor
-
-The editor of this Guide is [[http://asynchronous.org/jsled][jsled]].
-
-* Adventure Path Length
+* Meta
+** Adventure Path Length
 
 This – of course – is going to vary dramatically based on the table at which the game is being run, how many side-quests and how much character-service is done, &c.
 
@@ -64,31 +31,32 @@ On Reddit, u/DragoldC42's group took 9 months…
 Last Friday I have finished running a 9-month long campaign in agents of edgewatch.
 #+END_QUOTE
 — cite:reddit-n39df5
+** Difficulty
 
-* On Role-Playing Police
-*** Policing
-*** Requisitioning and Civil Asset Forfeiture
+Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
 
-#+BEGIN_QUOTE
-- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
-#+END_QUOTE
-— cite:reddit-n39df5
+- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
 
-*** Non-Lethal Damage
-* Geography
-** Absalom
-** Precipice Quarter
-*** Edgewatch Station / Headsquarters
+- The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
-#+BEGIN_COMMENT
-- "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
-  My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
-- https://paizo.com/threads/rzs434ha?Community-Created-Content#3
-#+END_COMMENT
+*** Encounter Rebalancing
+In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
 
-* Timeline
-** Official
-** Unofficial
+- the PF2 math is too tight for even-stronger enemies
+- too hard to land hits, too high chances of crits (both directions)
+
+Thoughout this guide, we'll give notes on how others re-balanced.
+
+** On Role-Playing Police
+**** Policing
+**** Requisitioning and Civil Asset Forfeiture
+
+ #+BEGIN_QUOTE
+ - The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+ #+END_QUOTE
+ — cite:reddit-n39df5
+
+**** Non-Lethal Damage
 * Enemy Makeup and Composition
 
 #+BEGIN_COMMENT
@@ -118,23 +86,20 @@ On the other hand, it does lead to lots of enemies with poison resistance…
 resisting enemies in this campaign)
 #+END_QUOTE
 — cite:reddit-n39df5
+* Geography
+** Absalom
+** Precipice Quarter
+*** Edgewatch Station / Headsquarters
 
-* Difficulty
+#+BEGIN_COMMENT
+- "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
+  My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
+- https://paizo.com/threads/rzs434ha?Community-Created-Content#3
+#+END_COMMENT
 
-Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
-
-- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
-
-- The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
-
-** Encounter Rebalancing
-In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
-
-- the PF2 math is too tight for even-stronger enemies
-- too hard to land hits, too high chances of crits (both directions)
-
-Thoughout this guide, we'll give notes on how others re-balanced.
-
+* Timeline
+** Official
+** Unofficial
 * NPCS
 ** Primary / Major
 *** Grospek Lavarsus
@@ -870,3 +835,37 @@ On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fi
   OK, I thought I was losing my mind reading through the Sanctum, last night, but War Razors are typoed consistently in this book as being Piercing weapons. AoN has them as Slashing, as is, of course, the only reasonable option.
   #+END_QUOTE
   — cite:paizo-forums-rzs4349c-59
+
+* Colophon
+** Licensing
+
+This work is generally licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons By-Attribution Non-Commercial Share-Alike, International, Version 4.0]].
+
+This work is a collection of quotes, links and original content regarding running the Paizo Adventure Path /Agents of Edgewatch/.
+
+Copyright of the quoted forum posts and comments is held by the respective original authors.
+
+Block quotes appearing herein have been licensed by the authors, generally in terms "compatible with Creative Commons By-Attribution, Share-Alike, Non-Commerical, version 4.0". See "meta" for more details.
+
+#+BEGIN_COMMENT
+FIXME: link to meta, license attestations
+- link directly to github
+#+END_COMMENT
+
+This work – "The GM's Guide to /Agents of Edgewatch/" – uses trademarks and/or copyrights owned by Paizo Inc., used under [[https://paizo.com/community/communityuse][Paizo's Community Use Policy (paizo.com/communityuse)]]. We are expressly prohibited from charging you to use
+or access this content. "The GM's Guide to /Agents of Edgewatch/" is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [[https://paizo.com/][paizo.com]].
+
+#+BEGIN_COMMENT
+FIXME:
+> You agree to create an account on paizo.com and add an entry describing your material on our Community Use Registry at paizo.com/community/communityuse/registry, with links where appropriate.
+#+END_COMMENT
+** Sources and Contributing
+
+The source repository of this Guide is https://github.com/jsled/gms-guide-to-agents-of-edgewatch.
+Contributions as pull requests are welcome. Contributions in other forms will be considered.
+
+The primary hosting of this Guide is https://asynchronous.org/gms-guide-to-agents-of-edgewatch.
+
+** Editor
+
+The editor of this Guide is [[http://asynchronous.org/jsled][jsled]].

@@ -698,7 +698,6 @@ Cheers…
 
 > Please! Just make sure to give the credit to KM Kovalcik (my real name). I actually do some game writing, so it'd be nice for that to be found.
 * plan
-
 - OGL. CUP.
 - source-structure
   - citations
@@ -707,6 +706,30 @@ Cheers…
 - hosting
 - later
   - presentation/style
+* outline
+
+- introduction
+- overview
+- plot outline and notes
+  - book 1
+  - book 2
+  - ...
+  - book 6
+- index
+  - characters
+  - locations
+- resources
+- errata
+- colophon
+
+
+- enemy composition
+- party composition
+
+- geography
+- timeline
+
+
 * technology selection
 ** sketch
 - key requirements
