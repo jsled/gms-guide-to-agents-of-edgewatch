@@ -1096,17 +1096,15 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
 [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][u/narchy created and shared a wonderful video of their party's Agents, in celebration of getting to book 3: "Edgewatch Nights".]]
 
 * Unofficial Errata
-** Book 1
-*** Book 1, Chapter 1
+** Book 1, Chapter 1
 
 - The name of the pub in the first encounter is [[http:cite:paizo-aoe-book1#page=89][referred to as "the Arcadian" in the description of Pratchett on page 89 of Book 1]], but it is the "Tipsy Tengu" everywhere else, of course.
 
-*** Book 1, Chapter 2
+** Book 1, Chapter 2
 
 - The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
-** Book 2
-*** Book 2, Chapter 4
+** Book 2, Chapter 4
 
 - In D15 (Sanctuary), one of the cadets is listed as "Kirsta Malopedes" but referred to later in the text as "Cadet Pennington".
   — cite:paizo-aoe-book2#page=41
