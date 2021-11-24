@@ -644,7 +644,7 @@ Here's some potential obstacles for this chase scene along with some example che
 — cite:paizo-rzs4349b_441
 
 ** Book 2: "Sixty Feet Under"
-*** Book 2, Chapter 1: "The Unusual Suspects"
+*** Book 2, Chapter 1: "The Unusual Suspects" / Bank Robbery Investigation
 
 While ultimately pretty linear, this chapter has a bit of an open-world / sandbox feel, putting choice into the party's hands.
 
@@ -660,14 +660,14 @@ is a very strong point in this book- a less structured investigation sequence ga
   - [next post]
     - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
     - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
-*** Book 2, Chapter 2: "A Penny Saved"
+*** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
 
 #+BEGIN_QUOTE
 The robbery itself is okey - The robber's plan is kinda silly and they are bound to fail, but it felt good having the party stop them and save the day anyway. I feel that a GM taking the time to improve this scene could make it into a much better moment than I had.
 #+END_QUOTE
 — cite:reddit-n39df5
 
-*** Book 2, Chapter 3: "Caught Copper-Handed"
+*** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
 
 #+BEGIN_QUOTE
 felt a bit disappointing in my group, because there was an expectation that another investigative part would follow the format of chapter 1. But the infiltration into the copper hands hideout was still an enjoyable dungeon. Our unlucky elf rouge got a minor case of lycanthropy from this part though- nothing a visit to a temple could not fix, but this could have messed with some plans.
@@ -681,7 +681,7 @@ For the past few months, she explains, the Copper Hand has worked with a murdere
 #+END_QUOTE
 — cite:paizo-aoe-book2#page=27
 
-*** Book 2, Chapter 4: "Descent into Death"
+*** Book 2, Chapter 4: "Descent into Death" / The Catacombs and The Skinner
 **** The Catacombs
 
 You'll probably definitely want to get a read on your group's (dis)like of dungeon crawls for this one. The dungeon itself is large, and there are random-encounter tables. To give you a sense…
