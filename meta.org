@@ -694,7 +694,7 @@ Cheers…
 *** [[https://www.reddit.com/message/messages/166wlr2][response]]
 
 > Please! Just make sure to give the credit to KM Kovalcik (my real name). I actually do some game writing, so it'd be nice for that to be found.
-** PROG u/Kyo_Yagami068, 2021-11-24
+** DONE u/Kyo_Yagami068, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s0swx][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -733,6 +733,7 @@ Please let me know if you have any questions, of course.
 
 Cheers…
 …jsled
+*** [[https://www.reddit.com/message/messages/17s22l1][response]]: +1
 ** PROG u/OmniscientIce, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s1arb][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch

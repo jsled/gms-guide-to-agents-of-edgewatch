@@ -759,7 +759,14 @@ I think providing/encouraging the party to get Holy Water is the best way to mak
 
 -----
 
-With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about what types of damage your party can do, vs. what Tyrroicese is immune to.]]
+With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about what types of damage your party can do, vs. what Tyrroicese is immune to…]]
+
+#+BEGIN_QUOTE
+That didn't went well in my group. We had two damage dealers in our group at that time, two fighters. One used a great pick and the other used arrow. So that creature was immune to the main damage dealers of the party.
+
+I had to go out of Encounter Mode and we started a skill challange scene... Up to this day my players remember that fight as "how unfair is PF2e". I wished I have removed that creature from the adventure.
+#+END_QUOTE
+— cite:reddit-pxcik6-hen4otc
 
 -----
 
