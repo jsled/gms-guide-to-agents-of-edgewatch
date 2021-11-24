@@ -76,19 +76,98 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 
 **** Non-Lethal Damage
 * Enemy Makeup and Composition
+** Book 1
 
-#+BEGIN_COMMENT
-(FIXME: present this tabularly
-  - table
-    | *Creature* | *Type* | *Book 123456* | *human* | *undead* | *fey* | ... |
-#+END_COMMENT
+*Summary by Type*
+
+    | *type*         | *ch 1* | *ch 2* | *ch 3* | *ch 4* |
+    | *humanoid*     |      8 |     15 |      4 |      4 |
+    | *aberration*   |      1 |        |      1 |      1 |
+    | *animal/beast* |      8 |      4 |      2 |      1 |
+    | *construct*    |        |        |        |      4 |
+    | *devil*        |        |        |        |      1 |
+    | *elemental*    |        |        |        |      2 |
+    | *fey*          |        |        |        |      1 |
+    | *fiend*        |        |        |      2 |        |
+    | *ooze*         |        |        |      1 |      1 |
+    | *undead*       |      4 |        |      3 |        |
+
+
+    | *chapter 1*          |  *lvl* | *traits*                |
+    |----------------------+--------+-------------------------|
+    | 6× Human             | -1 - 2 | humanoid                |
+    | 2× Goblin            |     -1 | humanoid                |
+    | 4× Skeleton          |     -1 | undead                  |
+    | 1× Cockatrice        |      3 | animal/beast            |
+    | 1× Owlbear           |      3 | animal/beast            |
+    | 1× Rust Monster      |      4 | aberration              |
+    | 2× Hyenas            |      0 | animal/beast            |
+    | 1× Giant Viper       |      2 | animal/beast            |
+    | 1× Almiraj           |      1 | animal/beast            |
+    | 1× Flash Beetle      |     -1 | animal/beast            |
+    | 1× Ankhrav           |      3 | animal/beast            |
+    |----------------------+--------+-------------------------|
+    | *chapter 2*          |  *lvl* | *traits*                |
+    |----------------------+--------+-------------------------|
+    | 15× Kobold           |  0 - 2 | humanoid                |
+    | 1× Hunting Spider    |      1 | animal/beast            |
+    | 3× Bloodseeker       |     -1 | animal/beast            |
+    | FIXME: hazards       |        |                         |
+    |----------------------+--------+-------------------------|
+    | *chapter 3*          |  *lvl* | *traits*                |
+    |----------------------+--------+-------------------------|
+    | 1× Gelatinous Cube   |      3 | ooze                    |
+    | 3× Ghoul             |      1 | undead                  |
+    | 2× Ratfolk           |      2 | humanoid                |
+    | 2× Calgini Creepers  |      2 | humanoid                |
+    | 2× Vargouilles       |      2 | animal/beast, fiend     |
+    | 1× Grick             |      3 | aberration              |
+    |----------------------+--------+-------------------------|
+    | *chapter 4*          |  *lvl* | *traits*                |
+    |----------------------+--------+-------------------------|
+    | 1× Mimic             |      4 | aberration              |
+    | 1× Hidden Chute      |      3 | hazard                  |
+    | 1× Flying Guillotine |      5 | hazard                  |
+    | 2× Summoning Rune    |      5 | hazard                  |
+    | 2× Cinder Rat        |      3 | elemental               |
+    | 1× Barbazu Devil     |      5 | devil, fiend            |
+    | 1× Canopy Drop       |      4 | hazard                  |
+    | 1× Giant Viper       |      2 | animal/beast            |
+    | 2× Humanoid          |      2 | humanoid                |
+    | 1× Redcap            |      4 | fey                     |
+    | 1× Ralso             |      4 | humanoid                |
+    | 2× Soulbound Dolls   |      2 | construct               |
+    | 1× Attic Whisperer   |      4 | undead                  |
+    | 2× Animated Statue   |      3 | construct               |
+    | 1× Gas Trap          |      5 | hazard                  |
+    | 1× Plunger Chute     |      3 | hazard                  |
+    | 6× Pickled Punk      |      1 | undead                  |
+    | 4× Shredskin         |      2 | undead                  |
+    | 1× Ochre Jelly       |      6 | ooze                    |
+    | 3× Wight             |      3 | undead                  |
+    | 1× Binumir           |      3 | undead                  |
+    | 1× Henrid Pratchett  |      6 | humanoid, serial killer |
+
+** Book 2
+
+    | *Creature*      | *Level* | *Ch* | *traits*     |
+    |-----------------+---------+------+--------------|
+    | 2× Wasp Swarm   |       4 |  2-1 | animal/beast |
+    | 2× Ether Spider |       4 |  2-1 | animal/beast |
+    | 1× Xill         |       6 |  2-1 | aberration   |
+    | 2× Riding Dog   |       2 |  2-1 | animal/beast |
+    | 15× Humanoid    |     2-5 |  2-1 | humanoid     |
+    | 1× Bunyip       |       3 |  2-1 | animal/beast |
+
 * Party Makeup and Composition
 
 #+BEGIN_COMMENT
 - Alchemist
   - Norgorber, Blackfingers
   - Noxious Retort - Book 4
+
 - Alchemist; Poisoner Archetype
+
 - Champion
   - Undead?
 #+END_COMMENT
