@@ -1016,7 +1016,7 @@ The final clue is the new PC joining the ranks
  - [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
 
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
 *** TODO [[https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned][paizo.com … "Outmanned, outgunned, outnumbered, outplanned! (SPOILERS)"]]
 
  - Zandu the Devourer:

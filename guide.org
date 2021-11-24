@@ -19,7 +19,7 @@ See the [[Colophon][Colophon]] for how you can help contribute.
 _Agents of Edgewatch_ is the story of the player characters -- the titular
 Agents of Edgewatch -- and their journey to understand and defeat the threat
 of the Twilight Four, a cabal of devotees of Norgorber in their attempt to
-take control of Absalom.
+take control of the Primarchy of Absalom.
 
 In Book 1, the Agents will come up through the ranks.
 
@@ -32,6 +32,23 @@ In Book 4, the Agents will infiltrate The Infector's temple, capture, and hold t
 In Book 5, the Agents will first infiltrate and then break out of Absalom's high-security prison, then turning their attention to the third of the Twilight Four — The Rumormonger.
 
 In Book 6, the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four — The Gray Queen, newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
+
+----------
+
+The [[http:cite:reddit-pabt0r][AP doesn't make it in-your-face obvious up front about the goals of the Twilight Four or their pact with Norgorber]]. Only in the Toolbox entry for Olansa Terimor is the compact revealed…
+
+#+BEGIN_QUOTE
+While most who aspire to divinity in Absalom dream of passing the Test of the
+Starstone, Olansa’s aspirations were both much more direct and much more
+grounded. She pledged her soul to the Gray Master alongside the other members
+of the Twilight Four so that when they collectively overthrew Absalom’s
+rightful standing primarch and installed one of their own into power, they
+would each receive a gift of immense divine power. There would be no need to
+dare the unknown dangers within the Starstone Cathedral—only a single
+momentous act of devotion to the God of Thieves.
+#+END_QUOTE
+— cite:paizo-aoe-book6#page=90
+
 * Meta
 ** Adventure Path Length
 
