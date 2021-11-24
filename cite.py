@@ -50,7 +50,7 @@ class Transformer (object):
                 else:
                     # prefix must be dashes
                     try:
-                        replacement = f'''<a data-cite="{cite_ref}" href="{cite['url']}">— {cite['author']}, {cite['date']}</a>'''
+                        replacement = f'''<p><cite><a data-cite="{cite_ref}" href="{cite['url']}">— {cite['author']}, {cite['date']}</a></cite></p>'''
                     except KeyError as e:
                         self._log.error(f'key error for citation [{cite_ref}]', e)
                 try:

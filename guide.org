@@ -46,8 +46,8 @@ rightful standing primarch and installed one of their own into power, they
 would each receive a gift of immense divine power. There would be no need to
 dare the unknown dangers within the Starstone Cathedral—only a single
 momentous act of devotion to the God of Thieves.
-#+END_QUOTE
 — cite:paizo-aoe-book6#page=90
+#+END_QUOTE
 
 * Meta
 ** Adventure Path Length
@@ -63,8 +63,8 @@ This seems to be supported by the experience at some tables, with people reporti
 On Reddit, u/DragoldC42's group took 9 months for the entire AP:
 #+BEGIN_QUOTE
 Last Friday I have finished running a 9-month long campaign in agents of edgewatch.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 [[http:cite:reddit-q9a8a1][u/Merithras asked a question that got some good responses, as well.]]
 
@@ -78,22 +78,21 @@ Like many APs, the Agents of Edgewatch is considered by some to be … "tuned ho
 
 - [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
 
-*** Encounter Rebalancing
+----------
+
 In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
 
 - the PF2 math is too tight for even-stronger enemies
 - too hard to land hits, too high chances of crits (both directions)
 
-Thoughout this guide, we'll give notes on how others re-balanced.
-
 ** On Role-Playing Police
 **** Policing
 **** Requisitioning and Civil Asset Forfeiture
 
- #+BEGIN_QUOTE
- - The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
- #+END_QUOTE
- — cite:reddit-n39df5
+#+BEGIN_QUOTE
+- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+— cite:reddit-n39df5
+#+END_QUOTE
 
 **** Non-Lethal Damage
 ** United Paizo Workers
@@ -201,10 +200,9 @@ The Temple of Norgorber and NPCs in the AP can be used to great effect to provid
 On the other hand, "DragoldC42" points out that this does lead to lots of enemies with poison resistance…
 
 #+BEGIN_QUOTE
-([Poisoner-archetype was] Bad choice for the AP in retrospect, there are a metric ton of poison
-resisting enemies in this campaign)
-#+END_QUOTE
+([Poisoner-archetype was] Bad choice for the AP in retrospect, there are a metric ton of poison resisting enemies in this campaign)
 — cite:reddit-n39df5
+#+END_QUOTE
 
 ** Champion
 
@@ -253,37 +251,46 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 - Token Guard
 - Book 2, Chapters 1-2
   - Bank leads, Bank Robbery
-* Timeline
-** Official
-** Unofficial
 * NPCS
 ** Primary / Major
 *** Grospek Lavarsus
 #+BEGIN_QUOTE
 - Lavarsus ends up getting manipulated by the antagonists and arresting the
   wrong person. Play up Lavarsus as full of pride and incompetent
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Hendrid Pratchett
-
 #+BEGIN_QUOTE
-I have to say, Hendrid Pratchett is one of the scariest and abhorrent monsters I've ever seen for Pathfinder. Facing this guy is worse than facing a Shoggoth, at least you expect the eldritch horror to come if facing one of them or know that they're around.
+I have to say, Hendrid Pratchett is one of the scariest and abhorrent monsters
+I've ever seen for Pathfinder. Facing this guy is worse than facing a
+Shoggoth, at least you expect the eldritch horror to come if facing one of
+them or know that they're around.
 
-This guy is an act to follow for Chaotic Evil Villians, he's a charismatic manipulator to where he's easily so trustworthy to any person that would interact with him, yet so demented that the more you begin to peel away at his alibi and hotel, the darker tones start to kick in and break away at you mentally with each of his heinous crimes.
+This guy is an act to follow for Chaotic Evil Villians, he's a charismatic
+manipulator to where he's easily so trustworthy to any person that would
+interact with him, yet so demented that the more you begin to peel away at his
+alibi and hotel, the darker tones start to kick in and break away at you
+mentally with each of his heinous crimes.
 
-His form of revenge on getting hit with a mug is peeling away the skins of the four adventurers or mentally torturing two people to kill each other and make fake escape attempts that end up in vain, only for them to become scarred that they can't even trust the help that comes to save them. The fact that he keeps Ralso tied psychologically by having two dolls to act as her replacement sisters and his other demented works of art. And let's not forget the two ghosts he keeps as children to see him as a father figure.
+His form of revenge on getting hit with a mug is peeling away the skins of the
+four adventurers or mentally torturing two people to kill each other and make
+fake escape attempts that end up in vain, only for them to become scarred that
+they can't even trust the help that comes to save them. The fact that he keeps
+Ralso tied psychologically by having two dolls to act as her replacement
+sisters and his other demented works of art. And let's not forget the two
+ghosts he keeps as children to see him as a father figure.
 
 James, congratulations. I am literally scared of this guy.
 
+— cite:paizo-rzs4349b-41
 #+END_QUOTE
 
-Volusto 	Aug 4, 2020, 12:33 am https://paizo.com/threads/rzs4349b?1-Devil-at-the-Dreaming-Palace#41
 *** Radiant Festival
 #+BEGIN_QUOTE
 - The story of how the radiant festival started gets explored in book 6. I had
   a float featuring the half-angel in the parade
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Festival Committee / Grand Council
 
 #+BEGIN_QUOTE
@@ -292,15 +299,15 @@ Volusto 	Aug 4, 2020, 12:33 am https://paizo.com/threads/rzs4349b?1-Devil-at-the
   interacted with early. I had my PCs give a brief 5 minute presentation in
   front of the radiant festival committee at the palace in Wise Quarter about
   their discovery of a potential bank heist plot.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** The Black Whale
 #+BEGIN_QUOTE
 - The Black Whale is a prison for important political prisoners that is
   visited in book 5. Give it a brief mention maybe at some point when
   appropriate.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Jonas Flakfatter ("The Infector" / "Father Infector")
 *** Starwatch, Starwatch Keep
 #+BEGIN_QUOTE
@@ -308,8 +315,8 @@ Volusto 	Aug 4, 2020, 12:33 am https://paizo.com/threads/rzs4349b?1-Devil-at-the
   where they'll get some offices of their own. Have them visit it early on if
   they want or make sure they've heard it at least. Same goes for Fort
   Tempest, make sure they've heard it exists.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 
 *** Olansa Terimor ("The Gray Queen") — L20 NE female human city planner, master thief
 *** Reginald Vancaskerkin ("The Rumormonger")
@@ -322,8 +329,8 @@ Volusto 	Aug 4, 2020, 12:33 am https://paizo.com/threads/rzs4349b?1-Devil-at-the
   Vancaskerkin will show up and warn the PCs about Pratchett trying to publish
   his memoirs from prison to create a favourable impression to the public
   before his upcoming trial.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 ** Secondary / Minor
 *** Captain Asilia of Gyr, Starwatch — N female human ranger 12
 
@@ -333,8 +340,8 @@ tricorn sits behind a broad, imposing desk.  She stands and introduces herself
 as Captain Asilia of Gyr (N female human ranger 12), leader of Starwatch and
 commander of the warship Hurricane Wings, and gestures for the agents to sit
 down, gesturing to the room’s comfortable chairs.
-#+END_QUOTE
 — cite:paizo-aoe-book3#page=6
+#+END_QUOTE
 
 #+BEGIN_COMMENT
 
@@ -385,8 +392,8 @@ If your party has an Alchemist or Investigator, they might get curious to follow
   twist. I made him be an acquaintance to one of the PCs. The PC used to be a
   slave and Harlo used to be his master. They have an awkward relationship now
   after not seeing each other for more than 3 years.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Blood City Games / Irorium
 
 #+BEGIN_QUOTE
@@ -394,16 +401,16 @@ If your party has an Alchemist or Investigator, they might get curious to follow
   mention it a few times. I had Oggrum (one of the gladiators the PCs will
   have to fight eventually) get a float in the radiant parade advertising his
   exploits.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Noxious Retort / Temple of Norgorber
 #+BEGIN_QUOTE
 - The Noxious Retort is an annual alchemical conference taking place at the
   Blackfingers temple. It will be showcased in book 4. Make sure your players
   learn about it beforehand if they are into alchemy or if they try to learn
   about Norgorber temples in the city.
-#+END_QUOTE
 —- cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** House of the Planes
 
 #+BEGIN_QUOTE
@@ -411,8 +418,8 @@ If your party has an Alchemist or Investigator, they might get curious to follow
   probably be mentioned a few times. In book 2 I had my PCs track down one of
   the smugglers there after a botched attempt to raid their base of
   operations.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Lucky Nimbus Casino
 #+BEGIN_QUOTE
 - The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
@@ -427,16 +434,16 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
 
 #+BEGIN_QUOTE
 "as he is more colloquially known, Runewulf the Unbeliever."
-#+END_QUOTE
 — cite:paizo-aoe-book2#page=28
+#+END_QUOTE
 
 *** Beldrin's Tower (Precipice Quarter)
 #+BEGIN_QUOTE
 - Beldrin's tower in Precipice Quarter ends up being the place of the final
   confrontation. It should at least be mentioned earlier, implant the idea of
   visiting it for a tour while the festival is going on.
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 * Plot Notes
 ** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
@@ -471,8 +478,8 @@ The encounter serves two purposes:
   adventure named this way does not give much room to doubt. I found it not
   really disrupting, as the players could make some disconnect, but for another
   GM I would advise to just change the name of Pratchett's hotel.
+  — cite:reddit-n39df5
   #+END_QUOTE
-  --- cite:reddit-n39df5
 
 - Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
 
@@ -487,8 +494,8 @@ You have some options.
 - the deadly zoo encounter- which includes two different monsters with the ability to petrify the party as well as a buffed rust monster, against which the party has to pace without a real chance to take 10 minutes of rest- is too much for most level 1 parties, including mine.
 
 I gave my players the option to just tie up the monsters with rope after a successful grapple check, and this gave a much easier win condition to the combats while still being hard enough considering they had to go all over the zoo with no rests.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 **** The Graveraker goes missing
 
@@ -502,8 +509,8 @@ Many folks recommend making more of a point of it.
 
 #+BEGIN_QUOTE
 - The Graveraker becomes an important plot point in the 4th and 6th books, Yet after it disappears somewhere in the start of this book, no mention of it exists in the AP for three whole books- at least not in a way major enough to remind the players it exists. My group totally forgot about it by the point the twists happened. I would advice all GMs running the AP to find ways to bring the Graveraker up a few times. Also, no art of the Graveraker exists in the AP at all. I would have really liked to see what it is like!
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#447][GreatGraySkwid has some good perspective about the Gravewalker going missing, here…]]
 #+BEGIN_QUOTE
@@ -512,8 +519,8 @@ that the actually qualified Agents of Edgewatch (i.e., not "our" party) can
 be dedicated to tracking down an established and well-known exhibit of the
 Festival, leaving our teams of rookie misfits to investigate a batch of
 people who may or may not actually be missing.
-#+END_QUOTE
 — cite:paizo-rzs4349b--447
+#+END_QUOTE
 
 #+BEGIN_QUOTE
 - The Graveraker will show up again in book 4. Show Bolera working on the
@@ -522,8 +529,8 @@ people who may or may not actually be missing.
   Graveraker theft happened at the same time, interviewing the inventor and
   making some vague references about a missing power source and the
   involvement of the radiant festival committee
-#+END_QUOTE
 — cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
@@ -544,9 +551,9 @@ In terms of priority, the following things "must" happen here:
 - The party should meet Reginald Vancaskerkin, and ideally they should /like/ him.
 
   #+BEGIN_QUOTE
-  -Reginald Vancaskerkin is described in the book as someone who is "oily, nosy, and of questionable moral fiber", while the later books seem to think he has become a fan and friend of the party, at least until he backstabs them. I would advice playing him as someone who your players would like, and not a walking red flag as my reading of the first book alone implied to me.
+  - Reginald Vancaskerkin is described in the book as someone who is "oily, nosy, and of questionable moral fiber", while the later books seem to think he has become a fan and friend of the party, at least until he backstabs them. I would advice playing him as someone who your players would like, and not a walking red flag as my reading of the first book alone implied to me.
+  — cite:reddit-n39df5
   #+END_QUOTE
-  --- cite:reddit-n39df5
 
 - The party should find out that Ralso fenced some Minkainan stone mason tools, and she works at the Dreaming Palace.
 
@@ -579,17 +586,17 @@ Be kind.
 
 #+BEGIN_QUOTE
 My issue is with the fact that the players are supposed to get from lvl 3 to lvl 4 mid dungeon but there are 2 occasions in which they might skip right trough. It would be climactic for sure to meet the final boss right away but it would spell the end of them as well
-#+END_QUOTE
 — cite:reddit-ojp6to
+#+END_QUOTE
 
-[[http:cite:reddit-ojp6to-h5354t4][u/Naurgul has some good advice if players get too close to Pratchett too soon.]]
+[[http:cite:reddit-ojp6to-h5354t4][u/Naurgul has some good advice if players get too close to Pratchett too soon…]]
 
 #+BEGIN_QUOTE
 - First of all, the PCs aren't that likely to fall into the pit traps, especially the second one leading directly to the chamber next to Pratchett. After falling into one or two traps they will probably stop barging into the rooms haphazardly.
 
 - Second, they can always run away upstairs. Just make sure to use descriptions to give them subtle hints that Pratchett lies behind that final door.
-#+END_QUOTE
 — cite:reddit-ojp6to-h5354t4
+#+END_QUOTE
 
 **** Hendrid Pratchett encounter
 
@@ -603,16 +610,16 @@ on thematic and interesting things that aren't attacks. Especially if they
 end up harassing the players or making the characters angry at him. He
 shouldn't be taking the party seriously, and should be trying to taunt them
 at least in the start of the fight.
-#+END_QUOTE
 — cite:reddit-otxspj-h70146j
+#+END_QUOTE
 
 This goes both ways, too. As in PF2 generally: the party using actions to force /enemies/ to spend actions is of good utility.
 
 [[http:cite:reddit-otxspj-h71hhre][u/mads838 agrees]]:
 #+BEGIN_QUOTE
 The group i played in managed it. But it was tough as All hell. Try to convince you players to start using stuff like grapple, trip or disarm. Actions wasted because of those are actions he isnt using to kill the players.
-#+END_QUOTE
 — cite:reddit-otxspj-h71hhre
+#+END_QUOTE
 
 --------------------------------------------------
 
@@ -620,20 +627,20 @@ The Binumir are also a challenge.
 [[http:cite:reddit-otxspj-h7jg3rc][As u/narchy notes]]:
 #+BEGIN_QUOTE
 The ghost twins scream is a REALLY nasty one. The fighter and champion in our group failed the save, which means no AoO or Retributive Strike.
-#+END_QUOTE
 — cite:reddit-otxspj-h7jg3rc
+#+END_QUOTE
 
 [[http:cite:reddit-otxspj-h6yiyr8][u/Naurgul has some advice]]:
 #+BEGIN_QUOTE
 The fight gets much easier if the PCs take out the children twin ghosts he has with him with RP instead of fighting. If they are reminded of their former lives they don't attack. So maybe give them a few extra hints about that. For example if they try to recall knowledge on them ask if they use society or religion; a successful society check should be enough to remind them of the twins they read about in their missing persons reports.
-#+END_QUOTE
 — cite:reddit-otxspj-h6yiyr8
+#+END_QUOTE
 
 And [[http:cite:reddit-larstr0n-otxspj-h6ygq77][u/larstr0n (GM, Tabletop Gold podcast) recommends using the Binumir the scale the combat on the fly]]:
 #+BEGIN_QUOTE
 If you're concerned about Pratchett, there’s a lot of room to run his ghost twins suboptimally and use them to ratchet the tension up and down depending on what level of peril you’re looking for.
-#+END_QUOTE
 — cite:reddit-larstr0n-otxspj-h6ygq77
+#+END_QUOTE
 
 Stepping back a bit, [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/h6zoyve/?utm_source=reddit&utm_medium=web2x&context=3][u/Unconfidence finds this encounter "exemplary of the stuff I don't like about Paizo's APs."]]:
 #+BEGIN_QUOTE
@@ -649,8 +656,8 @@ serious risk of a few bad rolls dooming a character or a party, despite any
 of their best choices. I would seriously suggest any DM running this
 consider putting Alchemical Antidotes or something of the sort somewhere in
 the Inn, or I dunno, something.
-#+END_QUOTE
 — cite:reddit-otxspj-h6zoyve
+#+END_QUOTE
 
 [On Rebalancing]
 
@@ -658,8 +665,8 @@ the Inn, or I dunno, something.
 [[http:cite:reddit-otxspj-h6z514n][u/SighJayAtWork describes]]:
 #+BEGIN_QUOTE
 I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
-#+END_QUOTE
 — cite:reddit-otxspj-h6z514n
+#+END_QUOTE
 
 **** Pratchett Chase
 
@@ -671,8 +678,8 @@ Here's some potential obstacles for this chase scene along with some example che
 - flaming mass (acrobatics to jump through, athletics make a path, or they can just walk through it and take some damage)
 - Pratchett throws down the shelves with the jars in E31 (Athletics to throw them out of the way, Acrobatics to squeeze through the gaps, maybe some spell)
 - leftover monsters attack (acrobatics to tumble through, Athletics to shove away, recall knowledge or deception to distract them)
-#+END_QUOTE
 — cite:paizo-rzs4349b_441
+#+END_QUOTE
 
 ** Book 2: "Sixty Feet Under"
 *** Book 2, Chapter 1: "The Unusual Suspects" / Bank Robbery Investigation
@@ -681,8 +688,8 @@ While ultimately pretty linear, this chapter has a bit of an open-world / sandbo
 
 #+BEGIN_QUOTE
 is a very strong point in this book- a less structured investigation sequence gave an almost "open world" feeling while playing, with the party able to choose the pace and theorize on where the robbery will take place. Running this section was a lot of fun for me!
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 **** FIXME
 
@@ -695,22 +702,22 @@ is a very strong point in this book- a less structured investigation sequence ga
 
 #+BEGIN_QUOTE
 The robbery itself is okey - The robber's plan is kinda silly and they are bound to fail, but it felt good having the party stop them and save the day anyway. I feel that a GM taking the time to improve this scene could make it into a much better moment than I had.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
 
 #+BEGIN_QUOTE
 felt a bit disappointing in my group, because there was an expectation that another investigative part would follow the format of chapter 1. But the infiltration into the copper hands hideout was still an enjoyable dungeon. Our unlucky elf rouge got a minor case of lycanthropy from this part though- nothing a visit to a temple could not fix, but this could have messed with some plans.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 It's here at the very end of Book 2, Chapter 3 that we learn some pertinent backstory…
 
 #+BEGIN_QUOTE
 For the past few months, she explains, the Copper Hand has worked with a murderer named the Skinner and her cultists under threat of violence.
-#+END_QUOTE
 — cite:paizo-aoe-book2#page=27
+#+END_QUOTE
 
 *** Book 2, Chapter 4: "Descent into Death" / The Catacombs and The Skinner
 **** The Catacombs
@@ -721,23 +728,23 @@ You'll probably definitely want to get a read on your group's (dis)like of dunge
 As the agents explore the Catacombs, keep track of how long the party is
 spending in the dungeon.  For every 8 hours that passes in the game world,
 there is an 80% chance the agents run into a random encounter.
-#+END_QUOTE
 — cite:paizo-aoe-book2#page=31
+#+END_QUOTE
 
 
 At the same time, in the AP's narrative, the missing Graycloaks contingent has been down here since "less than a week ago" [cite:paizo-aoe-book2#p28]…
 
 #+BEGIN_QUOTE
 "It’s been several days since my team of Graycloaks descended into the Catacombs […]"
-#+END_QUOTE
 — cite:paizo-aoe-book2#page=29
+#+END_QUOTE
 
 …so being down at least a 1-3 days would not be unreasonable.
 
 #+BEGIN_QUOTE
 as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour sessions to get through it. And even with plenty of side quests happening in there it was still a too long section of mostly combat in an otherwise more RP balanced adventure. I would advise any GM's who feel the combat becomes repetitive in their groups to shorten this part- there are enough simple encounters to cut out of it without losing anything important
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 ----------
 
@@ -746,8 +753,8 @@ Tyrrociese is a particular problem.
 [[http:cite:reddit-oknoo0-h59zt3p][u/larstr0n (GM, Tabletop Gold podcast)]] strongly advises…
 #+BEGIN_QUOTE
 I strongly advise, for that monster, taking the book’s advice and having them engage the ofalth in the next room in battle. In my game,I kept the ooze focused on the party enough to freak them out, and then strung out a kong vs Godzilla fight between the two big bads. This approach kept my party challenges and made for a memorable, cinematic encounter.
-#+END_QUOTE
 — cite:reddit-oknoo0-h59zt3p
+#+END_QUOTE
 
 #+BEGIN_COMMENT
 OTOH…
@@ -775,16 +782,16 @@ I ended up making some changes to to the eldritch ooze TYRROICESE cause I person
 - Lastly I made his pseudopod burst follow the standard MAP rule. As letting a solo encounter have 3 attacks at +23 when the party's AC is in the high 20s was just insane to me. His chance to crit was way above 50% with an average crit doing around 46 damage.
 
 Even with these adjustments it was a super close fight with most of the party unconscious and the remaining members sitting around 10-20 HP when they defeated it.
-#+END_QUOTE
 — cite:reddit-oknoo0-h5aswqa
+#+END_QUOTE
 
 -----
 
 [[http:cite:reddit-oknoo0-h59vm90][u/DocTam suggests pushing holy water to help with the crawl]]:
 #+BEGIN_QUOTE
 I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
-#+END_QUOTE
 — cite:reddit-oknoo0-h59vm90
+#+END_QUOTE
 
 -----
 
@@ -794,8 +801,8 @@ With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about 
 That didn't went well in my group. We had two damage dealers in our group at that time, two fighters. One used a great pick and the other used arrow. So that creature was immune to the main damage dealers of the party.
 
 I had to go out of Encounter Mode and we started a skill challange scene... Up to this day my players remember that fight as "how unfair is PF2e". I wished I have removed that creature from the adventure.
-#+END_QUOTE
 — cite:reddit-pxcik6-hen4otc
+#+END_QUOTE
 
 -----
 
@@ -826,22 +833,22 @@ Consensus in the thread is that it is broken, and an Escape DC of 32 is more rea
 
 #+BEGIN_QUOTE
 This is probably my favorite book in the AP! It was the best at not only giving varied scenarios to play in, but also providing GM tools to expand and enhance those parts to their liking.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 3, Chapter 1: "Street Justice"
 
 #+BEGIN_QUOTE
 which involves resolving a gang war in the docks has some very flavorful NPCs with interesting personalities, one of which (Maurrisa) Became a recurring NPC in my game. This part is also relatively free in its structure and contains some moral choices to make.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 3, Chapter 2: "The House Always Wins"
 
 #+BEGIN_QUOTE
 The casino heist is a very interesting chapter as well. Somehow the casino games given did not translate well into our VTT experience, But the inclusion of so many mechanics and tools to make the heist interesting is just great! I am sure many GM's can make good use of this part- even as inspiration for home games.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 3, Chapter 3: "Deadly Games"
 
@@ -849,16 +856,16 @@ The casino heist is a very interesting chapter as well. Somehow the casino games
 Gives the characters the task of dealing with a bomb threat in the middle of a gladiator tournament. The scenarios given in the AP itself are quite basic. But the tools provided, the various arena game mechanics and the flavor text-gave me plenty of inspiration to expand this part into a mini tournament arc- which was probably the highlight of the campaign! I highly recommend customizing this part to your group's liking.
 
 I have made another post in the past about a stat problem with the final boss of this chapter- it has a mistake with its AC that makes fighting him a breeze, so you might want to check it out before you run it.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 ** Book 4: "Assault on Hunting Lodge Seven"
 *** Book 4, Chapter 1: "The Noxious Retort"
 
 #+BEGIN_QUOTE
 After a quick starting dungeon, this chapter including my favorite dungeon experience of the AP. The blackfinger temple- with the convention in it's upper floor, the puzzles, the interesting monsters, and the reasonable length of it- was a very fun dungeon crawl!
+— cite:reddit-n39df5
 #+END_QUOTE
--- cite:reddit-n39df5
 
 *** Book 4, Chapter 2: "The Gervin Legacy"
 
@@ -866,8 +873,8 @@ After a quick starting dungeon, this chapter including my favorite dungeon exper
 In which the agents hole up in a haunted safe house to keep a watch over their prisoner, is another interesting chapter. It is divided into parts which feel tower-defense-like (protecting the house from assassins) and a small dungeon crawl in the basement. After cleansing the haunted house and defending it for so long, my players grew attached to the hunting lodge, so I gave them the deed to the house as a gift from the city as thanks for their service. The fact that the hunting lodge does not cointain any toilet in it became somewhat of a joke in our group, and the players announced they are building one in the house after they acquired it.
 
 Small note about the final boss of this chapter- The lesser death is a tough monster- with its disadvantage aura and high attacks, definitely has a potential to kill a PC. My players have managed to exploit its teleporting reaction to trap it inside the house vault (which I stated to be teleport proof). That was a very proud GM moment for me, and I rewarded their creative thinking with a homebrew item that the lesser death bargained for its freedom.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 4, Chapter 3: "A Wonderful Time in Harrowland"
 
@@ -875,22 +882,22 @@ Small note about the final boss of this chapter- The lesser death is a tough mon
 the investigation of harrowland was not interesting for my group. I think that we are all missing the excitement about all the harrow lore in there- so it felt like we were missing half the fun in there. Still, I imagine that for a group with more golarion lore background this could be a nice theme dungeon.
 
 The end of the book features the twist of Reginald framing the party. This did not land that well in my group for a couple of reasons:- The framing plot depends heavily on the Graveraker. About which most of my party forgot by the time they got to this point. Foreshadow it more!- Reginald was obviously evil from the first time they met him. So the reaction was more of "Oh finally he shows he is evil and we an go kick his ass" and not the seemingly intended shock.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 ** Book 5: "Belly of the Black Whale"
 
 #+BEGIN_QUOTE
 
 This book has a nice change of pace from the previous ones- The agents have to work now outside the law, as their badges have been taken from them after they were framed. This gave the players many opportunities to test the moral compass of the characters, and how much are they willing to do outside the law to get their goals. Good RP stuff!
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 *** Book 5, Chapter 1: "Dishonorably Discharged"
 
 #+BEGIN_QUOTE
 deals with gaining enough favor with a crime lord to get the secrets on how to break out the Starborn from the Black Whale prison. Miogimo the crime lord is a good [foil] to the agents, showing how taking justice into their own hands can make them end up. Overall, the chapter gives plenty of roleplay moments to shine.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 5, Chapter 2: "Belly of the Black Whale"
 
@@ -898,8 +905,8 @@ deals with gaining enough favor with a crime lord to get the secrets on how to b
 is about the jailbreak from the black whale prison. The dungeon itself in there is decent, but I needed to put extra work in to make it feel more like a prison. Things like patrol routes, and more details about the day to day management of the prison are lacking the way they are presented in the adventure, I think this section could benefit from some clearer details.
 
 After the prison break, the chapter goes again into a bit of an investigation- where the agents need to find the evidence to clear their names and catch Vancaskerkin, in my group at least we mostly glossed through this part, because some details and npc's presented in the chapter were not working well with the way things occurred in my game. This still seems like a nice scenario.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 5, Chapter 3: "The Rumormonger’s Stronghold"
 
@@ -909,8 +916,8 @@ is the clockwork dungeon of Vancaskerkin. The dungeon itself is quite cool to ru
 Another great thing about the showdown with Vancaskerkin is the alternative win condition against him- instead of killing the villain, the players have an option of resolving the conflict by exchanging his mind using a machine he has build. My party went for this option, and Regi-mouse became a cannon part of our Golarion.
 
 In my opinion, the fight against Reginald felt like it should have been the final one of the AP. He was behind all the troubles the agents faced so far, and by defeating him, clearing their names and redeeming Starborn in the eyes of the public, the agents can feel satisfied with their victory. I'll explain my reasons for this below- but to keep a strong thematic sense, I would advise to finish the campaign here- and avoid part 6. It is a perfectly self-contained ending by this point.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 ** Book 6: "Ruins of the Radiant Siege"
 
@@ -926,8 +933,8 @@ Thanks to a suggestion I saw in the Paizo forums, I altered her in my home game 
 Secondly- This part of the adventure is a major change in tone from the rest of the AP.This is even said on page 3 of the book, where the writer explains the agents are now too strong for criminals to be a problem for them. So they should retrain their social skills and get ready for some extraplanar monsters popping in their way. I feel it's a bad note to finish a campaign focused on using diplomacy to solve problems by throwing hordes of daemons and crazed proteans at the party, and would have much preferred the adventure to stick to the spirit of the previous books.
 
 The chapters themselves are basically 3 big dungeon crawls, with no goals other than to clear them out and get the relevant plot cupon. To the adventure's credit, the design of the dungeons is interesting, but as someone who likes shorter- more concise dungeons, They felt like they are dragging on too much, with plenty of filler fights and encounters over the xp budget. Filler fights are a common thing in any AP, but a book comprised of mostely filler fights is dull to run in my opinion.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 6, Chapter 1: "Runaway Excavator"
 
@@ -939,8 +946,8 @@ This dungeon also features the crazed proteans- who are stated to attack the cha
 Another thing happening in this chapter is the introduction of Il’setsya Wyrmtouched, who appears out of nowhere to give the party their next quest location, and escorts the party as a GMPC from then on. I chose to leave her out of my game, and tie the plot advancement to other things .GMPC is an idea I dislike, and it felt cheap to me to make the plot development of a story nearing its end happen by a random character appearing out of thin air.
 
 I also think that actually using her as written- where she has some "triggers" later on In the book which cause her to act in a rash way and probably against the interest of the party, and also possibly steal the show in the final bossfight weather the party took her in or not- would be frustrating to deal with as a player. I'm sure some GMs can pull this off well, but I am not one of them.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 6, Chapter 2: "The Radiant Spark"
 
@@ -952,8 +959,8 @@ Before entering the dungeon, there is a section involving the use of the researc
 The dungeon itself is nice. Though for some weird reason, the majority of creatures and hazards in it have access to some variation of the prismatic spray spell. So the dark tone of the location, at least in my group, was hurt a bit by having rainbows assault the characters every fight.Also, there seems to be an issue with the room size in the map- for example a room meant to house 3 gargantuan creatures is physically too small to contain them.
 
 The boss of this chapter- a fallen planetar- has a problem in his stats. He possesses regeneration that can only be deactivated by evil damage, something which the lawful good party, Which the players guide instructs to make, will have no access to, meaning the PCs are unable to kill him in most conceivable groups. I decided to ignore this fact and just treat it as fast healing, not sure if there was a good reason to have it there in the first place.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 *** Book 6, Chapter 3: "The Gray Queen's Tower"
 
@@ -967,8 +974,8 @@ As written the boss rushs are cool fights, with enough to challenge the 20th lev
 The problem is, these fights are not going to run as written, unless your players specifically avoid it there is an easy way to steamroll this entire dungeon-The artifact the players gained in the end of chapter 2 allows them to indefinitely mind control all the daemons present in there. I let my players have some fun with the pokemon-esqe gameplay of capturing all the demons (actually demon capturing sounds more like SMT but I digress) , until I had to ask them by the end to not use the artifact they were given- or the game would not be fun.
 
 Olansa as a final boss is also quite unimpressive. Her ability to turn invisible even to see invisibility feels cheap, and the poison on her weapon- Teats of death- Is irrelevant to the combat because of its 1-minute onset time. Even with her artifact equipped she is just not a very interesting or challenging opponent as written. I heavily altered it for my session and would advise doing the same to any other GM to make sure the ending of the campaign is properly epic.
-#+END_QUOTE
 — cite:reddit-n39df5
+#+END_QUOTE
 
 * Resources
 ** Missing Persons Casefiles
@@ -1011,8 +1018,8 @@ The maps for all books are also available as [[https://foundryvtt.com/packages/a
 As always, feedback welcome! If you want to contribute to my Pathfinder book buying addiction, a coffee is always appreciated - [[https://www.ko-fi.com/narchymaps][www.ko-fi.com/narchymaps]] :)
 
 Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures.net]]
-#+END_QUOTE
 — cite:reddit-on03uu-h5oij50
+#+END_QUOTE
 
 As well, [[http:cite:reddit-ph7txq-hbgkw36][they've provided a version of the festival grounds map…]]
 
@@ -1020,8 +1027,8 @@ As well, [[http:cite:reddit-ph7txq-hbgkw36][they've provided a version of the fe
 I made a larger version of the festival grounds map a while ago, and I've finally gone back and finished it.
 
 I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
-#+END_QUOTE
 — cite:reddit-ph7txq-hbgkw36
+#+END_QUOTE
 
 ** Landing Pages
 
@@ -1036,8 +1043,8 @@ On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fi
 
 #+BEGIN_QUOTE
 My players are about to move onto book 3, and I was unhappy with Wrent confessing a whole bunch of story stuff off-screen. My players did not interrogate her themselves, and I wanted some time to do some fiction writing. I wrote out her confession as if being interviewed by a priest of Sarenrae who wanted to see if it was possible to redeem her, or at the very least determine if her ramblings were truthful.
-#+END_QUOTE
 — cite:reddit-pq90e5
+#+END_QUOTE
 *** "Agents of Edgewatch as a 90s TV show", from u/narchy
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][u/narchy created and shared a wonderful video of their party's Agents, in celebration of getting to book 3: "Edgewatch Nights".]]
@@ -1061,8 +1068,8 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
 - War Razors are listed in stat blocks as doing "piercing" damage; it should be "slashing".
   #+BEGIN_QUOTE
   OK, I thought I was losing my mind reading through the Sanctum, last night, but War Razors are typoed consistently in this book as being Piercing weapons. AoN has them as Slashing, as is, of course, the only reasonable option.
-  #+END_QUOTE
   — cite:paizo-forums-rzs4349c-59
+  #+END_QUOTE
 
 - The Escape DC for The Skinner's "Chain Up" ability seems absurdly high. — cite:reddit-qtjysv
 
