@@ -755,6 +755,15 @@ Even with these adjustments it was a super close fight with most of the party un
 I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
 #+END_QUOTE
 — cite:reddit-oknoo0-h59vm90
+**** The Skinner, and "Chain Up"
+
+[[http:cite:reddit-qtjysv][u/Excaliburrover highlights a problem with The Skinner's "Chain Up" ability at the end of Book 2…]]
+
+#+BEGIN_QUOTE
+I'm a bit scared for the Chain Up ability of the Skinner written as is. Restrained is a very "1e" condition and my players are not used anymore to not be able to play their turn. Also the DC to get free is abnormally high so you need a teammate to smash the chain for you.
+#+END_QUOTE
+
+Consensus in the thread is that it is broken, and an Escape DC of 32 is more reasonable.
 
 ** Book 3: "All or Nothing"
 
@@ -997,6 +1006,8 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
   OK, I thought I was losing my mind reading through the Sanctum, last night, but War Razors are typoed consistently in this book as being Piercing weapons. AoN has them as Slashing, as is, of course, the only reasonable option.
   #+END_QUOTE
   — cite:paizo-forums-rzs4349c-59
+
+- The Escape DC for The Skinner's "Chain Up" ability seems absurdly high. — cite:reddit-qtjysv
 
 * Colophon
 ** Licensing
