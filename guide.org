@@ -58,15 +58,11 @@ Based naïvely on the idea that characters should advance in level every 3-4 gam
 
 This seems to be supported by the experience at some tables, with people reporting "1-2 years" to finish an AP.
 
-[[http:cite:paizo-forums-rzs4349c_18][On the Paizo Forums, Kazimir_980 reports taking 7 3-to-6-hour sessions to get through book 1.]]
+[[http:cite:paizo-forums-rzs4349c_18][On the Paizo Forums, Kazimir_980 reports taking seven 3-to-6-hour sessions to get through book 1.]]
 
-On Reddit, u/DragoldC42's group took 9 months for the entire AP:
-#+BEGIN_QUOTE
-Last Friday I have finished running a 9-month long campaign in agents of edgewatch.
-— cite:reddit-n39df5
-#+END_QUOTE
+[[http:cite:reddit-n39df5][On Reddit, u/DragoldC42's group took 9 months for the entire AP.]]
 
-[[http:cite:reddit-q9a8a1][u/Merithras asked a question that got some good responses, as well.]]
+[[http:cite:reddit-q9a8a1][u/Merithras asked a similar question that got some good responses, as well.]]
 
 ** Difficulty
 
@@ -107,10 +103,21 @@ The main objections are:
 
 - The PCs are encouraged by the AP to simply "requisition" any valuable gear or consumables they encounter from citizens in the course of their duty, in lieu of pay.
 
+  #+HTML: <details>
+  #+HTML:   <summary>"[…] being able to confiscate property freely feels weird […]" — u/DragoldC42</summary>
   #+BEGIN_QUOTE
-  - The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+  - The agents, as policemen, being able to confiscate property freely feels
+    weird in this part of the adventure, when they are mostly dealing with
+    ordinary citizens. My group didn’t really care that much, but it was a
+    good topic to raise in session zero and clear out our preferences on
+    anyway. It's very easy in any case to just give the characters a salary.In
+    my experience, later on in the AP, when the agents are dealing with
+    criminals and cults, it feels much more justified to use what they can
+    take, or to give it back for a bounty.
+
   — cite:reddit-n39df5
   #+END_QUOTE
+  #+HTML: </details>
 
 - If even not immediately taken by the Agents, loot returned to the police is effectively fenced and the usual sale value (50%) is given to the Agents.
 
@@ -1110,10 +1117,13 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
   — cite:paizo-aoe-book2#page=41
 
 - War Razors are listed in stat blocks as doing "piercing" damage; it should be "slashing".
+  #+HTML: <details>
+  #+HTML:   <summary>OK, I thought I was losing my mind reading through the Sanctum, last night […]</summary>
   #+BEGIN_QUOTE
   OK, I thought I was losing my mind reading through the Sanctum, last night, but War Razors are typoed consistently in this book as being Piercing weapons. AoN has them as Slashing, as is, of course, the only reasonable option.
   — cite:paizo-forums-rzs4349c-59
   #+END_QUOTE
+  #+HTML: </details>
 
 - The Escape DC for The Skinner's "Chain Up" ability seems absurdly high. — cite:reddit-qtjysv
 
