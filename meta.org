@@ -694,6 +694,82 @@ Cheers…
 *** [[https://www.reddit.com/message/messages/166wlr2][response]]
 
 > Please! Just make sure to give the credit to KM Kovalcik (my real name). I actually do some game writing, so it'd be nice for that to be found.
+** PROG u/Kyo_Yagami068, 2021-11-24
+*** [[https://www.reddit.com/message/messages/17s0swx][inquiry]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/Kyo_Yagami068 :)
+
+I'm working on a [_GM's Guide to "Agents of Edgewatch"_](https://asynchronous.org/gms-guide-to-agents-of-edgewatch/).
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/comment/hencbbl/?utm_source=reddit&utm_medium=web2x&context=3
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, *please let me know if* I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide is a collection of resources for running Agents of Edgewatch.
+
+Primarily: links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+This guide is:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0]].
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+[FIXME: ? Also, while individual posts and comments will be linked based on the identity in the forum being linked to, if you have a specific pen name, pseudonym or identity you'd like me to include, please specify, along with a URL for the same.]
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+…jsled
+** PROG u/OmniscientIce, 2021-11-24
+*** [[https://www.reddit.com/message/messages/17s1arb][inquiry]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/OmniscienteIce :)
+
+I'm working on a [_GM's Guide to "Agents of Edgewatch"_](https://asynchronous.org/gms-guide-to-agents-of-edgewatch/).
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/comment/heseed9/?utm_source=reddit&utm_medium=web2x&context=3
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide is a collection of resources for running Agents of Edgewatch.
+
+Primarily: links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+This guide is:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+
+…jsled
 * plan
 - OGL. CUP.
 - source-structure
@@ -962,7 +1038,7 @@ The final clue is the new PC joining the ranks
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ph7txq/welcome_to_absaloms_4720ar_radiant_festival_aoe/][r/Pathfinder2e/Welcome to Absalom's 4720AR Radiant Festival (AoE Spoilers!), u/narchy]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
 *** DONE [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
-*** TODO More [[https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/spoilers_help_for_agents_of_edgewatch_book_2/][B2C4 / Tyrrociese experiences]]
+*** DONE More [[https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/spoilers_help_for_agents_of_edgewatch_book_2/][B2C4 / Tyrrociese experiences]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/q42xy3/combat_is_tough_and_deadly_agents_of_edgewatch/]["Combat is tough and deadly. Agents of Edgewatch SPOILERS."]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][The new Paizo Union's logo is a reference to the Kobold Workers Union from Agents of Edgewatch #UnionizePaizo]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/p1479k/agents_of_edgewatch_spoiler_handout_for_book_1/][Agents of Edgewatch [SPOILER] - Handout for Book 1, Act 4. A certain terrible piece of evidence.]]

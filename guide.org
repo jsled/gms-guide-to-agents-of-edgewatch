@@ -708,7 +708,6 @@ as a dungeon crawl was too long for our taste. It took us 3 whole 4 hour session
 #+END_QUOTE
 — cite:reddit-n39df5
 
-
 ----------
 
 Tyrrociese is a particular problem.
@@ -720,9 +719,7 @@ I strongly advise, for that monster, taking the book’s advice and having them 
 — cite:reddit-oknoo0-h59zt3p
 
 #+BEGIN_COMMENT
-
 OTOH…
-
 @author{paizo-Deriven_Firelion}
 @misc{
   FIXME
@@ -750,11 +747,33 @@ Even with these adjustments it was a super close fight with most of the party un
 #+END_QUOTE
 — cite:reddit-oknoo0-h5aswqa
 
+-----
+
 [[http:cite:reddit-oknoo0-h59vm90][u/DocTam suggests pushing holy water to help with the crawl]]:
 #+BEGIN_QUOTE
 I think providing/encouraging the party to get Holy Water is the best way to make the dungeon manageable; since it makes the hardest fights much easier. Books 3 and 4 have been much more manegable difficulty wise; so don't despair too much.
 #+END_QUOTE
 — cite:reddit-oknoo0-h59vm90
+
+-----
+
+With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about what types of damage your party can do, vs. what Tyrroicese is immune to.]]
+
+-----
+
+[[http:cite:reddit-pxcik6-hen4otc][u/DragoldC42 has a clever suggestion to lean into a strict interpretation of "motion sense" to help give the PCs a fighting chance…]]
+
+#+BEGIN_QUOTE
+Tyrroicese has no senses but motion sense. Therefore I ruled that it will only be able to sense a PC that used a move action on its turn, and a PC that acted in a space Tyrroicese knows about without moving will be hidden from it.
+
+My players figured this out by seeing how the creature reacts (with the help of a recall knowledge from the investigator) and were then able to strategize on that (the monk drew aggro by moving, and the rest stood as still as they could while sniping at the monster)
+#+END_QUOTE
+—cite:reddit-pxcik6-hen4otc
+
+-----
+
+[[http:cite:reddit-pxcik6-heseed9][u/OmniscientIce's party took 3 attempts to take out Tyrroicese, but with a satisfying conclusion.]]
+
 **** The Skinner, and "Chain Up"
 
 [[http:cite:reddit-qtjysv][u/Excaliburrover highlights a problem with The Skinner's "Chain Up" ability at the end of Book 2…]]
