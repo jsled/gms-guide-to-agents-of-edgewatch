@@ -963,18 +963,21 @@ I have tried to recreate the various attractions as they are described in the bo
 ** Landing Pages
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
-** Art / Original Content
+** Art, Fiction and Original Content
 #+BEGIN_COMMENT
 AoE Renders…
 #+END_COMMENT
+*** "Wrent's Confession", Book 2/3 Transition by KM Kovalcik (u/zombkat)
+
+On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fiction detailing the crimes of Wrent Dicaspiron]], set in the interstitial between Books 2 and 3.
+
+#+BEGIN_QUOTE
+My players are about to move onto book 3, and I was unhappy with Wrent confessing a whole bunch of story stuff off-screen. My players did not interrogate her themselves, and I wanted some time to do some fiction writing. I wrote out her confession as if being interviewed by a priest of Sarenrae who wanted to see if it was possible to redeem her, or at the very least determine if her ramblings were truthful.
+#+END_QUOTE
+— cite:reddit-pq90e5
 *** "Agents of Edgewatch as a 90s TV show", from u/narchy
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][u/narchy created and shared a wonderful video of their party's Agents, in celebration of getting to book 3: "Edgewatch Nights".]]
-
-** Fiction
-*** "Wrent's Confession", Book 2/3 Transition by u/zombkat
-
-On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fiction detailing the crimes of Wrent Dicaspiron]], set in the interstitial between Books 2 and 3.
 
 * Unofficial Errata
 ** Book 1

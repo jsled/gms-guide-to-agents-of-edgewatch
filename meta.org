@@ -770,8 +770,6 @@ Cheers…
 - u/zombkat:
   - "KM Kovalcik"
 
-
-
 - templated "— cite:" form
 
 - in-line form…
@@ -965,7 +963,7 @@ The final clue is the new PC joining the ranks
    - What I did to circunvent that awful process of cops looting people, the precint gave them gear according to table Party Treasure By Level.
 
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ph7txq/welcome_to_absaloms_4720ar_radiant_festival_aoe/][r/Pathfinder2e/Welcome to Absalom's 4720AR Radiant Festival (AoE Spoilers!), u/narchy]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
 *** DONE [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
 *** TODO More [[https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/spoilers_help_for_agents_of_edgewatch_book_2/][B2C4 / Tyrrociese experiences]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/q42xy3/combat_is_tough_and_deadly_agents_of_edgewatch/]["Combat is tough and deadly. Agents of Edgewatch SPOILERS."]]
