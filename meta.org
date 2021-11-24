@@ -976,4 +976,4 @@ The final clue is the new PC joining the ranks
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/qtjysv/aoe_book_2_last_fight_spoiler/][reddit: AoE book 2 last fight (SPOILER)]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/q9a8a1/agents_of_edgewatch_a_question_of_length_maybe/][reddit: Agents of edgewatch, a question of length. Maybe minor spoilers?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][Agents of Edgewatch as a 90s TV show. Made to celebrate our party getting to book 3!]]
-*** TODO [[https://www.reddit.com/r/liberalgunowners/comments/qyj5tk/comment/hlgw0s9/?utm_source=reddit&utm_medium=web2x&context=3][(Spoilers - AoE) Investigation Leads]] :oc:art:
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][(Spoilers - AoE) Investigation Leads]]                        :oc:art:

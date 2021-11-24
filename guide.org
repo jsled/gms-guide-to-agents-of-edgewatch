@@ -911,11 +911,11 @@ On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn
 #+END_COMMENT
 
 ** Journal Entries / Notes / Handouts
-#+BEGIN_COMMENT
-*** Ralso's Journal
-*** Copper Hand note to Ralso
-*** Starborn's note to the party
-#+END_COMMENT
+
+*** Book 2 Chapter 1 Investigation Leads
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][u/perryhopeless shared some OC art for the investigation leads from Book 2 Chapter 1.]]
+
 ** Maps
 *** u/narchy's maps
 
