@@ -561,7 +561,7 @@ Everything else is gravy.
 *** Book 1, Chapter 4: "The Murder Hotel" / The Dreaming Palace
 **** Content Warning
 
-This dungeon is no joke, either difficulty-wise or especially thematically.
+This dungeon is no joke, either difficulty-wise or thematically … especially thematically.
 
 You should make sure your Players are comfortable with the content here. *It's more important to make sure of that than to prevent spoiling things.*
 
@@ -573,11 +573,23 @@ Be kind.
 
 **** The Dreaming Palace
 
-- [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/][There are some concerns with the pacing/leveling in the Dreaming Palace]], and [[https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/h5354t4/?utm_source=reddit&utm_medium=web2x&context=3][u/Naurgul has some good advice on particular aspects of that]].
+[[https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/][At least two groups have independently tamed the mimic into becoming a party "pet" or acquaintance. :)]]
 
-- (FIXME) You should have plans for what you will do if the party is split because 1 or 2 of them fall through one of the traps into the basement.
+[[http:cite:reddit-ojp6to][u/Excaliburrover has some concerns with the pacing/leveling in the Dreaming Palace]], specifically with the hazards that can deliver PCs — basically – directly to the boss 1 level early.
 
-- [[https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/][At least two groups have independently tamed the mimic into becoming a party "pet" or acquaintance. :)]]
+#+BEGIN_QUOTE
+My issue is with the fact that the players are supposed to get from lvl 3 to lvl 4 mid dungeon but there are 2 occasions in which they might skip right trough. It would be climactic for sure to meet the final boss right away but it would spell the end of them as well
+#+END_QUOTE
+— cite:reddit-ojp6to
+
+[[http:cite:reddit-ojp6to-h5354t4][u/Naurgul has some good advice if players get too close to Pratchett too soon.]]
+
+#+BEGIN_QUOTE
+- First of all, the PCs aren't that likely to fall into the pit traps, especially the second one leading directly to the chamber next to Pratchett. After falling into one or two traps they will probably stop barging into the rooms haphazardly.
+
+- Second, they can always run away upstairs. Just make sure to use descriptions to give them subtle hints that Pratchett lies behind that final door.
+#+END_QUOTE
+— cite:reddit-ojp6to-h5354t4
 
 **** Hendrid Pratchett encounter
 

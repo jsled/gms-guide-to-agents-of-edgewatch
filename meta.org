@@ -965,7 +965,7 @@ The final clue is the new PC joining the ranks
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/][r/Pathfinder2e "Catacombs are a death trap"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/otxspj/final_fight_of_the_first_book_of_agents_of/][Final fight of the first book of "Agents of Edgewatch"]]
-*** TODO https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
+*** DONE https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
  - post https://www.reddit.com/r/Pathfinder2e/comments/ojp6to/agents_of_edgewatch_book_1_finale_im_in_doubt/
    - My issue is with the fact that the players are supposed to get from lvl 3
      to lvl 4 mid dungeon but there are 2 occasions in which they might skip
