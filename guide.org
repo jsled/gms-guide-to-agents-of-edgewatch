@@ -911,9 +911,11 @@ On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn
 #+END_COMMENT
 
 ** Journal Entries / Notes / Handouts
+#+BEGIN_COMMENT
 *** Ralso's Journal
 *** Copper Hand note to Ralso
 *** Starborn's note to the party
+#+END_COMMENT
 ** Maps
 *** u/narchy's maps
 
