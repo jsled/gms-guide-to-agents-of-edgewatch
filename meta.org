@@ -4,7 +4,7 @@ Subject: re-licensing your comment/post for a community guide to running Agents 
 
 Hi [FIXME] :)
 
-I'm working on a "Community Guide to GMing _Agents of Edgewatch_".
+I'm working on a [_GM's Guide to "Agents of Edgewatch"_](https://asynchronous.org/gms-guide-to-agents-of-edgewatch/).
 
 tl;dr: I would like your permission to quote the following posts/comments in that guide:
 
@@ -37,6 +37,7 @@ I don't mean to exploit your work, simply to re-share it with added value. :)
 Please let me know if you have any questions, of course.
 
 Cheers…
+
 …jsled
 
 ** DONE [[https://www.reddit.com/message/messages/159gozw][u/Naurgul, 2021-08-22]]
