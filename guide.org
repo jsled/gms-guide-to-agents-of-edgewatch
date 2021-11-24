@@ -934,10 +934,14 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 ** Landing Pages
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
-** Art
+** Art / Original Content
 #+BEGIN_COMMENT
 AoE Renders…
 #+END_COMMENT
+*** "Agents of Edgewatch as a 90s TV show", from u/narchy
+
+[[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][u/narchy created and shared a wonderful video of their party's Agents, in celebration of getting to book 3: "Edgewatch Nights".]]
+
 ** Fiction
 *** "Wrent's Confession", Book 2/3 Transition by u/zombkat
 
