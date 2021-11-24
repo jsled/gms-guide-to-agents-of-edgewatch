@@ -135,6 +135,12 @@ In October 2021 – about 1 year after the final book of /Agents of Edgewatch/ w
 [[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][Their logo is a reference to the Kobold Worker's Union from Book 1, Chapter 2.]]
 
 * Enemy Makeup and Composition
+
+The following is a summary of the enemies and challenges as written in the AP,
+book by book.  This can help answer questions about – say – the suitability of
+Champion focused on fighting undead (vs. elementals), to help guide the
+player's characters to meet the challenges in the AP.
+
 ** Book 1
 
 *Summary by Type*
@@ -209,17 +215,16 @@ In October 2021 – about 1 year after the final book of /Agents of Edgewatch/ w
 
 ** Book 2
 
-    | *Creature*      | *Level* | *Ch* | *traits*     |
-    |-----------------+---------+------+--------------|
-    | 2× Wasp Swarm   |       4 |  2-1 | animal/beast |
-    | 2× Ether Spider |       4 |  2-1 | animal/beast |
-    | 1× Xill         |       6 |  2-1 | aberration   |
-    | 2× Riding Dog   |       2 |  2-1 | animal/beast |
-    | 15× Humanoid    |     2-5 |  2-1 | humanoid     |
-    | 1× Bunyip       |       3 |  2-1 | animal/beast |
+    | *chapter 1*     | *lvl* | *traits*     |
+    |-----------------+-------+--------------|
+    | 2× Wasp Swarm   |     4 | animal/beast |
+    | 2× Ether Spider |     4 | animal/beast |
+    | 1× Xill         |     6 | aberration   |
+    | 2× Riding Dog   |     2 | animal/beast |
+    | 15× Humanoid    |   2-5 | humanoid     |
+    | 1× Bunyip       |     3 | animal/beast |
 
 * Party Makeup and Composition
-
 ** Alchemist
 
 An Alchemist character who is a follower of Norgorber – even in his less-offensive "Blackfingers" aspect – might still create dramatic tension with the party, as it becomes clear early on that the Agents are on the trail of a muder cult of Norgorberites.
@@ -251,11 +256,10 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 *** Jalmeri Heavenseeker Archetype (Book 2, Chapter 3/4, Level 7)
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
-** Precipice Quarter
-- Edgewatch
+** Precipice Quarter, Edgewatch Station
+- Edgewatch Station
 - Radiant Festival, main fairgrounds
 - Book 1
-*** Edgewatch Station / Headquarters
 
 #+BEGIN_COMMENT
 - "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
@@ -834,7 +838,7 @@ With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about 
 That didn't went well in my group. We had two damage dealers in our group at that time, two fighters. One used a great pick and the other used arrow. So that creature was immune to the main damage dealers of the party.
 
 I had to go out of Encounter Mode and we started a skill challange scene... Up to this day my players remember that fight as "how unfair is PF2e". I wished I have removed that creature from the adventure.
-— cite:reddit-pxcik6-hen4otc
+— cite:reddit-pxcik6-hencbbl
 #+END_QUOTE
 
 -----
@@ -845,8 +849,8 @@ I had to go out of Encounter Mode and we started a skill challange scene... Up t
 Tyrroicese has no senses but motion sense. Therefore I ruled that it will only be able to sense a PC that used a move action on its turn, and a PC that acted in a space Tyrroicese knows about without moving will be hidden from it.
 
 My players figured this out by seeing how the creature reacts (with the help of a recall knowledge from the investigator) and were then able to strategize on that (the monk drew aggro by moving, and the rest stood as still as they could while sniping at the monster)
+— cite:reddit-pxcik6-hen4otc
 #+END_QUOTE
-—cite:reddit-pxcik6-hen4otc
 
 -----
 
@@ -856,9 +860,13 @@ My players figured this out by seeing how the creature reacts (with the help of 
 
 [[http:cite:reddit-qtjysv][u/Excaliburrover highlights a problem with The Skinner's "Chain Up" ability at the end of Book 2…]]
 
+#+HTML: <details>
+#+HTML:   <summary>I'm a bit scared for the Chain Up ability of the Skinner written as is. […]</summary>
 #+BEGIN_QUOTE
 I'm a bit scared for the Chain Up ability of the Skinner written as is. Restrained is a very "1e" condition and my players are not used anymore to not be able to play their turn. Also the DC to get free is abnormally high so you need a teammate to smash the chain for you.
+— cite:reddit-qtjysv
 #+END_QUOTE
+#+HTML: </details>
 
 Consensus in the thread is that it is broken, and an Escape DC of 32 is more reasonable.
 
