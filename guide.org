@@ -922,8 +922,14 @@ On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn
 #+END_COMMENT
 
 ** Journal Entries / Notes / Handouts
+*** Book 1 Chapter 4: Pratchett's Journal
 
-*** Book 2 Chapter 1 Investigation Leads
+[[https://www.reddit.com/r/Pathfinder2e/comments/p1479k/agents_of_edgewatch_spoiler_handout_for_book_1/][u/corpboy has shared a 16-page original creation that is Pratchett's journal]],
+encountered next to his dungeon in the basement of the Dreaming Palace. It
+includes references into some other world lore, as described in the reddit
+thread.
+
+*** Book 2 Chapter 1: Investigation Leads
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][u/perryhopeless shared some OC art for the investigation leads from Book 2 Chapter 1.]]
 
