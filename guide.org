@@ -950,6 +950,16 @@ As always, feedback welcome! If you want to contribute to my Pathfinder book buy
 Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures.net]]
 #+END_QUOTE
 — cite:reddit-on03uu-h5oij50
+
+As well, [[http:cite:reddit-ph7txq-hbgkw36][they've provided a version of the festival grounds map…]]
+
+#+BEGIN_QUOTE
+I made a larger version of the festival grounds map a while ago, and I've finally gone back and finished it.
+
+I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
+#+END_QUOTE
+— cite:reddit-ph7txq-hbgkw36
+
 ** Landing Pages
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
