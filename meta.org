@@ -734,7 +734,7 @@ Please let me know if you have any questions, of course.
 Cheers…
 …jsled
 *** [[https://www.reddit.com/message/messages/17s22l1][response]]: +1
-** PROG u/OmniscientIce, 2021-11-24
+** DONE u/OmniscientIce, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s1arb][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -771,6 +771,7 @@ Please let me know if you have any questions, of course.
 Cheers…
 
 …jsled
+*** [[https://www.reddit.com/message/messages/17s84b4][response: +1]]
 ** PROG u/luminousmage, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s5k2z][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
