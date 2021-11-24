@@ -37,23 +37,20 @@ In Book 6, the Agents will obtain an artifact they need to defeat the fourth of 
 
 This – of course – is going to vary dramatically based on the table at which the game is being run, how many side-quests and how much character-service is done, &c.
 
-Based naïvely on the idea that characters should advance in level every 3 gaming sessions, a Level 1 - 20 Adventure should take about 57 sessions, or a bit over a year at 1 session/week.
+Based naïvely on the idea that characters should advance in level every 3-4 gaming sessions, a Level 1 - 20 Adventure should take between 55 and 80 sessions, or 1 - 1.5 years at 1 session/week.
 
-#+BEGIN_COMMENT
-- https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#14
-  - > Just wondering - how much play time did you take to go through book 1? I'm working through this with my group right now, and I'm trying to get a sense of what to expect. I'm new to Pathfinder, so I don't have a great frame of reference.
+This seems to be supported by the experience at some tables, with people reporting "1-2 years" to finish an AP.
 
-- https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#18
-  > We ended up playing about 7 sessions that ranged from 3-6 hours each.
-#+END_COMMENT
+[[http:cite:paizo-forums-rzs4349c_18][On the Paizo Forums, Kazimir_980 reports taking 7 3-to-6-hour sessions to get through book 1.]]
 
-[[http:cite:paizo-forums-rzs4349c_18][On the Paizo Forums, Kazimir_980 reports taking 7 3-hour sessions to get through book 1.]]
-
-On Reddit, u/DragoldC42's group took 9 months…
+On Reddit, u/DragoldC42's group took 9 months for the entire AP:
 #+BEGIN_QUOTE
 Last Friday I have finished running a 9-month long campaign in agents of edgewatch.
 #+END_QUOTE
 — cite:reddit-n39df5
+
+[[http:cite:reddit-q9a8a1][u/Merithras asked a question that got some good responses, as well.]]
+
 ** Difficulty
 
 Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
