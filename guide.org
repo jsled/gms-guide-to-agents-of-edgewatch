@@ -16,22 +16,22 @@ See the [[Colophon][Colophon]] for how you can help contribute.
 
 * Adventure Path Overview
 
-_Agents of Edgewatch_ is the story of the player characters -- the titular
+/Agents of Edgewatch/ is the story of the player characters -- the titular
 Agents of Edgewatch -- and their journey to understand and defeat the threat
 of the Twilight Four, a cabal of devotees of Norgorber in their attempt to
 take control of the Primarchy of Absalom.
 
 In Book 1, the Agents will come up through the ranks.
 
-In Book 2, the Agents will defeat the first of the Twilight Four — The Skinner and her murderous cult.
+In Book 2, the Agents will defeat the first of the Twilight Four – The Skinner – and her murderous cult.
 
-In Book 3, the Agents will foil the plans second of the Twilight Four — The Infector and his attempt to poison thousands.
+In Book 3, the Agents will foil the plans second of the Twilight Four – The Infector – and his attempt to poison thousands.
 
 In Book 4, the Agents will infiltrate The Infector's temple, capture, and hold them … but ultimately will be framed and arrested.
 
 In Book 5, the Agents will first infiltrate and then break out of Absalom's high-security prison, then turning their attention to the third of the Twilight Four — The Rumormonger.
 
-In Book 6, the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four — The Gray Queen, newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
+In Book 6, the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four – The Gray Queen — newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
 
 ----------
 
@@ -98,9 +98,9 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 **** Non-Lethal Damage
 ** United Paizo Workers
 
-In October 2021 – about 1 year after the final book of _Agents of Edgewatch_ was published (in December 2020) – Paizo labor organized and formed the creation of the _United Paizo Workers_.
+In October 2021 – about 1 year after the final book of /Agents of Edgewatch/ was published in December 2020 – Paizo labor organized and formed the /United Paizo Workers/.
 
-[[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][Their logo is a reference to the Kobold Worker's Union from Book 1, Chapter 2.
+[[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][Their logo is a reference to the Kobold Worker's Union from Book 1, Chapter 2.]]
 
 * Enemy Makeup and Composition
 ** Book 1
