@@ -161,32 +161,43 @@ Thoughout this guide, we'll give notes on how others re-balanced.
 
 * Party Makeup and Composition
 
-#+BEGIN_COMMENT
-- Alchemist
-  - Norgorber, Blackfingers
-  - Noxious Retort - Book 4
+** Alchemist
 
-- Alchemist; Poisoner Archetype
+An Alchemist character who is a follower of Norgorber – even in his less-offensive "Blackfingers" aspect – might still create dramatic tension with the party, as it becomes clear early on that the Agents are on the trail of a muder cult of Norgorberites.
 
-- Champion
-  - Undead?
-#+END_COMMENT
+A main plot point from Book 1 through the end of Book 3 is the poison called "Blackfinger Blight".
 
-** Alchemists, Poisoners, and followers of Norgorber
+A key event in Book 4 is the "Noxious Retort", a world-class Alchemical conference at the Norgorber temple in Absalom; the PCs will need to infiltrate this conference to advance the plot.
 
-Due to significant plot elements involving Norgorber, poisons and Alchemy, Alchemist characters and followers of Norgorber can be weaved into the story nicely.
+The Temple of Norgorber and NPCs in the AP can be used to great effect to provide foreshadowing, or even just as a downtime location if the PC wants formula or reagents.
 
-On the other hand, it does lead to lots of enemies with poison resistance…
+On the other hand, "DragoldC42" points out that this does lead to lots of enemies with poison resistance…
 
 #+BEGIN_QUOTE
 ([Poisoner-archetype was] Bad choice for the AP in retrospect, there are a metric ton of poison
 resisting enemies in this campaign)
 #+END_QUOTE
 — cite:reddit-n39df5
-* Geography
-** Absalom
+
+** Champion
+
+There is a non-trivial presence of undead throughout the AP. A Champion who takes [[https://2e.aonprd.com/Feats.aspx?ID=221][Shining Oath]] will have plenty of opportunity to weave that into their play:
+
+#+BEGIN_QUOTE
+You’ve sworn an oath to put the undead to rest. Add the following tenet to your champion’s code after the other tenets: “You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.”
+#+END_QUOTE
+
+As a central part of Book 5 is teaming up with the "zealborn" undead master criminal Miogimo to advance the Agent's interests, this oath can create plenty of dramatic tension to play out, as well.
+
+** AP-provided Archetypes
+*** Jalmeri Heavenseeker Archetype (Book 2, Chapter 3/4, Level 7)
+*** Provocator Archetype (Book 3, Chapter 3, Level 12)
+* Locations and Geography
 ** Precipice Quarter
-*** Edgewatch Station / Headsquarters
+- Edgewatch
+- Radiant Festival, main fairgrounds
+- Book 1
+*** Edgewatch Station / Headquarters
 
 #+BEGIN_COMMENT
 - "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
@@ -194,6 +205,27 @@ resisting enemies in this campaign)
 - https://paizo.com/threads/rzs434ha?Community-Created-Content#3
 #+END_COMMENT
 
+** Foreign Quarter
+- Sleepless Suns
+- Book 2, Chapter 3
+  - Copper Hand Hideout
+- Book 3
+  - Irorium / Blood City Games
+** Ascendant Court
+- Godless Graycloaks
+- Book 2, Chapter 4
+  - The Catacombs, Skinsaw Cultists, The Skinner
+- Book 4
+  - Temple to Norgorber, Noxious Retrort
+** The Puddles
+- The Muckruckers
+- Book 2, Chapter 1
+  - Smugglers
+** The Docks
+** The Coins
+- Token Guard
+- Book 2, Chapters 1-2
+  - Bank leads, Bank Robbery
 * Timeline
 ** Official
 ** Unofficial
