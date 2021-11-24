@@ -1039,7 +1039,7 @@ The final clue is the new PC joining the ranks
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pq90e5/aoe_big_bad_of_book_2_fiction_piece/][r/Pathfinder2e / AoE Big Bad of Book 2 Fiction Piece]]
 *** DONE [[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]] (paizo.com)
 *** DONE More [[https://www.reddit.com/r/Pathfinder2e/comments/pxcik6/spoilers_help_for_agents_of_edgewatch_book_2/][B2C4 / Tyrrociese experiences]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/q42xy3/combat_is_tough_and_deadly_agents_of_edgewatch/]["Combat is tough and deadly. Agents of Edgewatch SPOILERS."]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q42xy3/combat_is_tough_and_deadly_agents_of_edgewatch/]["Combat is tough and deadly. Agents of Edgewatch SPOILERS."]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][The new Paizo Union's logo is a reference to the Kobold Workers Union from Agents of Edgewatch #UnionizePaizo]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/p1479k/agents_of_edgewatch_spoiler_handout_for_book_1/][Agents of Edgewatch [SPOILER] - Handout for Book 1, Act 4. A certain terrible piece of evidence.]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qtjysv/aoe_book_2_last_fight_spoiler/][reddit: AoE book 2 last fight (SPOILER)]]

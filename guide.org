@@ -59,6 +59,8 @@ Like many APs, the Agents of Edgewatch is considered by some to be … "tuned ho
 
 - The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
+- [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
+
 *** Encounter Rebalancing
 In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
 
