@@ -28,7 +28,7 @@ class Transformer (object):
         self._bib = kwargs['bibtex']
         self._input = list(kwargs['lines_in'])
         self._output = []
-        self._log = logging.getLogger(str(Transformer.__class__))
+        self._log = logging.getLogger('Transformer')
         #
         self.process()
 
