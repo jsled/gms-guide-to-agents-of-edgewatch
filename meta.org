@@ -771,6 +771,82 @@ Please let me know if you have any questions, of course.
 Cheers…
 
 …jsled
+** PROG u/luminousmage, 2021-11-24
+*** [[https://www.reddit.com/message/messages/17s5k2z][inquiry]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/luminousmage :)
+
+I'm working on a [_GM's Guide to "Agents of Edgewatch"_](https://asynchronous.org/gms-guide-to-agents-of-edgewatch/).
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/comment/hguypt3/?utm_source=reddit&utm_medium=web2x&context=3
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide is a collection of resources for running Agents of Edgewatch.
+
+Primarily: links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+This guide is:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+
+…jsled
+
+** PROG u/Replikator777, 2021-11-24
+*** [[https://www.reddit.com/message/messages/17s6k0q][inquiry]]
+Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
+
+Hi u/Replikator777 :)
+
+I'm working on a [_GM's Guide to "Agents of Edgewatch"_](https://asynchronous.org/gms-guide-to-agents-of-edgewatch/).
+
+tl;dr: I would like your permission to quote the following posts/comments in that guide:
+
+- https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/comment/hgvq8m6/?utm_source=reddit&utm_medium=web2x&context=3
+
+*Will you license your comment identified above as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial](https://creativecommons.org/licenses/by-nc-sa/4.0/), or other such compatible terms that you identify?*
+
+Since the same folks tend to comment on similar threads/themes, please let me know if I might consider similar forum comments you make (either in the past or future) to be so licensed, as well?
+
+----------
+
+This guide is a collection of resources for running Agents of Edgewatch.
+
+Primarily: links to forum threads and comments describing experiences and recommendations for the GM, including blockquotes of particular posts and/or comments such as the one I'm referencing above.
+
+This guide is:
+
+- Abiding the OGL and Paizo's CUP, provided freely and non-commercially; specifically, be licensed as [Creative Commons, By-Attribution, Share-Alike, Non-Commercial International 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- For contribution, hosted on github.
+
+- For consumption, hosted on my own web site https://asynchronous.org/
+
+I don't mean to exploit your work, simply to re-share it with added value. :)
+
+Please let me know if you have any questions, of course.
+
+Cheers…
+
+…jsled
+
 * plan
 - OGL. CUP.
 - source-structure
@@ -868,10 +944,9 @@ Cheers…
   - (current) CSS specs
 
 *** organization
+**** TODO add enemies/challenges and summaries from Book 2,3,4,5,6
 **** TODO create an index across all the APs
-
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
-
 ** resources to be included
 *** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][com/paizo/threads/AoE/book1]]
 **** progress: through 4/10
@@ -932,9 +1007,6 @@ From my understanding of civil forfeiture, the law set in the book is somewhat d
 Edgewatch's requisitioning here is supposed to be the punishment for the crime committed, whereas civil forfeiture is separate to any punishments the crime would normally warrant and can be arbitrarily much greater than the scale of the crime. A closer comparison to Edgewatch's policy might be traffic tickets that are paid on-the-spot.
 #+END_QUOTE
 thewastedwalrus 	Aug 22, 2020, 02:00 pm https://paizo.com/threads/rzs4349b&page=4?1-Devil-at-the-Dreaming-Palace#152
-
-
-
 
 **** "I noticed something weird about the Seamers"
 https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
@@ -1047,3 +1119,4 @@ The final clue is the new PC joining the ranks
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q9a8a1/agents_of_edgewatch_a_question_of_length_maybe/][reddit: Agents of edgewatch, a question of length. Maybe minor spoilers?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][Agents of Edgewatch as a 90s TV show. Made to celebrate our party getting to book 3!]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][(Spoilers - AoE) Investigation Leads]]                        :oc:art:
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/does_anyone_know_if_there_are_any_actual_play/][reddit: Does anyone know if there are any actual play series of Edgewatch out there that have made some of the commonly recommended improvements or otherwise took a more positive approach to it?]]

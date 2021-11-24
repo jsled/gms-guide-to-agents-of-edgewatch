@@ -86,15 +86,48 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 - too hard to land hits, too high chances of crits (both directions)
 
 ** On Role-Playing Police
-**** Policing
-**** Requisitioning and Civil Asset Forfeiture
 
-#+BEGIN_QUOTE
-- The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
-— cite:reddit-n39df5
-#+END_QUOTE
+Some tables will have objections or distaste for playing the role of police,
+or perhaps more specific practices like doing lethal damage by default or the
+AP-encouraged practice of "legalized theft" of property.
 
-**** Non-Lethal Damage
+The publication of the Adventure Path was in fact delayed by multiple months
+due to protests associated with the Black Lives Matter movement in the United
+States in the summer of 2020. The AP in fact has some text detailing ways to
+handle the main objections to how it assumes "policing" will be done in the
+way that it is written.
+
+Even still, some people fundamentally feel this Adventure Path is somewhere between "in poor taste" and "downright offensive".
+
+The main objections are:
+
+- The immediate discretion of the Agents – rather than any formal judicial process and jurisprudence – is strongly encouraged.
+
+- Pathfinder 2e does lethal damage by default, and players take non-trivial penalties for attempting to do non-lethal damage.
+
+- The PCs are encouraged by the AP to simply "requisition" any valuable gear or consumables they encounter from citizens in the course of their duty, in lieu of pay.
+
+  #+BEGIN_QUOTE
+  - The agents, as policemen, being able to confiscate property freely feels weird in this part of the adventure, when they are mostly dealing with ordinary citizens. My group didn’t really care that much, but it was a good topic to raise in session zero and clear out our preferences on anyway. It's very easy in any case to just give the characters a salary.In my experience, later on in the AP, when the agents are dealing with criminals and cults, it feels much more justified to use what they can take, or to give it back for a bounty.
+  — cite:reddit-n39df5
+  #+END_QUOTE
+
+- If even not immediately taken by the Agents, loot returned to the police is effectively fenced and the usual sale value (50%) is given to the Agents.
+
+There are a number of solutions to these problems:
+
+- Pay the Agents a salary to keep in line with Treasure By Level without making it a direct outcome of their activities.
+
+- Simply change the rules to make non-lethal damage default and at no penalty; give all magical characters the [[https://2e.aonprd.com/Feats.aspx?ID=1835][Nonlethal Spell]] metamagic Feat (2).
+
+  - Note that the Adventure Path does include some item and spells specifically to help address these issues.
+
+- Create some sort of deus ex machina (eg. a magical badge) that provides objective truth regarding the "Lawfulness" and "Goodness" (or at least Neutrality) of the Agent's actions while in the field.
+
+[[http:cite:reddit-q98yrs][u/Umutuku asks for some examples of play with the common alternative solutions]], and the [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]] has implemented some of these options, as well as others.
+
+As always, being very clear with your players (and ensuring they're clear with each other) and that everyone is playing a game they consent to participate in is key.
+
 ** United Paizo Workers
 
 In October 2021 – about 1 year after the final book of /Agents of Edgewatch/ was published in December 2020 – Paizo labor organized and formed the /United Paizo Workers/.
@@ -978,6 +1011,8 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 #+END_QUOTE
 
 * Resources
+** Actually Plays
+- [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]]
 ** Missing Persons Casefiles
 *** "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]"
 
