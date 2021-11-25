@@ -156,152 +156,241 @@ player's characters to meet the challenges in the AP.
 
 *Summary by Type*
 
-    | *type*         | *ch 1* | *ch 2* | *ch 3* | *ch 4* |
-    | *humanoid*     |      8 |     15 |      4 |      4 |
-    | *aberration*   |      1 |        |      1 |      1 |
-    | *animal/beast* |      8 |      4 |      2 |      1 |
-    | *construct*    |        |        |        |      4 |
-    | *devil*        |        |        |        |      1 |
-    | *elemental*    |        |        |        |      2 |
-    | *fey*          |        |        |        |      1 |
-    | *fiend*        |        |        |      2 |        |
-    | *ooze*         |        |        |      1 |      1 |
-    | *undead*       |      4 |        |      3 |        |
+| *type*         | *ch 1* | *ch 2* | *ch 3* | *ch 4* |
+| *humanoid*     |      8 |     15 |      4 |      4 |
+| *aberration*   |      1 |        |      1 |      1 |
+| *animal/beast* |      8 |      4 |      2 |      1 |
+| *construct*    |        |        |        |      4 |
+| *devil*        |        |        |        |      1 |
+| *elemental*    |        |        |        |      2 |
+| *fey*          |        |        |        |      1 |
+| *fiend*        |        |        |      2 |        |
+| *ooze*         |        |        |      1 |      1 |
+| *undead*       |      4 |        |      3 |        |
 
 *Summary by Chapter*
 
-    | *chapter 1*          |  *lvl* | *traits*                    |
-    |----------------------+--------+-----------------------------|
-    | 6× Human             | -1 - 2 | humanoid                    |
-    | 2× Goblin            |     -1 | humanoid                    |
-    | 4× [[https://2e.aonprd.com/Monsters.aspx?ID=372][Skeleton Guard]]    |     -1 | undead, skeleton            |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=83][Cockatrice]]        |      3 | beast                       |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=328][Owlbear]]           |      3 | animal                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=354][Rust Monster]]      |      4 | aberration                  |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=270][Hyenas]]            |      0 | animal                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=381][Giant Viper]]       |      2 | animal                      |
-    | 1× Almiraj           |      1 | animal/beast                |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=49][Flash Beetle]]      |     -1 | animal                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=23][Ankhrav]]           |      3 | animal                      |
-    |----------------------+--------+-----------------------------|
-    | *chapter 2*          |  *lvl* | *traits*                    |
-    |----------------------+--------+-----------------------------|
-    | 15× Kobold           |  0 - 2 | humanoid                    |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=386][Hunting Spider]]    |      1 | animal                      |
-    | 4× [[https://2e.aonprd.com/Monsters.aspx?ID=51][Bloodseeker]]       |     -1 | animal                      |
-    | 1× Boiling Fountain  |      2 | hazard                      |
-    | 2× Dart Barage       |      3 | hazard                      |
-    | 2× Exploding Statue  |      2 | hazard                      |
-    | 1× Hampering Snare   |      1 | snare                       |
-    |----------------------+--------+-----------------------------|
-    | *chapter 3*          |  *lvl* | *traits*                    |
-    |----------------------+--------+-----------------------------|
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=321][Gelatinous Cube]]   |      3 | ooze                        |
-    | 3× [[https://2e.aonprd.com/Monsters.aspx?ID=218][Ghoul]]             |      1 | undead                      |
-    | 2× Ratfolk           |      2 | humanoid                    |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=65][Calgini Creepers]]  |      2 | humanoid                    |
-    | 2× Vargouilles       |      2 | animal/beast, fiend         |
-    | 1× Grick             |      3 | aberration                  |
-    |----------------------+--------+-----------------------------|
-    | *chapter 4*          |  *lvl* | *traits*                    |
-    |----------------------+--------+-----------------------------|
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=300][Mimic]]             |      4 | aberration                  |
-    | 1× Hidden Chute      |      3 | hazard                      |
-    | 1× Flying Guillotine |      5 | hazard                      |
-    | 2× Summoning Rune    |      5 | hazard                      |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=187][Cinder Rat]]        |      3 | elemental                   |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=110][Barbazu Devil]]     |      5 | devil, fiend                |
-    | 1× Canopy Drop       |      4 | hazard                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=381][Giant Viper]]       |      2 | animal                      |
-    | 2× Humanoid          |      2 | humanoid                    |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=349][Redcap]]            |      4 | fey                         |
-    | 1× Ralso             |      4 | humanoid                    |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=383][Soulbound Doll]]    |      2 | construct                   |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=557][Attic Whisperer]]   |      4 | undead                      |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=20][Animated Statue]]   |      3 | construct                   |
-    | 1× Gas Trap          |      5 | hazard                      |
-    | 1× Plunger Chute     |      3 | hazard                      |
-    | 6× Pickled Punk      |      1 | undead                      |
-    | 4× Shredskin         |      2 | undead                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=322][Ochre Jelly]]       |      6 | ooze                        |
-    | 3× [[http://2e.aonprd.com/Monsters.aspx?ID=413][Wight]]             |      3 | undead                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=985][Binumir]]           |      3 | undead, incorporeal, spirit |
-    | 1× Henrid Pratchett  |      6 | humanoid, serial killer     |
+| *chapter 1*          |  *lvl* | *traits*                    |
+|----------------------+--------+-----------------------------|
+| 6× Human             | -1 - 2 | humanoid                    |
+| 2× Goblin            |     -1 | humanoid                    |
+| 4× [[https://2e.aonprd.com/Monsters.aspx?ID=372][Skeleton Guard]]    |     -1 | undead, skeleton            |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=83][Cockatrice]]        |      3 | beast                       |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=328][Owlbear]]           |      3 | animal                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=354][Rust Monster]]      |      4 | aberration                  |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=270][Hyenas]]            |      0 | animal                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=381][Giant Viper]]       |      2 | animal                      |
+| 1× Almiraj           |      1 | animal/beast                |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=49][Flash Beetle]]      |     -1 | animal                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=23][Ankhrav]]           |      3 | animal                      |
+|----------------------+--------+-----------------------------|
+| *chapter 2*          |  *lvl* | *traits*                    |
+|----------------------+--------+-----------------------------|
+| 15× Kobold           |  0 - 2 | humanoid                    |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=386][Hunting Spider]]    |      1 | animal                      |
+| 4× [[https://2e.aonprd.com/Monsters.aspx?ID=51][Bloodseeker]]       |     -1 | animal                      |
+| 1× Boiling Fountain  |      2 | hazard                      |
+| 2× Dart Barage       |      3 | hazard                      |
+| 2× Exploding Statue  |      2 | hazard                      |
+| 1× Hampering Snare   |      1 | snare                       |
+|----------------------+--------+-----------------------------|
+| *chapter 3*          |  *lvl* | *traits*                    |
+|----------------------+--------+-----------------------------|
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=321][Gelatinous Cube]]   |      3 | ooze                        |
+| 3× [[https://2e.aonprd.com/Monsters.aspx?ID=218][Ghoul]]             |      1 | undead                      |
+| 2× Ratfolk           |      2 | humanoid                    |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=65][Calgini Creepers]]  |      2 | humanoid                    |
+| 2× Vargouilles       |      2 | animal/beast, fiend         |
+| 1× Grick             |      3 | aberration                  |
+|----------------------+--------+-----------------------------|
+| *chapter 4*          |  *lvl* | *traits*                    |
+|----------------------+--------+-----------------------------|
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=300][Mimic]]             |      4 | aberration                  |
+| 1× Hidden Chute      |      3 | hazard                      |
+| 1× Flying Guillotine |      5 | hazard                      |
+| 2× Summoning Rune    |      5 | hazard                      |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=187][Cinder Rat]]        |      3 | elemental                   |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=110][Barbazu Devil]]     |      5 | devil, fiend                |
+| 1× Canopy Drop       |      4 | hazard                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=381][Giant Viper]]       |      2 | animal                      |
+| 2× Humanoid          |      2 | humanoid                    |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=349][Redcap]]            |      4 | fey                         |
+| 1× Ralso             |      4 | humanoid                    |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=383][Soulbound Doll]]    |      2 | construct                   |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=557][Attic Whisperer]]   |      4 | undead                      |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=20][Animated Statue]]   |      3 | construct                   |
+| 1× Gas Trap          |      5 | hazard                      |
+| 1× Plunger Chute     |      3 | hazard                      |
+| 6× Pickled Punk      |      1 | undead                      |
+| 4× Shredskin         |      2 | undead                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=322][Ochre Jelly]]       |      6 | ooze                        |
+| 3× [[http://2e.aonprd.com/Monsters.aspx?ID=413][Wight]]             |      3 | undead                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=985][Binumir]]           |      3 | undead, incorporeal, spirit |
+| 1× Henrid Pratchett  |      6 | humanoid, serial killer     |
 
 ** Book 2
 
 *Summary by Type*
 
-    | *type*         | *ch 1* | *ch 2* | *ch 3* | *ch 4* |
-    | *humanoid*     |     15 |      9 |     14 |     15 |
-    | *aberration*   |      1 |        |        |      6 |
-    | *animal/beast* |      7 |        |      1 |      7 |
-    | *construct*    |        |      2 |        |      8 |
-    | *daemon*       |        |        |        |      1 |
-    | *devil*        |        |        |        |        |
-    | *elemental*    |        |        |        |        |
-    | *fey*          |        |        |        |        |
-    | *fiend*        |        |        |        |      2 |
-    | *leshy*        |        |        |        |      4 |
-    | *ooze*         |        |        |      2 |      4 |
-    | *undead*       |        |        |        |     12 |
+| *type*         | *ch 1* | *ch 2* | *ch 3* | *ch 4* |
+| *humanoid*     |     15 |      9 |     14 |     15 |
+| *aberration*   |      1 |        |        |      6 |
+| *animal/beast* |      7 |        |      1 |      7 |
+| *construct*    |        |      2 |        |      8 |
+| *daemon*       |        |        |        |      1 |
+| *devil*        |        |        |        |        |
+| *elemental*    |        |        |        |        |
+| *fey*          |        |        |        |        |
+| *fiend*        |        |        |        |      2 |
+| *leshy*        |        |        |        |      4 |
+| *ooze*         |        |        |      2 |      4 |
+| *undead*       |        |        |        |     12 |
 
 *Summary by Chapter*
 
-    | *chapter 1*                      | *lvl* | *traits*                      |
-    |----------------------------------+-------+-------------------------------|
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=406][Wasp Swarm]]                    |     4 | animal, swarm                 |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=203][Ether Spider]]                  |     4 | beast, ethereal               |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=866][Xill]]                          |     6 | aberration, ethereal          |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=125][Riding Dog]]                    |     2 | animal                        |
-    | 15× Humanoid                     | 2 - 5 | humanoid                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=62][Bunyip]]                        |     3 | animal                        |
-    |----------------------------------+-------+-------------------------------|
-    | *chapter 2*                      | *lvl* | *traits*                      |
-    |----------------------------------+-------+-------------------------------|
-    | 9× Humanoid                      | 2 - 4 | humanoid                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=771][Dig-widget]]                    |     5 | construct                     |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skinstitch]]                    |     5 | construct                     |
-    |----------------------------------+-------+-------------------------------|
-    | *chapter 3*                      | *lvl* | *traits*                      |
-    |----------------------------------+-------+-------------------------------|
-    | 10× Humanoid                     | 5 - 8 | humanoid                      |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=997][Vaultbreaker Ooze]]             |     5 | ooze                          |
-    | 1× Hallucination Powder Trap     |     6 | hazard                        |
-    | 1× Spinning Blade Pillar         |     4 | hazard                        |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=331][Tiefling Adept]]                |     3 | humanoid, tiefling            |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=858][Weretiger]]                     |     4 | human, humanoid, werecreature |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=44][Basilisk]]                      |     5 | beast                         |
-    |----------------------------------+-------+-------------------------------|
-    | *chapter 4*                      | *lvl* | *traits*                      |
-    |----------------------------------+-------+-------------------------------|
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=22][Giant Animated Statue]]         |     7 | construct                     |
-    | 6× [[https://2e.aonprd.com/Monsters.aspx?ID=373][Skeletal Champion]]             |     3 | undead, skeleton              |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=171][Dullahan]]                      |     9 | undead                        |
-    | 1× Nightmare                     |     6 | beast, fiend                  |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=353][Roper]]                         |     9 | aberration                    |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=323][Black Pudding]]                 |     7 | ooze                          |
-    | 1× Hands of the Forgotten        |     8 | hazard                        |
-    | 1× Life Magnets                  |     7 | hazard                        |
-    | 1× Tyrroicese                    |    10 | construct, ooze, unique       |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=322][Ochre Jelly]]                   |     6 | ooze                          |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=316][Ofalth]]                        |    10 | aberration                    |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=827][Tick Swarm]]                    |     9 | animal, swarm                 |
-    | 3× [[https://2e.aonprd.com/Monsters.aspx?ID=327][Otyugh]]                        |     4 | aberration                    |
-    | 4× [[https://2e.aonprd.com/Monsters.aspx?ID=281][Fungus Leshy]]                  |     2 | leshy, fungus                 |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skitterstitch]]                 |     6 | construct, mindless           |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=385][Spider Swarm]]                  |     0 | animal, swarm                 |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=989][Bone Skipper Swarm]]            |     6 | animal, swarm                 |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=316][Ofalth]] Zombie                 |     7 | aberration, undead, zombie    |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=89][Ceustodaemon]]                  |     6 | fiend, daemon                 |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=238][Flesh Golem]]                   |     8 | construct, golem              |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skinstitch]]                    |     5 | construct                     |
-    | 2× [[https://2e.aonprd.com/Monsters.aspx?ID=549][Army Ant Swarm]]                |     5 | animal, swarm                 |
-    | 14× Humanoid                     |   5-9 | humanoid                      |
-    | 1× [[https://2e.aonprd.com/Monsters.aspx?ID=771][Dig-widget]]                    |     4 | construct                     |
-    | 4× [[https://2e.aonprd.com/Monsters.aspx?ID=992][Excorion]]                      |     7 | undead                        |
-    | 1× Wrent Dicaspiron, The Skinner |    10 | humanoid                      |
+| *chapter 1*                       | *lvl* | *traits*                      |
+|-----------------------------------+-------+-------------------------------|
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=406][Wasp Swarm]]                     |     4 | animal, swarm                 |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=203][Ether Spider]]                   |     4 | beast, ethereal               |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=866][Xill]]                           |     6 | aberration, ethereal          |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=125][Riding Dog]]                     |     2 | animal                        |
+| 14× Humanoid                      | 2 - 5 | humanoid                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=59][bugbear tormentor]]              |     3 | humanoid, goblin              |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=62][Bunyip]]                         |     3 | animal                        |
+|-----------------------------------+-------+-------------------------------|
+| *chapter 2*                       | *lvl* | *traits*                      |
+|-----------------------------------+-------+-------------------------------|
+| 9× Humanoid                       | 2 - 4 | humanoid                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=771][Dig-widget]]                     |     5 | construct                     |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skinstitch]]                     |     5 | construct                     |
+|-----------------------------------+-------+-------------------------------|
+| *chapter 3*                       | *lvl* | *traits*                      |
+|-----------------------------------+-------+-------------------------------|
+| 10× Humanoid                      | 5 - 8 | humanoid                      |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=997][Vaultbreaker Ooze]]              |     5 | ooze                          |
+| 1× Hallucination Powder Trap      |     6 | hazard                        |
+| 1× Spinning Blade Pillar          |     4 | hazard                        |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=331][Tiefling Adept]]                 |     3 | humanoid, tiefling            |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=858][Weretiger]]                      |     4 | human, humanoid, werecreature |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=44][Basilisk]]                       |     5 | beast                         |
+|-----------------------------------+-------+-------------------------------|
+| *chapter 4*                       | *lvl* | *traits*                      |
+|-----------------------------------+-------+-------------------------------|
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=22][Giant Animated Statue]]          |     7 | construct                     |
+| 6× [[https://2e.aonprd.com/Monsters.aspx?ID=373][Skeletal Champion]]              |     3 | undead, skeleton              |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=171][Dullahan]]                       |     9 | undead                        |
+| 1× Nightmare                      |     6 | beast, fiend                  |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=353][Roper]]                          |     9 | aberration                    |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=323][Black Pudding]]                  |     7 | ooze                          |
+| 1× Hands of the Forgotten         |     8 | hazard                        |
+| 1× Life Magnets                   |     7 | hazard                        |
+| 1× Tyrroicese                     |    10 | construct, ooze, unique       |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=322][Ochre Jelly]]                    |     6 | ooze                          |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=316][Ofalth]]                         |    10 | aberration                    |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=827][Tick Swarm]]                     |     9 | animal, swarm                 |
+| 3× [[https://2e.aonprd.com/Monsters.aspx?ID=327][Otyugh]]                         |     4 | aberration                    |
+| 4× [[https://2e.aonprd.com/Monsters.aspx?ID=281][Fungus Leshy]]                   |     2 | leshy, fungus                 |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skitterstitch]]                  |     6 | construct, mindless           |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=385][Spider Swarm]]                   |     0 | animal, swarm                 |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=989][Bone Skipper Swarm]]             |     6 | animal, swarm                 |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=316][Ofalth]] Zombie                  |     7 | aberration, undead, zombie    |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=89][Ceustodaemon]]                   |     6 | fiend, daemon                 |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=238][Flesh Golem]]                    |     8 | construct, golem              |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=1305][Skinstitch]]                     |     5 | construct                     |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=549][Army Ant Swarm]]                 |     5 | animal, swarm                 |
+| 14× Humanoid                      |   5-9 | humanoid                      |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=771][Dig-widget]]                     |     4 | construct                     |
+| 4× [[https://2e.aonprd.com/Monsters.aspx?ID=992][Excorion]]                       |     7 | undead                        |
+| 1× Wrent Dicaspiron - The Skinner |    10 | humanoid                      |
 
+** Book 3
+
+It might seem like something's missing with Book 3, but the majority of Chapter 2 is a casino heist using the [[https://2e.aonprd.com/Rules.aspx?ID=1221][Infiltration Rules]] from the Game Mastery Guide.
+
+*Summary By Type*
+
+| *type*         | *ch 1* | *ch 2* | *ch 3* |
+| *humanoid*     |     15 |      2 |     11 |
+| *aberration*   |        |        |        |
+| *animal/beast* |        |        |      4 |
+| *construct*    |      1 |        |        |
+| *daemon*       |      1 |        |        |
+| *devil*        |        |        |        |
+| *elemental*    |        |        |      3 |
+| *fey*          |      1 |      2 |        |
+| *fiend*        |        |        |        |
+| *leshy*        |        |        |        |
+| *ooze*         |        |        |        |
+| *undead*       |        |        |      2 |
+
+
+*Summary by Chapter*
+
+| *chapter 1*               | *lvl* | *traits*                       |
+|---------------------------+-------+--------------------------------|
+| 14× Gang Tough            | 6 - 9 | humanoid                       |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=593][Meladaemon]]             |    11 | daemon, fiend                  |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=998][Avarek]]                 |     8 | fey                            |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=239][Alchemical Golem]]       |     9 | construct, golem               |
+| 1× Gang Leader            |    11 | humanoid, orc                  |
+|---------------------------+-------+--------------------------------|
+| *chapter 2*               | *lvl* | *traits*                       |
+|---------------------------+-------+--------------------------------|
+| 1× Bouncer                |     8 | humanoid                       |
+| 2× [[https://2e.aonprd.com/Monsters.aspx?ID=1003][Svartalfar]]             |     8 | fey                            |
+| 1× Scathka                |    12 | humanoid                       |
+|---------------------------+-------+--------------------------------|
+| *chapter 3*               | *lvl* | *traits*                       |
+|---------------------------+-------+--------------------------------|
+| 4× [[https://2e.aonprd.com/Monsters.aspx?ID=1000][Eberarks]]               |    10 | beast, fire                    |
+| 2× Irorian Skeleton       |    11 | undead, skeleton               |
+| 3× [[https://2e.aonprd.com/Monsters.aspx?ID=200][Elemental Tsunami]]      |    11 | elemental, water               |
+| 8× Shikwashim Mercaneries |     9 | humanoid, lizardfolk           |
+| 1× Franca Laurentz        |    13 | humanoid, elf                  |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=220][Hill Giant]]             |     7 | giant, earth, humanoid         |
+| 1× Oggvurm the Merciless  |    14 | humanoid, lizardfolk, ravenile |
+
+** Book 4
+*Summary By Type*
+
+| *type*         | *ch 1* | *ch 2* | *ch 3* |
+| *humanoid*     |        |        |        |
+| *aberration*   |        |        |        |
+| *animal/beast* |        |        |        |
+| *construct*    |        |        |        |
+| *daemon*       |        |        |        |
+| *devil*        |        |        |        |
+| *elemental*    |        |        |        |
+| *fey*          |        |        |        |
+| *fiend*        |        |        |        |
+| *leshy*        |        |        |        |
+| *ooze*         |        |        |        |
+| *undead*       |        |        |        |
+
+
+*Summary by Chapter*
+
+| *chapter 1*                        |  *lvl* | *traits*             |
+|------------------------------------+--------+----------------------|
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=90][Leukodaemon]]                     |      9 | fiend, daemon        |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=547][Ankou]]                           |     14 | fey                  |
+| (13 + 5d4)× humanoid               |  5 - 6 | humanoid             |
+| 19× humanoid                       | 9 - 12 | humanoid             |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=59][bugbear tormentor]]               |      3 | humanoid, goblin     |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=282][Lich]]                            |     12 | undead               |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=79][Changeling Exile]]                |      3 | changeling, humanoid |
+| 1× Velberi Jallist                 |     14 | humanoid             |
+| 5× Poison Eater                    |      8 | humanoid             |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=15][Balisse]]                         |      8 | celestial, angel     |
+| 1× [[https://2e.aonprd.com/Monsters.aspx?ID=1005][Jorogumo]]                        |     13 | humanoid             |
+| 2× Joro Spider                     |      8 | animal               |
+| 1× Stabbing Beast                  |     15 | fiend, herald        |
+| 1× Jonis Flakfatter - The Infector |     16 | humanoid             |
+|------------------------------------+--------+----------------------|
+| *chapter 2*                        |  *lvl* | *traits*             |
+|------------------------------------+--------+----------------------|
+| 10× humanoid                       | 9 - 12 | humanoid             |
+| 3× clockwork assassin              |     13 | construct, clockwork |
 
 * Party Makeup and Composition
 ** Alchemist
