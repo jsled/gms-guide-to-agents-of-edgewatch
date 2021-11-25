@@ -772,7 +772,7 @@ Cheers…
 
 …jsled
 *** [[https://www.reddit.com/message/messages/17s84b4][response: +1]]
-** PROG u/luminousmage, 2021-11-24
+** DONE u/luminousmage, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s5k2z][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -810,7 +810,8 @@ Cheers…
 
 …jsled
 
-** PROG u/Replikator777, 2021-11-24
+*** [[https://www.reddit.com/message/messages/17seqit][response]]: +1
+** DONE u/Replikator777, 2021-11-24
 *** [[https://www.reddit.com/message/messages/17s6k0q][inquiry]]
 Subject: re-licensing your comment/post for a community guide to running Agents of Edgewatch
 
@@ -848,6 +849,7 @@ Cheers…
 
 …jsled
 
+*** [[https://www.reddit.com/message/messages/17sbdio][response]]: +1
 * plan
 - OGL. CUP.
 - source-structure
