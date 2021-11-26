@@ -966,13 +966,14 @@ is a very strong point in this book- a less structured investigation sequence ga
 — cite:reddit-n39df5
 #+END_QUOTE
 
-**** FIXME
-
+#+BEGIN_COMMENT - FIXME
 - https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#41
   - > Is it explained why Chadraxa made a complaint against Orvington Moneychangers?
   - [next post]
     - > I assume that's related to the debt Orvington's son owes Chadraxa, which he has failed to pay.
     - > Same reason she had people graffiti his bank, and throw a wasp nest on the roof.
+#+BEGIN_COMMENT
+
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
 
 #+BEGIN_QUOTE
