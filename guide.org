@@ -1053,20 +1053,10 @@ challenges and made for a memorable, cinematic encounter.
 — cite:reddit-oknoo0-h59zt3p
 #+END_QUOTE
 
-#+BEGIN_COMMENT
-OTOH…
-@author{paizo-Deriven_Firelion}
-@misc{
-  FIXME
-  cleared = "false"
-}
-[[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Deriven Firelion says]]:
-#+BEGIN_QUOTE
+[[http:cite:paizo-rzs4349c-90]["Deriven_Firelion" agrees, the ofalth was brutal, even leveled down.]]
+#+BEGIN_COMMENT uncleared-quote-paizo-rzs4349c-90
 That elite ofalth was brutal. My players ran into it at lvl 7. I decided to reduce it to a regular Ofalth. It was still brutal.
-— cite : paizo
-#+END_QUOTE
 #+END_COMMENT
-
 
 [[http:cite:reddit-oknoo0-h5aswqa][u/valahan23 has a number of recommendations…]]
 #+BEGIN_QUOTE
