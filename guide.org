@@ -789,7 +789,7 @@ Also, just skip the encounter with Pratchett and Ralso in the Tipsy Tengu entire
 
 The encounter serves two purposes:
 
-- Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
+1. Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
 
   [[http:cite:reddit-n39df5][u/DragoldC42 concurs...]]
   #+BEGIN_QUOTE
@@ -801,7 +801,12 @@ The encounter serves two purposes:
   — cite:reddit-n39df5
   #+END_QUOTE
 
-- Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
+2. Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
+
+
+----------
+
+[[http:cite:paizo-rzs4349b-246][Smoagendash II describes some interesting variations they made in this first book.]]
 
 **** "Guards! Guards!"
 **** "Panic at the Zoo" / Knight's Marvelous Menagerie
@@ -854,9 +859,18 @@ people who may or may not actually be missing.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 
+**** XP
+
+[[http:cite:paizo-rzs4349b-237][Kasoh tots up all the Chapter 1 XP so you don't have to! :)]]
+
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
 
+*Errata* The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
+
+----------
+
 [[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
+
 
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
