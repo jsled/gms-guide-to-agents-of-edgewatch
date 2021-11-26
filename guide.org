@@ -773,6 +773,10 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
   visiting it for a tour while the festival is going on.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
+*** Kekker and Gref (ratfolk smugglers, B2C3, B4C?)
+
+See [[The Back Door][Plot Notes / Book 1 Chapter 3]].
+
 * Plot Notes
 ** Book 1: "The Devil in the Dreaming Palace"
 *** Title … spoilers, Paizo!
@@ -881,9 +885,11 @@ people who may or may not actually be missing.
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
 
-- [FIXME] Grolna relevance?
-- Treasure
-  - +1 rune
+[[http:cite:paizo-rzs4349b-404][As "GreatGraySkwid" notes, there's no reason the Agents should arrest these two in the "Back Door" to the House of Planes, in Book 2.]]
+
+[[http:cite:rzs4349b-408][Also, "GreatGraySkwid" notes that the ratfolk Kekker and Gref share no common language with their Caligni trading partners.]]
+
+The drug [[https://2e.aonprd.com/Equipment.aspx?ID=807]["grolna"]] referenced in Chapter 3 is not at all significant to the plot of the AP.
 
 **** The House of the Planes
 
@@ -1053,7 +1059,6 @@ The final clue is the new PC joining the ranks. […]
 — cite:paizo-rzs4349c-91
 #+END_QUOTE
 #+HTML: </details>
-
 
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
 
