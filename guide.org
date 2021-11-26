@@ -1073,6 +1073,10 @@ The final clue is the new PC joining the ranks. […]
 
 In response to a question about how to recover if Droan burns the incriminating secret journal, [[http:cite:paizo-rzs4349c-129][Naurgul outlines multiple ways to do so]].
 
+----------
+
+At this point, some people notice that not all the toolbox items are actually included in the pre-written adventure path, such as the [[https://2e.aonprd.com/Equipment.aspx?ID=814][Ethersight ring]]. [[http:cite:paizo-rzs4349c-147][Michael Sayre suggests having Rohka Stoneswarn give it to the PCs to help with her ether spider problem.]]
+
 
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
 
@@ -1080,6 +1084,23 @@ In response to a question about how to recover if Droan burns the incriminating 
 The robbery itself is okey - The robber's plan is kinda silly and they are bound to fail, but it felt good having the party stop them and save the day anyway. I feel that a GM taking the time to improve this scene could make it into a much better moment than I had.
 — cite:reddit-n39df5
 #+END_QUOTE
+
+----------
+
+[[http:cite:paizo-rzs4349c-149][jsled went a bit overboard, and detailed the sequence of most of the floats that the Agents would expect to see in their hours of waiting for the robbery to happen.]]
+
+#+BEGIN_QUOTE
+I expect my party will stand guard at the PS&T, and BOLO for greasepaint/clowns, or anything that might get them over the fence.
+
+It started off by wanting to provide some drama/tension with some red-herring floats. Taking clues from many other posters here and on reddit, I also wanted to incorporate some entities/foreshadowing from the AP.
+
+[…]
+
+Then it came to some "filler" floats. I figure the Parade has order-of-175 floats, takes about 3 hours, and has a ~12mi route in order to hit all the districts/quarters.
+— cite:paizo-rzs4349c-149
+#+END_QUOTE
+
+[[http:cite:paizo-rzs4349c-150][Naurgul offered their details]], too, and [[http:cite:paizo-rzs4349c-151][GreatGraySkwid supplemented with a number of business and locations from the /Pathfinder Chronicles Guide to Absalom/]].
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
 
