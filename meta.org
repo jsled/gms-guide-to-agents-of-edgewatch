@@ -966,66 +966,8 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
 ** resources to be included
-*** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][com/paizo/threads/AoE/book1]]
-**** progress: through 4/10
-**** police / treasure / loot / requisition
-
-#+BEGIN_QUOTE
-Police, stealing people's personal property for personal enrichment. Oof.
-
-So, when I run this I'll have to redo the entire treasure system.
-#+END_QUOTE
-- Kasoh, Aug 1, 2020, 03:02 pm, https://paizo.com/threads/rzs4349b?1-Devil-at-the-Dreaming-Palace#21
-
-
-
-#+BEGIN_QUOTE
-If I run this, I'd probably deal with treasure through a combination of better gear provided by Headquarters, contributions from grateful festival organizers, and letting the PCs' equipment level up as they advance. Definitely no looting bodies or pocketing arbitrary fines (or citizens slipping purses of gold into the officers' pockets).
-
-Maybe add a supply officer NPC to the Edgewatch station who issues higher-level equipment as the PCs become authorized for it -- but only if they fill out the proper forms in triplicate, of course.
-
-As for the new gear, it's a bit disappointing the nightstick is such a poor weapon. And I'm definitely not going to be using the blindpepper bomb and tube in my game, given the real-world issues around the casual overuse of tear gas and pepper spray. Maybe some sort of sleep/knockout gas alchemical weapon would be a better alternative?
-#+END_QUOTE
-- Lord Shark, Aug 1, 2020, 10:40 pm, https://paizo.com/threads/rzs4349b?1-Devil-at-the-Dreaming-Palace#31
-
-#+BEGIN_QUOTE
-At one point, the PCs, who are cops, wind up in a situation where they may have to beat citizens unconscious. And not depraved or awful criminals, just people in a bar who are belligerently drunk. Some of them are even Good aligned.
-
-The AP encourages using social skills to deescalate the situation, and I don't think it's all that bad, but it stuck out to me as a bit awkward in terms of timing given real world events.
-
-The PCs also get to 'fine' people and keep the money and return to the station and then requisition gear from defeated opponents...which, while it makes sense in-setting, given the use of civil forfeiture by real police it still leaves a bit of a sour taste in my mouth. This part is easy enough to ignore or change in various ways, but it's less than ideal.
-
-Those are really the only issues I found with it beyond the premise itself being poorly timed, and the first is not a big deal, just slightly off-putting.
-#+END_QUOTE
-- Deadmanwalking 	Aug 6, 2020, 12:05 pm, https://paizo.com/threads/rzs4349b&page=2?1-Devil-at-the-Dreaming-Palace#52
-
-#+BEGIN_QUOTE
-
-
-A lot of people have been posting about how they are changing the "loot" system from the AP and I wanted to share my approach as an alternative that requires fewer bigger changes. I think the fact that Edgewatch doesn't have the funding is a good plot development to start with and I want to keep that aspect; however, I don't want to encourage "looting" civilians to keep pace with the game leveling wealth mechanics.
-
-Instead, I want to do 2 things.
-1. Give characters the choice to be responsible and require meticulously cataloging evidence or rewards given by grateful civilians. Through this, I plan to reward players further in the AP based on their choices to be responsible.
-
-2. Have consequences for operating outside their responsibilities as city guards.
-
-My goal behind that is for the players to choose the type of guard they want to become, but to have consequences for those type of decisions. This could mean their character being kicked from the force or imprisoned, which will equate, potentially, to character death from a story perspective.
-
-There are districts with corruption and guards that are corrupt. The Edgewatch, however, under Lieutenant Lavarsus will not put up with those shenanigans. Those are just some thoughts I have around my run which I'm starting in about a month or so.
-
-#+END_QUOTE
-tuxagon 	Aug 14, 2020, 05:14 pm  https://paizo.com/threads/rzs4349b&page=2?1-Devil-at-the-Dreaming-Palace#85
-
-[more notes]
-https://paizo.com/threads/rzs4349b&page=3?1-Devil-at-the-Dreaming-Palace#120
-
-#+BEGIN_QUOTE
-From my understanding of civil forfeiture, the law set in the book is somewhat different to that. The guards are supposed to be only taking an amount of goods/money from the offending parties equal to or less than the amount of money that would be the fine for the crime, as opposed to civil forfeiture where the police take possessions from suspected criminals until they are able to prove that those possessions are not related to the crime.
-
-Edgewatch's requisitioning here is supposed to be the punishment for the crime committed, whereas civil forfeiture is separate to any punishments the crime would normally warrant and can be arbitrarily much greater than the scale of the crime. A closer comparison to Edgewatch's policy might be traffic tickets that are paid on-the-spot.
-#+END_QUOTE
-thewastedwalrus 	Aug 22, 2020, 02:00 pm https://paizo.com/threads/rzs4349b&page=4?1-Devil-at-the-Dreaming-Palace#152
-
+*** TODO [4/10] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][com/paizo/threads/AoE/book1]]
+**** DONE police / treasure / loot / requisition
 **** "I noticed something weird about the Seamers"
 https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
 **** do you feel like there's XP missing from B2C3?

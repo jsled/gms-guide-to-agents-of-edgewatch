@@ -104,9 +104,10 @@ The main objections are:
 
 - The PCs are encouraged by the AP to simply "requisition" any valuable gear or consumables they encounter from citizens in the course of their duty, in lieu of pay.
 
-  #+HTML: <details>
-  #+HTML:   <summary>"[…] being able to confiscate property freely feels weird […]" — u/DragoldC42</summary>
-  #+BEGIN_QUOTE
+  - ​[[http:cite:reddit-n39df5][u/DragoldC42, reddit.com/r/Pathfinder2e, 2021-05-02]]
+    #+HTML: <details>
+    #+HTML:   <summary>"being able to confiscate property freely feels weird"</summary>
+    #+BEGIN_QUOTE
   - The agents, as policemen, being able to confiscate property freely feels
     weird in this part of the adventure, when they are mostly dealing with
     ordinary citizens. My group didn’t really care that much, but it was a
@@ -118,18 +119,47 @@ The main objections are:
 
   — cite:reddit-n39df5
   #+END_QUOTE
-  #+HTML: </details>
+    #+HTML: </details>
+
+  - — cite:paizo-rzs4349b-21
+    #+BEGIN_COMMENT uncleared quote
+Police, stealing people's personal property for personal enrichment. Oof.
+
+So, when I run this I'll have to redo the entire treasure system.
+    #+END_COMMENT
 
 - If even not immediately taken by the Agents, loot returned to the police is effectively fenced and the usual sale value (50%) is given to the Agents.
 
-- The Agents are tasked to – effectively — break up a labor action in the role of police, in Book 1 Chapter 2.
+  - cf. — cite:paizo-rzs4349b-31
+    #+BEGIN_COMMENT uncleared-quote
+If I run this, I'd probably deal with treasure through a combination of better gear provided by Headquarters, contributions from grateful festival organizers, and letting the PCs' equipment level up as they advance. Definitely no looting bodies or pocketing arbitrary fines (or citizens slipping purses of gold into the officers' pockets).
 
+Maybe add a supply officer NPC to the Edgewatch station who issues higher-level equipment as the PCs become authorized for it -- but only if they fill out the proper forms in triplicate, of course.
+
+As for the new gear, it's a bit disappointing the nightstick is such a poor weapon. And I'm definitely not going to be using the blindpepper bomb and tube in my game, given the real-world issues around the casual overuse of tear gas and pepper spray. Maybe some sort of sleep/knockout gas alchemical weapon would be a better alternative?
+    #+END_COMMENT
+
+- The Agents are tasked to, well, be police: to enact violence on behalf of the State to resolve disputes.
+
+  - The very first encounter is "beat a bunch of citizens unconscious".
+    - cf. — cite:paizo-rzs4349b-52
+      #+BEGIN_COMMENT uncleared-quote
+At one point, the PCs, who are cops, wind up in a situation where they may have to beat citizens unconscious. And not depraved or awful criminals, just people in a bar who are belligerently drunk. Some of them are even Good aligned.
+
+The AP encourages using social skills to deescalate the situation, and I don't think it's all that bad, but it stuck out to me as a bit awkward in terms of timing given real world events.
+
+The PCs also get to 'fine' people and keep the money and return to the station and then requisition gear from defeated opponents...which, while it makes sense in-setting, given the use of civil forfeiture by real police it still leaves a bit of a sour taste in my mouth. This part is easy enough to ignore or change in various ways, but it's less than ideal.
+
+Those are really the only issues I found with it beyond the premise itself being poorly timed, and the first is not a big deal, just slightly off-putting.
+      #+END_COMMENT
+
+  - The Agents are tasked to – effectively — break up a labor action in the role of police, in Book 1 Chapter 2.
 
 There are a number of solutions to these problems:
 
 - Pay the Agents a salary to keep in line with Treasure By Level without making it a direct outcome of their activities.
 
-- Simply change the rules to make non-lethal damage default and at no penalty; give all magical characters the [[https://2e.aonprd.com/Feats.aspx?ID=1835][Nonlethal Spell]] metamagic Feat (2).
+- Simply change the rules to make non-lethal damage default and at no penalty; give all magical characters the [[https://2e.aonprd.com/Feats.aspx?ID=1835][Nonlethal Spell Metamagic Feat (2)]].
 
   - Note that the Adventure Path does include some item and spells specifically to help address these issues.
 
@@ -137,7 +167,47 @@ There are a number of solutions to these problems:
 
 [[http:cite:reddit-q98yrs][u/Umutuku asks for some examples of play with the common alternative solutions]], and the [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]] has implemented some of these options, as well as others.
 
-As always, being very clear with your players (and ensuring they're clear with each other) and that everyone is playing a game they consent to participate in is key.
+#+BEGIN_COMMENT uncleared-quote paizo-rzs4349b-85
+A lot of people have been posting about how they are changing the "loot"
+system from the AP and I wanted to share my approach as an alternative that
+requires fewer bigger changes. I think the fact that Edgewatch doesn't have
+the funding is a good plot development to start with and I want to keep that
+aspect; however, I don't want to encourage "looting" civilians to keep pace
+with the game leveling wealth mechanics.
+
+Instead, I want to do 2 things.
+
+1. Give characters the choice to be responsible and require meticulously
+cataloging evidence or rewards given by grateful civilians. Through this, I
+plan to reward players further in the AP based on their choices to be
+responsible.
+
+2. Have consequences for operating outside their responsibilities as city guards.
+
+My goal behind that is for the players to choose the type of guard they want
+to become, but to have consequences for those type of decisions. This could
+mean their character being kicked from the force or imprisoned, which will
+equate, potentially, to character death from a story perspective.
+
+There are districts with corruption and guards that are corrupt. The
+Edgewatch, however, under Lieutenant Lavarsus will not put up with those
+shenanigans. Those are just some thoughts I have around my run which I'm
+starting in about a month or so.
+#+END_COMMENT
+[[http:cite:paizo-rzs4349b-85][On the Paizo Forums, "tuxagon" shares some thoughts about their plans for a more minimal change to the system.]]
+
+[[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]]
+#+BEGIN_COMMENT uncleared-quote-paizo-rzs4349b-152]]
+From my understanding of civil forfeiture, the law set in the book is somewhat different to that. The guards are supposed to be only taking an amount of goods/money from the offending parties equal to or less than the amount of money that would be the fine for the crime, as opposed to civil forfeiture where the police take possessions from suspected criminals until they are able to prove that those possessions are not related to the crime.
+
+Edgewatch's requisitioning here is supposed to be the punishment for the crime committed, whereas civil forfeiture is separate to any punishments the crime would normally warrant and can be arbitrarily much greater than the scale of the crime. A closer comparison to Edgewatch's policy might be traffic tickets that are paid on-the-spot.
+#+END_COMMENT
+
+[[http:cite:paizo-rzs4349b-120][GayBirdGM]] and [[http:cite:paizo-rzs4349b-121][Sporkedup]] both offer some counterbalance: there's plenty of bad things that the heroes are supposed to fight against because that's what these games are about, and the rest can pretty easily be worked around.
+
+--------------------------------------------------
+
+This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
 
 ** United Paizo Workers
 
