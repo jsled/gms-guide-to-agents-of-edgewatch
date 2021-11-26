@@ -1418,6 +1418,14 @@ Inspired by this, [[http:cite:paizo-rzs4349b-482][jsled offers their list, as we
 
 [[http:cite:paizo-rzs4349b-450][GreatGraySkwid's players created a full-on murderboard to track the details. :)]]
 
+** Eyes on Absalom
+
+[[http:cite:paizo-rzs4349b-477][GreatGraySkwid "reworked" the front page of Eyes on Absalom for their campaign…]]
+#+BEGIN_QUOTE
+I have reworked the Eyes On Absalom front page to tie into my campaign, with the conceit that it's published the morning after the Dreaming Palace raid, and so just covers pre-Chapter 4 events. My intent is to use it in Lavarsus's debrief, that he's furious they apparently leaked details of ongoing investigations to Vancaskerkin and made themselves out to be heroes in the process (something that is entirely Reginald's doing, not that it matters). Should be fun, and wanted to share before my session this Saturday (constructive criticism encouraged!):
+[[https://drive.google.com/file/d/1DPPWEhbZhmpJtD9cQNCL24TH7onKTeXk/view?usp=sharing][Eyes On Absalom, Desnus 20, 4720]]
+— cite:paizo-rzs4349b-477
+#+END_QUOTE
 
 ** Journal Entries / Notes / Handouts
 *** Book 1 Chapter 4: Pratchett's Journal
