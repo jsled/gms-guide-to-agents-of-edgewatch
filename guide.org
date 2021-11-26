@@ -157,6 +157,8 @@ Those are really the only issues I found with it beyond the premise itself being
 
   - The Agents are tasked to – effectively — break up a labor action in the role of police, in Book 1 Chapter 2.
 
+    - And the [[http:cite:paizo-rzs4349b-311][kobolds go from protesting pay to being "extremely homicidal"]], to boot. Though as [[http:cite:paizo-rzs4349b-314]["Benchak the Nightstalker" points out, there is a "schism" in the ranks that is useful to highlight.]] [[http:cite:paizo-rzs4349b-327]["EdwinM" suggests taking it a different direction entirely]], and [[http:cite:paizo-rzs4349b-328]["SilentCal" has another alternate scenario.]]  [[http:cite:paizo-rzs4349b-332]["Data Lore" offers their modifications to the chapter.]]
+
 There are a number of solutions to these problems:
 
 - Pay the Agents a salary to keep in line with Treasure By Level without making it a direct outcome of their activities.
