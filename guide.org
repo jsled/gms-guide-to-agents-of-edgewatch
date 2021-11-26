@@ -852,6 +852,9 @@ people who may or may not actually be missing.
 #+END_QUOTE
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
+
+[[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
+
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
 
