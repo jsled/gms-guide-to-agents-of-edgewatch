@@ -952,7 +952,7 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 
 - candidates
   - https://simplecss.org/
-**** left-hand nav menu
+**** TODO left-hand nav menu
 
 - properties
   - built dynamically from headings
