@@ -656,9 +656,13 @@ James, congratulations. I am literally scared of this guy.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 
+----------
+
+[[http:cite:paizo-rzs4349d-12]["Lord Shark" notes that "The Rumormonger" is a /bit/ too obvious of a name for Vancaskerkin]]. [[http:cite:paizo-rzs4349d-14][GayBirdGM shares that that is precisely why they changed it to "The Reaper" for their game.]]
+
 --------------------------------------------------
 
-[[http:cite:paizo-rzs4349b-268][If the name "Vancaskerkin" is familiar to you, there's good reason: it's a bit of a running gag/easter egg in Paizo's APs.]]
+([[http:cite:paizo-rzs4349b-268][If the name "Vancaskerkin" is familiar to you, there's good reason: it's a bit of a running gag/easter egg in Paizo's APs.]])
 
 ** Secondary / Minor
 *** Captain Asilia of Gyr, Starwatch — N female human ranger 12
@@ -681,6 +685,35 @@ down, gesturing to the room’s comfortable chairs.
 
 #+END_COMMENT
 *** Blackfinger Blight
+
+Blackfinger Blight is introduced in Book 1 Chapter 1 as the cause for the behavior of the animals in the Menagerie.
+
+#+BEGIN_QUOTE
+The zoo creatures themselves are acting unusually aggressive, with a
+starting attitude of hostile. This is the result of a rage-inducing
+serum called blackfinger blight. An agent of Jonis Flakfatter, one of
+the city’s high priests of Norgorber (and an important antagonist later
+in this campaign), tested his latest formulation by introducing the
+contagion into the animals’ water supply.
+— cite:paizo-aoe-book1&page=13
+#+END_QUOTE
+
+It doesn't show up again until it plays a part in the climax of Book 3.
+
+If your part contains an Alchemist, you might want to insert some detail for them to learn.
+
+----------
+
+[[http:cite:paizo-rzs4349d-28][AlastarOG finds the Blackfinger Blight effects too "basic" and misaligned with the narrative, so they revised its effects]].
+#+BEGIN_COMMENT uncleared quote paizo-rzs4349d-28
+Another idea for this ark, I don't like the blackfinger blight effects, seems way too ''basic'' as far as evil plots go. I liked the idea that it was a poison that made everyone mad and attack everyone around
+them like it was foreshadowed in chapter 1. For this reason, I'm thinking of switching its effects to this:
+
+Saving Throw DC 32 Fortitude; Onset 1 round; Maximum Duration 6 rounds; Stage 1 confused 1 round (1 round); Stage 2 confused 1 round, gain a +1 status bonus to attack and damage, -1 status to AC (1 round); Stage 3: Permanently confused until poison is countered.
+
+I'm hoping to have this be a bit like the crowd murder moment in kingsmen, this should be a bit more poignant I'd say, and also make the fight a bit more interesting, as they could very much wail on each other.
+— cite:paizo-rzs4349d-28
+#+END_COMMENT
 
 #+BEGIN_COMMENT
 - Introduced in Book 1, Chapter 1
@@ -710,7 +743,6 @@ If your party has an Alchemist or Investigator, they might get curious to follow
       spreading the blight.
 
   - Book 3, pg 5: Heading, "The Blackfinger Blight Bomb"
-
 
 #+END_COMMENT
 *** Wrent Dicaspiron ("The Skinner")
