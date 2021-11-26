@@ -1,5 +1,5 @@
 
-generate: index.html
+generate: guide.html
 	. v/bin/activate; python3 cite.py < guide.html > index.html
 
 
