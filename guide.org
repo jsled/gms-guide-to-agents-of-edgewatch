@@ -1069,6 +1069,11 @@ The final clue is the new PC joining the ranks. […]
 #+END_QUOTE
 #+HTML: </details>
 
+--------------------------------------------------
+
+In response to a question about how to recover if Droan burns the incriminating secret journal, [[http:cite:paizo-rzs4349c-129][Naurgul outlines multiple ways to do so]].
+
+
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
 
 #+BEGIN_QUOTE
