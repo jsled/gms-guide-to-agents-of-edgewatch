@@ -243,6 +243,7 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 
 [[http:cite:reddit-o0y78z-h1yrupj][In that same thread, u/GreatGraySkwid points to]] a [[http:cite:paizo-rzs438h4][paizo.com forum thread on the subject, specifically.]]
 
+
 --------------------------------------------------
 
 This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
@@ -815,6 +816,8 @@ You have some options.
 I gave my players the option to just tie up the monsters with rope after a successful grapple check, and this gave a much easier win condition to the combats while still being hard enough considering they had to go all over the zoo with no rests.
 — cite:reddit-n39df5
 #+END_QUOTE
+
+Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the Rusty fight is "crazy"]], [[http:cite:paizo-rzs4349b-231][Deadmanwalking notes that rust monsters are generally offensively weak, so if actions are used correctly, it should balance out okay.]]
 
 **** The Graveraker goes missing
 
