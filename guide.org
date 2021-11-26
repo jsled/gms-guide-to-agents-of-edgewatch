@@ -878,7 +878,6 @@ people who may or may not actually be missing.
 
 [[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
 
-
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
 
@@ -1359,7 +1358,7 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 
 On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]" in July 2020, a letter discovered under a table in the Tipsy Tengu, a piece of evidence regarding one of the missing persons that form the basis of the mystery in Book 1.
 
-[[http:cite:paizo-rzs4349b-389][On the Paizo forums, Naurgul offers a list of detail beyond the handful of Missing Persons cases described in the AP…]]
+On the Paizo forums, [[http:cite:paizo-rzs4349b-388]["OmegaZ" summarizes the missing persons as outlined by the book]], and [[http:cite:paizo-rzs4349b-389]["Naurgul" offers a list of detail beyond the handful of Missing Persons cases described in the AP…]]
 
 #+BEGIN_QUOTE
 Date: 2 Sarenith 4720

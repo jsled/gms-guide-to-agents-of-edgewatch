@@ -971,8 +971,9 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
 ** resources to be included
-*** TODO [1/2] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
+*** TODO [1/3] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
 **** DONE police / treasure / loot / requisition
+**** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][GreatGraySkwid's Book 1 alternations]]
 **** TODO review page 5/10
 *** TODO [4/5] [[https://paizo.com/threads/rzs4349c][paizo/AoE/book2]]
 **** DONE "I noticed something weird about the Seamers"
