@@ -69,11 +69,13 @@ This seems to be supported by the experience at some tables, with people reporti
 
 Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
 
-- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
+- [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
 
 - The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
-- [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
+- [[http:cite:paizo-rzs43ftq]["Zandu the Devourer" was frustrated by repeated near-TPKs and PC deaths, and others shared their experiences.]]
+
+- [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
 
 ----------
 
@@ -169,6 +171,21 @@ There are a number of solutions to these problems:
 
 ----------
 
+[[http:cite:paizo-rzs436hc-25][Naurgul describes a clever RAW-mechanical way to help with the lethal/non-lethal damage issue…]]
+
+#+HTML: <details>
+#+HTML:   <summary>For my group, all I changed was to apply PC dying rules to NPCs. […]</summary>
+#+BEGIN_QUOTE
+For my group, all I changed was to apply PC dying rules to NPCs. That allows my players to deal lethal damage until the last hit or try to save the enemy combatants after they fall down (which comes at the expense of actions that could have been used on ending the fight).
+
+[…]
+
+It seems to me that this is the best of both worlds, meaning I don't restrict my PCs too much but at the same time being nonlethal is not trivially easy to achieve either.
+
+— cite:paizo-rzs436hc-25
+#+END_QUOTE
+#+HTML: </details>
+
 [[http:cite:reddit-q98yrs][u/Umutuku asks for some examples of play with the common alternative solutions]], and the [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]] has implemented some of these options, as well as others.
 
 #+BEGIN_COMMENT uncleared-quote paizo-rzs4349b-85
@@ -200,7 +217,7 @@ starting in about a month or so.
 #+END_COMMENT
 [[http:cite:paizo-rzs4349b-85][On the Paizo Forums, "tuxagon" shares some thoughts about their plans for a more minimal change to the system.]]
 
-[[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]]
+[[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]] But that opinion is not shared by all in the following worth-reading comments.
 #+BEGIN_COMMENT uncleared-quote-paizo-rzs4349b-152
 From my understanding of civil forfeiture, the law set in the book is somewhat different to that. The guards are supposed to be only taking an amount of goods/money from the offending parties equal to or less than the amount of money that would be the fine for the crime, as opposed to civil forfeiture where the police take possessions from suspected criminals until they are able to prove that those possessions are not related to the crime.
 
