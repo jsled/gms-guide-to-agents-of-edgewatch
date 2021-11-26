@@ -1105,6 +1105,10 @@ When they finally defeated the monster it felt like an incredible achievement th
 
 ----------
 
+[[http:cite:paizo-rzs4349c-48]["Benchak the Nightstalker" highlights a "not enough hands" problem with the Seamer's "Wire Catch" reaction.]]
+
+----------
+
 [[http:cite:reddit-qtjysv][u/Excaliburrover highlights a problem with The Skinner's "Chain Up" ability at the end of Book 2…]]
 
 #+HTML: <details>
@@ -1347,6 +1351,14 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
 ** Book 1, Chapter 2
 
 - The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
+
+** Book 2, Chapter 3
+
+#+BEGIN_COMMENT
+- Link to Plot Notes re: Seamer's "Wire Catch" ability
+#+END_COMMENT
+
+- [[http:cite:paizo-rzs4349c-48][The Skinsaw Seamer's "Wire Catch" reaction requires a free hand they cannot easily have.]]
 
 ** Book 2, Chapter 4
 
