@@ -442,7 +442,6 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 | *ooze*         |        |        |        |
 | *undead*       |        |        |      2 |
 
-
 *Summary by Chapter*
 
 | *chapter 1*               | *lvl* | *traits*                       |
@@ -658,7 +657,7 @@ James, congratulations. I am literally scared of this guy.
 
 ----------
 
-[[http:cite:paizo-rzs4349d-12]["Lord Shark" notes that "The Rumormonger" is a /bit/ too obvious of a name for Vancaskerkin]]. [[http:cite:paizo-rzs4349d-14][GayBirdGM shares that that is precisely why they changed it to "The Reaper" for their game.]]
+[[http:cite:paizo-rzs4349d-12]["Lord Shark" notes that "The Rumormonger" is a /bit/ too obvious of a name for Vancaskerkin]].  [[http:cite:paizo-rzs4349d-14][GayBirdGM shares that that is precisely why they changed it to "The Reaper" for their game]], [[http:cite:paizo-rzs4349d-82]["EdwinM" went with "The Whisperer"]], and [[http:cite:paizo-rzs4349d-97]["The ShadowShackleton" went with "The Preacher"]]. [[http:cite:paizo-rzs4349d-79]["AlastarOG" thinks y'all're overestimating your players. ;)]]
 
 --------------------------------------------------
 
@@ -808,6 +807,11 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
 *** Kekker and Gref (ratfolk smugglers, B2C3, B4C?)
 
 See [[The Back Door][Plot Notes / Book 1 Chapter 3]].
+
+*** Gage Carlyle
+
+- Book 3, Chapter 2
+- Owner and proprietor of the Lucky Nimbus Casino
 
 * Plot Notes
 ** Book 1: "The Devil in the Dreaming Palace"
@@ -1289,12 +1293,43 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 — cite:reddit-n39df5
 #+END_QUOTE
 
+----------
+
+[[http:cite:paizo-rzs4349d-39]["Billiam8817" makes the good point that Maurissa Jones and the Washboard Dogs are fully aware that they are supplying victims to the Skinsaw's *murder cult*]], which should really put them beyond the pale for being coöperated with
+
+[[http:cite:paizo-rzs4349d-41]["Evil Paul" agrees, and thinks this needs some "heavy editing" by the GM to make work.]]
+
+[[http:cite:paizo-rzs4349d-40]["O.W." reiterates that the Agents /do not/ have to work with her, and outlines some tactical options for fighting her.]]
+
+
 *** Book 3, Chapter 2: "The House Always Wins"
 
 #+BEGIN_QUOTE
 The casino heist is a very interesting chapter as well. Somehow the casino games given did not translate well into our VTT experience, But the inclusion of so many mechanics and tools to make the heist interesting is just great! I am sure many GM's can make good use of this part- even as inspiration for home games.
 — cite:reddit-n39df5
 #+END_QUOTE
+
+[[http:cite:paizo-rzs4349d-33][AlastarOG's players are interested in making a copy of the vault key.]]  [[http:cite:paizo-rzs4349d-34]["O.W." provides excuses for saying "no".]]  [[http:cite:paizo-rzs4349d-35]["KyoYagami068" gins up a new Obstacle to fit the bill…]]
+#+BEGIN_QUOTE
+COPY THE VAULT KEY - OBSTACLE
+Infiltration Points 8 (group);
+Overcome DC 27 Crafting or Arcana or DC 29 Thievery. At least 2 Infiltration Points has to be gained using Arcana, because the key have arcane runes in it.
+— cite:paizo-rzs4349d-35
+#+END_QUOTE
+
+----------
+
+[[http:cite:paizo-rzs4349d-42]["Evil Paul" points out the heist represents the police being tasked to break into a legitimate business without any warrants to steal property.]] If you even allow this at your table, what if they just say "no"? Some discussion follows in the thread.
+
+[[http:cite:paizo-rzs4349d-60][One idea is to make Gage Carlyle a mobster or mob banker]], to provide an excuse for the Agents to make their warrantless expedition, allowing the intended "Oceans Eleven" feel, rather than "legalized theft by agents of the State".
+
+[[http:cite:paizo-rzs4349d-65]["Deriven_Firelion" believes very strongly]] this [[http:cite:paizo-rzs4349d-67][does not make any sense with how the rest of the Chapter is detailed]]; they make some good points.
+
+[[http:cite:paizo-rzs4349d-71]["thewastedwalrus" reminds us that the chapter intro describes why the Agents are tasked to behave as they are.]]
+
+You can, too, simply give the Agents a warrant, facilitated by Captain Asilia of Gyr of the Starwatch.
+
+A few months later, [[http:cite:paizo-rzs4349d-85]["Deriven_Firelion" reported how they changed the heist at their table]].
 
 *** Book 3, Chapter 3: "Deadly Games"
 
@@ -1304,6 +1339,8 @@ Gives the characters the task of dealing with a bomb threat in the middle of a g
 I have made another post in the past about a stat problem with the final boss of this chapter- it has a mistake with its AC that makes fighting him a breeze, so you might want to check it out before you run it.
 — cite:reddit-n39df5
 #+END_QUOTE
+
+*Errata*: Oggvurm the Merciless is stated with an AC of 24; it should probably be 34 at level 14.
 
 ** Book 4: "Assault on Hunting Lodge Seven"
 *** Book 4, Chapter 1: "The Noxious Retort"
@@ -1574,6 +1611,10 @@ My players are about to move onto book 3, and I was unhappy with Wrent confessin
   #+HTML: </details>
 
 - The Escape DC for The Skinner's "Chain Up" ability seems absurdly high. — cite:reddit-qtjysv
+
+** Book 3, Chapter 3
+
+- [[http:cite:paizo-rzs4349d-48][Oggvurm the Merciless is stated with an AC of 24]]; it should probably be 34 for this Level 14 creature.
 
 * Colophon
 ** Licensing
