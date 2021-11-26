@@ -1031,13 +1031,13 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
    avoid this issue, and there should not be a level up shortly before the
    climax.
 *** DONE https://www.reddit.com/r/Pathfinder2e/comments/p887ao/agents_of_edgewatch_spoilers_sidequest_ideas_for/ - recruiting the mimic as a pet
-*** TODO [2/9] other u/Naurgul posts
+*** TODO [3/9] other u/Naurgul posts
 > By the way, here's a few more posts of mine you might want to consider for your guide:
-**** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/][/r/Pathfinder2e/comments/ocdrxm/]]
+**** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/comment/h3uh21r/][/r/Pathfinder2e/comments/ocdrxm/comment/h3uh21r]] - "I'm also currently running book 2. Skimming through the rest of the books is what I've been doing. Here's some of the things I've done/planned:"
 **** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/o0y78z/][/r/Pathfinder2e/comments/o0y78z/]] - "Law abiding players"
 **** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ngocjr/][/r/Pathfinder2e/comments/ngocjr/]] - "Recommendations for a GM new to PF2e running non-Law Enforcement Agents of Edgewatch?"
 **** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/lj6pc4/][/r/Pathfinder2e/comments/lj6pc4/]] - "Agents of Edgewatch locations"
-**** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389][Missing persons investigation]]
+**** DONE [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389][Missing persons investigation]]
 **** DONE [[https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#91][Bank heist investigation]]
 **** DONE [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Pratchett chase]]
 **** TODO [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]

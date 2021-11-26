@@ -730,7 +730,6 @@ Since you can't change the book name, there are a couple of options:
 1/ Rename the "Dreaming Palace" hotel. The name is not particularly important … feel free to change it.
 
 2/ Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely (see [FIXME] link to below).
-
 *** Book 1, Chapter 1: "The Mean Streets of Absalom"
 **** Noise Complaint / Tipsy Tengu
 
@@ -983,7 +982,6 @@ The final clue is the new PC joining the ranks. […]
 — cite:paizo-rzs4349c-91
 #+END_QUOTE
 #+HTML: </details>
-
 
 
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
@@ -1286,17 +1284,50 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 ** Actually Plays
 - [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]]
 ** Missing Persons Casefiles
-*** "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]"
 
 On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]" in July 2020, a letter discovered under a table in the Tipsy Tengu, a piece of evidence regarding one of the missing persons that form the basis of the mystery in Book 1.
 
+[[http:cite:paizo-rzs4349b-389][On the Paizo forums, Naurgul offers a list of detail beyond the handful of Missing Persons cases described in the AP…]]
 
-#+BEGIN_COMMENT
--Naurgul's Casefiles
- - https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#389
-- jsled's casefiles
- - https://paizo.com/threads/rzs4349b&page=10?1-Devil-at-the-Dreaming-Palace#482
-#+END_COMMENT
+#+BEGIN_QUOTE
+Date: 2 Sarenith 4720
+
+Name: Archibald Knight & Minera Frum
+
+Description: Owner and vet of menagerie. They used to elope together but always returned on the same day. Their last outing was a week ago and they still haven't showed up.
+
+Witness: Remy, zookeeper
+
+-----
+
+Date: 1 Sarenith 4720
+
+Name: Kemeneles
+
+Description: Taldan wizard. Studied at Arcanamirium decades ago. Possible connection with another mage from his days there. Case should be moved to Learned Guard, it's their jurisdiction.
+
+Witness: Eunice, apprentice wizard
+
+-----
+
+Date: 28 Sarenith 4720
+
+Name: Cody
+
+Description: homeless
+
+Witness: Esker of Ormuz
+
+GM Notes: Esker did not witness the disappearance with her own eyes but knows Cody -despite her warnings- used to beg the passerby to take him with them and feed him / house him. She suspects the Aspis Consortium is behind the disappearance. 
+
+-----
+
+[…]
+
+— cite:paizo-rzs4349b-389
+#+END_QUOTE
+
+Inspired by this, [[http:cite:paizo-rzs4349b-482][jsled offers their list, as well.]]
 
 ** Journal Entries / Notes / Handouts
 *** Book 1 Chapter 4: Pratchett's Journal
