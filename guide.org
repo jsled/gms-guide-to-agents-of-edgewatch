@@ -839,7 +839,7 @@ Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the 
 
 The AP makes a point of the Graveraker going missing at this point.
 
-It is extremely easy for a/ you to miss this point here in the text and b/ for it to be lost on the Party. It's another piece of foreshadowing that can get a bit lost.
+It is extremely easy for a/ you to miss this point here in the text and b/ for the party to not notice the detail; it's another piece of foreshadowing that can get a bit lost.
 
 The Graveraker does not come up again until Book 4, but is an important plot point much later in the AP; the party will have a critical encounter within its strange extra-dimensional interior!
 
@@ -850,14 +850,19 @@ Many folks recommend making more of a point of it.
 — cite:reddit-n39df5
 #+END_QUOTE
 
-[[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#447][GreatGraySkwid has some good perspective about the Gravewalker going missing, here…]]
+[[http:cite:paizo-rzs4349b-446][OmegaZ planned to stage an event to make its disappearance conspicuous to all.]]
+
+[[http:cite:paizo-rzs4349b-447][GreatGraySkwid disagrees a bit, and has some good perspective about the Gravewalker going missing…]]
 #+BEGIN_QUOTE
-The whole point of Graveraker's disappearance happening off camera is so
-that the actually qualified Agents of Edgewatch (i.e., not "our" party) can
-be dedicated to tracking down an established and well-known exhibit of the
-Festival, leaving our teams of rookie misfits to investigate a batch of
-people who may or may not actually be missing.
-— cite:paizo-rzs4349b--447
+The whole point of Graveraker's disappearance happening off camera is so that
+the actually qualified Agents of Edgewatch (i.e., not "our" party) can be
+dedicated to tracking down an established and well-known exhibit of the
+Festival, leaving our teams of rookie misfits to investigate a batch of people
+who may or may not actually be missing.  If you emphasize it happening in
+front of your team, it's goes from being a Chekov's gun to a massive red
+herring, as you get them all riled up wanting to pursue a mystery there are no
+leads for them to follow and no way you can allow them to solve until several
+books later.  — cite:paizo-rzs4349b-447
 #+END_QUOTE
 
 #+BEGIN_QUOTE
@@ -1023,7 +1028,7 @@ I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave t
 — cite:reddit-otxspj-h6z514n
 #+END_QUOTE
 
-**** Pratchett Chase
+**** Pratchett Escape/Chase
 
 [[http:cite:paizo-rzs4349b--441][Naurgul has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem…]]
 #+BEGIN_QUOTE
