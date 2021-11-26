@@ -968,12 +968,12 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 ** resources to be included
 *** TODO [4/10] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
 **** DONE police / treasure / loot / requisition
-*** TODO [2/4] [[https://paizo.com/threads/rzs4349c][paizo/AoE/book2]]
+*** TODO [2/3] [[https://paizo.com/threads/rzs4349c][paizo/AoE/book2]]
 **** DONE "I noticed something weird about the Seamers"
 https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
 **** DONE do you feel like there's XP missing from B2C3?
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#54
-**** how to GM the Dullahan's mount?
+**** DONE how to GM the Dullahan's mount?
 https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
 - as a mount?
 - as a summon?
