@@ -927,6 +927,21 @@ Cheers…
 
 - in-line form…
   - On reddit, ${@author:reddit-u-larstr0n} <a href="http:cite:[…]">strongly advises…</a>
+**** citations, again
+
+https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
+
+- citation forms
+  - reddit thread: «reddit.com/r/{sub} "{title}", by u/{username}, {date}»
+    - cite[/reddit/post]:@post
+  - reddit comment: «reddit.com/r/{sub} "{title}", comment by u/{username}, {date}»
+    - cite/reddit/comment:@comment
+  - paizo forums: «paizo.com forums, by "{username}", {date}»
+  - AoE book: «Agents of Edgewatch, Book {N}, "{title}", page {page-range}»
+  - AoN: «"{title}", Archives of Nethys»
+
+  - simple: «{user}, {date}»
+    - cite[/simple]:@
 
 *** presentation
 **** stylesheet
