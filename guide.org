@@ -165,6 +165,10 @@ There are a number of solutions to these problems:
 
 - Create some sort of deus ex machina (eg. a magical badge) that provides objective truth regarding the "Lawfulness" and "Goodness" (or at least Neutrality) of the Agent's actions while in the field.
 
+- Use [[https://2e.aonprd.com/Rules.aspx?ID=1357][Automatic Bonus Progression]] to ease some of the pressure to provide loot.
+
+----------
+
 [[http:cite:reddit-q98yrs][u/Umutuku asks for some examples of play with the common alternative solutions]], and the [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]] has implemented some of these options, as well as others.
 
 #+BEGIN_COMMENT uncleared-quote paizo-rzs4349b-85
@@ -197,13 +201,30 @@ starting in about a month or so.
 [[http:cite:paizo-rzs4349b-85][On the Paizo Forums, "tuxagon" shares some thoughts about their plans for a more minimal change to the system.]]
 
 [[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]]
-#+BEGIN_COMMENT uncleared-quote-paizo-rzs4349b-152]]
+#+BEGIN_COMMENT uncleared-quote-paizo-rzs4349b-152
 From my understanding of civil forfeiture, the law set in the book is somewhat different to that. The guards are supposed to be only taking an amount of goods/money from the offending parties equal to or less than the amount of money that would be the fine for the crime, as opposed to civil forfeiture where the police take possessions from suspected criminals until they are able to prove that those possessions are not related to the crime.
 
 Edgewatch's requisitioning here is supposed to be the punishment for the crime committed, whereas civil forfeiture is separate to any punishments the crime would normally warrant and can be arbitrarily much greater than the scale of the crime. A closer comparison to Edgewatch's policy might be traffic tickets that are paid on-the-spot.
 #+END_COMMENT
 
 [[http:cite:paizo-rzs4349b-120][GayBirdGM]] and [[http:cite:paizo-rzs4349b-121][Sporkedup]] both offer some counterbalance: there's plenty of bad things that the heroes are supposed to fight against because that's what these games are about, and the rest can pretty easily be worked around.
+
+[[http:cite:reddit-o0y78z][u/brungry asks for some help with their party's Lawful Goodness in their roles, which generally has some good discussion of the overall issues with the AP.]]
+
+In response, [[http:cite:reddit-o0y78z-h1yln02][u/Naurgul offers some interesting ideas…]]
+
+#+BEGIN_QUOTE
+[[https://2e.aonprd.com/Rules.aspx?ID=1357][Automatic Bonus Progression]] is a must I would say if your players are against this looting/fining/requisitioning thing. It really cuts down the amount of treasure the PCs need to have to stay competitive.
+
+In my game I also had Kemeneles and Eunice organise a crowdfunding event behind their backs. […]
+
+[…]
+
+Finally, reformed criminals might offer some of their equipment as a gift. In my game Ralso gave them her ring of discretion as a gift for the help they're giving her to atone for her crimes and prepare for her upcoming trial.
+— cite:reddit-o0y78z-h1yln02
+#+END_QUOTE
+
+[[http:cite:reddit-o0y78z-h1yrupj][In that same thread, u/GreatGraySkwid points to]] a [[http:cite:paizo-rzs438h4][paizo.com forum thread on the subject, specifically.]]
 
 --------------------------------------------------
 
