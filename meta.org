@@ -992,7 +992,11 @@ Instead of being given all the leads they are at the beginning of this book, the
 
 The final clue is the new PC joining the ranks
 #+END_QUOTE
-
+*** TODO [0/2] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
+*** TODO [0/2] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
+*** TODO [0/1] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
+*** TODO [0/2] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
+*** TODO [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/n39df5/just_finished_running_a_full_campaign_of_agents/][cf. this big comment]]
     CLOSED: [2021-09-11 Sat 01:25]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ocdrxm/agents_of_edgewatch_plot_and_key_npcs/h3uh21r/?utm_source=reddit&utm_medium=web2x&context=3][cf. this big comment]] from u/Naurgul
