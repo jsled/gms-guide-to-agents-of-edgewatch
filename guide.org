@@ -90,19 +90,23 @@ Some tables will have objections or distaste for playing the role of police,
 or perhaps more specific practices like doing lethal damage by default or the
 AP-encouraged practice of "legalized theft" of property.
 
+#+BEGIN_COMMENT
 The publication of the Adventure Path was in fact delayed by multiple months
-due to protests associated with the Black Lives Matter movement in the United
-States in the summer of 2020. The AP in fact has some text detailing ways to
-handle the main objections to how it assumes "policing" will be done in the
-way that it is written.
+due to [FIXME: not right?] protests associated with the Black Lives Matter movement in the United
+States in the summer of 2020.
+#+END_COMMENT
 
-Even still, some people fundamentally feel this Adventure Path is somewhere between "in poor taste" and "downright offensive".
+The AP has some text detailing ways to handle the main objections to how it
+assumes "policing" will be done in the way that it is written.
+
+Even still, some people fundamentally feel aspects of this Adventure Path is
+somewhere between "in poor taste" and "downright offensive".
 
 The main objections are:
 
 - The immediate discretion of the Agents – rather than any formal judicial process and jurisprudence – is strongly encouraged.
 
-- Pathfinder 2e does lethal damage by default, and players take non-trivial penalties for attempting to do non-lethal damage.
+- Pathfinder 2E RAW does lethal damage by default, and players take non-trivial penalties for attempting to do non-lethal damage.
 
 - The PCs are encouraged by the AP to simply "requisition" any valuable gear or consumables they encounter from citizens in the course of their duty, in lieu of pay.
 
@@ -130,7 +134,7 @@ Police, stealing people's personal property for personal enrichment. Oof.
 So, when I run this I'll have to redo the entire treasure system.
     #+END_COMMENT
 
-- If even not immediately taken by the Agents, loot returned to the police is effectively fenced and the usual sale value (50%) is given to the Agents.
+- If even not immediately stolen by the Agents, loot returned to the police is effectively fenced and the usual sale value (50%) is given to the Agents.
 
   - cf. — cite:paizo-rzs4349b-31
     #+BEGIN_COMMENT uncleared-quote
@@ -158,6 +162,7 @@ Those are really the only issues I found with it beyond the premise itself being
   - The Agents are tasked to – effectively — break up a labor action in the role of police, in Book 1 Chapter 2.
 
     - And the [[http:cite:paizo-rzs4349b-311][kobolds go from protesting pay to being "extremely homicidal"]], to boot. Though as [[http:cite:paizo-rzs4349b-314]["Benchak the Nightstalker" points out, there is a "schism" in the ranks that is useful to highlight.]] [[http:cite:paizo-rzs4349b-327]["EdwinM" suggests taking it a different direction entirely]], and [[http:cite:paizo-rzs4349b-328]["SilentCal" has another alternate scenario.]]  [[http:cite:paizo-rzs4349b-332]["Data Lore" offers their modifications to the chapter.]]
+
 
 There are a number of solutions to these problems:
 
@@ -219,7 +224,7 @@ starting in about a month or so.
 #+END_COMMENT
 [[http:cite:paizo-rzs4349b-85][On the Paizo Forums, "tuxagon" shares some thoughts about their plans for a more minimal change to the system.]]
 
-[[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]] But that opinion is not shared by all in the following worth-reading comments.
+[[http:cite:paizo-rzs4349b-152]["thewastedwalrus" points out that the detestable real-world practice of civil asset forfeiture is not quite the same as what's outlined in the AP.]] But that opinion is not shared by all in the following worthy-of-reading comments.
 #+BEGIN_COMMENT uncleared-quote-paizo-rzs4349b-152
 From my understanding of civil forfeiture, the law set in the book is somewhat different to that. The guards are supposed to be only taking an amount of goods/money from the offending parties equal to or less than the amount of money that would be the fine for the crime, as opposed to civil forfeiture where the police take possessions from suspected criminals until they are able to prove that those possessions are not related to the crime.
 
@@ -254,9 +259,7 @@ This is an area of running the AP where it will be important to be very clear wi
 
 The AP makes a mention about running the game with the PCs as Adventurers, rather than as Edgewatch police.
 
-[[http:cite:reddit-ngocjr][u/Amaya-hime asks for some clarity on how to do that.]] Plenty chime in with suggestions, and [[http:cite:reddit-ngocjr-gys0hst][u/Naurgul has an idea to get them through at least Book 1.]]
-
-[[http:cite:reddit-ngocjr-gyt9uz2][u/DandiAndy relays that their friend's game]] has a group of [[https://2e.aonprd.com/Feats.aspx?ID=2083][Vigilantes]] using the [[https://2e.aonprd.com/Rules.aspx?ID=1333][Free Archetype rules]], which seems like a clever spin on the AP.
+[[http:cite:reddit-ngocjr][u/Amaya-hime asks for some clarity on how to do that.]] Plenty chime in with suggestions, and [[http:cite:reddit-ngocjr-gys0hst][u/Naurgul has an idea to get them through at least Book 1.]] [[http:cite:reddit-ngocjr-gyt9uz2][u/DandiAndy relays that their friend's game]] has a group of [[https://2e.aonprd.com/Feats.aspx?ID=2083][Vigilantes]] using the [[https://2e.aonprd.com/Rules.aspx?ID=1333][Free Archetype rules]], which seems like a clever spin on the AP.
 
 ** United Paizo Workers
 
@@ -515,11 +518,11 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 
 An Alchemist character who is a follower of Norgorber – even in his less-offensive "Blackfingers" aspect – might still create dramatic tension with the party, as it becomes clear early on that the Agents are on the trail of a muder cult of Norgorberites.
 
-A main plot point from Book 1 through the end of Book 3 is the poison called "Blackfinger Blight".
+A plot point in Book 1 and then the end of Book 3 is the poison called "Blackfinger Blight".
 
 A key event in Book 4 is the "Noxious Retort", a world-class Alchemical conference at the Norgorber temple in Absalom; the PCs will need to infiltrate this conference to advance the plot.
 
-The Temple of Norgorber and NPCs in the AP can be used to great effect to provide foreshadowing, or even just as a downtime location if the PC wants formula or reagents.
+The Temple of Norgorber and its NPCs can be used to great effect to provide foreshadowing, or even just as a downtime location if the PC wants formula, reagents or poisons. Be mindful of the information the PC gives up, and the roles of the NPCs in Book 4, if you go this route.
 
 On the other hand, "DragoldC42" points out that this does lead to lots of enemies with poison resistance…
 
@@ -543,15 +546,46 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
 ** Precipice Quarter, Edgewatch Station
-- Edgewatch Station
-- Radiant Festival, main fairgrounds
-- Book 1
 
+There is some confusion about the size of the Precipice Quarter in relation to the Radiant Festival grounds.
+
+#+BEGIN_QUOTE
+First of all, there's a map of the Precipice Quarter. At first I thought it
+was just a small part of the district but after looking at it closely its
+general shape seems to fit neatly to the full district. But later I checked
+the Paizo forums and I saw someone saying that the map is supposed to
+represent about 25% of the district according to some Paizo staff (there was
+no specific link to the quote).
+— cite:reddit-lj6pc4
+#+END_QUOTE
+
+In some readings, the map of the Radiant Festival grounds is co-extensive with the Precipice Quarter.
+
+In the correct reading, the Radiant Festival grounds are one smaller part in the south east corner of the Precipice Quarter.
+
+However, if you adopt the former position, you might be interested to see [[http:cite:paizo-rzs4349b-396][Naurgul's map of a patrol route through the Quarter]].
+
+Along with [[narchy's maps][the rest of their excellent maps]], [[http:cite:reddit-ph7txq-hbgkw36][narchy provided a version of the festival grounds map…]]
+#+BEGIN_QUOTE
+I made a larger version of the festival grounds map a while ago, and I've finally gone back and finished it.
+
+I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
+— cite:reddit-ph7txq-hbgkw36
+#+END_QUOTE
+** Edgewatch Station
+
+The nature of the Edgewatch Station is also up for some interpretation.
+
+In some readings, supported by the text, the Edgewatch precinct station is a run-down, ramshackle affair, quickly constructed. [[http:cite:pazio-rzs434ha-2]["Moximus" relays some great imagery for their version of the precinct.]]
 #+BEGIN_COMMENT
 - "I always pictured the watch headquarters shoehorned into some existing, half repaired building.
   My imagining puts in the shell of what was once a grand hotel, now with half the rooms collapsed and just boarded off, and holding cells being old rooms"
 - https://paizo.com/threads/rzs434ha?Community-Created-Content#3
 #+END_COMMENT
+
+In other readings -- often correlated with an Edgewatch that can afford to provide a salary to its Agents -- the Edgewatch precinct is a newly-constructed building with all the refinements.
+
+Paizo forums users [[http:cite:paizo-rzs434ha-8][Bast L.]] and [[http:cite:paizo-rzs434ha-11][Sovaka]] have both provided maps of the Edgewatch Station.
 
 ** Foreign Quarter
 - Sleepless Suns
@@ -953,9 +987,9 @@ In terms of priority, the following things "must" happen here:
 
 Everything else is gravy.
 
-- While Hoff will come back up later in the AP (Book 4), Hoff is not a plot-critical character.
+- While Hoff will come back up later in the AP (Book 5), Hoff is not a plot-critical character.
 
-- Book 4 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
+- Book 5 does have a map of the House of the Planes, and I'll recommend using it. The location is interesting, even if this is just a social encounter.
 
 ----------
 
@@ -1065,8 +1099,7 @@ I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave t
 #+END_QUOTE
 
 **** Pratchett Escape/Chase
-
-[[http:cite:paizo-rzs4349b--441][Naurgul has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem…]]
+[[http:cite:paizo-rzs4349b-441][Naurgul has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem…]]
 #+BEGIN_QUOTE
 Here's some potential obstacles for this chase scene along with some example checks that the characters could use to bypass them:
 
@@ -1190,7 +1223,7 @@ I think providing/encouraging the party to get Holy Water is the best way to mak
 
 --------------------------------------------------
 
-[[http:cite:paizorzs4349c-112][Saqcat looks for clarification on how to handle Frefferth the Dullahan's Nightmare; consensus is to treat it like a mount.]]
+[[http:cite:paizo-rzs4349c-112][Saqcat looks for clarification on how to handle Frefferth the Dullahan's Nightmare; consensus is to treat it like a mount.]]
 
 --------------------------------------------------
 
@@ -1513,7 +1546,7 @@ Inspired by this, [[http:cite:paizo-rzs4349b-482][jsled offers their list, as we
 
 [[http:cite:paizo-rzs4349b-450][GreatGraySkwid's players created a full-on murderboard to track the details. :)]]
 
-** Eyes on Absalom
+** "Eyes on Absalom"
 
 [[http:cite:paizo-rzs4349b-477][GreatGraySkwid "reworked" the front page of Eyes on Absalom for their campaign…]]
 #+BEGIN_QUOTE
@@ -1521,6 +1554,8 @@ I have reworked the Eyes On Absalom front page to tie into my campaign, with the
 [[https://drive.google.com/file/d/1DPPWEhbZhmpJtD9cQNCL24TH7onKTeXk/view?usp=sharing][Eyes On Absalom, Desnus 20, 4720]]
 — cite:paizo-rzs4349b-477
 #+END_QUOTE
+
+[[http:cite:paizo-rzs434ha-42]["AlastarOG" created "an elaborate stream of [articles]" for their game, for your inspiration.]]
 
 ** Journal Entries / Notes / Handouts
 *** Book 1 Chapter 4: Pratchett's Journal
@@ -1535,7 +1570,7 @@ thread.
 [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][u/perryhopeless shared some OC art for the investigation leads from Book 2 Chapter 1.]]
 
 ** Maps
-*** u/narchy's maps
+*** narchy's maps
 
 User narchy has provided a [[https://drive.google.com/drive/folders/1LZdj40ot34lfxoGbzu5aTgnAKQ1M8_eY?usp=sharing][full collection of all the maps, "remastered"]]. They're quite nice.
 
@@ -1551,15 +1586,31 @@ As always, feedback welcome! If you want to contribute to my Pathfinder book buy
 Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures.net]]
 — cite:reddit-on03uu-h5oij50
 #+END_QUOTE
+*** Edgewatch Station
+- [[http:cite:paizo-rzs434ha-8][paizo.com forums: "Bast L."]]
+- [[http:cite:paizo-rzs434ha-11][paizo.com forums: "Sovaka"]]
+*** Tipsy Tengu (Book 1, Chapter 1)
 
-As well, [[http:cite:reddit-ph7txq-hbgkw36][they've provided a version of the festival grounds map…]]
+- [[http:cite:paizo-rzs434ha-12][paizo.com forums: "malnourish"]]
+*** Knights Marvelous Menagerie (Book 1, Chapter 1)
 
-#+BEGIN_QUOTE
-I made a larger version of the festival grounds map a while ago, and I've finally gone back and finished it.
+- [[http:cite:paizo-rzs434ha-13][paizo.com forums: "malnourish"]]
 
-I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
-— cite:reddit-ph7txq-hbgkw36
-#+END_QUOTE
+*** House of the Planes (Book 1, Chapter 3; Book 5, Chapter 1
+
+Note that while no map is provided when this location is encountered in B1C3, a proper encounter is located here in Book 5, and a map is provided there.
+
+- [[http:cite:paizo-rzs434ha-29][paizo.com forums: "EdwinM"]]
+
+*** Copper Hand Hideout (Book 2, Chapter 3)
+
+- [[http:cite:paizo-rzs434ha-38][paizo.com forums: "Drental"]]
+- [[http:cite:paizo-rzs434ha-40][paizo.com forums: "Sodatron"]]
+
+*** Catacombs (Book 2, Chapter 4)
+
+- [[http:cite:paizo-rzs434ha-31][paizo.com forums: "EdwinM"]]
+
 ** Landing Pages
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
@@ -1575,9 +1626,12 @@ On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fi
 My players are about to move onto book 3, and I was unhappy with Wrent confessing a whole bunch of story stuff off-screen. My players did not interrogate her themselves, and I wanted some time to do some fiction writing. I wrote out her confession as if being interviewed by a priest of Sarenrae who wanted to see if it was possible to redeem her, or at the very least determine if her ramblings were truthful.
 — cite:reddit-pq90e5
 #+END_QUOTE
-*** "Agents of Edgewatch as a 90s TV show", from u/narchy
+*** "Agents of Edgewatch as a 90s TV show", from narchy
 
-[[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][u/narchy created and shared a wonderful video of their party's Agents, in celebration of getting to book 3: "Edgewatch Nights".]]
+narchy created the following videos for their group:
+
+- [[http:cite:paizo-rzs434ha-48]["I made my party a little video to celebrate their exploits in Book 1!"]]
+- [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][In celebration of getting to book 3: "Edgewatch Nights"]]
 
 * Unofficial Errata
 ** Book 1, Chapter 1
