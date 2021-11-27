@@ -193,6 +193,8 @@ It seems to me that this is the best of both worlds, meaning I don't restrict my
 #+END_QUOTE
 #+HTML: </details>
 
+[[http:cite:paizo-rzs4349b-382][In the Paizo AoE Book 1 thread, "GreatGraySkwid" details their changes for the "Asset Forfeiture Loot System"]] and a [[https://template.pf2.tools/v/f1WTlqVT-peackeeper-badge][Peacekeeper's Badge]] (along with some other Book 1 plot modifications).
+
 [[http:cite:reddit-q98yrs][u/Umutuku asks for some examples of play with the common alternative solutions]], and the [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]] has implemented some of these options, as well as others.
 
 #+BEGIN_COMMENT uncleared-quote paizo-rzs4349b-85
