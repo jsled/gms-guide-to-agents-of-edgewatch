@@ -3,6 +3,18 @@
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
 #+TITLE: The GM's Guide to "Agents of Edgewatch"
 * Introduction
+** Mission Statement
+
+This guide is for those who are running the Paizo Adventure Path /Agents of Edgewatch/.
+
+It is a pretty wonderful adventure, albeit not without some problems.
+
+In the course of the Editor's investigation, they have found of lot of links that are beneficial to the game master; they compiled herein.
+
+*This guide seeks to be a compendium of useful knowledge about the Adventure Path, as well as an index to it beyond the published content.*
+
+Please enjoy.
+
 ** Spoiler Warning
 
 You're viewing a community-sourced Gamemaster's Guide to running the /Agents of Edgewatch/ Adventure Path from Paizo.
@@ -26,11 +38,11 @@ In Book 1, the Agents will come up through the ranks.
 
 In Book 2, the Agents will defeat the first of the Twilight Four – The Skinner – and her murderous cult.
 
-In Book 3, the Agents will foil the plans second of the Twilight Four – The Infector – and his attempt to poison thousands.
+In Book 3, the Agents will foil the plans of the second of the Twilight Four – The Infector – and his attempt to poison thousands.
 
 In Book 4, the Agents will infiltrate The Infector's temple, capture, and hold them … but ultimately will be framed and arrested.
 
-In Book 5, the Agents will first infiltrate and then break out of Absalom's high-security prison, then turning their attention to the third of the Twilight Four — The Rumormonger.
+In Book 5, the Agents will first infiltrate and then break out of prison, then turn their attention to the third of the Twilight Four — The Rumormonger.
 
 In Book 6, the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four – The Gray Queen – newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
 
@@ -257,9 +269,9 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 
 This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
 
-** On Being Adventurers (not Police)
+** On Being Adventurers, not Police
 
-The AP makes a mention about running the game with the PCs as Adventurers, rather than as Edgewatch police.
+The AP makes a mention about running the game with the PCs as Adventurers, rather than as official police.
 
 [[http:cite:reddit-ngocjr][u/Amaya-hime asks for some clarity on how to do that.]] Plenty chime in with suggestions, and [[http:cite:reddit-ngocjr-gys0hst][u/Naurgul has an idea to get them through at least Book 1.]] [[http:cite:reddit-ngocjr-gyt9uz2][u/DandiAndy relays that their friend's game]] has a group of [[https://2e.aonprd.com/Feats.aspx?ID=2083][Vigilantes]] using the [[https://2e.aonprd.com/Rules.aspx?ID=1333][Free Archetype rules]], which seems like a clever spin on the AP (though might require /substantial/ editing to make work).
 
