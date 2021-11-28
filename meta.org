@@ -1087,3 +1087,29 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][Agents of Edgewatch as a 90s TV show. Made to celebrate our party getting to book 3!]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][(Spoilers - AoE) Investigation Leads]]                        :oc:art:
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/does_anyone_know_if_there_are_any_actual_play/][reddit: Does anyone know if there are any actual play series of Edgewatch out there that have made some of the commonly recommended improvements or otherwise took a more positive approach to it?]]
+*** TODO [[https://paizo.com/threads/rzs43j2z?Restricted-free-archetype-options][paizo/"Restricted free archetype options?"]]
+*** TODO [[https://paizo.com/threads/rzs43hfo?SPOILERS-Changing-the-Final-Boss][paizo/"SPOILERS - Changing the Final Boss"]]
+*** TODO [[https://paizo.com/threads/rzs43gj3?The-Broken-Scales-and-Balancing-the-Scales][paizo/«"The Broken Scales" and "Balancing the Scales" SPOILERS All books»]]
+*** TODO [[https://paizo.com/threads/rzs43g90?Is-it-just-me-or-is-this-game-just-a-SLOG][paizo/"Is it just me or is this game just a SLOG? (Spoilers books 1&2)"]] — more difficulty chat
+*** TODO [[https://paizo.com/threads/rzs43851?Book-1-The-Deadliest-Zoo-in-the-World][paizo/"Book 1: The Deadliest Zoo in the World (long)"]] — more difficulty chat
+*** TODO [[https://paizo.com/threads/rzs43cn3?What-Agents-of-Edgewatch-is-missing-SPOILERS][paizo/"What Agents of Edgewatch is missing... [SPOILERS]"]] — good list of things the AP could have leaned into more
+*** TODO [[https://paizo.com/threads/rzs43cn4?SPOILER-Rewriting-the-final-chapter-of-Vol1][paizo/"[SPOILER] Rewriting the final chapter of Vol.1"]]
+*** TODO [[https://paizo.com/threads/rzs433iw?Who-will-be-the-Agents-of-Edgewatch][paizo/"Who will be the Agents of Edgewatch"]] — punny character concepts
+*** TODO [[https://paizo.com/threads/rzs438h4?Edgewatch-Earned-Income-Reward-Alternative][paizo/"Edgewatch Earned Income - Reward Alternative"]] — separate thread of compensation alternatives
+*** TODO [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives][paizo/"Nonlethal system alternatives?"]]
+*** TODO [[https://paizo.com/threads/rzs4388l?Foreshadowing-Suggestions][paizo/"Foreshadowing Suggestions (Heavy Spoilers)"]
+*** TODO [[https://paizo.com/threads/rzs438k8?Agents-of-Edgewatch-3D-Renders-Spoilers][paizo/"Agents of Edgewatch - 3D Renders - Spoilers!"]]
+*** TODO [[https://paizo.com/threads/rzs437wk?3D-render-of-Sergeant-Ollo][paizo/"3D render of Sergeant Ollo"]]
+*** TODO [[https://paizo.com/threads/rzs43a5f?Players-Guide-Hamster-Creature][paizo/"Player's Guide Hamster Creature"]] — clarification from Run Lundeen it was cut for space
+*** TODO [comment 0/296] [[https://paizo.com/community/blog/v5748dyo6shag?Agents-of-Edgewatch-Player-s-Guide-Is-Now#discuss][paizo/"Agents of Edgewatch Player’s Guide Is Now Available!"]]
+*** TODO [[https://paizo.com/threads/rzs43503?Bolera-Ollo-and-Batiste][paizo/"Bolera, Ollo, and Batiste (spoilers I guess?)"]] — "Do any of these […] have […] scripted roles in any of the future volumes?" no.
+*** TODO downtime / timeline
+- [[https://www.reddit.com/r/Pathfinder2e/comments/r421de/agents_of_edgewatch_help_to_some_ideas/][reddit / downtime]]
+- [[https://paizo.com/threads/rzs438k4?Downtime][paizo/"Downtime"]]
+- [[https://paizo.com/threads/rzs435c3?Retraining-Downtime-Generally][paizo/"Retraining, Downtime Generally"]]
+*** TODO [[https://paizo.com/threads/rzs4371h?Scaling-Down-for-Buddy-Cops][paizo/"Scaling Down for Buddy Cops"]]
+*** TODO [[https://paizo.com/threads/rzs433ws?GM-spoilers-stat-blocks-from-1st-ed][pazio/"[GM, spoilers] stat blocks from 1st ed?"]] — "Bestiary 6" = "Elite template" not "1E Bestiary Volume 6"
+*** TODO [[https://paizo.com/threads/rzs434qp?Map-Scaling][paizo/"Map Scaling"]] — more Precipice Quarter geography details
+*** TODO [[https://paizo.com/threads/rzs434h7?-Homebrewed-Downtime-Rules][paizo/"(GM Reference, Probable Spoilers) Homebrewed Downtime Rules"]] — revised downtime rules focused on buddy cop/partners ("basically partner [née teamwork] feats")
+*** TODO the controversy
+- [[https://paizo.com/threads/rzs433ep?A-note-and-a-warning-about-Live-streaming-AoE][paizo/"A note and a warning about Live streaming AoE"]]
