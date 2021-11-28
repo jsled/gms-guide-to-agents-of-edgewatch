@@ -9,7 +9,7 @@ This guide is for those who are running the Paizo Adventure Path /Agents of Edge
 
 It is a pretty wonderful adventure, albeit not without some problems.
 
-In the course of the Editor's investigation, they have found of lot of links that are beneficial to the game master; they compiled herein.
+In the course of the Editor's investigation, they have found of lot of links that are beneficial to the game master; thus compiled herein.
 
 *This guide seeks to be a compendium of useful knowledge about the Adventure Path, as well as an index to it beyond the published content.*
 
@@ -556,6 +556,7 @@ You’ve sworn an oath to put the undead to rest. Add the following tenet to you
 As a central part of Book 5 is teaming up with the "zealborn" undead master criminal Miogimo to advance the Agent's interests, this oath can create plenty of dramatic tension to play out, as well.
 
 ** AP-provided Archetypes
+*** Edgewatch Detective (Player's Guide, Level 2)
 *** Jalmeri Heavenseeker Archetype (Book 2, Chapter 3/4, Level 7)
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
@@ -974,7 +975,7 @@ books later.  — cite:paizo-rzs4349b-447
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
 **** The Back Door
 
-[[http:cite:paizo-rzs4349b-404][As "GreatGraySkwid" notes, there's no reason the Agents should arrest these two in the "Back Door" to the House of Planes, in Book 2.]]
+[[http:cite:paizo-rzs4349b-404][As "GreatGraySkwid" notes, there's no reason the Agents should arrest the ratfolk Kekker and Gref in the "Back Door" to the House of Planes, in Book 2.]]
 
 [[http:cite:rzs4349b-408][Also, "GreatGraySkwid" notes that the ratfolk Kekker and Gref share no common language with their Caligni trading partners.]]
 
