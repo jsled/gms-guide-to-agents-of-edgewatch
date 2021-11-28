@@ -1661,6 +1661,8 @@ narchy created the following videos for their group:
 
 - The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
+- [[http:cite:paizo-rzs4346l-4][The wings on the Dragonfly Pagoda are backwards.]]
+
 ** Book 2, Chapter 3
 
 #+BEGIN_COMMENT
