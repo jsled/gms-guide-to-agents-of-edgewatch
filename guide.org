@@ -2,8 +2,12 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
 #+TITLE: The GM's Guide to "Agents of Edgewatch"
+
 * Introduction
 ** Mission Statement
+   :PROPERTIES:
+   :CUSTOM_ID: mission_statement
+   :END:
 
 This guide is for those who are running the Paizo Adventure Path /Agents of Edgewatch/.
 
@@ -63,7 +67,13 @@ momentous act of devotion to the God of Thieves.
 #+END_QUOTE
 
 * Meta
+  :PROPERTIES:
+  :CUSTOM_ID: node/meta
+  :END:
 ** Length
+   :PROPERTIES:
+   :CUSTOM_ID: node/meta/length
+   :END:
 
 This – of course – is going to vary dramatically based on the table at which the game is being run, how many side-quests and how much character-service is done, &c.
 
@@ -78,6 +88,9 @@ This seems to be supported by the experience at some tables, with people reporti
 [[http:cite:reddit-q9a8a1][u/Merithras asked a similar question that got some good responses, as well.]]
 
 ** Difficulty
+   :PROPERTIES:
+   :CUSTOM_ID: node/meta/difficulty
+   :END:
 
 Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
 
@@ -97,6 +110,9 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 - too hard to land hits, too high chances of crits (both directions)
 
 ** On Being Police
+   :PROPERTIES:
+   :CUSTOM_ID: node/meta/on_being_police
+   :END:
 
 Some tables will have objections or distaste for playing the role of police,
 or perhaps more specific practices like doing lethal damage by default or the
@@ -270,6 +286,9 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
 
 ** On Being Adventurers, not Police
+   :PROPERTIES:
+   :CUSTOM_ID: node/meta/on_being_adventurers
+   :END:
 
 The AP makes a mention about running the game with the PCs as Adventurers, rather than as official police.
 
@@ -560,7 +579,7 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 *** Jalmeri Heavenseeker Archetype (Book 2, Chapter 3/4, Level 7)
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
-** Precipice Quarter, Edgewatch Station
+** Precipice Quarter
 
 There is some confusion about the size of the Precipice Quarter in relation to the Radiant Festival grounds.
 
@@ -626,12 +645,18 @@ Paizo forums users [[http:cite:paizo-rzs434ha-8][Bast L.]] and [[http:cite:paizo
 * NPCS
 ** Primary / Major
 *** Grospek Lavarsus
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/lavarsus
+    :END:
 #+BEGIN_QUOTE
 - Lavarsus ends up getting manipulated by the antagonists and arresting the
   wrong person. Play up Lavarsus as full of pride and incompetent
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** Hendrid Pratchett
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/pratchett
+    :END:
 #+BEGIN_QUOTE
 I have to say, Hendrid Pratchett is one of the scariest and abhorrent monsters
 I've ever seen for Pathfinder. Facing this guy is worse than facing a
@@ -658,6 +683,9 @@ James, congratulations. I am literally scared of this guy.
 #+END_QUOTE
 
 *** Radiant Festival
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/radiant_festival
+    :END:
 #+BEGIN_QUOTE
 - The story of how the radiant festival started gets explored in book 6. I had
   a float featuring the half-angel in the parade
@@ -674,6 +702,9 @@ James, congratulations. I am literally scared of this guy.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** The Black Whale
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/black-whale
+    :END:
 #+BEGIN_QUOTE
 - The Black Whale is a prison for important political prisoners that is
   visited in book 5. Give it a brief mention maybe at some point when
@@ -681,6 +712,9 @@ James, congratulations. I am literally scared of this guy.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** Jonas Flakfatter ("The Infector" / "Father Infector")
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/flakfatter
+    :END:
 *** Starwatch, Starwatch Keep
 #+BEGIN_QUOTE
 - Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
@@ -691,7 +725,13 @@ James, congratulations. I am literally scared of this guy.
 #+END_QUOTE
 
 *** Olansa Terimor ("The Gray Queen") — L20 NE female human city planner, master thief
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/terimor
+    :END:
 *** Reginald Vancaskerkin ("The Rumormonger")
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/vancaskerkin
+    :END:
 #+BEGIN_QUOTE
 - Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
   prominent, especially through his tabloid Eyes on Absalom. Don't forget to
@@ -714,6 +754,9 @@ James, congratulations. I am literally scared of this guy.
 
 ** Secondary / Minor
 *** Captain Asilia of Gyr, Starwatch — N female human ranger 12
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/asilia
+    :END:
 
 #+BEGIN_QUOTE
 A stern-looking human woman with a shock of white hair and an impressive
@@ -733,6 +776,9 @@ down, gesturing to the room’s comfortable chairs.
 
 #+END_COMMENT
 *** Blackfinger Blight
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/blackfinger-blight
+    :END:
 
 Blackfinger Blight is introduced in Book 1 Chapter 1 as the cause for the behavior of the animals in the Menagerie.
 
@@ -794,7 +840,13 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 
 #+END_COMMENT
 *** Wrent Dicaspiron ("The Skinner")
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/dicaspiron
+    :END:
 *** Harlo Doleen
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/doleen
+    :END:
 
 #+BEGIN_QUOTE
 - Harlo Doleen ends up getting murdered which is a major plot point and
@@ -804,6 +856,9 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** Blood City Games / Irorium
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/blood-city-games
+    :END:
 
 #+BEGIN_QUOTE
 - The Irorium will be the setting of a big part of book 3. Make sure to
@@ -813,6 +868,9 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** Noxious Retort / Temple of Norgorber
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/noxoius-retort
+    :END:
 #+BEGIN_QUOTE
 - The Noxious Retort is an annual alchemical conference taking place at the
   Blackfingers temple. It will be showcased in book 4. Make sure your players
@@ -821,6 +879,9 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 —- cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** House of the Planes
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/house-of-the-planes
+    :END:
 
 #+BEGIN_QUOTE
 - House of Planes will be revisited in one of the later books. So it should
@@ -830,6 +891,9 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
 *** Lucky Nimbus Casino
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/lucky-nimbus
+    :END:
 #+BEGIN_QUOTE
 - The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
   exists. I had an elaborate float advertising it in the radiant parade.
@@ -863,7 +927,13 @@ See [[The Back Door][Plot Notes / Book 1 Chapter 3]].
 - Owner and proprietor of the Lucky Nimbus Casino
 
 * Plot Notes
+  :PROPERTIES:
+  :CUSTOM_ID: node/plot
+  :END:
 ** Book 1: "The Devil in the Dreaming Palace"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book1
+   :END:
 *** Title … spoilers, Paizo!
 
 Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
@@ -873,6 +943,9 @@ Since you can't change the book name, there are a couple of options:
 1. Rename the "Dreaming Palace" hotel. The name is not particularly important … feel free to change it.
 2. Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely (see [FIXME] link to below).
 *** Book 1, Chapter 1: "The Mean Streets of Absalom"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b1c1
+    :END:
 **** Noise Complaint / Tipsy Tengu
 
 As mentioned earlier, the title of the book matches the name of the hotel that the primary atagonist tells the party in their very first encounter.
@@ -965,6 +1038,9 @@ books later.  — cite:paizo-rzs4349b-447
 [[http:cite:paizo-rzs4349b-237][Kasoh tots up all the Chapter 1 XP so you don't have to! :)]]
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b1c2
+    :END:
 
 *Errata* The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
@@ -973,6 +1049,9 @@ books later.  — cite:paizo-rzs4349b-447
 [[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
 
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b1c3
+    :END:
 **** The Back Door
 
 [[http:cite:paizo-rzs4349b-404][As "GreatGraySkwid" notes, there's no reason the Agents should arrest the ratfolk Kekker and Gref in the "Back Door" to the House of Planes, in Book 2.]]
@@ -1011,6 +1090,9 @@ Everything else is gravy.
 [[http:cite:paizo-rzs4349b-428]["MathNerdGord" provides an alternate puzzle – a "reskinned knights/knaves type puzzle" – for this section if you think your party will find the one in the book not challenging enough]]; others follow up with their puzzle variants.
 
 *** Book 1, Chapter 4: "The Murder Hotel" / The Dreaming Palace
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b1c4
+    :END:
 **** Content Warning
 
 This dungeon is no joke, either difficulty-wise or thematically … especially thematically.
@@ -1126,7 +1208,13 @@ Here's some potential obstacles for this chase scene along with some example che
 #+END_QUOTE
 
 ** Book 2: "Sixty Feet Under"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book2
+   :END:
 *** Book 2, Chapter 1: "The Unusual Suspects" / Bank Robbery Investigation
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b2c1
+    :END:
 
 While ultimately pretty linear, this chapter has a bit of an open-world / sandbox feel, putting choice into the party's hands.
 
@@ -1161,8 +1249,10 @@ In response to a question about how to recover if Droan burns the incriminating 
 
 At this point, some people notice that not all the toolbox items are actually included in the pre-written adventure path, such as the [[https://2e.aonprd.com/Equipment.aspx?ID=814][Ethersight ring]]. [[http:cite:paizo-rzs4349c-147][Michael Sayre suggests having Rohka Stoneswarn give it to the PCs to help with her ether spider problem.]]
 
-
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b2c2
+    :END:
 
 #+BEGIN_QUOTE
 The robbery itself is okey - The robber's plan is kinda silly and they are bound to fail, but it felt good having the party stop them and save the day anyway. I feel that a GM taking the time to improve this scene could make it into a much better moment than I had.
@@ -1187,6 +1277,9 @@ Then it came to some "filler" floats. I figure the Parade has order-of-175 float
 [[http:cite:paizo-rzs4349c-150][Naurgul offered their details]], too, and [[http:cite:paizo-rzs4349c-151][GreatGraySkwid supplemented with a number of business and locations from the /Pathfinder Chronicles Guide to Absalom/]].
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b2c3
+    :END:
 
 #+BEGIN_QUOTE
 felt a bit disappointing in my group, because there was an expectation that another investigative part would follow the format of chapter 1. But the infiltration into the copper hands hideout was still an enjoyable dungeon. Our unlucky elf rouge got a minor case of lycanthropy from this part though- nothing a visit to a temple could not fix, but this could have messed with some plans.
@@ -1207,6 +1300,9 @@ For the past few months, she explains, the Copper Hand has worked with a murdere
 #+END_QUOTE
 
 *** Book 2, Chapter 4: "Descent into Death" / The Catacombs and The Skinner
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b2c4
+    :END:
 
 You will want to get a read on your group's (dis)like of dungeon crawls for this one. The dungeon itself is already large with prewritten encounters, and the AP does have tables for random encounters in addition.
 
@@ -1328,6 +1424,9 @@ I'm a bit scared for the Chain Up ability of the Skinner written as is. Restrain
 Consensus in the thread is that it is broken, and an Escape DC of 32 is more reasonable.
 
 ** Book 3: "All or Nothing"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book3
+   :END:
 
 #+BEGIN_QUOTE
 This is probably my favorite book in the AP! It was the best at not only giving varied scenarios to play in, but also providing GM tools to expand and enhance those parts to their liking.
@@ -1335,6 +1434,9 @@ This is probably my favorite book in the AP! It was the best at not only giving 
 #+END_QUOTE
 
 *** Book 3, Chapter 1: "Street Justice"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b3c1
+    :END:
 
 #+BEGIN_QUOTE
 which involves resolving a gang war in the docks has some very flavorful NPCs with interesting personalities, one of which (Maurrisa) Became a recurring NPC in my game. This part is also relatively free in its structure and contains some moral choices to make.
@@ -1349,8 +1451,10 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 
 [[http:cite:paizo-rzs4349d-40]["O.W." reiterates that the Agents /do not/ have to work with her, and outlines some tactical options for fighting her.]]
 
-
 *** Book 3, Chapter 2: "The House Always Wins"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b3c2
+    :END:
 
 #+BEGIN_QUOTE
 The casino heist is a very interesting chapter as well. Somehow the casino games given did not translate well into our VTT experience, But the inclusion of so many mechanics and tools to make the heist interesting is just great! I am sure many GM's can make good use of this part- even as inspiration for home games.
@@ -1380,6 +1484,9 @@ You can, too, simply give the Agents a warrant, facilitated by Captain Asilia of
 A few months later, [[http:cite:paizo-rzs4349d-85]["Deriven_Firelion" reported how they changed the heist at their table]].
 
 *** Book 3, Chapter 3: "Deadly Games"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b3c3
+    :END:
 
 #+BEGIN_QUOTE
 Gives the characters the task of dealing with a bomb threat in the middle of a gladiator tournament. The scenarios given in the AP itself are quite basic. But the tools provided, the various arena game mechanics and the flavor text-gave me plenty of inspiration to expand this part into a mini tournament arc- which was probably the highlight of the campaign! I highly recommend customizing this part to your group's liking.
@@ -1391,7 +1498,13 @@ I have made another post in the past about a stat problem with the final boss of
 *Errata*: Oggvurm the Merciless is stated with an AC of 24; it should probably be 34 at level 14.
 
 ** Book 4: "Assault on Hunting Lodge Seven"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book4
+   :END:
 *** Book 4, Chapter 1: "The Noxious Retort"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b4c1
+    :END:
 
 #+BEGIN_QUOTE
 After a quick starting dungeon, this chapter including my favorite dungeon experience of the AP. The blackfinger temple- with the convention in it's upper floor, the puzzles, the interesting monsters, and the reasonable length of it- was a very fun dungeon crawl!
@@ -1399,6 +1512,9 @@ After a quick starting dungeon, this chapter including my favorite dungeon exper
 #+END_QUOTE
 
 *** Book 4, Chapter 2: "The Gervin Legacy"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b4c2
+    :END:
 
 #+BEGIN_QUOTE
 In which the agents hole up in a haunted safe house to keep a watch over their prisoner, is another interesting chapter. It is divided into parts which feel tower-defense-like (protecting the house from assassins) and a small dungeon crawl in the basement. After cleansing the haunted house and defending it for so long, my players grew attached to the hunting lodge, so I gave them the deed to the house as a gift from the city as thanks for their service. The fact that the hunting lodge does not cointain any toilet in it became somewhat of a joke in our group, and the players announced they are building one in the house after they acquired it.
@@ -1408,6 +1524,9 @@ Small note about the final boss of this chapter- The lesser death is a tough mon
 #+END_QUOTE
 
 *** Book 4, Chapter 3: "A Wonderful Time in Harrowland"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b4c3
+    :END:
 
 #+BEGIN_QUOTE
 the investigation of harrowland was not interesting for my group. I think that we are all missing the excitement about all the harrow lore in there- so it felt like we were missing half the fun in there. Still, I imagine that for a group with more golarion lore background this could be a nice theme dungeon.
@@ -1417,6 +1536,9 @@ The end of the book features the twist of Reginald framing the party. This did n
 #+END_QUOTE
 
 ** Book 5: "Belly of the Black Whale"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book5
+   :END:
 
 #+BEGIN_QUOTE
 
@@ -1424,6 +1546,9 @@ This book has a nice change of pace from the previous ones- The agents have to w
 — cite:reddit-n39df5
 #+END_QUOTE
 *** Book 5, Chapter 1: "Dishonorably Discharged"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b5c1
+    :END:
 
 #+BEGIN_QUOTE
 deals with gaining enough favor with a crime lord to get the secrets on how to break out the Starborn from the Black Whale prison. Miogimo the crime lord is a good [foil] to the agents, showing how taking justice into their own hands can make them end up. Overall, the chapter gives plenty of roleplay moments to shine.
@@ -1431,6 +1556,9 @@ deals with gaining enough favor with a crime lord to get the secrets on how to b
 #+END_QUOTE
 
 *** Book 5, Chapter 2: "Belly of the Black Whale"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b5c2
+    :END:
 
 #+BEGIN_QUOTE
 is about the jailbreak from the black whale prison. The dungeon itself in there is decent, but I needed to put extra work in to make it feel more like a prison. Things like patrol routes, and more details about the day to day management of the prison are lacking the way they are presented in the adventure, I think this section could benefit from some clearer details.
@@ -1440,6 +1568,9 @@ After the prison break, the chapter goes again into a bit of an investigation- w
 #+END_QUOTE
 
 *** Book 5, Chapter 3: "The Rumormonger’s Stronghold"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b5c3
+    :END:
 
 #+BEGIN_QUOTE
 is the clockwork dungeon of Vancaskerkin. The dungeon itself is quite cool to run. There are different difficulty levels for many encounters, some cool monsters and a few secrets to discover. Reginald himself was a bit underwhelming (At least to the power level of my party), My solution was giving him 2 clockwork abilities at once, instead of just one, to up the danger- worked quite well for me!
@@ -1451,6 +1582,9 @@ In my opinion, the fight against Reginald felt like it should have been the fina
 #+END_QUOTE
 
 ** Book 6: "Ruins of the Radiant Siege"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book6
+   :END:
 
 #+BEGIN_QUOTE
 Sadly, this last part of the AP is also the weakest in it. It has many interesting ideas, but I'm afraid that as written, it feels off from the rest of the AP, and does not contribute much to the story other than continuing it to level 20.
@@ -1468,6 +1602,9 @@ The chapters themselves are basically 3 big dungeon crawls, with no goals other 
 #+END_QUOTE
 
 *** Book 6, Chapter 1: "Runaway Excavator"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b6c1
+    :END:
 
 #+BEGIN_QUOTE
 has a dungeon happening inside a giant mech. This is a very cool idea, and one that was foreshadowed before with the Graveraker (Though, not too well). The most disappointing thing to me about this part, is that we never got any detail's on how the Graveraker even looks, not to speak about any illustration. Without those, it was hard to make sense of the situation, it felt undefined in a disappointing way.
@@ -1481,6 +1618,9 @@ I also think that actually using her as written- where she has some "triggers" l
 #+END_QUOTE
 
 *** Book 6, Chapter 2: "The Radiant Spark"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b6c2
+    :END:
 
 #+BEGIN_QUOTE
 In this chapter, the party needs to delve into another dungeon- the ruins of an ancient fort constructed by an evil archmage bent on conquering Absalom with an army of mind controlled angels- in order to find the item that will allow them to face the final boss.
@@ -1494,6 +1634,9 @@ The boss of this chapter- a fallen planetar- has a problem in his stats. He poss
 #+END_QUOTE
 
 *** Book 6, Chapter 3: "The Gray Queen's Tower"
+    :PROPERTIES:
+    :CUSTOM_ID: node/plot/b6c3
+    :END:
 
 #+BEGIN_QUOTE
 Dungeon number 3 in this book is an assault on the tower where the main villain is sitting and… going slowly insane, waiting to be killed. Really this calls for a change from the GM.For me, I upped the stakes by having Olansa launch a daemon attack on the citizens of the city- and the players have to stop her before she kills everyone.
@@ -1509,9 +1652,15 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
 #+END_QUOTE
 
 * Resources
+  :PROPERTIES:
+  :CUSTOM_ID: node/resources
+  :END:
 ** Actually Plays
 - [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]]
 ** Missing Persons Casefiles
+   :PROPERTIES:
+   :CUSTOM_ID: node/resources/missing-person-casefiles
+   :END:
 
 On their blog, Paizo published "[[https://paizo.com/community/blog/v5748dyo6shbn?Edgewatch-Cold-Case-15561-Evidence-A][Edgewatch Cold Case #1556.1, Evidence A]]" in July 2020, a letter discovered under a table in the Tipsy Tengu, a piece of evidence regarding one of the missing persons that form the basis of the mystery in Book 1.
 
@@ -1573,6 +1722,9 @@ I have reworked the Eyes On Absalom front page to tie into my campaign, with the
 [[http:cite:paizo-rzs434ha-42]["AlastarOG" created "an elaborate stream of [articles]" for their game, for your inspiration.]]
 
 ** Journal Entries / Notes / Handouts
+   :PROPERTIES:
+   :CUSTOM_ID: node/resources/notes-and-handouts
+   :END:
 *** Book 1 Chapter 4: Pratchett's Journal
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/p1479k/agents_of_edgewatch_spoiler_handout_for_book_1/][u/corpboy has shared a 16-page original creation that is Pratchett's journal]],
@@ -1585,7 +1737,13 @@ thread.
 [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][u/perryhopeless shared some OC art for the investigation leads from Book 2 Chapter 1.]]
 
 ** Maps
+   :PROPERTIES:
+   :CUSTOM_ID: node/resources/maps
+   :END:
 *** narchy's maps
+    :PROPERTIES:
+    :CUSTOM_ID: node/resources/maps/narchy
+    :END:
 
 User narchy has provided a [[https://drive.google.com/drive/folders/1LZdj40ot34lfxoGbzu5aTgnAKQ1M8_eY?usp=sharing][full collection of all the maps, "remastered"]]. They're quite nice.
 
@@ -1630,6 +1788,9 @@ Note that while no map is provided when this location is encountered in B1C3, a 
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
 ** Art, Fiction and Original Content
+   :PROPERTIES:
+   :CUSTOM_ID: node/resources/art-fiction-oc
+   :END:
 #+BEGIN_COMMENT
 AoE Renders…
 #+END_COMMENT
@@ -1653,17 +1814,29 @@ narchy created the following videos for their group:
 [[http:cite:paizo-rzs43bxb-1]["BlackZack" shares a delightfully-creepy video in the motif of Book 1 Chapter 4.]]
 
 * Unofficial Errata
+  :PROPERTIES:
+  :CUSTOM_ID: node/errata
+  :END:
 ** Book 1, Chapter 1
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b1c1
+   :END:
 
 - The name of the pub in the first encounter is [[http:cite:paizo-aoe-book1#page=89][referred to as "the Arcadian" in the description of Pratchett on page 89 of Book 1]], but it is the "Tipsy Tengu" everywhere else, of course.
 
 ** Book 1, Chapter 2
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b1c2
+   :END:
 
 - The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
 - [[http:cite:paizo-rzs4346l-4][The wings on the Dragonfly Pagoda are backwards.]]
 
 ** Book 2, Chapter 3
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b2c3
+   :END:
 
 #+BEGIN_COMMENT
 - Link to Plot Notes re: Seamer's "Wire Catch" ability
@@ -1672,6 +1845,9 @@ narchy created the following videos for their group:
 - [[http:cite:paizo-rzs4349c-48][The Skinsaw Seamer's "Wire Catch" reaction requires a free hand they cannot easily have.]]
 
 ** Book 2, Chapter 4
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b2c4
+   :END:
 
 - In D15 (Sanctuary), one of the cadets is listed as "Kirsta Malopedes" but referred to later in the text as "Cadet Pennington".
   — cite:paizo-aoe-book2#page=41
@@ -1688,10 +1864,16 @@ narchy created the following videos for their group:
 - The Escape DC for The Skinner's "Chain Up" ability seems absurdly high. — cite:reddit-qtjysv
 
 ** Book 3, Chapter 3
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b3c3
+   :END:
 
 - [[http:cite:paizo-rzs4349d-48][Oggvurm the Merciless is stated with an AC of 24]]; it should probably be 34 for this Level 14 creature.
 
 * Colophon
+  :PROPERTIES:
+  :CUSTOM_ID: node/colophon
+  :END:
 ** Licensing
 
 This work is generally licensed as [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons By-Attribution Non-Commercial Share-Alike, International, Version 4.0]].
