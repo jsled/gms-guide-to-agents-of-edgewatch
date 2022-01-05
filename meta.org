@@ -1053,7 +1053,6 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE [[https://paizo.com/threads/rzs4349b&page=9?1-Devil-at-the-Dreaming-Palace#441][Pratchett chase]]
 **** DONE [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#396][Patrol route]]
 **** DONE [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives#25][Non-lethal system]]
-
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/][r/Pathfinder2e/comments/pabt0r/help_with_the_t4_agents_of_edgewatch_spoilers/]] ("what is the pact the Twilight 4 have with Norgorber?")
 *** DONE [[https://paizo.com/threads/rzs43ftq?Outmanned-outgunned-outnumbered-outplanned][paizo.com … "Outmanned, outgunned, outnumbered, outplanned! (SPOILERS)"]]
@@ -1113,3 +1112,9 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** TODO [[https://paizo.com/threads/rzs434h7?-Homebrewed-Downtime-Rules][paizo/"(GM Reference, Probable Spoilers) Homebrewed Downtime Rules"]] — revised downtime rules focused on buddy cop/partners ("basically partner [née teamwork] feats")
 *** TODO the controversy
 - [[https://paizo.com/threads/rzs433ep?A-note-and-a-warning-about-Live-streaming-AoE][paizo/"A note and a warning about Live streaming AoE"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/r4u5ve/need_help_finding_maps_for_the_irorium_arena/][reddit/"Need help finding maps for the Irorium Arena", Naurgul's guidance]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/raouq8/tarondors_guide_to_pathfinder_adventure_paths/][reddit/ "Tarondor's Guide to Pathfinder Adventure Paths"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/reg9ti/edgewatch_and_organized_play/][reddit.com/r/Pathfinder2e/ "Edgewatch and Organized Play"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][reddit.com/r/Pathfinder2e/"[book 3]. Can the PCs beg for money?"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][reddit.com/r/Pathfinder2e/"Agents of Edgewatch book 2"]]
