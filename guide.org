@@ -189,7 +189,11 @@ Those are really the only issues I found with it beyond the premise itself being
 
   - The Agents are tasked to – effectively — break up a labor action in the role of police, in Book 1 Chapter 2.
 
-    - And the [[http:cite:paizo-rzs4349b-311][kobolds go from protesting pay to being "extremely homicidal"]], to boot. Though as [[http:cite:paizo-rzs4349b-314]["Benchak the Nightstalker" points out, there is a "schism" in the ranks that is useful to highlight.]] [[http:cite:paizo-rzs4349b-327]["EdwinM" suggests taking it a different direction entirely]], and [[http:cite:paizo-rzs4349b-328]["SilentCal" has another alternate scenario.]]  [[http:cite:paizo-rzs4349b-332]["Data Lore" offers their modifications to the chapter.]]
+    - And the [[http:cite:paizo-rzs4349b-311][kobolds go from protesting pay to being "extremely homicidal"]], to boot.
+      Though as [[http:cite:paizo-rzs4349b-314]["Benchak the Nightstalker" points out, there is a "schism" in the ranks that is useful to highlight.]]
+      [[http:cite:paizo-rzs4349b-327]["EdwinM" suggests taking it a different direction entirely]],
+      and [[http:cite:paizo-rzs4349b-328]["SilentCal" has another alternate scenario.]]
+      [[http:cite:paizo-rzs4349b-332]["Data Lore" offers their modifications to the chapter.]]
 
 
 There are a number of solutions to these problems:
@@ -746,7 +750,11 @@ James, congratulations. I am literally scared of this guy.
 
 ----------
 
-[[http:cite:paizo-rzs4349d-12]["Lord Shark" notes that "The Rumormonger" is a /bit/ too obvious of a name for Vancaskerkin]].  [[http:cite:paizo-rzs4349d-14][GayBirdGM shares that that is precisely why they changed it to "The Reaper" for their game]], [[http:cite:paizo-rzs4349d-82]["EdwinM" went with "The Whisperer"]], and [[http:cite:paizo-rzs4349d-97]["The ShadowShackleton" went with "The Preacher"]]. [[http:cite:paizo-rzs4349d-79]["AlastarOG" thinks y'all're overestimating your players. ;)]]
+[[http:cite:paizo-rzs4349d-12]["Lord Shark" notes that "The Rumormonger" is a /bit/ too obvious of a name for Vancaskerkin]].
+   [[http:cite:paizo-rzs4349d-14][GayBirdGM shares that that is precisely why they changed it to "The Reaper" for their game]],
+    [[http:cite:paizo-rzs4349d-82]["EdwinM" went with "The Whisperer"]],
+    and [[http:cite:paizo-rzs4349d-97]["The ShadowShackleton" went with "The Preacher"]].
+    [[http:cite:paizo-rzs4349d-79]["AlastarOG" thinks y'all're overestimating your players. ;)]]
 
 --------------------------------------------------
 
