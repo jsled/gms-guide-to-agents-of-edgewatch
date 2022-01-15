@@ -1050,7 +1050,7 @@ books later.  — cite:paizo-rzs4349b-447
     :CUSTOM_ID: node/plot/b1c2
     :END:
 
-*Errata* The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
+*Unofficial Errata* The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
 ----------
 
@@ -1453,10 +1453,8 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 
 ----------
 
-[[http:cite:paizo-rzs4349d-39]["Billiam8817" makes the good point that Maurissa Jones and the Washboard Dogs are fully aware that they are supplying victims to the Skinsaw's *murder cult*]], which should really put them beyond the pale for being coöperated with
-
+[[http:cite:paizo-rzs4349d-39]["Billiam8817" makes the good point that Maurissa Jones and the Washboard Dogs are fully aware that they are supplying victims to the Skinsaw's *murder cult*]], which should really put them beyond the pale for being coöperated with.
 [[http:cite:paizo-rzs4349d-41]["Evil Paul" agrees, and thinks this needs some "heavy editing" by the GM to make work.]]
-
 [[http:cite:paizo-rzs4349d-40]["O.W." reiterates that the Agents /do not/ have to work with her, and outlines some tactical options for fighting her.]]
 
 *** Book 3, Chapter 2: "The House Always Wins"
@@ -1472,19 +1470,19 @@ The casino heist is a very interesting chapter as well. Somehow the casino games
 [[http:cite:paizo-rzs4349d-33][AlastarOG's players are interested in making a copy of the vault key.]]  [[http:cite:paizo-rzs4349d-34]["O.W." provides excuses for saying "no".]]  [[http:cite:paizo-rzs4349d-35]["KyoYagami068" gins up a new Obstacle to fit the bill…]]
 #+BEGIN_QUOTE
 COPY THE VAULT KEY - OBSTACLE
+
 Infiltration Points 8 (group);
+
 Overcome DC 27 Crafting or Arcana or DC 29 Thievery. At least 2 Infiltration Points has to be gained using Arcana, because the key have arcane runes in it.
+
 — cite:paizo-rzs4349d-35
 #+END_QUOTE
 
 ----------
 
 [[http:cite:paizo-rzs4349d-42]["Evil Paul" points out the heist represents the police being tasked to break into a legitimate business without any warrants to steal property.]] If you even allow this at your table, what if they just say "no"? Some discussion follows in the thread.
-
 [[http:cite:paizo-rzs4349d-60][One idea is to make Gage Carlyle a mobster or mob banker]], to provide an excuse for the Agents to make their warrantless expedition, allowing the intended "Oceans Eleven" feel, rather than "legalized theft by agents of the State".
-
 [[http:cite:paizo-rzs4349d-65]["Deriven_Firelion" believes very strongly]] this [[http:cite:paizo-rzs4349d-67][does not make any sense with how the rest of the Chapter is detailed]]; they make some good points.
-
 [[http:cite:paizo-rzs4349d-71]["thewastedwalrus" reminds us that the chapter intro describes why the Agents are tasked to behave as they are.]]
 
 You can, too, simply give the Agents a warrant, facilitated by Captain Asilia of Gyr of the Starwatch.
@@ -1503,7 +1501,7 @@ I have made another post in the past about a stat problem with the final boss of
 — cite:reddit-n39df5
 #+END_QUOTE
 
-*Errata*: Oggvurm the Merciless is stated with an AC of 24; it should probably be 34 at level 14.
+*Unofficial Errata*: Oggvurm the Merciless is stated with an AC of 24; it should probably be 34, for a level 14 character.
 
 ** Book 4: "Assault on Hunting Lodge Seven"
    :PROPERTIES:
