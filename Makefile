@@ -4,4 +4,4 @@ generate: guide.html
 
 
 publish: index.html
-	scp index.html guide.css jsled@asynchronous.org:asynchronous.org/gms-guide-to-agents-of-edgewatch
+	scp index.html guide.{css,js} jsled@asynchronous.org:asynchronous.org/gms-guide-to-agents-of-edgewatch

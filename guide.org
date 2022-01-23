@@ -1,6 +1,7 @@
 #+OPTIONS: ^:{} ^:nil _:nil
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
+#+HTML:<script src="guide.js"></script>
 #+TITLE: The GM's Guide to "Agents of Edgewatch"
 * Introduction
 ** Mission Statement
@@ -329,7 +330,7 @@ player's characters to meet the challenges in the AP.
 | *ooze*         |        |        |      1 |      1 |
 | *undead*       |      4 |        |      3 |        |
 
-#+HTML: <div id="beta" style="display:none">
+#+HTML: <div class="beta" style="display:none">
 *Summary by Alignment (count)*
 
 |              | *Good:3* | *Neutral:35* | *Evil:47* |

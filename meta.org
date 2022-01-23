@@ -965,7 +965,7 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 
 - examples
   - (current) CSS specs
-
+**** DONE add '?beta' -> beta content exposure
 *** organization
 **** TODO add enemies/challenges and summaries from Book 2,3,4,5,6
 **** TODO create an index across all the APs
