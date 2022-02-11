@@ -1,7 +1,9 @@
 #+OPTIONS: ^:{} ^:nil _:nil
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 #+HTML_HEAD: <link rel="stylesheet" href="guide.css"></link>
-#+HTML:<script src="guide.js"></script>
+#+HTML_HEAD: <link rel="stylesheet" href="lib/sidebarjs/sidebarjs.css">
+#+HTML_HEAD: <script type="module" src="lib/sidebarjs/sidebarjs.js"></script>
+#+HTML_HEAD: <script src="guide.js"></script>
 #+TITLE: The GM's Guide to "Agents of Edgewatch"
 * Introduction
 ** Mission Statement

@@ -12,3 +12,14 @@ function beta_features(evt) {
 }
 
 document.addEventListener("DOMContentLoaded", beta_features);
+
+function build_sidebar(evt) {
+    // document.getElementById('text-table-of-contents').setAttribute('sidebarjs','');
+    console.log('FIXME: delete this ->', document.getElementById('table-of-contents'));
+    // const sidebarjs = new SidebarJS.SidebarElement({position: 'right'})
+
+    // enumerate h2-h3 elts, transform into <nav>
+    
+}
+
+document.addEventListener("DOMContentLoaded", build_sidebar);
