@@ -1060,6 +1060,17 @@ down, gesturing to the room’s comfortable chairs.
 - Nautical dress
 
 #+END_COMMENT
+*** Sergeant Moldun Ollo
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following]]:
+
+- [[https://drive.google.com/file/d/1xPfFiwdWQv1pnqlY8udvDiGZ_qSc9ULe/view?usp=sharing][Sergeant Moldun Ollo, Solo]]
+- [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of Edgewatch HQ]]
+
+*** Cass Hamish, Garrote Sisterhood
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders]], including the following of [[https://drive.google.com/file/d/1XkJ9EZ7Xi9Uq4ABO0rA37X4kbU8QGvZq/view][Cass Hamish]] of the Garrote Sisterhood.
+
 *** Blackfinger Blight
     :PROPERTIES:
     :CUSTOM_ID: node/npc/blackfinger-blight
@@ -1549,6 +1560,7 @@ At this point, some people notice that not all the toolbox items are actually in
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the smuggling ring encounter]]:
 
+- [[https://drive.google.com/file/d/1YKvydvFquPp92Ql5kwrUQc83rjO7uyCv/view?usp=sharing][Percen Droan]]
 - [[https://drive.google.com/file/d/1XfsDqggrtuojkzoN8mk9ZQm3ExHPJ4j_/view?usp=sharing][Confronting Percen Droan]]
 
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
@@ -1582,7 +1594,9 @@ Then it came to some "filler" floats. I figure the Parade has order-of-175 float
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Bank robbery]]:
 
-- [[https://drive.google.com/file/d/1-JKNHAMzTqSM1MHfSGflgHJk0ko4XL0F/view?usp=sharing][Kolo, Copper Hand and Dig Widget in front of the vault]]
+- [[https://drive.google.com/file/d/1lJANpfrBnUqBjEZ6d1dL7Hjw-IAcudJg/view?usp=sharing][Kolo Harvan]]
+- [[https://drive.google.com/file/d/1dP9BOi4qVz9ID56SF8yWXSFqfZG_tsRR/view?usp=sharing][Dig Widget]]
+- [[https://drive.google.com/file/d/1-JKNHAMzTqSM1MHfSGflgHJk0ko4XL0F/view?usp=sharing][Kolo, Copper Hand and Dig Widget in front of the bank vault]]
 
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
