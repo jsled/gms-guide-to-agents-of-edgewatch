@@ -1088,7 +1088,8 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][Agents of Edgewatch as a 90s TV show. Made to celebrate our party getting to book 3!]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/qynogu/spoilers_aoe_investigation_leads/][(Spoilers - AoE) Investigation Leads]]                        :oc:art:
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/does_anyone_know_if_there_are_any_actual_play/][reddit: Does anyone know if there are any actual play series of Edgewatch out there that have made some of the commonly recommended improvements or otherwise took a more positive approach to it?]]
-*** TODO [[https://paizo.com/threads/rzs43j2z?Restricted-free-archetype-options][paizo/"Restricted free archetype options?"]]
+*** DONE [[https://paizo.com/threads/rzs43j2z?Restricted-free-archetype-options][paizo/"Restricted free archetype options?"]]
+    CLOSED: [2022-02-12 Sat 01:47]
 *** TODO [[https://paizo.com/threads/rzs43hfo?SPOILERS-Changing-the-Final-Boss][paizo/"SPOILERS - Changing the Final Boss"]]
 *** TODO [[https://paizo.com/threads/rzs43gj3?The-Broken-Scales-and-Balancing-the-Scales][paizo/«"The Broken Scales" and "Balancing the Scales" SPOILERS All books»]]
 *** TODO [[https://paizo.com/threads/rzs43g90?Is-it-just-me-or-is-this-game-just-a-SLOG][paizo/"Is it just me or is this game just a SLOG? (Spoilers books 1&2)"]] — more difficulty chat
