@@ -781,7 +781,7 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
 ** Precipice Quarter
-
+*** Radiant Festival
 There is some confusion about the size of the Precipice Quarter in relation to the Radiant Festival grounds.
 
 #+BEGIN_QUOTE
@@ -807,7 +807,16 @@ I made a larger version of the festival grounds map a while ago, and I've finall
 I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
 — cite:reddit-ph7txq-hbgkw36
 #+END_QUOTE
-** Edgewatch Station
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Radiant Festival]]:
+
+- [[https://drive.google.com/file/d/15oJmhINY75JJAXJVwbRGBmCQnDugCsl6/view?usp=sharing][Street to the Hall of Nations during the Festival]]
+- [[https://drive.google.com/file/d/1Z9Z7qDVs8LkqYPqbqsUfs7fiFuRtRi8f/view?usp=sharing][Closeup of the Hall of Nations]]
+
+*** Edgewatch Station
+    :PROPERTIES:
+    :CUSTOM_ID: node/loc/precipice/edgewatch-station
+    :END:
 
 The nature of the Edgewatch Station is also up for some interpretation.
 
@@ -821,6 +830,30 @@ In some readings, supported by the text, the Edgewatch precinct station is a run
 In other readings -- often correlated with an Edgewatch that can afford to provide a salary to its Agents -- the Edgewatch precinct is a newly-constructed building with all the refinements.
 
 Paizo forums users [[http:cite:paizo-rzs434ha-8][Bast L.]] and [[http:cite:paizo-rzs434ha-11][Sovaka]] have both provided maps of the Edgewatch Station.
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following of Edgewatch Station]]:
+
+- [[https://drive.google.com/file/d/1H8S4GQe_orYLVUFN1Cq_GgcIKTrtHSOn/view?usp=sharing][Edgewatch HQ - Front Entrance]]
+- [[https://drive.google.com/file/d/1l6s3zLS7oOedwMesYLdRJtGTtCArtDJq/view?usp=sharing][Expanded Entrance to Edgewatch HQ]]
+- [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of the expanded front of Edgewatch HQ]]
+- [[https://drive.google.com/file/d/1M3FzS45yduS2oiqAM7macqx1ky_qp3Cy/view?usp=sharing][Edgewatch HQ - Edgewatch Wants You poster]]
+- [[https://drive.google.com/file/d/1hQfwI-vLnU5Pg-k9YZSQjsrSWyTEJTHw/view?usp=sharing][Edgewatch HQ - Edgewatch Wants You recruitment wall]]
+- [[https://drive.google.com/file/d/1Q4TCD8gdgh3elVBRdOjzSXL4Yd3Q-68e/view?usp=sharing][Grospek Lavarsus]]
+- [[https://drive.google.com/file/d/1rhKV-hC4fWNFirQ6l95-AudRfIZtbPRC/view?usp=sharing][Lavarsus in his office]]
+
+*** Knight's Marvelous Menagerie
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following]]:
+
+- [[https://drive.google.com/file/d/1yYh_elbVjiXzNFn-pWe6UYVSOsEoAqNA/view?usp=sharing][The front entrance to the Marevlous Menagerie]]
+
+*** Dragonfly Pagoda
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following of The Dragonfly Pagoda and the threats there]]:
+
+- [[https://drive.google.com/file/d/1HHeGWVzVs8mbrKEWgZJ3pPRwSPk6UiWp/view?usp=sharing][Dragonfly Pagoda - Courtyard]]
+- [[https://drive.google.com/file/d/1mAQLstHNKhiKwWC9Gu14Zj1AF3tyKHRb/view?usp=sharing][Dragonfly Pagoda - Closeup of Rekarek and kobolds]]
+- [[https://drive.google.com/file/d/1Mz87zlgGJcmWKsfns74wpHxPwUiv-XHA/view?usp=sharing][Battle Leader Rekarek]]
 
 ** Foreign Quarter
 - Sleepless Suns
@@ -892,6 +925,15 @@ such things.
   wrong person. Play up Lavarsus as full of pride and incompetent
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
+
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following of Edgewatch Station]]:
+
+- [[https://drive.google.com/file/d/1Q4TCD8gdgh3elVBRdOjzSXL4Yd3Q-68e/view?usp=sharing][Grospek Lavarsus]]
+- [[https://drive.google.com/file/d/1rhKV-hC4fWNFirQ6l95-AudRfIZtbPRC/view?usp=sharing][Lavarsus in his office]]
+- [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of the expanded front of Edgewatch HQ]]
+
 *** Hendrid Pratchett
     :PROPERTIES:
     :CUSTOM_ID: node/npc/pratchett
@@ -1368,6 +1410,17 @@ My issue is with the fact that the players are supposed to get from lvl 3 to lvl
 — cite:reddit-ojp6to-h5354t4
 #+END_QUOTE
 
+
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Dreaming Palace]]:
+
+- [[https://drive.google.com/file/d/1HQ5YNd77Mf54IkWEPU7FD7QAoPbRQRwI/view?usp=sharing][Hendrid Pratchett]]
+- [[https://drive.google.com/file/d/1OAfOFKJ2BmHJxbEudGRdUPP7e2G6vAX9/view?usp=sharing][Ralso]]
+- [[https://drive.google.com/file/d/1occvguuijG75hke_3hiBStQVmDoT0DhT/view?usp=sharing][Ralso in the Dreaming Palace lobby]]
+- [[https://drive.google.com/file/d/1-siPIlAOLL2lPPHF0bjA0IeLFlGFeEep/view?usp=sharing][Pratchett's Dungeon – Pratchett only]]
+- [[https://drive.google.com/file/d/14Mc0NQwrxe-LfY3DGHDwnZH-6-CfCThj/view?usp=sharing][Pratchett's Dungon – Pratchett and the Binumir]]
+
 **** Hendrid Pratchett encounter
 
 Experiences with this encounter vary, but it is a Severe 4 encounter, and based on the time and physical constraints of this dungeon crawl, the party will likely be encountering Pratchett with below-full health and limited resources (consumables, spells) remaining.
@@ -1492,6 +1545,12 @@ In response to a question about how to recover if Droan burns the incriminating 
 
 At this point, some people notice that not all the toolbox items are actually included in the pre-written adventure path, such as the [[https://2e.aonprd.com/Equipment.aspx?ID=814][Ethersight ring]]. [[http:cite:paizo-rzs4349c-147][Michael Sayre suggests having Rohka Stoneswarn give it to the PCs to help with her ether spider problem.]]
 
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the smuggling ring encounter]]:
+
+- [[https://drive.google.com/file/d/1XfsDqggrtuojkzoN8mk9ZQm3ExHPJ4j_/view?usp=sharing][Confronting Percen Droan]]
+
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b2c2
@@ -1518,6 +1577,13 @@ Then it came to some "filler" floats. I figure the Parade has order-of-175 float
 #+END_QUOTE
 
 [[http:cite:paizo-rzs4349c-150][Naurgul offered their details]], too, and [[http:cite:paizo-rzs4349c-151][GreatGraySkwid supplemented with a number of business and locations from the /Pathfinder Chronicles Guide to Absalom/]].
+
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Bank robbery]]:
+
+- [[https://drive.google.com/file/d/1-JKNHAMzTqSM1MHfSGflgHJk0ko4XL0F/view?usp=sharing][Kolo, Copper Hand and Dig Widget in front of the vault]]
+
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
     :PROPERTIES:
@@ -1578,6 +1644,15 @@ I think providing/encouraging the party to get Holy Water is the best way to mak
 --------------------------------------------------
 
 [[http:cite:paizo-rzs4349c-112][Saqcat looks for clarification on how to handle Frefferth the Dullahan's Nightmare; consensus is to treat it like a mount.]]
+
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to Chapter 3]]:
+
+- [[https://drive.google.com/file/d/11Ps9BMkGwHRzs3XN-2ATeRZq-0KCVKew/view?usp=sharing][The dullahan Frefferth and his unholy steed Polora]]
+- [[https://drive.google.com/file/d/1yGO1dQpMfHoLb77gkPJiK_2SGbTeVdhF/view?usp=sharing][The Skinner, Wrent Discaspiron — solo shot of her, partially hidden in the darkness]]
+- [[https://drive.google.com/file/d/1OrwQHdx71qeGXapFKLqzDfzbkxj41LOa/view?usp=sharing][The Skinner's Lair (empty)]]
+- [[https://drive.google.com/file/d/198etLJ0kwKrieAy4W22Rw2oaq6QJ7VTi/view?usp=sharing][The Skinner, in her lair]]
 
 --------------------------------------------------
 
