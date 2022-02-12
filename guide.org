@@ -856,6 +856,9 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1Mz87zlgGJcmWKsfns74wpHxPwUiv-XHA/view?usp=sharing][Battle Leader Rekarek]]
 
 ** Foreign Quarter
+
+   
+*** Irorium
 - Sleepless Suns
 - Book 2, Chapter 3
   - Copper Hand Hideout
@@ -1826,6 +1829,10 @@ I have made another post in the past about a stat problem with the final boss of
 #+END_QUOTE
 
 *Unofficial Errata*: Oggvurm the Merciless is stated with an AC of 24; it should probably be 34, for a level 14 character.
+
+-----
+
+On reddit, [[http:cite:reddit-r4u5ve][u/GamestingWeasly asks if there are any maps for the Irorium, besides the problematic one from the AP]].  [[http:cite:reddit-r4u5ve-hmj42tw][u/Naurgul quotes the AP, which suggests just using a generic map for a subset of the rather large space]].
 
 ** Book 4: "Assault on Hunting Lodge Seven"
    :PROPERTIES:
