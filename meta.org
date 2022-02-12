@@ -948,6 +948,8 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
   - simple: «{user}, {date}»
     - cite[/simple]:@
 
+**** DONE support multiple "cite:"-expansions on the same line
+     CLOSED: [2022-02-12 Sat 00:12]
 *** presentation
 **** stylesheet
 - properties

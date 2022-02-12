@@ -65,11 +65,12 @@ class Transformer (object):
         i = 0
         for line in self._input:
             i = i + 1
-            if self._contains_citation(line):
+            while self._contains_citation(line):
                 pre = line
                 post = self._expand_citation(i, pre)
                 if pre == post:
                     self._log.error(f'ERR pre [{pre}] == post [{post}]')
+                    break
                 line = post
             else:
                 # line is line is line
