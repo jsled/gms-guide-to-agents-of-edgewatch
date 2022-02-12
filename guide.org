@@ -781,6 +781,7 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 *** Provocator Archetype (Book 3, Chapter 3, Level 12)
 * Locations and Geography
 ** Precipice Quarter
+*** Tipsy Tengu
 *** Radiant Festival
 There is some confusion about the size of the Precipice Quarter in relation to the Radiant Festival grounds.
 
@@ -856,8 +857,6 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1Mz87zlgGJcmWKsfns74wpHxPwUiv-XHA/view?usp=sharing][Battle Leader Rekarek]]
 
 ** Foreign Quarter
-
-   
 *** Irorium
 - Sleepless Suns
 - Book 2, Chapter 3
@@ -1275,6 +1274,10 @@ The encounter serves two purposes:
 ----------
 
 [[http:cite:paizo-rzs4349b-246][Smoagendash II describes some interesting variations they made in this first book.]]
+
+----------
+
+Posting on Reddit, [[http:cite:reddit-r8zm44][u/Kraydez provides a link to their remake of the Tipsy Tengu map, in DungeonDraft]].
 
 **** "Guards! Guards!"
 **** "Panic at the Zoo" / Knight's Marvelous Menagerie

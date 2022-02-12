@@ -273,7 +273,7 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** TODO the controversy
 - [[https://paizo.com/threads/rzs433ep?A-note-and-a-warning-about-Live-streaming-AoE][paizo/"A note and a warning about Live streaming AoE"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r4u5ve/need_help_finding_maps_for_the_irorium_arena/][reddit/"Need help finding maps for the Irorium Arena", Naurgul's guidance]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/raouq8/tarondors_guide_to_pathfinder_adventure_paths/][reddit/"Tarondor's Guide to Pathfinder Adventure Paths"]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/reg9ti/edgewatch_and_organized_play/][reddit.com/r/Pathfinder2e/ "Edgewatch and Organized Play"]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][reddit.com/r/Pathfinder2e/"[book 3]. Can the PCs beg for money?"]]
