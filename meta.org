@@ -1122,4 +1122,5 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][reddit.com/r/Pathfinder2e/"Agents of Edgewatch book 2"]]
     CLOSED: [2022-01-15] : Nothing of value here.
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][reddit.com/r/Pathfinder2e/"Help with agents of edgewatch book 4 *Spoilers*"]]
-*** TODO _Lost Omens: Absalom_ vs. _Book 3_ descriptions of Crestwatch
+*** DONE _Lost Omens: Absalom_ vs. _Book 3_ descriptions of Crestwatch
+    CLOSED: [2022-02-12 Sat 00:30]

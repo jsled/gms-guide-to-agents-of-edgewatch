@@ -836,6 +836,44 @@ Paizo forums users [[http:cite:paizo-rzs434ha-8][Bast L.]] and [[http:cite:paizo
 - Book 2, Chapter 1
   - Smugglers
 ** The Docks
+*** Crestwatch
+    :PROPERTIES:
+    :CUSTOM_ID: node/loc/crestwatch
+    :END:
+
+[[http:cite:paizo-aoe-book3][Book 3, _All or Nothing_]] describes Crestwatch as follows:
+
+#+BEGIN_QUOTE
+
+Crestwatch is a pinewood boathouse that was raised and converted to serve as
+the Harbor Guard’s headquarters several hundred years ago. It’s situated on
+the waterfront between a maze of marinas, overlooking the water from
+barnacle-crusted pilings.  As the district has grown, the building has been
+augmented with new upper stories for offices and expanded laterally with
+temporary holding cells and entire warehouses of confiscated evidence. The
+base of the boathouse has remained largely unchanged: a wide-open storeroom
+with knotty floorboards and creaking staircases that ascend to the upper
+halls.
+
+— cite:aoe-paizo-book3#page=9
+#+END_QUOTE
+
+[[http:cite:paizo-lost-omens-absalom][_Absalom: City of Lost Omens_]] describes Crestwatch as follows:
+
+#+BEGIN_QUOTE
+A squat stone building with a 100-foot-high minaret marks the administrative
+center of the Docks. The Harbor Guard houses its barracks and headquarters on
+the east side of the building, while the Dock Council contains its meeting
+chambers and offices on the west side.
+
+— cite:paizo-lost-omens-absalom#page=126
+#+END_QUOTE
+
+The particulars of the description from Book 3 are not at all important to the
+plot, and the more-recently-released details from _Absalom: City of Lost
+Omens_ is probably the "more"-canonical description to use, if you care about
+such things.
+
 ** The Coins
 - Token Guard
 - Book 2, Chapters 1-2
