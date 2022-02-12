@@ -16,7 +16,8 @@ Specifically:
 
 def init_logging():
     log = logging.getLogger()
-    log.setLevel(logging.DEBUG)
+    # log.setLevel(logging.DEBUG)
+    # log.setLevel(logging.WARN)
     ch = logging.StreamHandler()
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     ch.setFormatter(formatter)
