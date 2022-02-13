@@ -2167,6 +2167,10 @@ narchy created the following videos for their group:
   :PROPERTIES:
   :CUSTOM_ID: node/errata
   :END:
+** Player's Guide
+
+A curious sort named [[http:cite:paizo-rzs43a5f][Efrixes askes on the Paizo Forums]] about a "hamster-like creature is on page 2 in the player's guide?". [[http:cite:paizo-rzs43a5f-7][Ron Lundeen clarifies that it was "cut for space".]]
+
 ** Book 1, Chapter 1
    :PROPERTIES:
    :CUSTOM_ID: node/errata/b1c1

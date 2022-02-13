@@ -259,7 +259,8 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
      CLOSED: [2022-02-12 Sat 02:34]
 **** DONE Dreaming Palace
 **** DONE Catacombs
-*** TODO [[https://paizo.com/threads/rzs43a5f?Players-Guide-Hamster-Creature][paizo/"Player's Guide Hamster Creature"]] — clarification from Run Lundeen it was cut for space
+*** DONE [[https://paizo.com/threads/rzs43a5f?Players-Guide-Hamster-Creature][paizo/"Player's Guide Hamster Creature"]] — clarification from Run Lundeen it was cut for space
+    CLOSED: [2022-02-13 Sun 00:00]
 *** TODO [comment 0/296] [[https://paizo.com/community/blog/v5748dyo6shag?Agents-of-Edgewatch-Player-s-Guide-Is-Now#discuss][paizo/"Agents of Edgewatch Player’s Guide Is Now Available!"]]
 *** TODO [[https://paizo.com/threads/rzs43503?Bolera-Ollo-and-Batiste][paizo/"Bolera, Ollo, and Batiste (spoilers I guess?)"]] — "Do any of these […] have […] scripted roles in any of the future volumes?" no.
 *** TODO downtime / timeline
@@ -272,11 +273,11 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** TODO [[https://paizo.com/threads/rzs434h7?-Homebrewed-Downtime-Rules][paizo/"(GM Reference, Probable Spoilers) Homebrewed Downtime Rules"]] — revised downtime rules focused on buddy cop/partners ("basically partner [née teamwork] feats")
 *** TODO the controversy
 - [[https://paizo.com/threads/rzs433ep?A-note-and-a-warning-about-Live-streaming-AoE][paizo/"A note and a warning about Live streaming AoE"]]
+**** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/reg9ti/edgewatch_and_organized_play/][reddit.com/r/Pathfinder2e/ "Edgewatch and Organized Play"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r4u5ve/need_help_finding_maps_for_the_irorium_arena/][reddit/"Need help finding maps for the Irorium Arena", Naurgul's guidance]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/raouq8/tarondors_guide_to_pathfinder_adventure_paths/][reddit/"Tarondor's Guide to Pathfinder Adventure Paths"]]
     CLOSED: [2022-02-12 Sat 23:39]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/reg9ti/edgewatch_and_organized_play/][reddit.com/r/Pathfinder2e/ "Edgewatch and Organized Play"]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][reddit.com/r/Pathfinder2e/"[book 3]. Can the PCs beg for money?"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][reddit.com/r/Pathfinder2e/"Agents of Edgewatch book 2"]]
     CLOSED: [2022-01-15] : Nothing of value here.
