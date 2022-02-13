@@ -809,15 +809,25 @@ In some readings, the map of the Radiant Festival grounds is co-extensive with t
 
 In the correct reading, the Radiant Festival grounds are one smaller part in the south east corner of the Precipice Quarter.
 
+This is clarified in [[http:cite:paizo-rzs434qp-3][this comment from "Moximus" on the Paizo forums]], overlaying the festival grounds at:
+
+- [[https://drive.google.com/file/d/1iwZR5_NkgR3LwRBghE0Uy3eNTQU9x_JC/view?usp=sharing][At the stated scale]]
+- [[https://drive.google.com/file/d/1_iTjN5iFxZ_xzT7fV4d945jUVDZxH8yN/view?usp=sharing][With the festival at half the stated scale]]
+
+[[http:cite:paizo-rzs434qp-4][While "not directly involved with the Adventure Path", James Jacobs thinks that there's a tyop in the map scale]], given Moximus images.
+
 However, if you adopt the former position, you might be interested to see [[http:cite:paizo-rzs4349b-396][Naurgul's map of a patrol route through the Quarter]].
 
 Along with [[narchy's maps][the rest of their excellent maps]], [[http:cite:reddit-ph7txq-hbgkw36][narchy provided a version of the festival grounds map…]]
+
 #+BEGIN_QUOTE
 I made a larger version of the festival grounds map a while ago, and I've finally gone back and finished it.
 
 I have tried to recreate the various attractions as they are described in the books, and also included some areas with regular city buildings as they are needed for various encounters. Also, the festival grounds don't occupy the entire quarter - at least that's my interpretation!
 — cite:reddit-ph7txq-hbgkw36
 #+END_QUOTE
+
+----------
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Radiant Festival]]:
 

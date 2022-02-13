@@ -269,7 +269,8 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 - [[https://paizo.com/threads/rzs435c3?Retraining-Downtime-Generally][paizo/"Retraining, Downtime Generally"]]
 *** TODO [[https://paizo.com/threads/rzs4371h?Scaling-Down-for-Buddy-Cops][paizo/"Scaling Down for Buddy Cops"]]
 *** TODO [[https://paizo.com/threads/rzs433ws?GM-spoilers-stat-blocks-from-1st-ed][pazio/"[GM, spoilers] stat blocks from 1st ed?"]] — "Bestiary 6" = "Elite template" not "1E Bestiary Volume 6"
-*** TODO [[https://paizo.com/threads/rzs434qp?Map-Scaling][paizo/"Map Scaling"]] — more Precipice Quarter geography details
+*** DONE [[https://paizo.com/threads/rzs434qp?Map-Scaling][paizo/"Map Scaling"]] — more Precipice Quarter geography details
+    CLOSED: [2022-02-13 Sun 00:21]
 *** TODO [[https://paizo.com/threads/rzs434h7?-Homebrewed-Downtime-Rules][paizo/"(GM Reference, Probable Spoilers) Homebrewed Downtime Rules"]] — revised downtime rules focused on buddy cop/partners ("basically partner [née teamwork] feats")
 *** TODO the controversy
 - [[https://paizo.com/threads/rzs433ep?A-note-and-a-warning-about-Live-streaming-AoE][paizo/"A note and a warning about Live streaming AoE"]]
