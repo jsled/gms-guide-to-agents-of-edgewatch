@@ -300,6 +300,10 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 
 This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
 
+*** Buddy Cops
+
+[[http:cite:paizo-rzs434h7][On the Paizo Forums, "zen_fishy" shares]] some [[https://docs.google.com/document/d/1RZMR4A4YeGRqVDkQpIzvy9yMfPdDMxSXc_8Oax14c7s/edit][homebrew teamwork-influenced downtime rules that play into a "buddy-cop" aesthetic]].
+
 ** On Being Adventurers, not Police
    :PROPERTIES:
    :CUSTOM_ID: node/meta/on_being_adventurers
