@@ -67,9 +67,8 @@
 **** TODO fulfill CUP requirements
 
 > You agree to create an account on paizo.com and add an entry describing your material on our Community Use Registry at paizo.com/community/communityuse/registry, with links where appropriate.
-
 *** generation
-**** proper author citations (larstr0n, zombkat)
+**** TODO proper author citations (larstr0n, zombkat)
 
 - u/larstr0n:
   - If you just add "GM, Tabletop Gold podcast” that’s fine. If you want to add a URL, www.tabletopgold.com works. But either way is fine with me. Thanks! Seems like a great project, and I’m glad my comments might be useful.
@@ -116,8 +115,10 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 - examples
   - (current) CSS specs
 **** DONE add '?beta' -> beta content exposure
+**** TODO canonicalize "username" quotes throughout
 *** organization
-**** TODO add enemies/challenges and summaries from Book 2,3,4,5,6
+**** DONE add enemies/challenges and summaries from Book 2,3,4,5,6
+     CLOSED: [2022-03-16 Wed 23:01]
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
 ** resources to be included
@@ -140,7 +141,7 @@ https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE review page 4/4
 *** DONE [0/0] [comment 97/97] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
-*** TODO [0/0] [comment 0/?] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
+*** TODO [0/0] [comment 0/78] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
 *** TODO [0/0] [comment 0/?] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
 *** TODO [0/0] [comment 0/?] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
 *** DONE [0/0] [comment 64/64] [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
@@ -286,3 +287,12 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][reddit.com/r/Pathfinder2e/"Help with agents of edgewatch book 4 *Spoilers*"]]
 *** DONE _Lost Omens: Absalom_ vs. _Book 3_ descriptions of Crestwatch
     CLOSED: [2022-02-12 Sat 00:30]
+*** TODO note the non-existence of 2E stat blocks for rukh, barometz and peluda (Book 3); [[https://discord.com/channels/880968862240239708/891395244199915530/943255187202670642][Discord / Foundry PF2E / AoE thread]]
+*** TODO narchy's Sweeper maps nitpick (unofficial maps unofficial errata?)
+
+https://discord.com/channels/880968862240239708/891395244199915530/945728763734405211
+
+> [12:08 PM] naurgul: @narchy btw a minor nitpick about your (wonderful) sweeper school map remake: the windows on the east side of the building are not supposed to be boarded up
+> [12:09 PM] narchy: I'll add it to the list for my inevitable HD remake!
+*** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/950816529119871026][naurgul's mood-audio recommendations?]]
+*** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/951526905243389982][jezz' awesome "loading screen" example]]
