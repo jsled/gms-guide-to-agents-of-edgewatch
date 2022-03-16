@@ -1859,7 +1859,28 @@ I have made another post in the past about a stat problem with the final boss of
 
 -----
 
+The AP mentions 2 creatures that do not exist in Pathfinder 2E...
+
+#+BEGIN_QUOTE
+Promoted in conjunction with the Radiant Festival, this year’s Blood City
+Games boasts a wide array of combatants, both humanoid and non-humanoid.
+Creatures such as a two-headed rukh from Osirion, a miniature barometz raised
+by druids in Kyonin, and a particularly ornery peluda from the River Kingdoms
+are featured on the bill. However, most fans are abuzz about the return of the
+iruxi champion, Oggvurm the Merciless
+— cite:paizo-aoe-book3#page=48
+#+END_QUOTE
+
+[[https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Rukh][A rukh is a giant two-headed vulture-like magical beast, that does exist in Pathfinder 1E.]]
+
+[[https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Barometz][A barometz is a massive green ramlike creature, formed of vines and branches, also from Pathfinder 1E.]]
+
+[[https://2e.aonprd.com/Monsters.aspx?ID=756][A peluda is a large fire dragon of swamplands and bogs, and has been brought forward to PF2E.]]
+
+----------
+
 On reddit, [[http:cite:reddit-r4u5ve][u/GamestingWeasly asks if there are any maps for the Irorium, besides the problematic one from the AP]].  [[http:cite:reddit-r4u5ve-hmj42tw][u/Naurgul quotes the AP, which suggests just using a generic map for a subset of the rather large space]].
+
 
 ** Book 4: "Assault on Hunting Lodge Seven"
    :PROPERTIES:
