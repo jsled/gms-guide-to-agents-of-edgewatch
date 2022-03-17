@@ -305,4 +305,4 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 > [12:08 PM] naurgul: @narchy btw a minor nitpick about your (wonderful) sweeper school map remake: the windows on the east side of the building are not supposed to be boarded up
 > [12:09 PM] narchy: I'll add it to the list for my inevitable HD remake!
 *** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/950816529119871026][naurgul's mood-audio recommendations?]]
-*** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/951526905243389982][jezz' awesome "loading screen" example]]
+*** DONE add [[https://www.reddit.com/r/Pathfinder2e/comments/tg9m0p/i_made_a_landing_page_for_my_agents_of_edgewatch/][jezz' awesome "loading screen" example]]

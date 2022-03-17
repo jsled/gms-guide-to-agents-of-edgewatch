@@ -2184,8 +2184,14 @@ Note that while no map is provided when this location is encountered in B1C3, a 
 - [[http:cite:paizo-rzs434ha-31][paizo.com forums: "EdwinM"]]
 
 ** Landing Pages
+   :PROPERTIES:
+   :CUSTOM_ID: node/resources/landing-pages
+   :END:
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/pa523d/landing_page_for_my_agent_of_edgewatch_campaign/][u/faultypanda has a nice landing page, which garnered praise from Erik Mona in the comments]]
+
+- [[http:cite:reddit-tg9m0p][u/redijedeye created a lovely interactive landing experience for their AoE party, using Foundry]]
+
 ** Art, Fiction and Original Content
    :PROPERTIES:
    :CUSTOM_ID: node/resources/art-fiction-oc
