@@ -1629,6 +1629,21 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1dP9BOi4qVz9ID56SF8yWXSFqfZG_tsRR/view?usp=sharing][Dig Widget]]
 - [[https://drive.google.com/file/d/1-JKNHAMzTqSM1MHfSGflgHJk0ko4XL0F/view?usp=sharing][Kolo, Copper Hand and Dig Widget in front of the bank vault]]
 
+
+----------
+
+"GreatGraySkwid" offers…
+
+#+BEGIN_QUOTE
+I wanted a tile of a mast w/ sails to drop on the map during the bank robbery
+but couldn't find one, so I hacked this together in the GIMP, and thought I'd
+share it in case anyone else might want it:
+
+[[https://drive.google.com/file/d/1gURIDnmlGTHOcx6eS8HQ_621Bk_Mknp1/view?usp=sharing][Mast Tile]]
+
+— cite:paizo-rzs434ha-65
+#+END_QUOTE
+
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b2c3

@@ -122,7 +122,7 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
 ** resources to be included
-*** DONE [3/3] [comment 483/483] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
+*** DONE [3/3] [comment 484/484] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
 **** DONE police / treasure / loot / requisition
 **** DONE [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][GreatGraySkwid's Book 1 alternations]]
 **** DONE review page 10/10
@@ -142,9 +142,9 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE review page 4/4
 *** DONE [0/0] [comment 97/97] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
 *** TODO [0/0] [comment 0/78] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
-*** TODO [0/0] [comment 0/?] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
-*** TODO [0/0] [comment 0/?] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
-*** DONE [0/0] [comment 64/64] [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
+*** TODO [0/0] [comment 0/43] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
+*** TODO [0/0] [comment 0/80] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
+*** DONE [0/0] [comment 65/65] [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
 *** TODO Actually Plays / Live Plays
 **** TODO [[https://twitter.com/ObscuraTabletop/status/1462562640991965189][Tabletop_Obscura]]?
 
