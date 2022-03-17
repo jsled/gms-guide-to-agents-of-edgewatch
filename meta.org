@@ -141,7 +141,16 @@ https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE review page 4/4
 *** DONE [0/0] [comment 97/97] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
-*** TODO [0/0] [comment 0/78] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
+*** TODO [0/9] [comment 0/78] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
+**** TODO Darkside mirror
+**** TODO nonsensical intro?
+**** TODO nonsensical finale?
+**** TODO unofficial errata: norgorborite poisoners firing from range with what, exactly?
+**** TODO chandelier confusion
+**** TODO starborn errata
+**** TODO Absalom vs. AP re: Norgorber/Blackingers temple
+**** TODO unofficial errata: Grabbie Forden abilities cost
+**** TODO Flakfatter surrender and interrogation
 *** TODO [0/0] [comment 0/43] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
 *** TODO [0/0] [comment 0/80] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
 *** DONE [0/0] [comment 65/65] [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
