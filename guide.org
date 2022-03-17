@@ -33,6 +33,7 @@ See the [[Colophon][Colophon]] for how you can help contribute.
 
 * Adventure Path Overview
 
+
 /Agents of Edgewatch/ is the story of the player characters -- the titular
 Agents of Edgewatch -- and their journey to understand and defeat the threat
 of the Twilight Four, a cabal of devotees to Norgorber in their attempt to
@@ -110,14 +111,11 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 - too hard to land hits, too high chances of crits (both directions)
 
 ** Quality
+   :PROPERTIES:
+   :CUSTOM_ID: node/meta/quality
+   :END:
 
-[[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]]
-
-They rank /Agents of Edgewatch/ 16 out of 33.
-
-A poll they did of 142 peopole across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33.
-
-That puts it in the middle of the "Pretty Damn Good!" pack.
+[[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]] They rank /Agents of Edgewatch/ 16 out of 33. A poll they did of 142 people across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33. That puts it in the middle of the "Pretty Damn Good!" pack.
 
 ** On Being Police
    :PROPERTIES:
@@ -759,6 +757,9 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 #+END_COMMENT
 
 * Party Makeup and Composition
+  :PROPERTIES:
+  :CUSTOM_ID: node/party-makeup
+  :END:
 
 [[http:cite:paizo-rzs43j2z][On the Paizo Forums, some folks discuss restricting or justifying the various archetypes.]]
 
@@ -1628,7 +1629,6 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1dP9BOi4qVz9ID56SF8yWXSFqfZG_tsRR/view?usp=sharing][Dig Widget]]
 - [[https://drive.google.com/file/d/1-JKNHAMzTqSM1MHfSGflgHJk0ko4XL0F/view?usp=sharing][Kolo, Copper Hand and Dig Widget in front of the bank vault]]
 
-
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b2c3
@@ -1880,7 +1880,6 @@ iruxi champion, Oggvurm the Merciless
 ----------
 
 On reddit, [[http:cite:reddit-r4u5ve][u/GamestingWeasly asks if there are any maps for the Irorium, besides the problematic one from the AP]].  [[http:cite:reddit-r4u5ve-hmj42tw][u/Naurgul quotes the AP, which suggests just using a generic map for a subset of the rather large space]].
-
 
 ** Book 4: "Assault on Hunting Lodge Seven"
    :PROPERTIES:
