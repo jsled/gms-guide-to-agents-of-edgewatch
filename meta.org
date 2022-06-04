@@ -312,3 +312,20 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e / Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
 *** TODO [[https://paizo.com/threads/rzs43lnt?Expanded-Bank-Robbery-Investigation][Paizo/"Expanded Bank Robbery Investigation", naurgul]]
 *** TODO Svaltafar "magi" should probably align with since-released Magus class (MAP effects of "spellstrike")
+*** TODO B3C3 errata
+
+- E5: pools at different heights with connections will equialize
+
+- E11: tin doesn't rust
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/v3h7h8/im_an_inexperienced_gm_and_starting_a_new_pf2e/][Im an inexperienced GM and starting a new PF2e "Agents of Edgewatch" playthrough with my friends. What are some of the best tips you have for me game mastering this campaign? THANK YOU :)]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][Shameless Self Promotion]] — Facebook AoE blog
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][Advice on starting]] (AoE)
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/umsua9/what_build_would_be_recommended_for_agents_of/][What build would be recommended for Agents of Edgewatch, a viable campaign character capable of winning a fight with Intimidation?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ty2slq/full_martial_edgewatch_party_is_there_any_hope/][Full martial edgewatch party. Is there any hope?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tp09q7/gm_advice_needed_for_the_end_of_agents_of/][GM Advice needed for the end of Agents of Edgewatch book 2. Spoilers]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tnqa61/mounted_character_in_agents_of_edgewatch/][Mounted character in Agents of Edgewatch]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sxyxm8/oc_art_spoilers_for_the_agents_of_edgewatch/][[OC] [ART] Spoilers for the Agents of Edgewatch Adventure Path for Pathfinder 2e]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/snapx6/agents_of_edgewatch_and_infiltration_missions/][Agents of Edgewatch and infiltration missions]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sm87lo/are_gunslingers_viable_in_agents_of_edgewatch/][Are Gunslingers viable in Agents of Edgewatch cause so far it felt really bad]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/shkce0/help_gming_agents_if_edgewatch_book_1_chapter_2/][Help GMing Agents if Edgewatch Book 1 Chapter 2]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/s7rs9j/jumping_into_book_two_of_agents_of_edgewatch_from/][Jumping into book two of Agents of Edgewatch from Troubles in Otari. Looking for advice on how to smoothly transition between the two.]]
