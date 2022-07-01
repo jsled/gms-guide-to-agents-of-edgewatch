@@ -311,10 +311,10 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e/Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e/Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
 *** TODO [[https://paizo.com/threads/rzs43lnt?Expanded-Bank-Robbery-Investigation][Paizo/"Expanded Bank Robbery Investigation", naurgul]]
-*** TODO Svaltafar "magi" should probably align with since-released Magus class (MAP effects of "spellstrike")
-*** TODO B3C3 errata
-
-- E5: pools at different heights with connections will equalize levels
+*** DONE Svartalfar "magi" should probably align with since-released Magus class (MAP effects of "spellstrike")
+    CLOSED: [2022-07-01 Fri 22:20]
+*** DONE B3C3 errata
+    CLOSED: [2022-07-01 Fri 22:11]
 
 - E11: tin doesn't rust
 

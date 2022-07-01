@@ -1858,6 +1858,10 @@ You can, too, simply give the Agents a warrant, facilitated by Captain Asilia of
 
 A few months later, [[http:cite:paizo-rzs4349d-85]["Deriven_Firelion" reported how they changed the heist at their table]].
 
+----------
+
+The Svartalfar Killers have a 2-action "Spell-Imbued Blade" that looks very similar to a [Magus'](https://2e.aonprd.com/Classes.aspx?ID=17) Spellstrike. You might want to adopt the same MAP penalties as Spellstrike (counts as two attacks applied after the Spellstrike) to keep some fairness.
+
 *** Book 3, Chapter 3: "Deadly Games"
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b3c3
