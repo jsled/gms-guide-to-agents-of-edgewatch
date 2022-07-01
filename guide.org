@@ -2277,6 +2277,15 @@ A curious sort named [[http:cite:paizo-rzs43a5f][Efrixes askes on the Paizo Foru
    :CUSTOM_ID: node/errata/b3c3
    :END:
 
+- In E11, the room is described as:
+
+  #+BEGIN_QUOTE
+  Two long, tin tubs, each covered in rust but filled with boiling water, occupy the northwest corner of the room.
+   — cite:paizo-aoe-book3#page=55
+  #+END_QUOTE
+
+  Tin does not have iron, and thus not rust.
+
 - [[http:cite:paizo-rzs4349d-48][Oggvurm the Merciless is stated with an AC of 24]]; it should probably be 34 for this Level 14 creature.
 
 * Colophon
