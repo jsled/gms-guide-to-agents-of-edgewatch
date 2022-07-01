@@ -1594,6 +1594,10 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1YKvydvFquPp92Ql5kwrUQc83rjO7uyCv/view?usp=sharing][Percen Droan]]
 - [[https://drive.google.com/file/d/1XfsDqggrtuojkzoN8mk9ZQm3ExHPJ4j_/view?usp=sharing][Confronting Percen Droan]]
 
+----------
+
+[[http:cite:paizo-rzs4349c-176][Paizo forum user "rokeca" shared some plans for "making the Chapter 1 investigation more rewarding and open ended."]]
+
 *** Book 2, Chapter 2: "A Penny Saved" / Bank Robbery
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b2c2
@@ -1643,6 +1647,10 @@ share it in case anyone else might want it:
 
 — cite:paizo-rzs434ha-65
 #+END_QUOTE
+
+----------
+
+[[http:cite:paizo-rzs43lnt][Paizo forum user "Naurgul" detailed their extensive expansion of the bank robbery investigation.]]
 
 *** Book 2, Chapter 3: "Caught Copper-Handed" / Copper Hand Hideout Takedown
     :PROPERTIES:
