@@ -122,11 +122,11 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
 ** resources to be included
-*** DONE [3/3] [comment 484/484] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
+*** DONE [3/3] [comment 487/487] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
 **** DONE police / treasure / loot / requisition
 **** DONE [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][GreatGraySkwid's Book 1 alternations]]
 **** DONE review page 10/10
-*** DONE [5/5] [comment 167/167] [[https://paizo.com/threads/rzs4349c][paizo/AoE/book2]]
+*** TODO [5/5] [comment 167/186] [[https://paizo.com/threads/rzs4349c][paizo/AoE/book2]]
 **** DONE "I noticed something weird about the Seamers"
 https://paizo.com/threads/rzs4349c?2-Sixty-Feet-Under#49
 **** DONE do you feel like there's XP missing from B2C3?
@@ -140,8 +140,8 @@ https://paizo.com/threads/rzs4349c&page=3?2-Sixty-Feet-Under#112
 2021-05-23T23:36:05Z
 https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE review page 4/4
-*** DONE [0/0] [comment 97/97] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
-*** TODO [0/9] [comment 0/78] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
+*** TODO [0/0] [comment 97/111] [[https://paizo.com/threads/rzs4349d?3-All-or-Nothing][paizo/AoE/book3]]
+*** TODO [0/9] [comment 0/79] [[https://paizo.com/threads/rzs4349e?4-Assault-on-Hunting-Lodge-Seven][paizo/AoE/book4]]
 **** TODO Darkside mirror
 **** TODO nonsensical intro?
 **** TODO nonsensical finale?
@@ -151,7 +151,7 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** TODO Absalom vs. AP re: Norgorber/Blackingers temple
 **** TODO unofficial errata: Grabbie Forden abilities cost
 **** TODO Flakfatter surrender and interrogation
-*** TODO [0/0] [comment 0/43] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
+*** TODO [0/0] [comment 0/44] [[https://paizo.com/threads/rzs4349f?5-Belly-of-the-Black-Whale][paizo/AoE/book5]]
 *** TODO [0/0] [comment 0/80] [[https://paizo.com/threads/rzs4349g?6-Ruins-of-the-Radiant-Siege][paizo/AoE/book6]]
 *** DONE [0/0] [comment 65/65] [[https://paizo.com/threads/rzs434ha?Community-Created-Content][paizo/AoE/Community Created Content]]
 *** TODO Actually Plays / Live Plays
@@ -290,10 +290,10 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/raouq8/tarondors_guide_to_pathfinder_adventure_paths/][reddit/"Tarondor's Guide to Pathfinder Adventure Paths"]]
     CLOSED: [2022-02-12 Sat 23:39]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][reddit.com/r/Pathfinder2e/"[book 3]. Can the PCs beg for money?"]]
-*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][reddit.com/r/Pathfinder2e/"Agents of Edgewatch book 2"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][r/Pathfinder2e/[book 3]. Can the PCs beg for money?]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][r/Pathfinder2e/Agents of Edgewatch book 2]]
     CLOSED: [2022-01-15] : Nothing of value here.
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][reddit.com/r/Pathfinder2e/"Help with agents of edgewatch book 4 *Spoilers*"]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][r/Pathfinder2e/Help with agents of edgewatch book 4 *Spoilers*]]
 *** DONE _Lost Omens: Absalom_ vs. _Book 3_ descriptions of Crestwatch
     CLOSED: [2022-02-12 Sat 00:30]
 *** DONE note the non-existence of 2E stat blocks for rukh, barometz and peluda (Book 3); [[https://discord.com/channels/880968862240239708/891395244199915530/943255187202670642][Discord / Foundry PF2E / AoE thread]]
@@ -306,26 +306,35 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 > [12:09 PM] narchy: I'll add it to the list for my inevitable HD remake!
 *** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/950816529119871026][naurgul's mood-audio recommendations?]]
 *** DONE add [[https://www.reddit.com/r/Pathfinder2e/comments/tg9m0p/i_made_a_landing_page_for_my_agents_of_edgewatch/][jezz' awesome "loading screen" example]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teiszn/starting_agents_of_edgewatch_party_comp_and_lore/][r/Pathfinder2e / Starting Agents of Edgewatch - party comp and lore question]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teucpn/edgewatch_review/][r/Pathfinder2e / Edgewatch review]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e / Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e / Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teiszn/starting_agents_of_edgewatch_party_comp_and_lore/][r/Pathfinder2e/Starting Agents of Edgewatch - party comp and lore question]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teucpn/edgewatch_review/][r/Pathfinder2e/Edgewatch review]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e/Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e/Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
 *** TODO [[https://paizo.com/threads/rzs43lnt?Expanded-Bank-Robbery-Investigation][Paizo/"Expanded Bank Robbery Investigation", naurgul]]
 *** TODO Svaltafar "magi" should probably align with since-released Magus class (MAP effects of "spellstrike")
 *** TODO B3C3 errata
 
-- E5: pools at different heights with connections will equialize
+- E5: pools at different heights with connections will equalize levels
 
 - E11: tin doesn't rust
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/v3h7h8/im_an_inexperienced_gm_and_starting_a_new_pf2e/][Im an inexperienced GM and starting a new PF2e "Agents of Edgewatch" playthrough with my friends. What are some of the best tips you have for me game mastering this campaign? THANK YOU :)]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][Shameless Self Promotion]] — Facebook AoE blog
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][Advice on starting]] (AoE)
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/umsua9/what_build_would_be_recommended_for_agents_of/][What build would be recommended for Agents of Edgewatch, a viable campaign character capable of winning a fight with Intimidation?]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ty2slq/full_martial_edgewatch_party_is_there_any_hope/][Full martial edgewatch party. Is there any hope?]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tp09q7/gm_advice_needed_for_the_end_of_agents_of/][GM Advice needed for the end of Agents of Edgewatch book 2. Spoilers]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tnqa61/mounted_character_in_agents_of_edgewatch/][Mounted character in Agents of Edgewatch]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sxyxm8/oc_art_spoilers_for_the_agents_of_edgewatch/][[OC] [ART] Spoilers for the Agents of Edgewatch Adventure Path for Pathfinder 2e]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/snapx6/agents_of_edgewatch_and_infiltration_missions/][Agents of Edgewatch and infiltration missions]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sm87lo/are_gunslingers_viable_in_agents_of_edgewatch/][Are Gunslingers viable in Agents of Edgewatch cause so far it felt really bad]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/shkce0/help_gming_agents_if_edgewatch_book_1_chapter_2/][Help GMing Agents if Edgewatch Book 1 Chapter 2]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/s7rs9j/jumping_into_book_two_of_agents_of_edgewatch_from/][Jumping into book two of Agents of Edgewatch from Troubles in Otari. Looking for advice on how to smoothly transition between the two.]]
+
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/v3h7h8/im_an_inexperienced_gm_and_starting_a_new_pf2e/][r/Pathfinder2e/Im an inexperienced GM and starting a new PF2e "Agents of Edgewatch" playthrough with my friends. What are some of the best tips you have for me game mastering this campaign? THANK YOU :)]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][r/Pathfinder2e/Shameless Self Promotion]] — Facebook AoE blog
+**** TODO > [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/comment/ibz64cz/?utm_source=reddit&utm_medium=web2x&context=3][Finally got around to putting it somewhere less walled. https://sundayedgewatch.wordpress.com/]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][r/Pathfinder2e/Advice on starting]] (AoE)
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/umsua9/what_build_would_be_recommended_for_agents_of/][r/Pathfinder2e/What build would be recommended for Agents of Edgewatch, a viable campaign character capable of winning a fight with Intimidation?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ty2slq/full_martial_edgewatch_party_is_there_any_hope/][r/Pathfinder2e/Full martial edgewatch party. Is there any hope?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tp09q7/gm_advice_needed_for_the_end_of_agents_of/][r/Pathfinder2e/GM Advice needed for the end of Agents of Edgewatch book 2. Spoilers]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tnqa61/mounted_character_in_agents_of_edgewatch/][r/Pathfinder2e/Mounted character in Agents of Edgewatch]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sxyxm8/oc_art_spoilers_for_the_agents_of_edgewatch/][r/Pathfinder2e/[OC] [ART] Spoilers for the Agents of Edgewatch Adventure Path for Pathfinder 2e]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/snapx6/agents_of_edgewatch_and_infiltration_missions/][r/Pathfinder2e/Agents of Edgewatch and infiltration missions]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/sm87lo/are_gunslingers_viable_in_agents_of_edgewatch/][r/Pathfinder2e/Are Gunslingers viable in Agents of Edgewatch cause so far it felt really bad]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/shkce0/help_gming_agents_if_edgewatch_book_1_chapter_2/][r/Pathfinder2e/Help GMing Agents if Edgewatch Book 1 Chapter 2]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/s7rs9j/jumping_into_book_two_of_agents_of_edgewatch_from/][r/Pathfinder2e/Jumping into book two of Agents of Edgewatch from Troubles in Otari. Looking for advice on how to smoothly transition between the two.]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/veaqrj/agents_of_edgewatch_spoiler_book_1_chapter_2/][r/Pathfinder2e/Agents of Edgewatch [SPOILER] Book 1, Chapter 2 Handouts]], also on [[https://paizo.com/threads/rzs4349b&page=10?1-Devil-at-the-Dreaming-Palace#485][Paizo.com/forums/AoE/Book1]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/vcjs2k/ideas_for_training_for_the_agents_of_edgewatch/][r/Pathfinder2e/Ideas for training for the Agents of Edgewatch?]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/vae7i7/advice_for_agent_of_edgewatch_character_build/][r/Pathfinder2e/Advice for Agent of Edgewatch Character build.]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/v8y4n0/champion_pc_in_agents_of_edgewatch/][r/Pathfinder2e/Champion PC in Agents of Edgewatch]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/v4x8ic/agents_of_edgewatch_for_5_players/][r/Pathfinder2e/Agents of Edgewatch for 5 players?]]
+*** TODO [#A] [[https://www.reddit.com/r/Pathfinder2e/comments/sei87z/completed_first_120_campaign_agents_of_edgewatch/][r/Pathfinder2e/Completed First 1-20 Campaign- Agents of Edgewatch Spoilers]]
+*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/vatz0z/agents_of_edgewatch_b1c1_as_a_researchish_skill/][r/Pathfinder2e/Agents of Edgewatch, B1C1 as a "Research"-ish skill challenge]]
