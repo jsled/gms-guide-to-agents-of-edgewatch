@@ -316,7 +316,8 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 > [12:09 PM] narchy: I'll add it to the list for my inevitable HD remake!
 *** TODO add [[https://discord.com/channels/880968862240239708/891395244199915530/950816529119871026][naurgul's mood-audio recommendations?]]
 *** DONE add [[https://www.reddit.com/r/Pathfinder2e/comments/tg9m0p/i_made_a_landing_page_for_my_agents_of_edgewatch/][jezz' awesome "loading screen" example]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teiszn/starting_agents_of_edgewatch_party_comp_and_lore/][r/Pathfinder2e/Starting Agents of Edgewatch - party comp and lore question]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/teiszn/starting_agents_of_edgewatch_party_comp_and_lore/][r/Pathfinder2e/Starting Agents of Edgewatch - party comp and lore question]]
+    CLOSED: [2022-07-31 Sun 23:09]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/teucpn/edgewatch_review/][r/Pathfinder2e/Edgewatch review]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e/Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e/Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
