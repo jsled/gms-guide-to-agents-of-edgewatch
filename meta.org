@@ -254,8 +254,10 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/q98yrs/does_anyone_know_if_there_are_any_actual_play/][reddit: Does anyone know if there are any actual play series of Edgewatch out there that have made some of the commonly recommended improvements or otherwise took a more positive approach to it?]]
 *** DONE [[https://paizo.com/threads/rzs43j2z?Restricted-free-archetype-options][paizo/"Restricted free archetype options?"]]
     CLOSED: [2022-02-12 Sat 01:47]
-*** TODO [[https://paizo.com/threads/rzs43hfo?SPOILERS-Changing-the-Final-Boss][paizo/"SPOILERS - Changing the Final Boss"]]
-*** TODO [[https://paizo.com/threads/rzs43gj3?The-Broken-Scales-and-Balancing-the-Scales][paizo/«"The Broken Scales" and "Balancing the Scales" SPOILERS All books»]]
+*** DONE [[https://paizo.com/threads/rzs43hfo?SPOILERS-Changing-the-Final-Boss][paizo/"SPOILERS - Changing the Final Boss"]]
+    CLOSED: [2022-07-31 Sun 22:06]
+*** DONE [[https://paizo.com/threads/rzs43gj3?The-Broken-Scales-and-Balancing-the-Scales][paizo/«"The Broken Scales" and "Balancing the Scales" SPOILERS All books»]]
+    CLOSED: [2022-07-31 Sun 22:47]
 *** TODO [[https://paizo.com/threads/rzs43g90?Is-it-just-me-or-is-this-game-just-a-SLOG][paizo/"Is it just me or is this game just a SLOG? (Spoilers books 1&2)"]] — more difficulty chat
 *** TODO [[https://paizo.com/threads/rzs43851?Book-1-The-Deadliest-Zoo-in-the-World][paizo/"Book 1: The Deadliest Zoo in the World (long)"]] — more difficulty chat
 *** TODO [[https://paizo.com/threads/rzs43cn3?What-Agents-of-Edgewatch-is-missing-SPOILERS][paizo/"What Agents of Edgewatch is missing... [SPOILERS]"]] — good list of things the AP could have leaned into more

@@ -367,6 +367,18 @@ In October 2021 – about 1 year after the final book of /Agents of Edgewatch/ w
 
 [[https://www.reddit.com/r/Pathfinder2e/comments/q85tgm/the_new_paizo_unions_logo_is_a_reference_to_the/][Their logo is a reference to the Kobold Worker's Union from Book 1, Chapter 2.]]
 
+** Related Content
+*** _The Broken Scales_ and _Balancing the Scales_
+
+On the Paizo Forums, [[http:cite:paizo-rzs43gj3]["GreatGraySkwid" notes]] that while it will require some adaptation…
+
+#+BEGIN_QUOTE
+[…] [[https://paizo.com/products/btq023di?Pathfinder-Society-Quest-10-The-Broken-Scales][/The Broken Scales/]] ties directly into the events of the AoE AP, and [[https://paizo.com/products/btq024zk?Pathfinder-Society-Scenario-205-Balancing-the-Scales][/Balancing the Scales/]] indirectly, as they both describe the havoc and aftermath caused by the mysterious activation and disappearance of a Graveraker prototype, an immense clockwork drill. Canonically, these events occurred in the year prior to the festival, but it's easy enough to move them (or some version of them) back to being approximately concurrent with the disappearance of Graveraker and tie them into the overall plot.
+— cite:paizo-rzs43gj3
+#+END_QUOTE
+
+As many feel the Graveraker is not prominent enough through most of the AP, these scenarios might be useful for GMs or groups that want more of it.
+
 * Enemy Makeup and Composition
   :PROPERTIES:
   :CUSTOM_ID: enemy-makeup
@@ -1095,10 +1107,16 @@ as the GM.
     :PROPERTIES:
     :CUSTOM_ID: node/npc/terimor
     :END:
+
+Olansa Terimor is the ultimate enemy of the Adventure Path. As written the AP only brings her up very incidentally in the first three books, and then has them speak to the Agents in passing at the beginning for Book Four.
+
+On the Paizo Forums, [[http:cite:paizo-rzs43hfo][user "OmegaZ" details how they planned to change Terimor to be a more reasonable final boss for the Adventure Path.]]
+
 *** Reginald Vancaskerkin — "The Rumormonger" (NE male human entrepreneur 18)
     :PROPERTIES:
     :CUSTOM_ID: node/npc/vancaskerkin
     :END:
+
 #+BEGIN_QUOTE
 - Vancaskerkin ends up being one of the main antagonists. Make Vancaskerkin
   prominent, especially through his tabloid Eyes on Absalom. Don't forget to
@@ -1469,7 +1487,6 @@ books later.  — cite:paizo-rzs4349b-447
 **** XP
 
 [[http:cite:paizo-rzs4349b-237][Kasoh tots up all the Chapter 1 XP so you don't have to! :)]]
-
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
     :PROPERTIES:
