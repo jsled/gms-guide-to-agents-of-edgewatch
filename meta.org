@@ -280,7 +280,8 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 **** DONE Catacombs
 *** DONE [[https://paizo.com/threads/rzs43a5f?Players-Guide-Hamster-Creature][paizo/"Player's Guide Hamster Creature"]] — clarification from Run Lundeen it was cut for space
     CLOSED: [2022-02-13 Sun 00:00]
-*** TODO [[https://paizo.com/threads/rzs43503?Bolera-Ollo-and-Batiste][paizo/"Bolera, Ollo, and Batiste (spoilers I guess?)"]] — "Do any of these […] have […] scripted roles in any of the future volumes?" no.
+*** DONE [[https://paizo.com/threads/rzs43503?Bolera-Ollo-and-Batiste][paizo/"Bolera, Ollo, and Batiste (spoilers I guess?)"]] — "Do any of these […] have […] scripted roles in any of the future volumes?" no.
+    CLOSED: [2022-07-31 Sun 22:56]
 *** TODO downtime / timeline
 - [[https://www.reddit.com/r/Pathfinder2e/comments/r421de/agents_of_edgewatch_help_to_some_ideas/][reddit / downtime]]
 - [[https://paizo.com/threads/rzs438k4?Downtime][paizo/"Downtime"]]

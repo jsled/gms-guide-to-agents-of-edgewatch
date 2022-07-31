@@ -1238,7 +1238,8 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 
 Introduced in Book 1, the GM is encouraged to use Bolera at a few points throughout the AP, but is never more than a minor NPC.
 
-The AP-specific "Edgewatch Detective" Archetype has a Feat named after Bolera.
+The AP-specific "Edgewatch Detective" Archetype has a Feat named after Bolera: [[https://2e.aonprd.com/Feats.aspx?ID=2196][/Bolera's Interrogation/]].
+
 *** Corporal Kerr Batiste (NE female human officer 8)
 
 Presented in Book 1, Corporal Batiste is described as corrupt, which presents the NPC as either a foil or resource to the agents later in the AP.
