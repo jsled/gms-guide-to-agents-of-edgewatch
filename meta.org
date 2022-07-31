@@ -121,7 +121,29 @@ https://blog.tecosaur.com/tmio/2021-07-31-citations.html#cite-styles
      CLOSED: [2022-03-16 Wed 23:01]
 **** TODO create an index across all the APs
 - eg. "where is Lord Ganfen (of House Kethlin, Master of Blades of the Irorium) described vs. mentioned"?
+**** TODO jaquay the dungeons?
 ** resources to be included
+*** DONE [0/0] Books 1-6 outline
+*** TODO [0/0] Book 1 NPCs
+*** TODO [0/0] Book 2 NPCs
+*** TODO [0/0] Book 3 NPCs
+*** TODO [0/0] Book 4 NPCs
+
+- major
+  - Flakfatter
+  - Hunting Lodge Seven
+- minor
+  - Harlo Doleen
+  - Kayln Pounch
+- questionable?
+  - The Rabbit Prince
+- micro
+  - Aphaliel?
+  - Nefi Brittleback?
+  - Brigtir Gervin?
+
+*** TODO [0/0] Book 5 NPCs
+*** TODO [0/0] Book 6 NPCs
 *** DONE [3/3] [comment 487/487] [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace][paizo/AoE/book1]]
 **** DONE police / treasure / loot / requisition
 **** DONE [[https://paizo.com/threads/rzs4349b&page=8?1-Devil-at-the-Dreaming-Palace#382][GreatGraySkwid's Book 1 alternations]]

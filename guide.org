@@ -39,17 +39,67 @@ Agents of Edgewatch -- and their journey to understand and defeat the threat
 of the Twilight Four, a cabal of devotees to Norgorber in their attempt to
 take control of the Primarchy of Absalom.
 
-In Book 1, the Agents will come up through the ranks.
+In [[#node/plot/book1][Book 1 ("The Devil in the Dreaming Palace")]], the Agents will come up through the ranks.
 
-In Book 2, the Agents will defeat the first of the Twilight Four – The Skinner – and her murderous cult.
+In [[#node/plot/b1c1][Book 1, Chapter 1 ("The Mean Streets of Absalom")]], the characters start their jobs as Agents of Edgewatch with some basic tasks.
 
-In Book 3, the Agents will foil the plans of the second of the Twilight Four – The Infector – and his attempt to poison thousands.
+In [[#node/plot/b1c2][Book 1, Chapter 2 ("Missing Persons")]], the Agents investigate some missing persons.
 
-In Book 4, the Agents will infiltrate The Infector's temple, capture, and hold them … but ultimately will be framed and arrested.
+In [[#node/plot/b1c2][Book 1, Chapter 3 ("Into the Undercity")]], the Agents follow up on a lead regarding the missing persons, traveling through the under-city to a secret entrance to a nightclub frequented by criminals.
 
-In Book 5, the Agents will first infiltrate and then break out of prison, then turn their attention to the third of the Twilight Four — The Rumormonger.
+In [[#node/plot/b1c4][Book 1, Chapter 4 ("The Murder Hotel")]], the Agents investigate the reason for the missing persons: a murder hotel operated by a Norgorbor cultist.
 
-In Book 6, the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four – The Gray Queen – newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
+--------------------
+
+In [[#node/plot/book2][Book 2 ("Sixty Feet Under")]], the Agents will defeat the first of the Twilight Four – The Skinner – and her murderous cult.
+
+In [[#node/plot/b2c1][Book 2, Chapter 1 ("The Unusual Suspects")]], the Agents are tasked to investigate rumors of an upcoming bank robbery.
+
+In [[#node/plot/b2c2][Book 2, Chapter 2 ("A Penny Saved")]], the Agents put a stop to the bank robbery, catching the Copper Hand red-handed.
+
+In [[#node/plot/b2c3][Book 2, Chapter 3 ("Caught Copper-Handed")]], the Agents take down the Copper Hand thieves guild in their hideout, uncovering their connection to cultists.
+
+In [[#node/plot/b2c4][Book 2, Chapter 4 ("Descent into Death")]], the Agents delve into the Catacombs under the Ascendent Court to track down the Skinsaw cult and it's leader "The Skinner", the first of the Twilight Four.
+
+--------------------
+
+In [[#node/plot/book3][Book 3 ("All or Nothing")]], the Agents will foil the plans of the second of the Twilight Four – The Infector – and his attempt to poison thousands.
+
+In [[#node/plot/b3c1][Book 3, Chapter 1 ("Street Justice")]], the Agents trace from the Skinsaw Cult to a Docks gang who they worked with.
+
+In [[#node/plot/b3c2][Book 3, Chapter 2 ("The House Always Wins")]], the Agents infiltrate an upscale Gala to steal a fearsome device from a casino lockbox.
+
+In [[#node/plot/b3c3][Book 3, Chapter 3 ("Deadly Games")]], the Agents rush to the Blood City Games in the Irorium to head off a large-scale terrorist attack.
+
+--------------------
+
+In [[#node/plot/book4][Book 4 ("Assault on Hunting Lodge Seven")]], the Agents will infiltrate The Infector's temple, capture, and hold them … but ultimately will be arrested and implicated in murder.
+
+In [[#node/plot/b4c1][Book 4, Chapter 1 ("The Noxious Retort")]], the Agents visit an alchemical conference as cover to find ingress to the secret Blackfingers temple to capture The Infector.
+
+In [[#node/plot/b4c2][Book 4, Chapter 2 ("The Gervin Legacy")]], the Agents will defend The Infector from waves of enemies intent on freeing him.
+
+In [[#node/plot/b4c3][Book 4, Chapter 3 ("A Wonderful Time in Harrowland")]], the Agents will investigate a failed harrow-themed-park before ultimately being arrested along with Acting Primarch Wynsal Starborn.
+
+--------------------
+
+In [[#node/plot/book5][Book 5 ("Belly of the Black Whale")]], the Agents will first infiltrate and then break out of prison, then turn their attention to the third of the Twilight Four — The Rumormonger.
+
+In [[#node/plot/b5c1][Book 5, Chapter 1 ("Dishonorably Discharged")]], the Agents earn the trust of a crime lord by taking down rival gangs.
+
+In [[#node/plot/b5c2][Book 5, Chapter 2 ("Belly of the Black Whale")]], the Agents infiltrate the notorious "Black Whale" prison complex in Absalom's Kortos Bay, to break Wynsal Starborn out.
+
+In [[#node/plot/b5c3][Book 5, Chapter 3 ("The Rumormonger’s Stronghold")]], the Agents track down and defeat The Rumormonger in their trap-laden dungeon.
+
+--------------------
+
+In [[#node/plot/book6][Book 6 ("Ruins of the Radiant Siege")]], the Agents will obtain an artifact they need to defeat the fourth of the Twilight Four – The Gray Queen – newly empowered by fulfilling the terms of the Twilight Four's contract with Norgorber.
+
+In [[#node/plot/b6c1][Book 6, Chapter 1 ("Runaway Excavator")]], the Agents stop the rampaging excavator "Graveraker", and find an ally against the last of the Twilight Four.
+
+In [[#node/plot/b6c2][Book 6, Chapter 2 ("The Radiant Spark")]], the Agents search for an incredible artifact called the /Radiant Spark/.
+
+In [[#node/plot/b6c3][Book 6, Chapter 3 ("The Gray Queen's Tower")]], the Agents assault the Gray Queen's fortress.
 
 ----------
 
