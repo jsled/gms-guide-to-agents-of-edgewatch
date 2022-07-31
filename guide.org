@@ -931,19 +931,59 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1mAQLstHNKhiKwWC9Gu14Zj1AF3tyKHRb/view?usp=sharing][Dragonfly Pagoda - Closeup of Rekarek and kobolds]]
 - [[https://drive.google.com/file/d/1Mz87zlgGJcmWKsfns74wpHxPwUiv-XHA/view?usp=sharing][Battle Leader Rekarek]]
 
+*** Beldrin's Tower (Precipice Quarter)
+#+BEGIN_QUOTE
+- Beldrin's tower in Precipice Quarter ends up being the place of the final
+  confrontation. It should at least be mentioned earlier, implant the idea of
+  visiting it for a tour while the festival is going on.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+*** Radiant Festival
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/radiant_festival
+    :END:
+#+BEGIN_QUOTE
+- The story of how the radiant festival started gets explored in book 6. I had
+  a float featuring the half-angel in the parade
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 ** Foreign Quarter
-*** Irorium
+*** Irorium / Blood City Games
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/blood-city-games
+    :END:
+
 - Sleepless Suns
+
 - Book 2, Chapter 3
   - Copper Hand Hideout
 - Book 3
   - Irorium / Blood City Games
+
+#+BEGIN_QUOTE
+- The Irorium will be the setting of a big part of book 3. Make sure to
+  mention it a few times. I had Oggrum (one of the gladiators the PCs will
+  have to fight eventually) get a float in the radiant parade advertising his
+  exploits.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 ** Ascendant Court
 - Godless Graycloaks
 - Book 2, Chapter 4
   - The Catacombs, Skinsaw Cultists, The Skinner
 - Book 4
   - Temple to Norgorber, Noxious Retrort
+*** Noxious Retort / Temple of Norgorber
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/noxoius-retort
+    :END:
+#+BEGIN_QUOTE
+- The Noxious Retort is an annual alchemical conference taking place at the
+  Blackfingers temple. It will be showcased in book 4. Make sure your players
+  learn about it beforehand if they are into alchemy or if they try to learn
+  about Norgorber temples in the city.
+—- cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 ** The Puddles
 - The Muckruckers
 - Book 2, Chapter 1
@@ -991,6 +1031,54 @@ such things.
 - Token Guard
 - Book 2, Chapters 1-2
   - Bank leads, Bank Robbery
+*** Lucky Nimbus Casino
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/lucky-nimbus
+    :END:
+#+BEGIN_QUOTE
+- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
+  exists. I had an elaborate float advertising it in the radiant parade.
+#+END_QUOTE
+— cite:reddit-ocdrxm-h3uh21r
+** Eastgate
+*** House of the Planes
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/house-of-the-planes
+    :END:
+
+In [[#node/plot/b1c2][Book 1 Chapter 2]], the Agents will come to [[#node/npc/hoff][Jeremin Hoff's]] speakeasy to follow clues.
+
+In [[#node/plot/b5c1][Book 5 Chapter 1]], the Agents will return to this neutral ground to participate in a negotiation among various gangs.
+
+Book 1 has flavor of the various rooms, but Book 5 has the map. :)
+
+#+BEGIN_QUOTE
+- House of Planes will be revisited in one of the later books. So it should
+  probably be mentioned a few times. In book 2 I had my PCs track down one of
+  the smugglers there after a botched attempt to raid their base of
+  operations.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+
+** Kortos Bay
+*** The Black Whale
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/black-whale
+    :END:
+#+BEGIN_QUOTE
+- The Black Whale is a prison for important political prisoners that is
+  visited in book 5. Give it a brief mention maybe at some point when
+  appropriate.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+** Starwatch, Starwatch Keep
+#+BEGIN_QUOTE
+- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
+  where they'll get some offices of their own. Have them visit it early on if
+  they want or make sure they've heard it at least. Same goes for Fort
+  Tempest, make sure they've heard it exists.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 * NPCs
 
 There are dozens more NPCs throughout _Agents of Edgewatch_. The following are
@@ -1185,23 +1273,6 @@ Introduced in [[#node/plot/b1c3][Book 1 Chapter 3]], Hoff will come back up in [
 *** Kayln Pounch (NE female human priest of Blackfingers 12)
 *** Miogimo (CE male zealborn criminal mastermind 17)
 *** Il'Setsya Wyrmtouched (CN female ganzi arcanist 18)
-*** Starwatch, Starwatch Keep
-#+BEGIN_QUOTE
-- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
-  where they'll get some offices of their own. Have them visit it early on if
-  they want or make sure they've heard it at least. Same goes for Fort
-  Tempest, make sure they've heard it exists.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** Radiant Festival
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/radiant_festival
-    :END:
-#+BEGIN_QUOTE
-- The story of how the radiant festival started gets explored in book 6. I had
-  a float featuring the half-angel in the parade
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
 *** Festival Committee / Grand Council
 
 #+BEGIN_QUOTE
@@ -1218,20 +1289,83 @@ Specifically the following notable NPCs are members of the Festival Committee an
 - [[#node/npc/lord-ganfen][Lord Ganfen of House Kethlin, master of blades of the Irorium]]
 - [[#node/npc/terimor][Olansa Terimor, City Planner]]
 - [[#node/npc/bandersworth][Blune Bandersworth, City Architect]]
-*** The Black Whale
+*** Godless Graycloaks
+
+It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
+* Plot Notes
+  :PROPERTIES:
+  :CUSTOM_ID: node/plot
+  :END:
+** Book 1: "The Devil in the Dreaming Palace"
+   :PROPERTIES:
+   :CUSTOM_ID: node/plot/book1
+   :END:
+*** Title … spoilers, Paizo!
+
+Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
+
+Since you can't change the book name, there are a couple of options:
+
+1. Rename the "Dreaming Palace" hotel. The name is not particularly important … feel free to change it.
+2. Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely (see [FIXME] link to below).
+*** Book 1, Chapter 1: "The Mean Streets of Absalom"
     :PROPERTIES:
-    :CUSTOM_ID: node/npc/black-whale
+    :CUSTOM_ID: node/plot/b1c1
     :END:
+**** Noise Complaint / Tipsy Tengu
+
+As mentioned earlier, the title of the book matches the name of the hotel that the primary atagonist tells the party in their very first encounter.
+
+It's a strange decision the AP authors made, here.
+
+Changing the name of the "Dreaming Palace" will preserve the suspense throughout the book, and is recommended.
+
+Also, just skip the encounter with Pratchett and Ralso in the Tipsy Tengu entirely.
+
+The encounter serves two purposes:
+
+1. Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
+
+  [[http:cite:reddit-n39df5][u/DragoldC42 concurs...]]
+  #+BEGIN_QUOTE
+  The chance encounter with the book villain in the very start is a bit too
+  obviously foreshadowing- seeing the owner of the dreaming palace in an
+  adventure named this way does not give much room to doubt. I found it not
+  really disrupting, as the players could make some disconnect, but for another
+  GM I would advise to just change the name of Pratchett's hotel.
+  — cite:reddit-n39df5
+  #+END_QUOTE
+
+2. Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
+
+
+----------
+
+[[http:cite:paizo-rzs4349b-246][Smoagendash II describes some interesting variations they made in this first book.]]
+
+----------
+
+Posting on Reddit, [[http:cite:reddit-r8zm44][u/Kraydez provides a link to their remake of the Tipsy Tengu map, in DungeonDraft]].
+
+**** "Panic at the Zoo" / Knight's Marvelous Menagerie
+
+The Menagerie encounter has a bit of a reputation for being rough.
+
+You have some options.
+
 #+BEGIN_QUOTE
-- The Black Whale is a prison for important political prisoners that is
-  visited in book 5. Give it a brief mention maybe at some point when
-  appropriate.
-— cite:reddit-ocdrxm-h3uh21r
+- the deadly zoo encounter- which includes two different monsters with the ability to petrify the party as well as a buffed rust monster, against which the party has to pace without a real chance to take 10 minutes of rest- is too much for most level 1 parties, including mine.
+
+I gave my players the option to just tie up the monsters with rope after a successful grapple check, and this gave a much easier win condition to the combats while still being hard enough considering they had to go all over the zoo with no rests.
+— cite:reddit-n39df5
 #+END_QUOTE
-*** Blackfinger Blight
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/blackfinger-blight
-    :END:
+
+Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the Rusty fight is "crazy"]], [[http:cite:paizo-rzs4349b-231][Deadmanwalking notes that rust monsters are generally offensively weak, so if actions are used correctly, it should balance out okay.]]
+
+**** Blackfinger Blight
+     :PROPERTIES:
+     :CUSTOM_ID: node/npc/blackfinger-blight
+     :END:
 
 Blackfinger Blight is introduced in Book 1 Chapter 1 as the cause for the behavior of the animals in the Menagerie.
 
@@ -1292,138 +1426,6 @@ If your party has an Alchemist or Investigator, they might get curious to follow
   - Book 3, pg 5: Heading, "The Blackfinger Blight Bomb"
 
 #+END_COMMENT
-*** Blood City Games / Irorium
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/blood-city-games
-    :END:
-
-#+BEGIN_QUOTE
-- The Irorium will be the setting of a big part of book 3. Make sure to
-  mention it a few times. I had Oggrum (one of the gladiators the PCs will
-  have to fight eventually) get a float in the radiant parade advertising his
-  exploits.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** Noxious Retort / Temple of Norgorber
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/noxoius-retort
-    :END:
-#+BEGIN_QUOTE
-- The Noxious Retort is an annual alchemical conference taking place at the
-  Blackfingers temple. It will be showcased in book 4. Make sure your players
-  learn about it beforehand if they are into alchemy or if they try to learn
-  about Norgorber temples in the city.
-—- cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** House of the Planes
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/house-of-the-planes
-    :END:
-
-In [[#node/plot/b1c2][Book 1 Chapter 2]], the Agents will come to [[#node/npc/hoff][Jeremin Hoff's]] speakeasy to follow clues.
-
-In [[#node/plot/b5c1][Book 5 Chapter 1]], the Agents will return to this neutral ground to participate in a negotiation among various gangs.
-
-Book 1 has flavor of the various rooms, but Book 5 has the map. :)
-
-#+BEGIN_QUOTE
-- House of Planes will be revisited in one of the later books. So it should
-  probably be mentioned a few times. In book 2 I had my PCs track down one of
-  the smugglers there after a botched attempt to raid their base of
-  operations.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** Lucky Nimbus Casino
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/lucky-nimbus
-    :END:
-#+BEGIN_QUOTE
-- The Lucky Nimbus casino will play a role in book 3. Make sure to mention it
-  exists. I had an elaborate float advertising it in the radiant parade.
-#+END_QUOTE
-— cite:reddit-ocdrxm-h3uh21r
-*** Godless Graycloaks
-
-It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
-
-*** Beldrin's Tower (Precipice Quarter)
-#+BEGIN_QUOTE
-- Beldrin's tower in Precipice Quarter ends up being the place of the final
-  confrontation. It should at least be mentioned earlier, implant the idea of
-  visiting it for a tour while the festival is going on.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-* Plot Notes
-  :PROPERTIES:
-  :CUSTOM_ID: node/plot
-  :END:
-** Book 1: "The Devil in the Dreaming Palace"
-   :PROPERTIES:
-   :CUSTOM_ID: node/plot/book1
-   :END:
-*** Title … spoilers, Paizo!
-
-Just the name of this book is a spoiler combined with the fact that the Party meets Pratchett, who identifies himself as the owner of The Dreaming Palace in literally the first encounter the PCs have in the game. :(  Even Players who are not /trying/ to spoil themselves might come across the book name on the internet, including AoN.
-
-Since you can't change the book name, there are a couple of options:
-
-1. Rename the "Dreaming Palace" hotel. The name is not particularly important … feel free to change it.
-2. Skip the Pratchett+Ralso encounter in the Tipsy Tengu entirely (see [FIXME] link to below).
-*** Book 1, Chapter 1: "The Mean Streets of Absalom"
-    :PROPERTIES:
-    :CUSTOM_ID: node/plot/b1c1
-    :END:
-**** Noise Complaint / Tipsy Tengu
-
-As mentioned earlier, the title of the book matches the name of the hotel that the primary atagonist tells the party in their very first encounter.
-
-It's a strange decision the AP authors made, here.
-
-Changing the name of the "Dreaming Palace" will preserve the suspense throughout the book, and is recommended.
-
-Also, just skip the encounter with Pratchett and Ralso in the Tipsy Tengu entirely.
-
-The encounter serves two purposes:
-
-1. Foreshadow Pratchett. There is no particular need to do so, and this extremely brief encounter doesn't particular serve to do so well in any case.
-
-  [[http:cite:reddit-n39df5][u/DragoldC42 concurs...]]
-  #+BEGIN_QUOTE
-  The chance encounter with the book villain in the very start is a bit too
-  obviously foreshadowing- seeing the owner of the dreaming palace in an
-  adventure named this way does not give much room to doubt. I found it not
-  really disrupting, as the players could make some disconnect, but for another
-  GM I would advise to just change the name of Pratchett's hotel.
-  — cite:reddit-n39df5
-  #+END_QUOTE
-
-2. Provide a reason why the skins of the drunk adventurers are flayed and hanging in Pratchett's trophy room (they broke his nose). Pratchett has plenty of motivation to kill anyone he wants (he's a sadistic serial-killer dick-hole), so there's no need to /motivate/ this.
-
-
-----------
-
-[[http:cite:paizo-rzs4349b-246][Smoagendash II describes some interesting variations they made in this first book.]]
-
-----------
-
-Posting on Reddit, [[http:cite:reddit-r8zm44][u/Kraydez provides a link to their remake of the Tipsy Tengu map, in DungeonDraft]].
-
-**** "Guards! Guards!"
-**** "Panic at the Zoo" / Knight's Marvelous Menagerie
-
-The Menagerie encounter has a bit of a reputation for being rough.
-
-You have some options.
-
-#+BEGIN_QUOTE
-- the deadly zoo encounter- which includes two different monsters with the ability to petrify the party as well as a buffed rust monster, against which the party has to pace without a real chance to take 10 minutes of rest- is too much for most level 1 parties, including mine.
-
-I gave my players the option to just tie up the monsters with rope after a successful grapple check, and this gave a much easier win condition to the combats while still being hard enough considering they had to go all over the zoo with no rests.
-— cite:reddit-n39df5
-#+END_QUOTE
-
-Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the Rusty fight is "crazy"]], [[http:cite:paizo-rzs4349b-231][Deadmanwalking notes that rust monsters are generally offensively weak, so if actions are used correctly, it should balance out okay.]]
-
 **** The Graveraker goes missing
 
 The AP makes a point of the Graveraker going missing at this point.
@@ -1467,6 +1469,7 @@ books later.  — cite:paizo-rzs4349b-447
 **** XP
 
 [[http:cite:paizo-rzs4349b-237][Kasoh tots up all the Chapter 1 XP so you don't have to! :)]]
+
 
 *** Book 1, Chapter 2: "Missing Persons" / The Dragonfly Pagoda
     :PROPERTIES:
