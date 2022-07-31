@@ -931,7 +931,7 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1mAQLstHNKhiKwWC9Gu14Zj1AF3tyKHRb/view?usp=sharing][Dragonfly Pagoda - Closeup of Rekarek and kobolds]]
 - [[https://drive.google.com/file/d/1Mz87zlgGJcmWKsfns74wpHxPwUiv-XHA/view?usp=sharing][Battle Leader Rekarek]]
 
-*** Beldrin's Tower (Precipice Quarter)
+*** Beldrin's Tower
 #+BEGIN_QUOTE
 - Beldrin's tower in Precipice Quarter ends up being the place of the final
   confrontation. It should at least be mentioned earlier, implant the idea of
