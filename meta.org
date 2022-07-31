@@ -302,7 +302,8 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][r/Pathfinder2e/[book 3]. Can the PCs beg for money?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][r/Pathfinder2e/Agents of Edgewatch book 2]]
     CLOSED: [2022-01-15] : Nothing of value here.
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][r/Pathfinder2e/Help with agents of edgewatch book 4 *Spoilers*]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][r/Pathfinder2e/Help with agents of edgewatch book 4 *Spoilers*]]
+    CLOSED: [2022-07-31 Sun 23:01]
 *** DONE _Lost Omens: Absalom_ vs. _Book 3_ descriptions of Crestwatch
     CLOSED: [2022-02-12 Sat 00:30]
 *** DONE note the non-existence of 2E stat blocks for rukh, barometz and peluda (Book 3); [[https://discord.com/channels/880968862240239708/891395244199915530/943255187202670642][Discord / Foundry PF2E / AoE thread]]
