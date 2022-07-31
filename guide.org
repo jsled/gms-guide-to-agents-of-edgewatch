@@ -2300,6 +2300,7 @@ Assets are from [[http://www.forgotten-adventures.net/][www.forgotten-adventures
 *** Tipsy Tengu (Book 1, Chapter 1)
 
 - [[http:cite:paizo-rzs434ha-12][paizo.com forums: "malnourish"]]
+- [[http:cite:reddit-r8zm44][reddit.com: "u/Kraydez" provides a link to their remake of the Tipsy Tengu map, in DungeonDraft]]
 *** Knights Marvelous Menagerie (Book 1, Chapter 1)
 
 - [[http:cite:paizo-rzs434ha-13][paizo.com forums: "malnourish"]]
