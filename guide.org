@@ -991,102 +991,23 @@ such things.
 - Token Guard
 - Book 2, Chapters 1-2
   - Bank leads, Bank Robbery
-* NPCS
+* NPCs
+
+There are dozens more NPCs throughout _Agents of Edgewatch_. The following are
+called out for being a bit more notable than the rest, either because of
+multiple intersections with the plot, or notable details about how to run them
+as the GM.
+
 ** Primary / Major
-*** Grospek Lavarsus
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/lavarsus
-    :END:
-#+BEGIN_QUOTE
-- Lavarsus ends up getting manipulated by the antagonists and arresting the
-  wrong person. Play up Lavarsus as full of pride and incompetent
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-
------
-
-Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following of Edgewatch Station]]:
-
-- [[https://drive.google.com/file/d/1Q4TCD8gdgh3elVBRdOjzSXL4Yd3Q-68e/view?usp=sharing][Grospek Lavarsus]]
-- [[https://drive.google.com/file/d/1rhKV-hC4fWNFirQ6l95-AudRfIZtbPRC/view?usp=sharing][Lavarsus in his office]]
-- [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of the expanded front of Edgewatch HQ]]
-
-*** Hendrid Pratchett
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/pratchett
-    :END:
-#+BEGIN_QUOTE
-I have to say, Hendrid Pratchett is one of the scariest and abhorrent monsters
-I've ever seen for Pathfinder. Facing this guy is worse than facing a
-Shoggoth, at least you expect the eldritch horror to come if facing one of
-them or know that they're around.
-
-This guy is an act to follow for Chaotic Evil Villians, he's a charismatic
-manipulator to where he's easily so trustworthy to any person that would
-interact with him, yet so demented that the more you begin to peel away at his
-alibi and hotel, the darker tones start to kick in and break away at you
-mentally with each of his heinous crimes.
-
-His form of revenge on getting hit with a mug is peeling away the skins of the
-four adventurers or mentally torturing two people to kill each other and make
-fake escape attempts that end up in vain, only for them to become scarred that
-they can't even trust the help that comes to save them. The fact that he keeps
-Ralso tied psychologically by having two dolls to act as her replacement
-sisters and his other demented works of art. And let's not forget the two
-ghosts he keeps as children to see him as a father figure.
-
-James, congratulations. I am literally scared of this guy.
-
-— cite:paizo-rzs4349b-41
-#+END_QUOTE
-
-*** Radiant Festival
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/radiant_festival
-    :END:
-#+BEGIN_QUOTE
-- The story of how the radiant festival started gets explored in book 6. I had
-  a float featuring the half-angel in the parade
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** Festival Committee / Grand Council
-
-#+BEGIN_QUOTE
-- Some members of the festival committee and the grand council will end up
-  playing major roles in the final books. So they should be introduced and
-  interacted with early. I had my PCs give a brief 5 minute presentation in
-  front of the radiant festival committee at the palace in Wise Quarter about
-  their discovery of a potential bank heist plot.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** The Black Whale
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/black-whale
-    :END:
-#+BEGIN_QUOTE
-- The Black Whale is a prison for important political prisoners that is
-  visited in book 5. Give it a brief mention maybe at some point when
-  appropriate.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-*** Jonas Flakfatter ("The Infector" / "Father Infector")
+*** Jonis Flakfatter — "The Infector" / "Father Infector" (NE male human high priest 15)
     :PROPERTIES:
     :CUSTOM_ID: node/npc/flakfatter
     :END:
-*** Starwatch, Starwatch Keep
-#+BEGIN_QUOTE
-- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
-  where they'll get some offices of their own. Have them visit it early on if
-  they want or make sure they've heard it at least. Same goes for Fort
-  Tempest, make sure they've heard it exists.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
-
-*** Olansa Terimor ("The Gray Queen") — L20 NE female human city planner, master thief
+*** Olansa Terimor — "The Gray Queen" (NE female human city planner, master thief 20)
     :PROPERTIES:
     :CUSTOM_ID: node/npc/terimor
     :END:
-*** Reginald Vancaskerkin ("The Rumormonger")
+*** Reginald Vancaskerkin — "The Rumormonger" (NE male human entrepreneur 18)
     :PROPERTIES:
     :CUSTOM_ID: node/npc/vancaskerkin
     :END:
@@ -1114,8 +1035,28 @@ James, congratulations. I am literally scared of this guy.
 
 ([[http:cite:paizo-rzs4349b-268][If the name "Vancaskerkin" is familiar to you, there's good reason: it's a bit of a running gag/easter egg in Paizo's APs.]])
 
-** Secondary / Minor
-*** Captain Asilia of Gyr, Starwatch — N female human ranger 12
+*** Wrent Dicaspiron — "The Skinner" (CE female human cult leader 10)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/dicaspiron
+    :END:
+*** Lieutenant Grospek Lavarsus, of Edgewatch (LN male human city guard commander 7)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/lavarsus
+    :END:
+#+BEGIN_QUOTE
+- Lavarsus ends up getting manipulated by the antagonists and arresting the
+  wrong person. Play up Lavarsus as full of pride and incompetent
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+
+-----
+
+Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following of Edgewatch Station]]:
+
+- [[https://drive.google.com/file/d/1Q4TCD8gdgh3elVBRdOjzSXL4Yd3Q-68e/view?usp=sharing][Grospek Lavarsus]]
+- [[https://drive.google.com/file/d/1rhKV-hC4fWNFirQ6l95-AudRfIZtbPRC/view?usp=sharing][Lavarsus in his office]]
+- [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of the expanded front of Edgewatch HQ]]
+*** Captain Asilia of Gyr, of Starwatch (N female human ranger 12)
     :PROPERTIES:
     :CUSTOM_ID: node/npc/asilia
     :END:
@@ -1137,17 +1078,156 @@ down, gesturing to the room’s comfortable chairs.
 - Nautical dress
 
 #+END_COMMENT
-*** Sergeant Moldun Ollo
+*** Captain Shristi Melipdra, of the Sleepless Suns (LG male human guard captain 7)
+*** Wynsal Starborn (LG male human acting primarch of Abasalom 17)
+** Secondary / Minor
+*** Ama Uomi (LN female human architect 3)
+
+Introduced in Book 1 Chapter 2, Ama returns briefly in Book 6 Chapter 1 to help the Agents if they were kind to her in Book 1.
+*** Blune Bandersworth (NE male gnome architect, ex-thief, and illusionist 20)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/bandersworth
+    :END:
+*** Hendrid Pratchett (CE male half-elf serial killer 6)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/pratchett
+    :END:
+
+While Pratchett is the BBEG of Book 1, they are fundamentally disconnected from the events in the AP, and as such are only a minor NPC.
+
+
+#+BEGIN_QUOTE
+I have to say, Hendrid Pratchett is one of the scariest and abhorrent monsters
+I've ever seen for Pathfinder. Facing this guy is worse than facing a
+Shoggoth, at least you expect the eldritch horror to come if facing one of
+them or know that they're around.
+
+This guy is an act to follow for Chaotic Evil Villians, he's a charismatic
+manipulator to where he's easily so trustworthy to any person that would
+interact with him, yet so demented that the more you begin to peel away at his
+alibi and hotel, the darker tones start to kick in and break away at you
+mentally with each of his heinous crimes.
+
+His form of revenge on getting hit with a mug is peeling away the skins of the
+four adventurers or mentally torturing two people to kill each other and make
+fake escape attempts that end up in vain, only for them to become scarred that
+they can't even trust the help that comes to save them. The fact that he keeps
+Ralso tied psychologically by having two dolls to act as her replacement
+sisters and his other demented works of art. And let's not forget the two
+ghosts he keeps as children to see him as a father figure.
+
+James, congratulations. I am literally scared of this guy.
+
+— cite:paizo-rzs4349b-41
+#+END_QUOTE
+*** Sergeant Moldun Ollo (LG male dwarf senior officer 8)
+
+In contrast to the blowhard Captain Lavarsus, Sgt. Ollo keeps Edgewatch Headquarters running, and is likely to be a friend and ally to the Agents.
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following]]:
 
 - [[https://drive.google.com/file/d/1xPfFiwdWQv1pnqlY8udvDiGZ_qSc9ULe/view?usp=sharing][Sergeant Moldun Ollo, Solo]]
 - [[https://drive.google.com/file/d/1MkuDAvr0qvoFF-_ckWj36xKFhsnbHH6h/view?usp=sharing][Lavarsus and Ollo standing in front of Edgewatch HQ]]
+*** Detective Desdelen "Skinny" Bolera (NG female half-elf investigator 6)
 
-*** Cass Hamish, Garrote Sisterhood
+Introduced in Book 1, the GM is encouraged to use Bolera at a few points throughout the AP, but is never more than a minor NPC.
+
+The AP-specific "Edgewatch Detective" Archetype has a Feat named after Bolera.
+*** Corporal Kerr Batiste (NE female human officer 8)
+
+Presented in Book 1, Corporal Batiste is described as corrupt, which presents the NPC as either a foil or resource to the agents later in the AP.
+
+*** Cass Hamish, of the Garrote Sisterhood (N female human assassin 16)
+
+Cass Hamish is one of the notable npcs in the House of the Planes in [[#node/plot/b1c3][Book 1, Chapter 3]], and can come back again in her professional capacity in [[#node/plot/b5c1][Book 5, Chapter 1]].
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders]], including the following of [[https://drive.google.com/file/d/1XkJ9EZ7Xi9Uq4ABO0rA37X4kbU8QGvZq/view][Cass Hamish]] of the Garrote Sisterhood.
 
+*** Ziraya Al-Shurati, of the Muckruckers (LN female human investigator 7)
+*** Captain Runewulf "The Unbeliever", of the Godless Graycloaks (N male human barbarian 13)
+
+#+BEGIN_QUOTE
+"as he is more colloquially known, Runewulf the Unbeliever."
+— cite:paizo-aoe-book2#page=28
+#+END_QUOTE
+*** Kekker and Gref (LE male ratfolk smugglers 2)
+
+Encountered as smugglers in the undercity in [[The Back Door][Book 1 Chapter 3]], Kekker and Gref can come up again in [[#node/plot/b4c1][the alchemical conference "The Noxious Retort" in Book 4 Chapter 1]].
+*** Gage Carlyle (N male human casino owner 11)
+
+- Book 3, Chapter 2
+- Owner and proprietor of the Lucky Nimbus Casino
+*** Maurissa Jonne (N female human ex-brawler / gang leader 10)
+*** Franca Laurentz (CN female elf bio-terrorist 13)
+*** Lord Ganfen of House Kethlin (N male human administrator 12)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/lord-ganfen
+    :END:
+*** Jeremin Hoff (LE male human power broker 13)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/hoff
+    :END:
+
+Introduced in [[#node/plot/b1c3][Book 1 Chapter 3]], Hoff will come back up in [[#node/plot/b5c1][Book 5 Chapter 1]], but is generally not a plot-critical character.
+*** Ralso (NE female half-orc thief 4)
+*** Harlo Doleen (?? male human adjutant to Wynsal Starborn ??)
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/doleen
+    :END:
+
+#+BEGIN_QUOTE
+- Harlo Doleen ends up getting murdered which is a major plot point and
+  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
+  slave and Harlo used to be his master. They have an awkward relationship now
+  after not seeing each other for more than 3 years.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+*** Kayln Pounch (NE female human priest of Blackfingers 12)
+*** Miogimo (CE male zealborn criminal mastermind 17)
+*** Il'Setsya Wyrmtouched (CN female ganzi arcanist 18)
+*** Starwatch, Starwatch Keep
+#+BEGIN_QUOTE
+- Starwatch will eventually (in book 3) adopt the PCs and Starwatch Keep is
+  where they'll get some offices of their own. Have them visit it early on if
+  they want or make sure they've heard it at least. Same goes for Fort
+  Tempest, make sure they've heard it exists.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+*** Radiant Festival
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/radiant_festival
+    :END:
+#+BEGIN_QUOTE
+- The story of how the radiant festival started gets explored in book 6. I had
+  a float featuring the half-angel in the parade
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+*** Festival Committee / Grand Council
+
+#+BEGIN_QUOTE
+- Some members of the festival committee and the grand council will end up
+  playing major roles in the final books. So they should be introduced and
+  interacted with early. I had my PCs give a brief 5 minute presentation in
+  front of the radiant festival committee at the palace in Wise Quarter about
+  their discovery of a potential bank heist plot.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
+
+Specifically the following notable NPCs are members of the Festival Committee and/or Grand Council:
+
+- [[#node/npc/lord-ganfen][Lord Ganfen of House Kethlin, master of blades of the Irorium]]
+- [[#node/npc/terimor][Olansa Terimor, City Planner]]
+- [[#node/npc/bandersworth][Blune Bandersworth, City Architect]]
+*** The Black Whale
+    :PROPERTIES:
+    :CUSTOM_ID: node/npc/black-whale
+    :END:
+#+BEGIN_QUOTE
+- The Black Whale is a prison for important political prisoners that is
+  visited in book 5. Give it a brief mention maybe at some point when
+  appropriate.
+— cite:reddit-ocdrxm-h3uh21r
+#+END_QUOTE
 *** Blackfinger Blight
     :PROPERTIES:
     :CUSTOM_ID: node/npc/blackfinger-blight
@@ -1212,22 +1292,6 @@ If your party has an Alchemist or Investigator, they might get curious to follow
   - Book 3, pg 5: Heading, "The Blackfinger Blight Bomb"
 
 #+END_COMMENT
-*** Wrent Dicaspiron ("The Skinner")
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/dicaspiron
-    :END:
-*** Harlo Doleen
-    :PROPERTIES:
-    :CUSTOM_ID: node/npc/doleen
-    :END:
-
-#+BEGIN_QUOTE
-- Harlo Doleen ends up getting murdered which is a major plot point and
-  twist. I made him be an acquaintance to one of the PCs. The PC used to be a
-  slave and Harlo used to be his master. They have an awkward relationship now
-  after not seeing each other for more than 3 years.
-— cite:reddit-ocdrxm-h3uh21r
-#+END_QUOTE
 *** Blood City Games / Irorium
     :PROPERTIES:
     :CUSTOM_ID: node/npc/blood-city-games
@@ -1256,6 +1320,12 @@ If your party has an Alchemist or Investigator, they might get curious to follow
     :CUSTOM_ID: node/npc/house-of-the-planes
     :END:
 
+In [[#node/plot/b1c2][Book 1 Chapter 2]], the Agents will come to [[#node/npc/hoff][Jeremin Hoff's]] speakeasy to follow clues.
+
+In [[#node/plot/b5c1][Book 5 Chapter 1]], the Agents will return to this neutral ground to participate in a negotiation among various gangs.
+
+Book 1 has flavor of the various rooms, but Book 5 has the map. :)
+
 #+BEGIN_QUOTE
 - House of Planes will be revisited in one of the later books. So it should
   probably be mentioned a few times. In book 2 I had my PCs track down one of
@@ -1276,13 +1346,6 @@ If your party has an Alchemist or Investigator, they might get curious to follow
 
 It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
 
-*** (Godless Graycloak's) Captain Runewulf — N male human barbarian 13
-
-#+BEGIN_QUOTE
-"as he is more colloquially known, Runewulf the Unbeliever."
-— cite:paizo-aoe-book2#page=28
-#+END_QUOTE
-
 *** Beldrin's Tower (Precipice Quarter)
 #+BEGIN_QUOTE
 - Beldrin's tower in Precipice Quarter ends up being the place of the final
@@ -1290,15 +1353,6 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
   visiting it for a tour while the festival is going on.
 — cite:reddit-ocdrxm-h3uh21r
 #+END_QUOTE
-*** Kekker and Gref (ratfolk smugglers, B2C3, B4C?)
-
-See [[The Back Door][Plot Notes / Book 1 Chapter 3]].
-
-*** Gage Carlyle
-
-- Book 3, Chapter 2
-- Owner and proprietor of the Lucky Nimbus Casino
-
 * Plot Notes
   :PROPERTIES:
   :CUSTOM_ID: node/plot
