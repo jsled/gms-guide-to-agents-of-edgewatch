@@ -1852,6 +1852,8 @@ Tyrrociese and the Ofalth might need specific handling.
 
 As written, they are both level 10 (APL + 3) creatures. In direct combat with the party, even on their own, these are potentially very deadly encounters.
 
+First, the Ofalth.
+
 There are multiple strategies to account for this.
 
 [[http:cite:reddit-oknoo0-h59zt3p][u/larstr0n (GM, Tabletop Gold podcast)]] strongly advises…
@@ -1886,15 +1888,25 @@ Even with these adjustments it was a super close fight with most of the party un
 — cite:reddit-oknoo0-h5aswqa
 #+END_QUOTE
 
+Then, Tyrroicese.
 
-With respect to Tyrroicese, [[http:cite:reddit-pxcik6-hen4otc][be mindful about what types of damage your party can do, vs. what Tyrroicese is immune to…]]
+#+HTML: <details>
+#+HTML:  <summary>the fucking Tyrroicese in book 2 of Agents of Edgewatch is probably the single most bullshit statblock I've seen printed for this game</summary>
+#+BEGIN_QUOTE
+That said, the fucking Tyrroicese in book 2 of Agents of Edgewatch is probably the single most bullshit statblock I've seen printed for this game, and is a ridiculous encounter for the level it's fought at. I would suggest nerfing it heavily or even just entirely skipping it, as it's got basically no plot relevance and exists solely to grind some PCs down to a fine powder. Let's talk a little about what's wrong with this thing.
+
+It's a PL+3 creature with immunity to piercing, slashing, critical hits, and precision damage. Are you a rogue? Get fucked. Are you an archer? Get fucked. Are you anyone using any weapon that isn't bludgeoning? Get fucked. Did you get lucky and roll two nat 20s on your attacks? Get fucked. It doesn't even split when taking damage it's immune to like other oozes so you can blast it with AoE - nope, it's just immune. Not only that, but it summons an ochre jelly with 1 action and can keep quickening it. It can move 45 feet every round as a free action, ignoring difficult terrain. It can hit three people with its 15-foot reach 2d10+13+1d6 attacks with no MAP for 2 actions. That reach is enough to hit nearly the whole room that it's in. It's got motion sense, so invisibility and darkness and blinding effects won't help. And to top it all off, when it inevitably downs someone, it can subsume them as one action to get 30 HP back and use their fucking feats and abilities. Like, who the fuck designed this and thought it was a fine thing to throw at a level 7 party? As a random irrelevant dungeon boss with no plot relevance other than having eaten one of the stranger guards they were told to find, no less?
+— cite:reddit-v3h7h8-ib0hvlf
+#+END_QUOTE
+#+HTML: </details>
+
+[[http:cite:reddit-pxcik6-hen4otc][Be mindful about what types of damage your party can do, vs. what Tyrroicese is immune to…]]
 #+BEGIN_QUOTE
 That didn't went well in my group. We had two damage dealers in our group at that time, two fighters. One used a great pick and the other used arrow. So that creature was immune to the main damage dealers of the party.
 
 I had to go out of Encounter Mode and we started a skill challange scene... Up to this day my players remember that fight as "how unfair is PF2e". I wished I have removed that creature from the adventure.
 — cite:reddit-pxcik6-hencbbl
 #+END_QUOTE
-
 
 [[http:cite:reddit-pxcik6-hen4otc][u/DragoldC42 has a clever suggestion to lean into a strict interpretation of "motion sense" to help give the PCs a fighting chance…]]
 #+BEGIN_QUOTE
@@ -1903,7 +1915,6 @@ Tyrroicese has no senses but motion sense. Therefore I ruled that it will only b
 My players figured this out by seeing how the creature reacts (with the help of a recall knowledge from the investigator) and were then able to strategize on that (the monk drew aggro by moving, and the rest stood as still as they could while sniping at the monster)
 — cite:reddit-pxcik6-hen4otc
 #+END_QUOTE
-
 
 [[http:cite:reddit-pxcik6-heseed9][u/OmniscientIce's party took 3 attempts to take out Tyrroicese, but with a satisfying conclusion…]]
 #+BEGIN_QUOTE

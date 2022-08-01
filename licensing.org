@@ -852,4 +852,5 @@ Cheers…
 *** [[https://www.reddit.com/message/messages/17sbdio][response]]: +1
 ** PROG paizo:"The Rising Phoenix", 2022-02-12
 *** [[https://paizo.com/threads/rzs438k8?Agents-of-Edgewatch-3D-Renders-Spoilers#12][request]]
-** TODO [[https://www.reddit.com/message/messages/1g4jwvg][u/gugus295]]. 2022-07-31
+** DONE [[https://www.reddit.com/message/messages/1g4jwvg][u/gugus295]]. 2022-07-31
+   CLOSED: [2022-08-01 Mon 00:50]
