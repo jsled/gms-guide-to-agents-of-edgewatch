@@ -164,6 +164,10 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 - the PF2 math is too tight for even-stronger enemies
 - too hard to land hits, too high chances of crits (both directions)
 
+----------
+
+- [[cite:paizo-rzs4371h]["NewNameLater" asks about scaling the adventure and its encounters down for a "buddy cop" duo play.]]
+
 ** Quality
    :PROPERTIES:
    :CUSTOM_ID: node/meta/quality
