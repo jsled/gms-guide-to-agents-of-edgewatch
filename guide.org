@@ -1998,6 +1998,10 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 [[http:cite:paizo-rzs4349d-41]["Evil Paul" agrees, and thinks this needs some "heavy editing" by the GM to make work.]]
 [[http:cite:paizo-rzs4349d-40]["O.W." reiterates that the Agents /do not/ have to work with her, and outlines some tactical options for fighting her.]]
 
+----------
+
+[[cite:discord-880968862240239708_891395244199915530_945728763734405211]["Naurgul" nit-picks]] that in Narchy's map of the Sweeper Schoolhouse map remake, the windows on the east side of the building are not supposed to be boarded up; narchy responds that it'll be corrected in the "inevitable HD remake!" :)
+
 *** Book 3, Chapter 2: "The House Always Wins"
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b3c2
@@ -2038,7 +2042,6 @@ The Svartalfar Killers have a 2-action "Spell-Imbued Blade" that looks very simi
 
 [[cite:reddit-renhym][u/Excaliburrover notes that the heist might be very expensive for the Agents, and wonders how the Agents can afford it.]]
 
-
 *** Book 3, Chapter 3: "Deadly Games"
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b3c3
@@ -2055,7 +2058,7 @@ I have made another post in the past about a stat problem with the final boss of
 
 -----
 
-The AP mentions 2 creatures that do not exist in Pathfinder 2E...
+The AP mentions 2 creatures that do not exist in Pathfinder 2E…
 
 #+BEGIN_QUOTE
 Promoted in conjunction with the Radiant Festival, this year’s Blood City

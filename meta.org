@@ -308,7 +308,7 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
     CLOSED: [2022-02-12 Sat 00:30]
 *** DONE note the non-existence of 2E stat blocks for rukh, barometz and peluda (Book 3); [[https://discord.com/channels/880968862240239708/891395244199915530/943255187202670642][Discord / Foundry PF2E / AoE thread]]
     CLOSED: [2022-03-16 Wed 23:15]
-*** TODO narchy's Sweeper maps nitpick (unofficial maps unofficial errata?)
+*** DONE narchy's Sweeper maps nitpick (unofficial maps unofficial errata?)
 
 https://discord.com/channels/880968862240239708/891395244199915530/945728763734405211
 
