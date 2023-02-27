@@ -1586,7 +1586,6 @@ My issue is with the fact that the players are supposed to get from lvl 3 to lvl
 — cite:reddit-ojp6to-h5354t4
 #+END_QUOTE
 
-
 -----
 
 Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a number of 3D renders, including the following related to the Dreaming Palace]]:
@@ -1596,6 +1595,10 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 - [[https://drive.google.com/file/d/1occvguuijG75hke_3hiBStQVmDoT0DhT/view?usp=sharing][Ralso in the Dreaming Palace lobby]]
 - [[https://drive.google.com/file/d/1-siPIlAOLL2lPPHF0bjA0IeLFlGFeEep/view?usp=sharing][Pratchett's Dungeon – Pratchett only]]
 - [[https://drive.google.com/file/d/14Mc0NQwrxe-LfY3DGHDwnZH-6-CfCThj/view?usp=sharing][Pratchett's Dungon – Pratchett and the Binumir]]
+
+----------
+
+On the Paizo forums, [[cite:paizo-rzs43cn4][user Kneymo describes how they went radically off-script, and converted the entirety of The Dreaming Palace towards a different theme.]]
 
 **** Hendrid Pratchett encounter
 
