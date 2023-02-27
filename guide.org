@@ -834,6 +834,12 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 
 [[http:cite:paizo-rzs43j2z][On the Paizo Forums, some folks discuss restricting or justifying the various archetypes.]]
 
+[[cite:paizo-rzs433iw][An early thread on the Paizo forums, started by "captain yesterday", inquires about clever and punny character/party concepts for the AP, leading off strong with]]:
+
+#+begin_quote
+For me, I think my character will be a Shoony Investigator named McGruff.
+#+end_quote
+
 ** Alchemist
 
 An Alchemist character who is a follower of Norgorber – even in his less-offensive "Blackfingers" aspect – might still create dramatic tension with the party, as it becomes clear early on that the Agents are on the trail of a muder cult of Norgorberites.
