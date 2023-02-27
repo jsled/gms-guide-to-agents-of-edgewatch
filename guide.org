@@ -175,6 +175,8 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 [[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]] They rank /Agents of Edgewatch/ 16 out of 33. A poll they did of 142 people across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33. That puts it in the middle of the "Pretty Damn Good!" pack.
 
+That same guide is referenced in response to [[cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
+
 ** On Being Police
    :PROPERTIES:
    :CUSTOM_ID: node/meta/on_being_police
