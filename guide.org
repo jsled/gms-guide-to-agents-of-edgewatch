@@ -143,9 +143,13 @@ This seems to be supported by the experience at some tables, with people reporti
    :CUSTOM_ID: node/meta/difficulty
    :END:
 
-Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine".
+Like many APs, the Agents of Edgewatch is considered by some to be … "tuned hot" … "spicy" … "extremely deadly for PCs" … a "TPK machine". This is generally and especially true in the first few PC levels.
 
 - [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
+
+- [[cite:paizo-rzs43851][On the Paizo forums, Calybos1 prompts a good discussion of the early difficulty of Agents of Edgewatch.]]
+
+- [[cite:paizo-rzs43g90][VampByDay lists some specific concerns with early fights in the first two books of the AP.]]
 
 - The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
