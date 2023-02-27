@@ -2368,6 +2368,30 @@ Note that while no map is provided when this location is encountered in B1C3, a 
 
 - [[http:cite:paizo-rzs434ha-31][paizo.com forums: "EdwinM"]]
 
+** Audio/Background/Ambiance
+
+[[cite:discord-880968862240239708_891395244199915530_950816529119871026][In Discord, "Naurgul" outlines their audio selections for Book 1:]]
+
+#+begin_quote
+for general Absalom vibe I am using the album Antakya (by the band Quandro Nuevo) https://youtu.be/Rhw5djhjbvg?list=OLAK5uy_kD5znh6GPMgEkCpeCIt7DsmSXnCHvpa6g
+for example the tracks "Antakya No.1" and "Antakya No.2" for strolling through the city, "Inside the Orthodox Church" for temples, Dadachi No.1 & No.2 for meetings, especially in social places like taverns, "Antiochia" for when mysteries arise etc.
+for book 1 specifics I've used:
+Lavarsus chastising the PCs: full metal alchemist (old series) OST 3 "carefree" https://youtu.be/KUGfSGCmVGA
+tavern brawl: antakya quadro nueveo "dance through the tavern" https://youtu.be/Rn58xhYA-IY
+patrol: mediaeval baebes Worldes Blysse "Erthe upon erthe"
+cockatrice: Naruto Movie 2 Official Soundtrack "21 - Suna Bunshin"
+owlbear: Shadow of the Colossus - "Grotesque Figures" Piano https://youtu.be/q-rXHfu_-OM
+the bastard: Over the Garden Wall OST "03 - You Have Beautiful Eyes"
+detective bolera theme: Dexter OST "10 - Can't Hide"
+pagoda strike: Tooth and Tail OST "01 The Food of Beasts" https://youtu.be/GXnImIYY68k
+pagoda fight: full metal alchemist ost 1 "12 - infiltration"
+undercity exploration: Full Metal Alchemist Brotherhood OST 1 "18 - Beneath the City" https://youtu.be/5UJ6U_wwMbo
+undercity fight: Celeste B-Sides "02. Old Site (Black Moonrise Mix)" https://youtu.be/6eeIEMOQw4s
+house of planes: planescape torment ost tavern, bastion ost sole regret, tooth and tail ost fuel of the firebrand
+murder hotel: the normal floors were basically all from the over the garden wall soundtrack (for example my players loved this combat music https://youtu.be/XCTsH7yXdxg and the auntie laurna theme was used for ralso exposition)
+the basement was a mix between over the garden wall and dexter soundtrack
+#+end_quote
+
 ** Landing Pages
    :PROPERTIES:
    :CUSTOM_ID: node/resources/landing-pages
