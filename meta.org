@@ -299,7 +299,7 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/r8zm44/first_map_of_agents_of_edgewatch_remade/][reddit/"First Map of Agents of Edgewatch Remade"]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/raouq8/tarondors_guide_to_pathfinder_adventure_paths/][reddit/"Tarondor's Guide to Pathfinder Adventure Paths"]]
     CLOSED: [2022-02-12 Sat 23:39]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][r/Pathfinder2e/[book 3]. Can the PCs beg for money?]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/renhym/agents_of_edgewatch_book_3_can_the_pcs_beg_for/][r/Pathfinder2e/[book 3]. Can the PCs beg for money?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/rc0mbz/agents_of_edgewatch_book_2/][r/Pathfinder2e/Agents of Edgewatch book 2]]
     CLOSED: [2022-01-15] : Nothing of value here.
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ry57md/help_with_agents_of_edgewatch_book_4_spoilers/][r/Pathfinder2e/Help with agents of edgewatch book 4 *Spoilers*]]
