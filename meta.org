@@ -319,7 +319,7 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/teiszn/starting_agents_of_edgewatch_party_comp_and_lore/][r/Pathfinder2e/Starting Agents of Edgewatch - party comp and lore question]]
     CLOSED: [2022-07-31 Sun 23:09]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/teucpn/edgewatch_review/][r/Pathfinder2e/Edgewatch review]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e/Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/t5ebpi/retooling_the_agents_of_edgewatch_zoo_spoilers/][r/Pathfinder2e/Retooling the Agents of Edgewatch Zoo (spoilers ahead for book 1 of AoE)]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/t1mxvf/looking_at_some_enemies_in_agents_of_edgewatch/][r/Pathfinder2e/Looking at some enemies in Agents of Edgewatch, would it be reasonable to nerf them?]]
 *** TODO [[https://paizo.com/threads/rzs43lnt?Expanded-Bank-Robbery-Investigation][Paizo/"Expanded Bank Robbery Investigation", naurgul]]
 *** DONE Svartalfar "magi" should probably align with since-released Magus class (MAP effects of "spellstrike")
