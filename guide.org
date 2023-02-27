@@ -1332,6 +1332,10 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
   :PROPERTIES:
   :CUSTOM_ID: node/plot
   :END:
+** General
+
+- Though limited by being created before the final two books were published, on the Paizo forums, [[cite:paizo-rzs4388l]["IcedMilk" outlines some of the larger plot threads that might warrant foreshadowing.]]
+
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
    :CUSTOM_ID: node/plot/book1

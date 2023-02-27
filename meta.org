@@ -266,7 +266,7 @@ https://paizo.com/threads/rzs4349c&page=2?2-Sixty-Feet-Under#92
 *** DONE [[https://paizo.com/threads/rzs433iw?Who-will-be-the-Agents-of-Edgewatch][paizo/"Who will be the Agents of Edgewatch"]] — punny character concepts
 *** DONE [[https://paizo.com/threads/rzs438h4?Edgewatch-Earned-Income-Reward-Alternative][paizo/"Edgewatch Earned Income - Reward Alternative"]] — separate thread of compensation alternatives
 *** DONE [[https://paizo.com/threads/rzs436hc?Nonlethal-system-alternatives][paizo/"Nonlethal system alternatives?"]]
-*** TODO [[https://paizo.com/threads/rzs4388l?Foreshadowing-Suggestions][paizo/"Foreshadowing Suggestions (Heavy Spoilers)"]]
+*** DONE [[https://paizo.com/threads/rzs4388l?Foreshadowing-Suggestions][paizo/"Foreshadowing Suggestions (Heavy Spoilers)"]]
 *** DONE [[https://paizo.com/threads/rzs437wk?3D-render-of-Sergeant-Ollo][paizo/"3D render of Sergeant Ollo"]]
     CLOSED: [2022-02-12 Sat 02:17]
 *** DONE [5/5] [[https://paizo.com/threads/rzs438k8?Agents-of-Edgewatch-3D-Renders-Spoilers][paizo/"Agents of Edgewatch - 3D Renders - Spoilers!"]]
