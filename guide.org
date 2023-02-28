@@ -848,6 +848,8 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 For me, I think my character will be a Shoony Investigator named McGruff.
 #+end_quote
 
+[[cite:reddit-umsua9][On Reddit, "u/Alvenaharr" asks about an Intimidation build for AoE, which gathers a good few responses.]]
+
 ** Alchemist
 
 An Alchemist character who is a follower of Norgorber – even in his less-offensive "Blackfingers" aspect – might still create dramatic tension with the party, as it becomes clear early on that the Agents are on the trail of a muder cult of Norgorberites.
