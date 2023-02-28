@@ -848,7 +848,11 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 For me, I think my character will be a Shoony Investigator named McGruff.
 #+end_quote
 
-[[cite:reddit-umsua9][On Reddit, "u/Alvenaharr" asks about an Intimidation build for AoE, which gathers a good few responses.]]
+[[cite:reddit-tnqa61][On Reddit, "u/Blarg96" asks about the possibility of being a mounted character in AoE]], the general consensus that this almost-entirely-inside-the-urban-environments-of-Absalom is not really the best setting for a mounted character.
+
+[[cite:reddit-ty2slq]["u/Asdrodon" asks "Full [dual-class] martial edgewatch party. Is there any hope?" with good feedback.]]
+
+[[cite:reddit-umsua9]["u/Alvenaharr" asks about an Intimidation build for AoE, which gathers a good few responses.]]
 
 ** Alchemist
 
