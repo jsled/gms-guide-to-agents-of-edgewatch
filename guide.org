@@ -884,6 +884,10 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 ** Gunslinger
 
 [[cite:reddit-sm87lo]["u/Hoarder-of-Knowledge" asks about the viability of Gunslingers after being initially disappointed.]]
+** Investigator
+
+[[cite:vae7i7]["u/Haos51" asks about their Automaton Learned Guard Prodigy Investigator in balance with the rest of their party.]]
+
 ** AP-provided Archetypes
 *** Edgewatch Detective (Player's Guide, Level 2)
 *** Jalmeri Heavenseeker Archetype (Book 2, Chapter 3/4, Level 7)
