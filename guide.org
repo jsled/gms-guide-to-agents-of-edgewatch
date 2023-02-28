@@ -147,9 +147,9 @@ Like many APs, the Agents of Edgewatch is considered by some to be … "tuned ho
 
 - [[http:cite:reddit-q42xy3][This thread from u/Sachiel2014 has a lot of great detail about specific ways things might be difficult for specific parties and tables.]]
 
-- [[cite:paizo-rzs43851][On the Paizo forums, Calybos1 prompts a good discussion of the early difficulty of Agents of Edgewatch.]]
+- [[http:cite:paizo-rzs43851][On the Paizo forums, Calybos1 prompts a good discussion of the early difficulty of Agents of Edgewatch.]]
 
-- [[cite:paizo-rzs43g90][VampByDay lists some specific concerns with early fights in the first two books of the AP.]]
+- [[http:cite:paizo-rzs43g90][VampByDay lists some specific concerns with early fights in the first two books of the AP.]]
 
 - The bulk of the discussion at [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/]["Catacombs are a death trap"]] is about the general perception of the difficulty of these early APs.
 
@@ -166,7 +166,7 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 ----------
 
-- [[cite:paizo-rzs4371h]["NewNameLater" asks about scaling the adventure and its encounters down for a "buddy cop" duo play.]]
+- [[http:cite:paizo-rzs4371h]["NewNameLater" asks about scaling the adventure and its encounters down for a "buddy cop" duo play.]]
 
 ** Quality
    :PROPERTIES:
@@ -175,7 +175,7 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 [[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]] They rank /Agents of Edgewatch/ 16 out of 33. A poll they did of 142 people across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33. That puts it in the middle of the "Pretty Damn Good!" pack.
 
-That same guide is referenced in response to [[cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
+That same guide is referenced in response to [[http:cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
 
 ** On Being Police
    :PROPERTIES:
@@ -362,12 +362,12 @@ This is an area of running the AP where it will be important to be very clear wi
 
 ----------
 
-On a different note, [[cite:paizo-rzs43cn3][on the Paizo forums, "Evil Paul" highlights a few narrative themes that they feel are missing from the AP]]: "Investigations and Actual Police Work", "Police Corruption", "Politics, Legailities, Bureaucratic conflict", and finally "Difficult Decisions".
-In the thread, [[cite:paizo-rzs43cn3-5][Naurgul links to some content expansions they made along similar lines.]]
+On a different note, [[http:cite:paizo-rzs43cn3][on the Paizo forums, "Evil Paul" highlights a few narrative themes that they feel are missing from the AP]]: "Investigations and Actual Police Work", "Police Corruption", "Politics, Legailities, Bureaucratic conflict", and finally "Difficult Decisions".
+In the thread, [[http:cite:paizo-rzs43cn3-5][Naurgul links to some content expansions they made along similar lines.]]
 
 ----------
 
-[[cite:reddit-snapx6]["u/Repulsive-Ad7501" asks a question about an infiltration mission in B4C1]], but the discussion mostly turns to various group's difficulty suspending disbelief for the AP.
+[[http:cite:reddit-snapx6]["u/Repulsive-Ad7501" asks a question about an infiltration mission in B4C1]], but the discussion mostly turns to various group's difficulty suspending disbelief for the AP.
 
 *** Buddy Cops
 
@@ -846,19 +846,19 @@ It might seem like something's missing with Book 3, but the majority of Chapter 
 
 [[http:cite:paizo-rzs43j2z][On the Paizo Forums, some folks discuss restricting or justifying the various archetypes.]]
 
-[[cite:paizo-rzs433iw][An early thread on the Paizo forums, started by "captain yesterday", inquires about clever and punny character/party concepts for the AP, leading off strong with]]:
+[[http:cite:paizo-rzs433iw][An early thread on the Paizo forums, started by "captain yesterday", inquires about clever and punny character/party concepts for the AP, leading off strong with]]:
 
 #+begin_quote
 For me, I think my character will be a Shoony Investigator named McGruff.
 #+end_quote
 
-[[cite:reddit-tnqa61][On Reddit, "u/Blarg96" asks about the possibility of being a mounted character in AoE]], the general consensus that this almost-entirely-inside-the-urban-environments-of-Absalom adventure is not really the best setting for a mounted character.
+[[http:cite:reddit-tnqa61][On Reddit, "u/Blarg96" asks about the possibility of being a mounted character in AoE]], the general consensus that this almost-entirely-inside-the-urban-environments-of-Absalom adventure is not really the best setting for a mounted character.
 
-[[cite:reddit-ty2slq]["u/Asdrodon" asks "Full [dual-class] martial edgewatch party. Is there any hope?" with good feedback.]]
+[[http:cite:reddit-ty2slq]["u/Asdrodon" asks "Full [dual-class] martial edgewatch party. Is there any hope?" with good feedback.]]
 
-[[cite:reddit-umsua9]["u/Alvenaharr" asks about an Intimidation build for AoE, which gathers a good few responses.]]
+[[http:cite:reddit-umsua9]["u/Alvenaharr" asks about an Intimidation build for AoE, which gathers a good few responses.]]
 
-[[cite:reddit-v4x8ic]["u/DM_From_The_Bits" asks about a 5-character party to help with the difficulty of the AP.]]
+[[http:cite:reddit-v4x8ic]["u/DM_From_The_Bits" asks about a 5-character party to help with the difficulty of the AP.]]
 
 ** Alchemist
 
@@ -887,16 +887,16 @@ You’ve sworn an oath to put the undead to rest. Add the following tenet to you
 
 As a central part of Book 5 is teaming up with the "zealborn" undead master criminal Miogimo to advance the Agent's interests, this oath can create plenty of dramatic tension to play out, as well.
 
-[[cite:reddit-v8y4n0]["u/ccekim" asks about how a LG Champion can reconcile undercover police work with their tenants.]]
+[[http:cite:reddit-v8y4n0]["u/ccekim" asks about how a LG Champion can reconcile undercover police work with their tenants.]]
 
-[[cite:reddit-yaxkrk]["u/Slow-Host-2449" asks more broadly about oath selection for a Champion.]] A lot of this discussion is about the enemy types encountered, so see the [[#enemy-makeup][Enemy Makeup and Composition]] section of this guide for more detail.
+[[http:cite:reddit-yaxkrk]["u/Slow-Host-2449" asks more broadly about oath selection for a Champion.]] A lot of this discussion is about the enemy types encountered, so see the [[#enemy-makeup][Enemy Makeup and Composition]] section of this guide for more detail.
 
 ** Gunslinger
 
-[[cite:reddit-sm87lo]["u/Hoarder-of-Knowledge" asks about the viability of Gunslingers after being initially disappointed.]]
+[[http:cite:reddit-sm87lo]["u/Hoarder-of-Knowledge" asks about the viability of Gunslingers after being initially disappointed.]]
 ** Investigator
 
-[[cite:vae7i7]["u/Haos51" asks about their Automaton Learned Guard Prodigy Investigator in balance with the rest of their party.]]
+[[http:cite:reddit-vae7i7]["u/Haos51" asks about their Automaton Learned Guard Prodigy Investigator in balance with the rest of their party.]]
 
 ** AP-provided Archetypes
 *** Edgewatch Detective (Player's Guide, Level 2)
@@ -1185,7 +1185,7 @@ On the Paizo Forums, [[http:cite:paizo-rzs43hfo][user "OmegaZ" details how they 
 
 --------------------------------------------------
 
-[[cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
+[[http:cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
 
 ----------
 
@@ -1367,14 +1367,14 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
   :END:
 ** General
 
-- Though limited by being created before the final two books were published, on the Paizo forums, [[cite:paizo-rzs4388l]["IcedMilk" outlines some of the larger plot threads that might warrant foreshadowing.]]
+- Though limited by being created before the final two books were published, on the Paizo forums, [[http:cite:paizo-rzs4388l]["IcedMilk" outlines some of the larger plot threads that might warrant foreshadowing.]]
 
-- [[cite:reddit-ug36in][On reddit, in thread titled "Advice on starting", "u/ognir-rrats" asks for advice for folks starting the AP. This is a mix of general Pathfinder 2E tips, plus a bit of detail on the encounters in the first few chapters, and the AP overall.]]
+- [[http:cite:reddit-ug36in][On reddit, in thread titled "Advice on starting", "u/ognir-rrats" asks for advice for folks starting the AP. This is a mix of general Pathfinder 2E tips, plus a bit of detail on the encounters in the first few chapters, and the AP overall.]]
 
-- [[cite:reddit-s7rs9j]["u/Laz_r_us91" asks about jumping into Book 2 at 5th Level.]]
-  [[cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
+- [[http:cite:reddit-s7rs9j]["u/Laz_r_us91" asks about jumping into Book 2 at 5th Level.]]
+  [[http:cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
 
-- [[cite:reddit-sei87z]["u/Meamsosmart" recounts some details of completing the entire AP as a character.]]
+- [[http:cite:reddit-sei87z]["u/Meamsosmart" recounts some details of completing the entire AP as a character.]]
 
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
@@ -1445,8 +1445,8 @@ I gave my players the option to just tie up the monsters with rope after a succe
 
 Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the Rusty fight is "crazy"]], [[http:cite:paizo-rzs4349b-231][Deadmanwalking notes that rust monsters are generally offensively weak, so if actions are used correctly, it should balance out okay.]]
 
-[[cite:reddit-t1mxvf][u/darkboomel asks about how reasonable it is to nerf Book 1, Chapter 1 enemies]], then follows up a couple of weeks later,
-[[cite:reddit-t5ebpi][describing how they re-tooled this part of the AP]].
+[[http:cite:reddit-t1mxvf][u/darkboomel asks about how reasonable it is to nerf Book 1, Chapter 1 enemies]], then follows up a couple of weeks later,
+[[http:cite:reddit-t5ebpi][describing how they re-tooled this part of the AP]].
 
 **** Blackfinger Blight
      :PROPERTIES:
@@ -1565,7 +1565,7 @@ books later.  — cite:paizo-rzs4349b-447
 
 [[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
 
-[[cite:reddit-shkce0]["u/DankYeehaw" asks for "Help GMing Agents if Edgewatch Book 1 Chapter 2", specifically with re-flavoring the murderous kobold union members and the police tasked to go beat them up. Fair.]]
+[[http:cite:reddit-shkce0]["u/DankYeehaw" asks for "Help GMing Agents if Edgewatch Book 1 Chapter 2", specifically with re-flavoring the murderous kobold union members and the police tasked to go beat them up. Fair.]]
 
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
     :PROPERTIES:
@@ -1915,7 +1915,7 @@ I think providing/encouraging the party to get Holy Water is the best way to mak
 
 -----
 
-[[cite:reddit-tp09q7]["u/Laz_r_us91" asks for some advice on how to advance the plot at the end of Book 2 Chapter 4 in the face of his party of murderhobos.]]
+[[http:cite:reddit-tp09q7]["u/Laz_r_us91" asks for some advice on how to advance the plot at the end of Book 2 Chapter 4 in the face of his party of murderhobos.]]
 
 -----
 
@@ -2052,12 +2052,12 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 
 ----------
 
-[[cite:discord-880968862240239708_891395244199915530_945728763734405211]["Naurgul" nit-picks]] that in Narchy's map of the Sweeper Schoolhouse map remake, the windows on the east side of the building are not supposed to be boarded up; narchy responds that it'll be corrected in the "inevitable HD remake!" :)
+[[http:cite:discord-880968862240239708_891395244199915530_945728763734405211]["Naurgul" nit-picks]] that in Narchy's map of the Sweeper Schoolhouse map remake, the windows on the east side of the building are not supposed to be boarded up; narchy responds that it'll be corrected in the "inevitable HD remake!" :)
 
 
 ----------
 
-[[cite:reddit-vatz0z]["u/jsled" (your humble editor) relays how they handled Book 3 Chapter 1 in the style of "city-as-a-library" roughly using the Research points subsystem.]]
+[[http:cite:reddit-vatz0z]["u/jsled" (your humble editor) relays how they handled Book 3 Chapter 1 in the style of "city-as-a-library" roughly using the Research points subsystem.]]
 
 *** Book 3, Chapter 2: "The House Always Wins"
     :PROPERTIES:
@@ -2097,7 +2097,7 @@ The Svartalfar Killers have a 2-action "Spell-Imbued Blade" that looks very simi
 
 ----------
 
-[[cite:reddit-renhym][u/Excaliburrover notes that the heist might be very expensive for the Agents, and wonders how the Agents can afford it.]]
+[[http:cite:reddit-renhym][u/Excaliburrover notes that the heist might be very expensive for the Agents, and wonders how the Agents can afford it.]]
 
 *** Book 3, Chapter 3: "Deadly Games"
     :PROPERTIES:
@@ -2356,8 +2356,8 @@ Inspired by this, [[http:cite:paizo-rzs4349b-482][jsled offers their list, as we
 
 ----------
 
-[[cite:paizo-rzs4349b-485][On the Paizo forums, "Chan Wakhan" links to some player handouts for the missing persons case notes.]]
-This was also [[cite:reddit-veaqrj][posted to Reddit]].
+[[http:cite:paizo-rzs4349b-485][On the Paizo forums, "Chan Wakhan" links to some player handouts for the missing persons case notes.]]
+This was also [[http:cite:reddit-veaqrj][posted to Reddit]].
 
 ** "Eyes on Absalom"
 
@@ -2436,7 +2436,7 @@ Note that while no map is provided when this location is encountered in B1C3, a 
 
 ** Audio / Background / Ambiance
 
-[[cite:discord-880968862240239708_891395244199915530_950816529119871026][In Discord, "Naurgul" outlines their audio selections for Book 1:]]
+[[http:cite:discord-880968862240239708_891395244199915530_950816529119871026][In Discord, "Naurgul" outlines their audio selections for Book 1:]]
 
 #+begin_quote
 for general Absalom vibe I am using the album Antakya (by the band Quandro Nuevo) https://youtu.be/Rhw5djhjbvg?list=OLAK5uy_kD5znh6GPMgEkCpeCIt7DsmSXnCHvpa6g
@@ -2492,10 +2492,10 @@ narchy created the following videos for their group:
 
 *** Vancaskerkin by "u/higoram"
 
-[[cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
+[[http:cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
 
 ** Journals and Blogs
-[[cite:reddit-usyacc][In May 2022, u/Kwintak announced a Facebook journal/blog on running the AP]], which appears to have stopped updating in December 2022.
+[[http:cite:reddit-usyacc][In May 2022, u/Kwintak announced a Facebook journal/blog on running the AP]], which appears to have stopped updating in December 2022.
 * Unofficial Errata
   :PROPERTIES:
   :CUSTOM_ID: node/errata
