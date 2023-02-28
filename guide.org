@@ -177,6 +177,8 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 
 That same guide is referenced in response to [[http:cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
 
+** General
+
 ** On Being Police
    :PROPERTIES:
    :CUSTOM_ID: node/meta/on_being_police
@@ -359,6 +361,10 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 ----------
 
 This is an area of running the AP where it will be important to be very clear with your players (and ensuring they're clear with each other) to make sure that everyone is playing a game they are comfortable playing.
+
+----------
+
+[[http:cite:reddit-wt04fq][In "I think I'm bouncing off of my first adventure path (Agents of Edgewatch)", "u/Pandarandrist" brings up a number of these same concerns after running the game for a while, with a few others mixed in.]]
 
 ----------
 
