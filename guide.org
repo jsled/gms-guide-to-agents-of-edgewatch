@@ -33,7 +33,6 @@ See the [[Colophon][Colophon]] for how you can help contribute.
 
 * Adventure Path Overview
 
-
 /Agents of Edgewatch/ is the story of the player characters -- the titular
 Agents of Edgewatch -- and their journey to understand and defeat the threat
 of the Twilight Four, a cabal of devotees to Norgorber in their attempt to
@@ -1382,6 +1381,8 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
   [[http:cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
 
 - [[http:cite:reddit-sei87z]["u/Meamsosmart" recounts some details of completing the entire AP as a character.]]
+
+- [[http:cite:reddit-z9l84c]["u/Excaliburrover" – a name appearing throughout this guide's citations – posts "GM finished Agents of Edgewatch AMA" on Reddit.]]
 
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
