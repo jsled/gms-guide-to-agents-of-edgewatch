@@ -365,6 +365,10 @@ This is an area of running the AP where it will be important to be very clear wi
 On a different note, [[cite:paizo-rzs43cn3][on the Paizo forums, "Evil Paul" highlights a few narrative themes that they feel are missing from the AP]]: "Investigations and Actual Police Work", "Police Corruption", "Politics, Legailities, Bureaucratic conflict", and finally "Difficult Decisions".
 In the thread, [[cite:paizo-rzs43cn3-5][Naurgul links to some content expansions they made along similar lines.]]
 
+----------
+
+[[cite:reddit-snapx6]["u/Repulsive-Ad7501" asks a question about an infiltration mission in B4C1]], but the discussion mostly turns to various group's difficulty suspending disbelief for the AP.
+
 *** Buddy Cops
 
 [[http:cite:paizo-rzs434h7][On the Paizo Forums, "zen_fishy" shares]] some [[https://docs.google.com/document/d/1RZMR4A4YeGRqVDkQpIzvy9yMfPdDMxSXc_8Oax14c7s/edit][homebrew teamwork-influenced downtime rules that play into a "buddy-cop" aesthetic]].
