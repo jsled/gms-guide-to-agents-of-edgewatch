@@ -2046,6 +2046,11 @@ which involves resolving a gang war in the docks has some very flavorful NPCs wi
 
 [[cite:discord-880968862240239708_891395244199915530_945728763734405211]["Naurgul" nit-picks]] that in Narchy's map of the Sweeper Schoolhouse map remake, the windows on the east side of the building are not supposed to be boarded up; narchy responds that it'll be corrected in the "inevitable HD remake!" :)
 
+
+----------
+
+[[cite:reddit-vatz0z]["u/jsled" (your humble editor) relays how they handled Book 3 Chapter 1 in the style of "city-as-a-library" roughly using the Research points subsystem.]]
+
 *** Book 3, Chapter 2: "The House Always Wins"
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b3c2

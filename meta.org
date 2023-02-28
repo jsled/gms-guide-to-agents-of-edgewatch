@@ -349,7 +349,7 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/v8y4n0/champion_pc_in_agents_of_edgewatch/][r/Pathfinder2e/Champion PC in Agents of Edgewatch]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/v4x8ic/agents_of_edgewatch_for_5_players/][r/Pathfinder2e/Agents of Edgewatch for 5 players?]]
 *** TODO [#A] [[https://www.reddit.com/r/Pathfinder2e/comments/sei87z/completed_first_120_campaign_agents_of_edgewatch/][r/Pathfinder2e/Completed First 1-20 Campaign- Agents of Edgewatch Spoilers]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/vatz0z/agents_of_edgewatch_b1c1_as_a_researchish_skill/][r/Pathfinder2e/Agents of Edgewatch, B1C1 as a "Research"-ish skill challenge]]
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/vatz0z/agents_of_edgewatch_b1c1_as_a_researchish_skill/][r/Pathfinder2e/Agents of Edgewatch, B1C1 as a "Research"-ish skill challenge]]
 *** TODO [[https://discord.com/channels/880968862240239708/891395244199915530/1001864354687373394][(discord/)PF2E Foundry/AoE/Ellev's Irorium map]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/wbcrsm/i_have_a_party_of_5_fifth_level_characters_and_we/][r/Pathfinder2e/I have a party of 5 fifth level characters and we want to run Agents of Edgewatch. Ideas?]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/wb98m4/advice_for_agents_of_edgewatch_book_1_chapter_3/][r/Pathfinder2e/Advice for Agents of Edgewatch Book 1 Chapter 3]]
