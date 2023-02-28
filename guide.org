@@ -1361,6 +1361,8 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
 
 - [[cite:reddit-ug36in][On reddit, in thread titled "Advice on starting", u/ognir-rrats asks for advice for folks starting the AP. This is a mix of general Pathfinder 2E tips, plus a bit of detail on the encounters in the first few chapters, and the AP overall.]]
 
+- [[cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
+
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
    :CUSTOM_ID: node/plot/book1
