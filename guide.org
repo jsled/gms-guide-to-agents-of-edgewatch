@@ -156,6 +156,8 @@ Like many APs, the Agents of Edgewatch is considered by some to be … "tuned ho
 
 - [[https://www.reddit.com/r/Pathfinder2e/comments/oknoo0/agents_of_edgewatch_catacombs_are_a_death_trap/h59ksqb/?utm_source=reddit&utm_medium=web2x&context=3][Some people saying this might be outliers, though.]]
 
+- [[http:cite:reddit-xdelju][A since-deleted Reddit user prompted a good discussion with the post "is Agents of Edgewatch a good AP to run, or is it too difficult/unbalanced?"]]
+
 ----------
 
 In general, in PF2E, when rebalancing encounters for a larger party, you should prefer "more weaker" enemies, not "single up-leveled" enemies.
@@ -175,6 +177,7 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 [[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]] They rank /Agents of Edgewatch/ 16 out of 33. A poll they did of 142 people across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33. That puts it in the middle of the "Pretty Damn Good!" pack.
 
 That same guide is referenced in response to [[http:cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
+
 ** On Being Police
    :PROPERTIES:
    :CUSTOM_ID: node/meta/on_being_police
