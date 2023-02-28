@@ -368,6 +368,6 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** DONE https://www.reddit.com/r/Pathfinder2e/comments/xdelju/is_agents_of_edgewatch_a_good_ap_to_run_or_is_it/
 *** DONE https://www.reddit.com/r/Pathfinder2e/comments/xcdyww/is_agents_of_edgewatch_a_meatgrinder_or_is_it_pf2/
 *** DONE https://www.reddit.com/r/Pathfinder2e/comments/xauzjp/any_advice_for_a_agent_of_edgewatch_campaign/
-*** TODO https://www.reddit.com/r/Pathfinder2e/comments/x269e8/advice_on_party_comp_agents_of_edgewatch/
+*** DONE https://www.reddit.com/r/Pathfinder2e/comments/x269e8/advice_on_party_comp_agents_of_edgewatch/
 *** TODO https://www.reddit.com/r/Pathfinder_RPG/comments/w8ewwx/deleted_by_user/
 *** TODO https://www.reddit.com/r/Pathfinder2e/comments/se9zf8/in_need_of_agents_of_edgewatch_nonspoley_bbeg/
