@@ -2289,6 +2289,10 @@ Olansa as a final boss is also quite unimpressive. Her ability to turn invisible
   :PROPERTIES:
   :CUSTOM_ID: node/resources
   :END:
+** Chat
+
+- [[https://discord.gg/NRGPSfdy][The Pathfinder 2e Foundry VTT Community Discord]] has a [[https://discord.com/channels/880968862240239708/891395244199915530]["Agents of Edgewatch" thread in the "#ap-hub" channel]].
+
 ** Actually Plays
 - [[https://rollforcombat.com/category/podcast/agents-of-edgewatch/][Roll for Combat : Agents of Edgewatch podcast]]
 ** Missing Persons Casefiles
