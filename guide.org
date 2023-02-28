@@ -883,6 +883,8 @@ As a central part of Book 5 is teaming up with the "zealborn" undead master crim
 
 [[cite:reddit-v8y4n0]["u/ccekim" asks about how a LG Champion can reconcile undercover police work with their tenants.]]
 
+[[cite:reddit-yaxkrk]["u/Slow-Host-2449" asks more broadly about oath selection for a Champion.]] A lot of this discussion is about the enemy types encountered, so see the [[#enemy-makeup][Enemy Makeup and Composition]] section of this guide for more detail.
+
 ** Gunslinger
 
 [[cite:reddit-sm87lo]["u/Hoarder-of-Knowledge" asks about the viability of Gunslingers after being initially disappointed.]]
