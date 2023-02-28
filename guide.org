@@ -1374,6 +1374,8 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
 - [[cite:reddit-s7rs9j]["u/Laz_r_us91" asks about jumping into Book 2 at 5th Level.]]
   [[cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
 
+- [[cite:reddit-sei87z]["u/Meamsosmart" recounts some details of completing the entire AP as a character.]]
+
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
    :CUSTOM_ID: node/plot/book1
