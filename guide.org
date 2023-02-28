@@ -1734,12 +1734,13 @@ the Inn, or I dunno, something.
 
 [On Rebalancing]
 
-
 [[http:cite:reddit-otxspj-h6z514n][u/SighJayAtWork describes]]:
 #+BEGIN_QUOTE
 I had six PCs so I added an extra "body" to the Binumir (like an eatin, I gave them both two actions) and a few Zrukbats to the encounter, just to give them some more bodies to deal with
 — cite:reddit-otxspj-h6z514n
 #+END_QUOTE
+
+[[http:cite:reddit-zfzfro]["u/memnoch_87" asks how the party is supposed to handle Pratchett.]]
 
 **** Pratchett Escape/Chase
 [[http:cite:paizo-rzs4349b-441][Naurgul has some guidance on how to handle Pratchett's attempted escape using the GMG's Chase Subsystem…]]
