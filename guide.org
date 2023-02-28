@@ -1608,6 +1608,8 @@ Everything else is gravy.
 
 [[http:cite:paizo-rzs4349b-428]["MathNerdGord" provides an alternate puzzle – a "reskinned knights/knaves type puzzle" – for this section if you think your party will find the one in the book not challenging enough]]; others follow up with their puzzle variants.
 
+[[http:cite:reddit-wb98m4]["u/queengodiva" asks for some help on how to run the House of the Planes NPC/infodump,]] with some good options and feedback presented.
+
 *** Book 1, Chapter 4: "The Murder Hotel" / The Dreaming Palace
     :PROPERTIES:
     :CUSTOM_ID: node/plot/b1c4
@@ -1657,6 +1659,10 @@ Paizo forum user [[http:cite:paizo-rzs438k8]["The Rising Phoenix" has produced a
 ----------
 
 On the Paizo forums, [[cite:paizo-rzs43cn4][user Kneymo describes how they went radically off-script, and converted the entirety of The Dreaming Palace towards a different theme.]]
+
+----------
+
+[[http:cite:reddit-w6ajgj]["u/UnfortunateHyrbrid" asks for some Dreaming Palace help, and receives it in spades.]]
 
 **** Hendrid Pratchett encounter
 
