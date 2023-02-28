@@ -1408,7 +1408,8 @@ I gave my players the option to just tie up the monsters with rope after a succe
 
 Responding to a [[http:cite:paizo-rzs4349b-230][concern from "Johnico" that the Rusty fight is "crazy"]], [[http:cite:paizo-rzs4349b-231][Deadmanwalking notes that rust monsters are generally offensively weak, so if actions are used correctly, it should balance out okay.]]
 
-[[cite:reddit-t5ebpi][u/darkboomel describes how they re-tooled this part of the AP.]]
+[[cite:reddit-t1mxvf][u/darkboomel asks about how reasonable it is to nerf Book 1, Chapter 1 enemies]], then follows up a couple of weeks later,
+[[cite:reddit-t5ebpi][describing how they re-tooled this part of the AP]].
 
 **** Blackfinger Blight
      :PROPERTIES:
