@@ -1367,9 +1367,10 @@ It's not quite stated strongly enough in the Player's Guide that the Godless Gra
 
 - Though limited by being created before the final two books were published, on the Paizo forums, [[cite:paizo-rzs4388l]["IcedMilk" outlines some of the larger plot threads that might warrant foreshadowing.]]
 
-- [[cite:reddit-ug36in][On reddit, in thread titled "Advice on starting", u/ognir-rrats asks for advice for folks starting the AP. This is a mix of general Pathfinder 2E tips, plus a bit of detail on the encounters in the first few chapters, and the AP overall.]]
+- [[cite:reddit-ug36in][On reddit, in thread titled "Advice on starting", "u/ognir-rrats" asks for advice for folks starting the AP. This is a mix of general Pathfinder 2E tips, plus a bit of detail on the encounters in the first few chapters, and the AP overall.]]
 
-- [[cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
+- [[cite:reddit-s7rs9j]["u/Laz_r_us91" asks about jumping into Book 2 at 5th Level.]]
+  [[cite:reddit-wbcrsm]["u/DramFan" asks about how/where/when to integrate a party at 5th level into the AP.]]
 
 ** Book 1: "The Devil in the Dreaming Palace"
    :PROPERTIES:
