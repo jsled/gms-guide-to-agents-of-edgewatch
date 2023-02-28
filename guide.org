@@ -2206,6 +2206,10 @@ deals with gaining enough favor with a crime lord to get the secrets on how to b
     :CUSTOM_ID: node/plot/b5c2
     :END:
 
+**Unofficial Errata**: [[#node/errata/b5c2][The /Unfettered Mark/ ritual is an order of magnitude too expensive.]]
+
+----------
+
 #+BEGIN_QUOTE
 is about the jailbreak from the black whale prison. The dungeon itself in there is decent, but I needed to put extra work in to make it feel more like a prison. Things like patrol routes, and more details about the day to day management of the prison are lacking the way they are presented in the adventure, I think this section could benefit from some clearer details.
 
@@ -2571,6 +2575,17 @@ A curious sort named [[http:cite:paizo-rzs43a5f][Efrixes askes on the Paizo Foru
   Tin does not have iron, and thus not rust.
 
 - [[http:cite:paizo-rzs4349d-48][Oggvurm the Merciless is stated with an AC of 24]]; it should probably be 34 for this Level 14 creature.
+
+** Book 5, Chapter 2
+   :PROPERTIES:
+   :CUSTOM_ID: node/errata/b5c2
+   :END:
+
+- GM's consensus is the cost for the /Unfettered Mark/ ritual – approximately
+  12,000 gp per character – is way out of line with [[https://2e.aonprd.com/Rules.aspx?ID=581][Treasure By Level]] if
+  characters are regularly spending their gold, and especially if using
+  something like [[https://2e.aonprd.com/Rules.aspx?ID=1357][Automatic Bonus Progression]] where free currency and saleable
+  gear is even less present. Knock a zero off the end of it.
 
 * Colophon
   :PROPERTIES:
