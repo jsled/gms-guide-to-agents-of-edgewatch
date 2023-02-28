@@ -176,9 +176,6 @@ In general, in PF2E, when rebalancing encounters for a larger party, you should 
 [[http:cite:reddit-raouq8][Tarondor made a guide to the Adventure Paths. HERE IT IS.]] They rank /Agents of Edgewatch/ 16 out of 33. A poll they did of 142 people across Reddit and the Paizo forums, ranked /Agents of Edgewatch/ 12/33. That puts it in the middle of the "Pretty Damn Good!" pack.
 
 That same guide is referenced in response to [[http:cite:reddit-teucpn][u/spacemonkeydm's inquiry regarding reviews of _Agents of Edgewatch_]].
-
-** General
-
 ** On Being Police
    :PROPERTIES:
    :CUSTOM_ID: node/meta/on_being_police
@@ -357,6 +354,8 @@ Finally, reformed criminals might offer some of their equipment as a gift. In my
 
 [[http:cite:reddit-o0y78z-h1yrupj][In that same thread, u/GreatGraySkwid points to]] a Paizo forum thread from
 [[http:cite:paizo-rzs438h4]["Imnotgoodwithnames", specifically about using Earned Income as an alternative reward mechanism.]]
+
+[[http:cite:reddit-10gx9cq]["u/PapaHemmingway" asks about ways to improve the AP, in part focused on these similar themes.]]
 
 ----------
 
