@@ -333,7 +333,7 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
     CLOSED: [2022-08-01 Mon 00:00]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][r/Pathfinder2e/Shameless Self Promotion]] — Facebook AoE blog
 **** TODO > [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/comment/ibz64cz/?utm_source=reddit&utm_medium=web2x&context=3][Finally got around to putting it somewhere less walled. https://sundayedgewatch.wordpress.com/]]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][r/Pathfinder2e/Advice on starting]] (AoE)
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][r/Pathfinder2e/Advice on starting]] (AoE)
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/umsua9/what_build_would_be_recommended_for_agents_of/][r/Pathfinder2e/What build would be recommended for Agents of Edgewatch, a viable campaign character capable of winning a fight with Intimidation?]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ty2slq/full_martial_edgewatch_party_is_there_any_hope/][r/Pathfinder2e/Full martial edgewatch party. Is there any hope?]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/tp09q7/gm_advice_needed_for_the_end_of_agents_of/][r/Pathfinder2e/GM Advice needed for the end of Agents of Edgewatch book 2. Spoilers]]
