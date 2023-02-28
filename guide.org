@@ -1422,6 +1422,9 @@ The encounter serves two purposes:
 ----------
 
 Posting on Reddit, [[http:cite:reddit-r8zm44][u/Kraydez provides a link to their remake of the Tipsy Tengu map, in DungeonDraft]].
+**** Missing Persons
+
+[[#node/resources/missing-person-casefiles][See the "Resources / Missing Person Casefiles" section for resources relating to this element of Book 1.]]
 
 **** "Panic at the Zoo" / Knight's Marvelous Menagerie
 
@@ -2331,6 +2334,11 @@ Inspired by this, [[http:cite:paizo-rzs4349b-482][jsled offers their list, as we
 --------------------------------------------------
 
 [[http:cite:paizo-rzs4349b-450][GreatGraySkwid's players created a full-on murderboard to track the details. :)]]
+
+----------
+
+[[cite:paizo-rzs4349b-485][On the Paizo forums, "Chan Wakhan" links to some player handouts for the missing persons case notes.]]
+This was also [[cite:reddit-veaqrj][posted to Reddit]].
 
 ** "Eyes on Absalom"
 
