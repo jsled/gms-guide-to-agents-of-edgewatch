@@ -1179,6 +1179,10 @@ On the Paizo Forums, [[http:cite:paizo-rzs43hfo][user "OmegaZ" details how they 
 
 --------------------------------------------------
 
+[[cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
+
+----------
+
 ([[http:cite:paizo-rzs4349b-268][If the name "Vancaskerkin" is familiar to you, there's good reason: it's a bit of a running gag/easter egg in Paizo's APs.]])
 
 *** Wrent Dicaspiron — "The Skinner" (CE female human cult leader 10)
@@ -2398,7 +2402,7 @@ Note that while no map is provided when this location is encountered in B1C3, a 
 
 - [[http:cite:paizo-rzs434ha-31][paizo.com forums: "EdwinM"]]
 
-** Audio/Background/Ambiance
+** Audio / Background / Ambiance
 
 [[cite:discord-880968862240239708_891395244199915530_950816529119871026][In Discord, "Naurgul" outlines their audio selections for Book 1:]]
 
@@ -2435,10 +2439,7 @@ the basement was a mix between over the garden wall and dexter soundtrack
    :PROPERTIES:
    :CUSTOM_ID: node/resources/art-fiction-oc
    :END:
-#+BEGIN_COMMENT
-AoE Renders…
-#+END_COMMENT
-*** "Wrent's Confession", Book 2/3 Transition by KM Kovalcik (u/zombkat)
+*** "Wrent's Confession", Book 2/3 Transition by KM Kovalcik ("u/zombkat")
 
 On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fiction detailing the crimes of Wrent Dicaspiron]], set in the interstitial between Books 2 and 3.
 
@@ -2446,16 +2447,20 @@ On reddit, [[http:cite:reddit-pq90e5][KM Kovalcik (u/zombkat) posted a bit of fi
 My players are about to move onto book 3, and I was unhappy with Wrent confessing a whole bunch of story stuff off-screen. My players did not interrogate her themselves, and I wanted some time to do some fiction writing. I wrote out her confession as if being interviewed by a priest of Sarenrae who wanted to see if it was possible to redeem her, or at the very least determine if her ramblings were truthful.
 — cite:reddit-pq90e5
 #+END_QUOTE
-*** "Agents of Edgewatch as a 90s TV show", from narchy
+*** "Agents of Edgewatch as a 90s TV show", from "narchy"
 
 narchy created the following videos for their group:
 
 - [[http:cite:paizo-rzs434ha-48]["I made my party a little video to celebrate their exploits in Book 1!"]]
 - [[https://www.reddit.com/r/Pathfinder2e/comments/qye7ly/agents_of_edgewatch_as_a_90s_tv_show_made_to/][In celebration of getting to book 3: "Edgewatch Nights"]]
 
-*** "Agents of Edgewatch - Murder Hotel"
+*** "Agents of Edgewatch - Murder Hotel" by "BlackZack"
 
 [[http:cite:paizo-rzs43bxb-1]["BlackZack" shares a delightfully-creepy video in the motif of Book 1 Chapter 4.]]
+
+*** Vancaskerkin by "u/higoram"
+
+[[cite:reddit-sxyxm8]["u/higoram" posts some OC art of Reginald Vancaskerkin.]]
 
 ** Journals and Blogs
 [[cite:reddit-usyacc][In May 2022, u/Kwintak announced a Facebook journal/blog on running the AP]], which appears to have stopped updating in December 2022.
