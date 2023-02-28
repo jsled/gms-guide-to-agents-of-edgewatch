@@ -1,3 +1,4 @@
+#+TODO: TODO PROG | DONE NOPE
 * plan
 - OGL. CUP.
 - source-structure
@@ -344,13 +345,13 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/shkce0/help_gming_agents_if_edgewatch_book_1_chapter_2/][r/Pathfinder2e/Help GMing Agents if Edgewatch Book 1 Chapter 2]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/s7rs9j/jumping_into_book_two_of_agents_of_edgewatch_from/][r/Pathfinder2e/Jumping into book two of Agents of Edgewatch from Troubles in Otari. Looking for advice on how to smoothly transition between the two.]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/veaqrj/agents_of_edgewatch_spoiler_book_1_chapter_2/][r/Pathfinder2e/Agents of Edgewatch [SPOILER] Book 1, Chapter 2 Handouts]], also on [[https://paizo.com/threads/rzs4349b&page=10?1-Devil-at-the-Dreaming-Palace#485][Paizo.com/forums/AoE/Book1]]
-*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/vcjs2k/ideas_for_training_for_the_agents_of_edgewatch/][r/Pathfinder2e/Ideas for training for the Agents of Edgewatch?]]
+*** NOPE [[https://www.reddit.com/r/Pathfinder2e/comments/vcjs2k/ideas_for_training_for_the_agents_of_edgewatch/][r/Pathfinder2e/Ideas for training for the Agents of Edgewatch?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/vae7i7/advice_for_agent_of_edgewatch_character_build/][r/Pathfinder2e/Advice for Agent of Edgewatch Character build.]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/v8y4n0/champion_pc_in_agents_of_edgewatch/][r/Pathfinder2e/Champion PC in Agents of Edgewatch]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/v4x8ic/agents_of_edgewatch_for_5_players/][r/Pathfinder2e/Agents of Edgewatch for 5 players?]]
 *** DONE [#A] [[https://www.reddit.com/r/Pathfinder2e/comments/sei87z/completed_first_120_campaign_agents_of_edgewatch/][r/Pathfinder2e/Completed First 1-20 Campaign- Agents of Edgewatch Spoilers]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/vatz0z/agents_of_edgewatch_b1c1_as_a_researchish_skill/][r/Pathfinder2e/Agents of Edgewatch, B1C1 as a "Research"-ish skill challenge]]
-*** DONE [[https://discord.com/channels/880968862240239708/891395244199915530/1001864354687373394][(discord/)PF2E Foundry/AoE/Ellev's Irorium map]]
+*** NOPE [[https://discord.com/channels/880968862240239708/891395244199915530/1001864354687373394][(discord/)PF2E Foundry/AoE/Ellev's Irorium map]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/wbcrsm/i_have_a_party_of_5_fifth_level_characters_and_we/][r/Pathfinder2e/I have a party of 5 fifth level characters and we want to run Agents of Edgewatch. Ideas?]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/wb98m4/advice_for_agents_of_edgewatch_book_1_chapter_3/][r/Pathfinder2e/Advice for Agents of Edgewatch Book 1 Chapter 3]]
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/w6ajgj/the_dreaming_palace_holy/][r/Pathfinder2e/The Dreaming Palace, Holy #$*!]]
@@ -358,7 +359,7 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/yaxkrk/about_to_run_agents_of_edgewatch_looking_for_some/][r/Pathfinder2e/About to run agents of edgewatch, looking for some advice for one of my players.]]
 *** DONE add B5C2 note about /Unfettered Mark/ cost
 *** DONE https://www.reddit.com/r/Pathfinder2e/comments/10gx9cq/advice_for_how_to_improve_agents_of_edgewatch/
-*** TODO https://www.reddit.com/r/Pathfinder2e/comments/zzm60j/a_question_about_hazards_agents_of_edgewatch/
+*** NOPE https://www.reddit.com/r/Pathfinder2e/comments/zzm60j/a_question_about_hazards_agents_of_edgewatch/
 *** TODO https://www.reddit.com/r/Pathfinder2e/comments/zgjqsq/is_agents_of_edgewatch_a_good_ap_to_convert_for/
 *** TODO https://www.reddit.com/r/Pathfinder2e/comments/zfzfro/agents_of_edgewatch_pratchett_tpk/
 *** TODO https://www.reddit.com/r/Pathfinder2e/comments/z9l84c/gm_finished_agents_of_edgewatch_ama/
