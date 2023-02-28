@@ -1359,7 +1359,7 @@ Specifically the following notable NPCs are members of the Festival Committee an
 *** Godless Graycloaks
 
 It's not quite stated strongly enough in the Player's Guide that the Godless Graycloaks are explicitly and strictly atheist.
-* Plot Notes
+* Plot
   :PROPERTIES:
   :CUSTOM_ID: node/plot
   :END:
@@ -1555,9 +1555,9 @@ books later.  — cite:paizo-rzs4349b-447
 
 *Unofficial Errata* The encounters in Chapter 2 are spec'ed for a level 2 party, so level the party to level 2, no matter what the guide at the front of the book says.
 
-----------
-
 [[http:cite:paizo-rzs4349b-129][Bast L. notes that if the Agents try to do the right thing and negotiate with Doopa, as-written, they're then thrown into a beyond-extreme encounter.]] Downthread, [[http:cite:paizo-rzs4349b-193][LarsC has an idea.]]
+
+[[cite:reddit-shkce0]["u/DankYeehaw" asks for "Help GMing Agents if Edgewatch Book 1 Chapter 2", specifically with re-flavoring the murderous kobold union members and the police tasked to go beat them up. Fair.]]
 
 *** Book 1, Chapter 3: "Into the Undercity" / House of the Planes
     :PROPERTIES:
