@@ -2432,6 +2432,8 @@ narchy created the following videos for their group:
 
 [[http:cite:paizo-rzs43bxb-1]["BlackZack" shares a delightfully-creepy video in the motif of Book 1 Chapter 4.]]
 
+** Journals and Blogs
+[[cite:reddit-usyacc][In May 2022, u/Kwintak announced a Facebook journal/blog on running the AP]], which appears to have stopped updating in December 2022.
 * Unofficial Errata
   :PROPERTIES:
   :CUSTOM_ID: node/errata

@@ -331,7 +331,7 @@ https://discord.com/channels/880968862240239708/891395244199915530/9457287637344
 
 *** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/v3h7h8/im_an_inexperienced_gm_and_starting_a_new_pf2e/][r/Pathfinder2e/Im an inexperienced GM and starting a new PF2e "Agents of Edgewatch" playthrough with my friends. What are some of the best tips you have for me game mastering this campaign? THANK YOU :)]]
     CLOSED: [2022-08-01 Mon 00:00]
-*** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][r/Pathfinder2e/Shameless Self Promotion]] — Facebook AoE blog
+*** DONE [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/shameless_self_promotion/][r/Pathfinder2e/Shameless Self Promotion]] — Facebook AoE blog
 **** TODO > [[https://www.reddit.com/r/Pathfinder2e/comments/usyacc/comment/ibz64cz/?utm_source=reddit&utm_medium=web2x&context=3][Finally got around to putting it somewhere less walled. https://sundayedgewatch.wordpress.com/]]
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/ug36in/advice_on_starting/][r/Pathfinder2e/Advice on starting]] (AoE)
 *** TODO [[https://www.reddit.com/r/Pathfinder2e/comments/umsua9/what_build_would_be_recommended_for_agents_of/][r/Pathfinder2e/What build would be recommended for Agents of Edgewatch, a viable campaign character capable of winning a fight with Intimidation?]]
